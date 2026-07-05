@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Savage Broadcasting Company — Channel Guide</title>
 <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
   :root { --navy:#0f1c2e; --blue:#1d3a6e; --pink:#e0218a; --yellow:#f5c744; --cream:#f5ecd7; --teal:#00b4a6; }
   * { box-sizing:border-box; margin:0; padding:0; }
-  body { background:var(--navy) url(noise.png); color:var(--cream); font-family:'Inter',sans-serif; width:1100px; margin:0 auto; }
+  body { background:var(--navy) url(noise.png); color:var(--cream); font-family:'Inter',sans-serif; max-width:1100px; margin:0 auto; }
   .wrap { padding:48px 56px 40px; }
   /* header */
   .masthead { text-align:center; position:relative; padding:44px 0 30px; margin-top:6px; }
@@ -24,7 +25,7 @@
        text-shadow:3px 3px 0 #000; transform:rotate(-1deg); }
   h2 span { color:var(--yellow); }
   /* channel grid */
-  .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:20px; }
   .card { transition:transform .1s; } a:hover .card { transform:scale(1.02); border-color:var(--yellow); } .card { background:rgba(255,255,255,.05); border-radius:14px; padding:14px; display:flex; gap:14px; align-items:center;
           border:1px solid rgba(255,255,255,.09); }
   .card img { width:86px; height:86px; border-radius:12px; flex-shrink:0; }
@@ -35,7 +36,7 @@
   .friday .badge { display:inline-block; background:var(--yellow); color:#000; font-size:10px; font-weight:800;
           border-radius:4px; padding:1px 6px; margin-left:4px; letter-spacing:.5px; }
   /* seasonal */
-  .seasonal { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; }
+  .seasonal { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:20px; }
   .season-card { text-align:center; background:rgba(255,255,255,.05); border-radius:14px; padding:16px 10px;
           border:1px solid rgba(255,255,255,.09); }
   .season-card img { width:110px; height:110px; border-radius:14px; }
@@ -60,6 +61,15 @@
   footer { text-align:center; margin-top:36px; padding-top:20px; border-top:1px dashed rgba(255,255,255,.2);
           font-size:14px; color:#c9c2b4; }
   footer .moonlet { color:var(--pink); }
+
+@media (max-width:640px){
+  .wrap { padding:24px 18px 32px; }
+  .masthead h1 { font-size:54px; }
+  .moon { width:110px; height:110px; transform:translateX(-140px); }
+  .moon::after { width:110px; height:110px; }
+  h2 { font-size:24px; }
+  .howto ol { font-size:15px; }
+}
 </style>
 </head>
 <body>
