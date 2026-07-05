@@ -15,6 +15,13 @@ h1{font-family:'Alfa Slab One',serif;font-size:44px;color:var(--yellow);text-sha
 .search{display:block;width:100%;max-width:560px;margin:0 auto 30px;padding:13px 18px;font-size:16px;border-radius:12px;border:2px solid var(--teal);background:rgba(0,0,0,.35);color:var(--cream)}
 h2{font-family:'Alfa Slab One',serif;font-size:26px;color:var(--pink);text-shadow:3px 3px 0 #000;margin:34px 0 14px;transform:rotate(-1deg)}
 h2 span{color:var(--yellow)}
+h2 small{font-family:'Inter',sans-serif;font-weight:400;font-style:italic;color:#c9c2b4;text-shadow:none;letter-spacing:0}
+details.sec{margin:10px 0}
+details.sec>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px}
+details.sec>summary::-webkit-details-marker{display:none}
+details.sec>summary::before{content:'B8';color:var(--yellow);font-size:22px;transition:transform .15s}
+details.sec[open]>summary::before{transform:rotate(90deg)}
+details.sec>summary h2{margin:12px 0}
 .fgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
 .fcard{background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:12px;padding:13px 15px;display:flex;gap:12px;align-items:flex-start}
 .poster{width:62px;height:93px;object-fit:cover;border-radius:8px;flex-shrink:0}
@@ -34,7 +41,7 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <h1>FIND YOUR NEXT FLIX</h1>
 <div class="tag">Everything on SBC — and everything on its way.</div>
 <input class="search" id="q" placeholder="Search shows &amp; movies…" oninput="flt()">
-<h2>TV <span>Shows</span> <small style="font-size:14px;color:#c9c2b4">— watch on demand, or catch them on their channels</small></h2>
+<details class="sec" open><summary><h2>TV <span>Shows</span> <small style="font-size:14px">— on demand, or catch them on their channels</small></h2></summary>
 <div class="fgrid" id="shows">
 <div class="fcard" data-t="beverly hills, 90210 taba tv prime time the peach pit"><img class="poster" src="posters/beverly-hills-90210.jpg" loading="lazy"><div><div class="ft">Beverly Hills, 90210</div><div class="fm">1990 · 277 episodes · <span class="rate">TV-14</span></div><div class="chips"><a class="chip" href="channels.html#taba-tv">Taba TV</a><a class="chip" href="channels.html#prime-time">Prime Time</a><a class="chip" href="channels.html#the-peach-pit">The Peach Pit</a></div></div></div>
 <div class="fcard" data-t="the fresh prince of bel-air savage at nite taba tv prime time tgif (fridays) bel-air"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div><div class="chips"><a class="chip" href="channels.html#savage-at-nite">Savage at Nite</a><a class="chip" href="channels.html#taba-tv">Taba TV</a><a class="chip" href="channels.html#prime-time">Prime Time</a><a class="chip" href="channels.html#tgif">TGIF (Fridays)</a><a class="chip" href="channels.html#bel-air">Bel-Air</a></div></div></div>
@@ -58,17 +65,20 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <div class="fcard" data-t="the twilight zone the fifth dimension the silver screen"><img class="poster" src="posters/the-twilight-zone.jpg" loading="lazy"><div><div class="ft">The Twilight Zone</div><div class="fm">1959 · 156 episodes · <span class="rate">TV-14</span></div><div class="chips"><a class="chip" href="channels.html#the-fifth-dimension">The Fifth Dimension</a><a class="chip" href="channels.html#the-silver-screen">The Silver Screen</a></div></div></div>
 <div class="fcard" data-t="the wonder years savage at nite taba tv i ♥ 80s"><img class="poster" src="posters/the-wonder-years.jpg" loading="lazy"><div><div class="ft">The Wonder Years</div><div class="fm">1988 · 116 episodes · <span class="rate">TV-PG</span></div><div class="chips"><a class="chip" href="channels.html#savage-at-nite">Savage at Nite</a><a class="chip" href="channels.html#taba-tv">Taba TV</a><a class="chip" href="channels.html#i-heart-80s">I ♥ 80s</a></div></div></div>
 </div>
-<h2>The Wrestling <span>Ring</span> <small style="font-size:14px;color:#c9c2b4">— Randy's corner of the network</small></h2>
+</details>
+<details class="sec"><summary><h2>The Wrestling <span>Ring</span> <small style="font-size:14px">— Randy's corner</small></h2></summary>
 <div class="fgrid" id="wrestling">
 <div class="fcard" data-t="macho man the randy savage story machovision"><img class="poster" src="posters/macho-man-the-randy-savage-story.jpg" loading="lazy"><div><div class="ft">Macho Man the Randy Savage Story</div><div class="fm"> · 15 episodes</div><div class="chips"><a class="chip" href="channels.html#machovision">MachoVision</a></div></div></div>
 </div>
 <div class="note">Plus 114+ boxed wrestling sets in the vault — the WWF, WCW, ECW, TNA &amp; NXT channels (300–304) premiere with the big rip.</div>
-<h2>Movies <span>Now</span></h2>
+</details>
+<details class="sec"><summary><h2>Movies <span>Now</span></h2></summary>
 <ul class="cols" id="mnow">
 <li data-t="the secret of the sword">The Secret of the Sword</li>
 </ul>
-<h2>Coming <span>Soon</span> <small style="font-size:14px;color:#c9c2b4">— on the shelf, headed for the screen</small></h2>
-<h2 style="font-size:19px;margin-top:18px">Movies (212)</h2>
+</details>
+<h2>Coming <span>Soon</span> <small style="font-size:14px">— on the shelf, headed for the screen</small></h2>
+<details class="sec"><summary><h2 style="font-size:19px;margin:6px 0">Movies (212)</h2></summary>
 <ul class="cols" id="csm">
 <li data-t="28 weeks later (2007)">28 Weeks Later (2007)</li>
 <li data-t="300 / troy (director's cut) / alexander revisited: the final cut (triple feature) (2012) (blu-ray)">300 / Troy (Director's Cut) / Alexander Revisited: The Final Cut (Triple Feature) (2012) (Blu-ray)</li>
@@ -283,7 +293,8 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <li data-t="young guns (1988)">Young Guns (1988)</li>
 <li data-t="young guns ii (1990)">Young Guns II (1990)</li>
 </ul>
-<h2 style="font-size:19px;margin-top:24px">TV Sets (53)</h2>
+</details>
+<details class="sec"><summary><h2 style="font-size:19px;margin:6px 0">TV Sets (53)</h2></summary>
 <ul class="cols" id="cst">
 <li data-t="alf (1986)">ALF (1986)</li>
 <li data-t="band of brothers (2001)">Band of Brothers (2001)</li>
@@ -339,6 +350,7 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <li data-t="thundercats: season one, volume one (2005)">ThunderCats: Season One, Volume One (2005)</li>
 <li data-t="thundercats: the complete series (2019)">ThunderCats: The Complete Series (2019)</li>
 </ul>
+</details>
 <footer>☾ A Savage Family Production · Television the way you remember it</footer>
 </div>
 <script>
@@ -346,6 +358,7 @@ const P = new URLSearchParams(location.search).get('q');
 if (P) { window.addEventListener('DOMContentLoaded', () => { const q=document.getElementById('q'); q.value=P; flt(); }); }
 function flt(){
   const q=document.getElementById('q').value.toLowerCase();
+  if(q) document.querySelectorAll('details.sec').forEach(d=>d.open=true);
   document.querySelectorAll('[data-t]').forEach(e=>{
     e.style.display=e.dataset.t.includes(q)||e.textContent.toLowerCase().includes(q)?'':'none';
   });

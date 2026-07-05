@@ -12,10 +12,16 @@ nav a{color:var(--cream);text-decoration:none;font-size:15px}
 nav a:hover,nav a.on{color:var(--yellow)}
 h1{font-family:'Alfa Slab One',serif;font-size:44px;color:var(--yellow);text-shadow:4px 4px 0 #000;transform:rotate(-1.5deg);text-align:center;margin:14px 0 6px}
 .tag{text-align:center;color:var(--teal);font-style:italic;margin-bottom:30px}
-section{margin-bottom:38px;scroll-margin-top:20px}
-.chead{display:flex;gap:16px;align-items:center;margin-bottom:14px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:12px 16px;text-decoration:none;color:inherit}
+details.chsec{margin-bottom:16px;scroll-margin-top:20px}
+details.chsec>summary{list-style:none}
+details.chsec>summary::-webkit-details-marker{display:none}
+details.chsec>summary::after{content:'B8';color:var(--yellow);font-size:24px;margin-left:auto;transition:transform .15s}
+details.chsec[open]>summary::after{transform:rotate(90deg)}
+details.chsec>.fgrid{margin:12px 0 6px}
+.chead{display:flex;gap:16px;align-items:center;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:12px 16px;cursor:pointer}
 .chead:hover{border-color:var(--yellow)}
-.golink{color:var(--yellow);font-weight:700;font-style:normal}
+.golink{color:var(--yellow);font-weight:700;font-size:13px;text-decoration:none;margin-left:14px;white-space:nowrap}
+.ctag{font-family:'Inter',sans-serif;font-weight:400}
 .chead img{width:76px;height:76px;border-radius:12px}
 .cnum{font-family:'Alfa Slab One',serif;font-size:13px;color:var(--yellow)}
 h2{font-family:'Alfa Slab One',serif;font-size:24px;color:var(--pink);text-shadow:2px 2px 0 #000}
@@ -31,91 +37,101 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <nav><a href="index.html">Channel Guide</a><a class="on" href="channels.html">By Channel</a><a href="schedule.html">Tonight on SBC</a><a href="flix.html">Find Your Next Flix</a><a href="access.html">How to Watch</a></nav>
 <h1>BY CHANNEL</h1>
 <div class="tag">Every channel's full lineup — the shows that call it home.</div>
-<section id="the-silver-screen">
-<a class="chead" href="schedule.html#ch-1" title="See tonight's lineup on The Silver Screen"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/silver-screen-v2.png"><div><div class="cnum">CH 1</div><h2>The Silver Screen</h2><div class="ctag">Classics from the black &amp; white era &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+<details class="chsec" id="the-silver-screen">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/silver-screen-v2.png"><div><div class="cnum">CH 1</div><h2>The Silver Screen</h2><div class="ctag">Classics from the black &amp; white era</div></div><a class="golink" href="schedule.html#ch-1" title="Tonight's lineup on The Silver Screen">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/the-twilight-zone.jpg" loading="lazy"><div><div class="ft">The Twilight Zone</div><div class="fm">1959 · 156 episodes · <span class="rate">TV-14</span></div></div></div></div>
-</section>
-<section id="the-fifth-dimension">
-<a class="chead" href="schedule.html#ch-5" title="See tonight's lineup on The Fifth Dimension"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/fifth-dimension-v2.png"><div><div class="cnum">CH 5</div><h2>The Fifth Dimension</h2><div class="ctag">Sci-fi &amp; strange tales &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="the-fifth-dimension">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/fifth-dimension-v2.png"><div><div class="cnum">CH 5</div><h2>The Fifth Dimension</h2><div class="ctag">Sci-fi &amp; strange tales</div></div><a class="golink" href="schedule.html#ch-5" title="Tonight's lineup on The Fifth Dimension">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/quantum-leap.jpg" loading="lazy"><div><div class="ft">Quantum Leap</div><div class="fm">1989 · 96 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-twilight-zone.jpg" loading="lazy"><div><div class="ft">The Twilight Zone</div><div class="fm">1959 · 156 episodes · <span class="rate">TV-14</span></div></div></div></div>
-</section>
-<section id="saturday-morning">
-<a class="chead" href="schedule.html#ch-6" title="See tonight's lineup on Saturday Morning"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/saturday-morning-v1.png"><div><div class="cnum">CH 6</div><h2>Saturday Morning</h2><div class="ctag">Cartoons &amp; cereal energy &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="saturday-morning">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/saturday-morning-v1.png"><div><div class="cnum">CH 6</div><h2>Saturday Morning</h2><div class="ctag">Cartoons &amp; cereal energy</div></div><a class="golink" href="schedule.html#ch-6" title="Tonight's lineup on Saturday Morning">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/he-man-and-the-masters-of-the-universe.jpg" loading="lazy"><div><div class="ft">He-Man and the Masters of the Universe</div><div class="fm">1983 · 130 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/jem-and-the-holograms.jpg" loading="lazy"><div><div class="ft">Jem and the Holograms</div><div class="fm">1985 · 41 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/pee-wee-s-playhouse.jpg" loading="lazy"><div><div class="ft">Pee-wee's Playhouse</div><div class="fm">1986 · 48 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/power-rangers.jpg" loading="lazy"><div><div class="ft">Power Rangers</div><div class="fm">1993 · 145 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/teenage-mutant-ninja-turtles.jpg" loading="lazy"><div><div class="ft">Teenage Mutant Ninja Turtles</div><div class="fm">1987 · 157 episodes · <span class="rate">TV-Y7</span></div></div></div></div>
-</section>
-<section id="taba-tv">
-<a class="chead" href="schedule.html#ch-7" title="See tonight's lineup on Taba TV"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/taba-tv-v1.png"><div><div class="cnum">CH 7</div><h2>Taba TV</h2><div class="ctag">Tabitha's hand-picked favorites &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="taba-tv">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/taba-tv-v1.png"><div><div class="cnum">CH 7</div><h2>Taba TV</h2><div class="ctag">Tabitha's hand-picked favorites</div></div><a class="golink" href="schedule.html#ch-7" title="Tonight's lineup on Taba TV">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/beverly-hills-90210.jpg" loading="lazy"><div><div class="ft">Beverly Hills, 90210</div><div class="fm">1990 · 277 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/jem-and-the-holograms.jpg" loading="lazy"><div><div class="ft">Jem and the Holograms</div><div class="fm">1985 · 41 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-wonder-years.jpg" loading="lazy"><div><div class="ft">The Wonder Years</div><div class="fm">1988 · 116 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
-<section id="tgif">
-<a class="chead" href="schedule.html#ch-8" title="See tonight's lineup on TGIF (Fridays)"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/tgif.png"><div><div class="cnum">CH 8</div><h2>TGIF (Fridays)</h2><div class="ctag">Feel-good sitcoms, Fridays 6 PM to midnight &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="tgif">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/tgif.png"><div><div class="cnum">CH 8</div><h2>TGIF (Fridays)</h2><div class="ctag">Feel-good sitcoms, Fridays 6 PM to midnight</div></div><a class="golink" href="schedule.html#ch-8" title="Tonight's lineup on TGIF (Fridays)">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-goldbergs-2013.jpg" loading="lazy"><div><div class="ft">The Goldbergs (2013)</div><div class="fm">2013 · 71 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/raising-hope.jpg" loading="lazy"><div><div class="ft">Raising Hope</div><div class="fm">2010 · 47 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/saved-by-the-bell.jpg" loading="lazy"><div><div class="ft">Saved by the Bell</div><div class="fm">1989 · 78 episodes · <span class="rate">TV-G</span></div></div></div></div>
-</section>
-<section id="y2k">
-<a class="chead" href="schedule.html#ch-20" title="See tonight's lineup on Y2K"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/y2k-v2.png"><div><div class="cnum">CH 20</div><h2>Y2K</h2><div class="ctag">Hits of the 2000s &amp; beyond &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="y2k">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/y2k-v2.png"><div><div class="cnum">CH 20</div><h2>Y2K</h2><div class="ctag">Hits of the 2000s &amp; beyond</div></div><a class="golink" href="schedule.html#ch-20" title="Tonight's lineup on Y2K">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/glee.jpg" loading="lazy"><div><div class="ft">Glee</div><div class="fm">2009 · 22 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-goldbergs-2013.jpg" loading="lazy"><div><div class="ft">The Goldbergs (2013)</div><div class="fm">2013 · 71 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/raising-hope.jpg" loading="lazy"><div><div class="ft">Raising Hope</div><div class="fm">2010 · 47 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/schitt-s-creek.jpg" loading="lazy"><div><div class="ft">Schitt's Creek</div><div class="fm">2015 · 80 episodes · <span class="rate">TV-14</span></div></div></div></div>
-</section>
-<section id="the-jukebox">
-<a class="chead" href="schedule.html#ch-45" title="See tonight's lineup on The Jukebox"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/jukebox-v1.png"><div><div class="cnum">CH 45</div><h2>The Jukebox</h2><div class="ctag">Music, musicals &amp; concerts &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="the-jukebox">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/jukebox-v1.png"><div><div class="cnum">CH 45</div><h2>The Jukebox</h2><div class="ctag">Music, musicals &amp; concerts</div></div><a class="golink" href="schedule.html#ch-45" title="Tonight's lineup on The Jukebox">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/glee.jpg" loading="lazy"><div><div class="ft">Glee</div><div class="fm">2009 · 22 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
-<section id="groovy-tv">
-<a class="chead" href="schedule.html#ch-70" title="See tonight's lineup on Groovy TV"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/groovy-v2.png"><div><div class="cnum">CH 70</div><h2>Groovy TV</h2><div class="ctag">The far-out 60s &amp; 70s &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="groovy-tv">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/groovy-v2.png"><div><div class="cnum">CH 70</div><h2>Groovy TV</h2><div class="ctag">The far-out 60s &amp; 70s</div></div><a class="golink" href="schedule.html#ch-70" title="Tonight's lineup on Groovy TV">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/saturday-night-live.jpg" loading="lazy"><div><div class="ft">Saturday Night Live</div><div class="fm">1975 · 24 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/that-70s-show.jpg" loading="lazy"><div><div class="ft">That '70s Show</div><div class="fm">1998 · 203 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
-<section id="late-nite">
-<a class="chead" href="schedule.html#ch-75" title="See tonight's lineup on Late Nite"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/late-nite-v2.png"><div><div class="cnum">CH 75</div><h2>Late Nite</h2><div class="ctag">Sketch comedy after hours &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="late-nite">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/late-nite-v2.png"><div><div class="cnum">CH 75</div><h2>Late Nite</h2><div class="ctag">Sketch comedy after hours</div></div><a class="golink" href="schedule.html#ch-75" title="Tonight's lineup on Late Nite">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/in-living-color.jpg" loading="lazy"><div><div class="ft">In Living Color</div><div class="fm">1990 · 66 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/robot-chicken.jpg" loading="lazy"><div><div class="ft">Robot Chicken</div><div class="fm">2005 · 102 episodes · <span class="rate">TV-MA</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/saturday-night-live.jpg" loading="lazy"><div><div class="ft">Saturday Night Live</div><div class="fm">1975 · 24 episodes · <span class="rate">TV-14</span></div></div></div></div>
-</section>
-<section id="i-heart-80s">
-<a class="chead" href="schedule.html#ch-80" title="See tonight's lineup on I ♥ 80s"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/iheart80s-v2.png"><div><div class="cnum">CH 80</div><h2>I ♥ 80s</h2><div class="ctag">80s favorites, neon included &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="i-heart-80s">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/iheart80s-v2.png"><div><div class="cnum">CH 80</div><h2>I ♥ 80s</h2><div class="ctag">80s favorites, neon included</div></div><a class="golink" href="schedule.html#ch-80" title="Tonight's lineup on I ♥ 80s">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/the-goldbergs-2013.jpg" loading="lazy"><div><div class="ft">The Goldbergs (2013)</div><div class="fm">2013 · 71 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/jem-and-the-holograms.jpg" loading="lazy"><div><div class="ft">Jem and the Holograms</div><div class="fm">1985 · 41 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/pee-wee-s-playhouse.jpg" loading="lazy"><div><div class="ft">Pee-wee's Playhouse</div><div class="fm">1986 · 48 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/teenage-mutant-ninja-turtles.jpg" loading="lazy"><div><div class="ft">Teenage Mutant Ninja Turtles</div><div class="fm">1987 · 157 episodes · <span class="rate">TV-Y7</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-wonder-years.jpg" loading="lazy"><div><div class="ft">The Wonder Years</div><div class="fm">1988 · 116 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
-<section id="the-peach-pit">
-<a class="chead" href="schedule.html#ch-90" title="See tonight's lineup on The Peach Pit"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/peachpit-v1.png"><div><div class="cnum">CH 90</div><h2>The Peach Pit</h2><div class="ctag">All 90210, all the time &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="the-peach-pit">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/peachpit-v1.png"><div><div class="cnum">CH 90</div><h2>The Peach Pit</h2><div class="ctag">All 90210, all the time</div></div><a class="golink" href="schedule.html#ch-90" title="Tonight's lineup on The Peach Pit">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/beverly-hills-90210.jpg" loading="lazy"><div><div class="ft">Beverly Hills, 90210</div><div class="fm">1990 · 277 episodes · <span class="rate">TV-14</span></div></div></div></div>
-</section>
-<section id="prime-time">
-<a class="chead" href="schedule.html#ch-95" title="See tonight's lineup on Prime Time"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/prime-time-v2.png"><div><div class="cnum">CH 95</div><h2>Prime Time</h2><div class="ctag">The 90s block &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="prime-time">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/prime-time-v2.png"><div><div class="cnum">CH 95</div><h2>Prime Time</h2><div class="ctag">The 90s block</div></div><a class="golink" href="schedule.html#ch-95" title="Tonight's lineup on Prime Time">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/beverly-hills-90210.jpg" loading="lazy"><div><div class="ft">Beverly Hills, 90210</div><div class="fm">1990 · 277 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/in-living-color.jpg" loading="lazy"><div><div class="ft">In Living Color</div><div class="fm">1990 · 66 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/saved-by-the-bell.jpg" loading="lazy"><div><div class="ft">Saved by the Bell</div><div class="fm">1989 · 78 episodes · <span class="rate">TV-G</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/sex-and-the-city.jpg" loading="lazy"><div><div class="ft">Sex and the City</div><div class="fm">1998 · 95 episodes · <span class="rate">TV-MA</span></div></div></div></div>
-</section>
-<section id="savage-at-nite">
-<a class="chead" href="schedule.html#ch-111" title="See tonight's lineup on Savage at Nite"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/savage-at-nite-v4.png"><div><div class="cnum">CH 111</div><h2>Savage at Nite</h2><div class="ctag">Retro sitcoms, all nite long &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="savage-at-nite">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/savage-at-nite-v4.png"><div><div class="cnum">CH 111</div><h2>Savage at Nite</h2><div class="ctag">Retro sitcoms, all nite long</div></div><a class="golink" href="schedule.html#ch-111" title="Tonight's lineup on Savage at Nite">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-goldbergs-2013.jpg" loading="lazy"><div><div class="ft">The Goldbergs (2013)</div><div class="fm">2013 · 71 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/raising-hope.jpg" loading="lazy"><div><div class="ft">Raising Hope</div><div class="fm">2010 · 47 episodes · <span class="rate">TV-14</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/saved-by-the-bell.jpg" loading="lazy"><div><div class="ft">Saved by the Bell</div><div class="fm">1989 · 78 episodes · <span class="rate">TV-G</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/that-70s-show.jpg" loading="lazy"><div><div class="ft">That '70s Show</div><div class="fm">1998 · 203 episodes · <span class="rate">TV-PG</span></div></div></div>
 <div class="fcard"><img class="poster" src="posters/the-wonder-years.jpg" loading="lazy"><div><div class="ft">The Wonder Years</div><div class="fm">1988 · 116 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
-<section id="bel-air">
-<a class="chead" href="schedule.html#ch-215" title="See tonight's lineup on Bel-Air"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/belair-v1.png"><div><div class="cnum">CH 215</div><h2>Bel-Air</h2><div class="ctag">All Fresh Prince, born and raised &middot; <span class="golink">tonight&rsquo;s lineup &rarr;</span></div></div></a>
+</details>
+<details class="chsec" id="bel-air">
+<summary class="chead"><img src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/belair-v1.png"><div><div class="cnum">CH 215</div><h2>Bel-Air</h2><div class="ctag">All Fresh Prince, born and raised</div></div><a class="golink" href="schedule.html#ch-215" title="Tonight's lineup on Bel-Air">tonight &rarr;</a></summary>
 <div class="fgrid"><div class="fcard"><img class="poster" src="posters/the-fresh-prince-of-bel-air.jpg" loading="lazy"><div><div class="ft">The Fresh Prince of Bel-Air</div><div class="fm">1990 · 140 episodes · <span class="rate">TV-PG</span></div></div></div></div>
-</section>
+</details>
 <footer>&#9790; A Savage Family Production</footer>
-</div></body></html>
+</div>
+<script>
+function openFromHash() {
+  if (!location.hash) return;
+  const d = document.querySelector(location.hash);
+  if (d) { d.open = true; d.scrollIntoView({block:'start'}); }
+}
+window.addEventListener('hashchange', openFromHash);
+openFromHash();
+</script>
+</body></html>
