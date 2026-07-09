@@ -87,6 +87,9 @@
   .ebanner-name { font-family:'Alfa Slab One',serif; font-size:22px; color:var(--cream);
                   text-shadow:2px 2px 0 #000; line-height:1.1; }
   .ebanner-date { font-size:13px; font-weight:600; color:var(--cream); margin-top:3px; }
+  .ebanner-countdown:not(:empty) { display:inline-block; margin-left:6px; background:var(--yellow); color:#1a1200;
+                        font-weight:800; font-size:11px; letter-spacing:.5px; padding:1px 8px; border-radius:10px;
+                        text-transform:uppercase; vertical-align:middle; }
   .ebanner-blurb { font-size:13px; color:#f0e6d8; margin-top:6px; line-height:1.4; max-width:560px; }
   .ebanner-x { position:absolute; top:8px; right:12px; background:none; border:none; color:var(--cream);
                font-size:24px; line-height:1; cursor:pointer; opacity:.65; padding:2px 6px; font-family:inherit; }
@@ -98,14 +101,14 @@
 <body>
 <div class="wrap">
 <!--EVENT-BANNER-START-->
-<div class="ebanner" id="ebanner" data-event="christmas-in-july-2026-07-24">
+<div class="ebanner" id="ebanner" data-event="christmas-in-july-2026-07-24" data-start="2026-07-24" data-days="3">
   <button class="ebanner-x" aria-label="Dismiss" onclick="dismissEbanner()">&times;</button>
   <div class="ebanner-inner">
     <img class="ebanner-logo" src="https://raw.githubusercontent.com/savagebroadcasting/savagebroadcasting.github.io/master/silent-nite.png" alt="Christmas in July">
     <div class="ebanner-text">
       <div class="ebanner-label">Coming up on Channel 2</div>
       <div class="ebanner-name">Christmas in July</div>
-      <div class="ebanner-date">July 24–26</div>
+      <div class="ebanner-date">July 24–26 <span class="ebanner-countdown" id="ebanner-cd"></span></div>
       <div class="ebanner-blurb">Too hot outside? Channel 2 says otherwise. Every Christmas episode on the network — He-Man to the Fresh Prince — plus the holiday specials, all weekend long.</div>
     </div>
   </div>
@@ -116,6 +119,22 @@
   var k='ebanner-dismissed:'+b.getAttribute('data-event');
   if(localStorage.getItem(k)) b.style.display='none';
   window.dismissEbanner=function(){ localStorage.setItem(k,'1'); b.style.display='none'; };
+  // live countdown
+  var cd=document.getElementById('ebanner-cd');
+  if(cd){
+    var start=new Date(b.getAttribute('data-start')+'T00:00:00');
+    var days=parseInt(b.getAttribute('data-days'),10)||1;
+    var end=new Date(start); end.setDate(end.getDate()+days);
+    var now=new Date(); var today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+    var diff=Math.round((start-today)/86400000);
+    var txt;
+    if(now>=start && now<end) txt='ON NOW';
+    else if(diff<0) txt='';
+    else if(diff===0) txt='TODAY';
+    else if(diff===1) txt='TOMORROW';
+    else txt=diff+' days away';
+    cd.textContent=txt;
+  }
 })();
 </script>
 <!--EVENT-BANNER-END-->
