@@ -1,6 +1,6 @@
 // SBC Service Worker — network-first HTML, cache-first assets
 // Bump CACHE_VER to bust stale installs (e.g. "stuck blue banner" bug)
-const CACHE_VER = 'sbc-v3';
+const CACHE_VER = 'sbc-v4';
 const ASSET_CACHE = CACHE_VER + '-assets';
 const HTML_EXTS = ['', '.html'];
 
