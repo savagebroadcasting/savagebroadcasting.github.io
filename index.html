@@ -8,6 +8,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="SBC">
 <link rel="apple-touch-icon" href="sbc-home-icon.png">
+<link rel="manifest" href="manifest.json">
 <title>Savage Broadcasting Company — Channel Guide</title>
 <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
@@ -75,6 +76,10 @@
   h2 { font-size:24px; }
   .howto ol { font-size:15px; }
 }
+/* back-to-top */
+#btt{position:fixed;bottom:24px;right:20px;width:42px;height:42px;border-radius:50%;background:var(--pink);color:#fff;border:none;font-size:20px;line-height:42px;text-align:center;cursor:pointer;opacity:0;pointer-events:none;transition:opacity .25s;box-shadow:0 2px 10px rgba(0,0,0,.4);z-index:99}
+#btt.show{opacity:.85;pointer-events:auto}
+#btt:hover{opacity:1}
 <!--EBANNER-CSS-START-->
   /* event banner — pink glow so it pops off the navy page */
   .ebanner { position:relative; background:linear-gradient(135deg, rgba(224,33,138,.55), rgba(245,199,68,.22));
@@ -244,5 +249,14 @@
     <span class="moonlet">☾</span> &nbsp;A Savage Family Production · Est. 2026 · Broadcasting nightly from the living room&nbsp; <span class="moonlet">☾</span>
   </footer>
 </div>
+<button id="btt" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8679;</button>
+<script>
+// back-to-top
+(function(){var b=document.getElementById('btt');window.addEventListener('scroll',function(){b.classList.toggle('show',window.scrollY>400)},{passive:true});})();
+// swipe nav
+(function(){var NAV=['index.html','channels.html','schedule.html','flix.html','this-week.html','access.html'];var cur='index.html';var ci=NAV.indexOf(cur);var sx=null;document.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;},{passive:true});document.addEventListener('touchend',function(e){if(sx===null)return;var dx=e.changedTouches[0].clientX-sx;sx=null;if(Math.abs(dx)<60)return;var ni=(ci+(dx<0?1:-1)+NAV.length)%NAV.length;location.href=NAV[ni];});})();
+// service worker
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
+</script>
 </body>
 </html>

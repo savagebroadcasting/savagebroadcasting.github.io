@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Find Your Next Flix — SBC</title>
+<link rel="manifest" href="manifest.json">
 <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
 :root { --navy:#0f1c2e; --pink:#e0218a; --yellow:#f5c744; --cream:#f5ecd7; --teal:#00b4a6; }
@@ -50,6 +51,8 @@ a.chip:hover{background:var(--teal);color:#042220}
 .mlab{font-size:11px;letter-spacing:1px;color:var(--teal);font-weight:800;text-transform:uppercase;margin-top:13px}
 .mcast{font-size:13.5px;margin-top:2px}
 footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
+#btt{position:fixed;bottom:24px;right:20px;width:42px;height:42px;border-radius:50%;background:#e0218a;color:#fff;border:none;font-size:20px;line-height:42px;text-align:center;cursor:pointer;opacity:0;pointer-events:none;transition:opacity .25s;box-shadow:0 2px 10px rgba(0,0,0,.4);z-index:99}
+#btt.show{opacity:.85;pointer-events:auto}#btt:hover{opacity:1}
 </style></head><body><div class="wrap">
 <nav><a href="index.html">Channel Guide</a><a href="channels.html">By Channel</a><a href="schedule.html">Tonight on SBC</a><a class="on" href="flix.html">Find Your Next Flix</a><a href="this-week.html">This Week</a><a href="access.html">How to Watch</a></nav>
 <h1>FIND YOUR NEXT FLIX</h1>
@@ -308,9 +311,10 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <li data-t="young guns ii (1990)">Young Guns II (1990)</li>
 </ul>
 </details>
-<details class="sec"><summary><h2 style="font-size:19px;margin:6px 0">TV Sets (54)</h2></summary>
+<details class="sec"><summary><h2 style="font-size:19px;margin:6px 0">TV Sets (56)</h2></summary>
 <ul class="cols" id="cst">
 <li data-t="alf (1986)">ALF (1986)</li>
+<li data-t="are you afraid of the dark? (1992)">Are You Afraid of the Dark? (1992)</li>
 <li data-t="band of brothers (2001)">Band of Brothers (2001)</li>
 <li data-t="batman beyond: the complete series (2019)">Batman Beyond: The Complete Series (2019)</li>
 <li data-t="batman: the complete animated series - part 1 (2008)">Batman: The Complete Animated Series - Part 1 (2008)</li>
@@ -333,6 +337,7 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <li data-t="mad men (2007)">Mad Men (2007)</li>
 <li data-t="mad men s6">Mad Men S6</li>
 <li data-t="married... with children (1987)">Married... with Children (1987)</li>
+<li data-t="muppet babies (1984)">Muppet Babies (1984)</li>
 <li data-t="north and south: the complete collection (books one, two &amp; three) (1985)">North and South: The Complete Collection (Books One, Two &amp; Three) (1985)</li>
 <li data-t="saturday night live: the best of will ferrell (2002)">Saturday Night Live: The Best of Will Ferrell (2002)</li>
 <li data-t="saturday night live: the best of will ferrell - volume 2 (2004)">Saturday Night Live: The Best of Will Ferrell - Volume 2 (2004)</li>
@@ -369,6 +374,7 @@ footer{text-align:center;margin-top:44px;font-size:13px;color:#c9c2b4}
 <footer>☾ A Savage Family Production · Television the way you remember it</footer>
 </div>
 <div id="ovl"><div class="modal"><button class="x" onclick="hide()">&times;</button><div id="mbody"></div></div></div>
+<button id="btt" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8679;</button>
 <script>
 const P = new URLSearchParams(location.search).get('q');
 if (P) { window.addEventListener('DOMContentLoaded', () => { const q=document.getElementById('q'); q.value=P; flt(); }); }
@@ -402,5 +408,10 @@ document.addEventListener('click', e => {
   if (c && !e.target.closest('a')) pop(c.dataset.k);
 });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') hide(); });
+// back-to-top
+(function(){var b=document.getElementById('btt');window.addEventListener('scroll',function(){b.classList.toggle('show',window.scrollY>400);},{passive:true});})();
+// swipe nav
+(function(){var NAV=['index.html','channels.html','schedule.html','flix.html','this-week.html','access.html'];var ci=3;var sx=null;document.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;},{passive:true});document.addEventListener('touchend',function(e){if(sx===null)return;var dx=e.changedTouches[0].clientX-sx;sx=null;if(Math.abs(dx)<60)return;var ni=(ci+(dx<0?1:-1)+NAV.length)%NAV.length;location.href=NAV[ni];});})();
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
 </script>
 </body></html>

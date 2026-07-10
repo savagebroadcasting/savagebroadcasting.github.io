@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>How to Watch — SBC</title>
+<link rel="manifest" href="manifest.json">
 <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
 :root { --navy:#0f1c2e; --pink:#e0218a; --yellow:#f5c744; --cream:#f5ecd7; --teal:#00b4a6; }
@@ -24,6 +25,8 @@ h1{font-family:'Alfa Slab One',serif;font-size:42px;color:var(--yellow);text-sha
 #content .fine{font-size:13px;color:#c9c2b4}
 #content .or{color:#c9c2b4;font-style:italic}
 footer{text-align:center;margin-top:36px;font-size:13px;color:#c9c2b4}
+#btt{position:fixed;bottom:24px;right:20px;width:42px;height:42px;border-radius:50%;background:var(--pink);color:#fff;border:none;font-size:20px;line-height:42px;text-align:center;cursor:pointer;opacity:0;pointer-events:none;transition:opacity .25s;box-shadow:0 2px 10px rgba(0,0,0,.4);z-index:99}
+#btt.show{opacity:.85;pointer-events:auto}#btt:hover{opacity:1}
 </style></head><body><div class="wrap">
 <nav><a href="index.html">Channel Guide</a><a href="channels.html">By Channel</a><a href="schedule.html">Tonight on SBC</a><a href="flix.html">Find Your Next Flix</a><a href="this-week.html">This Week</a><a class="on" href="access.html">How to Watch</a></nav>
 <h1>How to Watch</h1>
@@ -38,6 +41,12 @@ footer{text-align:center;margin-top:36px;font-size:13px;color:#c9c2b4}
 <div id="content"></div>
 <footer>☾ A Savage Family Production</footer>
 </div>
+<button id="btt" aria-label="Back to top" onclick="window.scrollTo({top:0,behavior:'smooth'})">&#8679;</button>
+<script>
+(function(){var b=document.getElementById('btt');window.addEventListener('scroll',function(){b.classList.toggle('show',window.scrollY>400)},{passive:true});})();
+(function(){var NAV=['index.html','channels.html','schedule.html','flix.html','this-week.html','access.html'];var cur='access.html';var ci=NAV.indexOf(cur);var sx=null;document.addEventListener('touchstart',function(e){sx=e.touches[0].clientX;},{passive:true});document.addEventListener('touchend',function(e){if(sx===null)return;var dx=e.changedTouches[0].clientX-sx;sx=null;if(Math.abs(dx)<60)return;var ni=(ci+(dx<0?1:-1)+NAV.length)%NAV.length;location.href=NAV[ni];});})();
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
+</script>
 <script>
 const V = {"s": "sL4lturMb+VMe3Ss5Mqxxg==", "n": "Civ70eJILO+S/30F", "c": "BoCCHlHzqKboNJsHawClg1vnLKKYf1zQxISlTY9fZ0IVKmjBPdtXALi2n7JIsvOR+1kfptg2j5He2PGpCtu2KalYvf7Krk1bSg7iBKQPhui4CXHcb2AY6+txkAGa8U5Y5UoXr5NGrjEuxZGBoPVXUtLQKZJOGP4Ka7Ilbh1Ortu1BH6jsTzukLoWbWPBwz+hiip9n6i8Mmak/Y7PvsbzbKPRkUP2w1YFkpfqByJHO5dNqmN6KxZU6eUBm1sb1jJUE/UyZuss2SJdnYZhBzr8yWl6wsPmpCOujo9hiZojRlh+FOT4UgYfQx3DS55FNtENL6FeBjn2qkbKr+8/8h1o+QO04gHoUwb4CyFB5p2Rk8zL0gEzYaJ24zrxL8zfxQQNYVqaGYD0QXvF1Ej1Fcsoa1YA+jcTjnHe0oeR8lbgf79qpqzeMdbbJLA3ZO0xEhjAtyOwarf7Lj4CSQxsj+WYcvf0+lJ90TuXpbIEwt7wi6l7egDoRF4Oa278qNuWvcIfxRPoMojH/yW9k6yULoSyW3/z/YCZMcdYD/eDVZ1+tuoxLU7GzHe9qH8UYc1edSnqc7p1DfwGBGsjJQ/YoM0nBa55VufHeOrc6tQbnH0DZ4B1SN+QvWmNAgFayYeyo+EQ3Kxq+dxIuCTAGo8FZcwX54r6gwZNLjW1bhXjAY/BsO6cYr9Rp85KuCpJorpZUz3Y9tl4XcoS3mt8899pIB7DivKEN3rSoayWncSMTKgpb2hzWD2dWNROwEsTGqbC8F4P0GkCsZO4TqzK34DczUlA+84uYr1gf2+I+5U2rUjuM/G/DLv/OJ13P2Zp7Yt/kqsF9Lyp1xXHBJCsKyWEzEqu7/0A6TjL8OE7fm4Xe67/xvksqEBd6qI9x6neX5oMeo9XyiXVlbXqRJJuJ9IeSRpqlTlqYFfe8Zzdh4TnXSX1rq+hNBuyjggSW+g5z3M+4RGnmS0TESuZkuAFCpARmZ2/Lh3lRg1Z8+QSycHjAZ8FaxyNMD7yCgc53eqwvCdhQwmnYG9GynRrFbKGikIRm8Kviw8WM91hBIJlkWBuVns9FYfgPsVSG1UC76sscsi5IJyoIKztBhmuqv4hu79NkLPvKMaK4o4Ej73SRcS/t9Na9H5ImK/DKJuoD26wtjXB1o48CSgdwTOhP20Kbp9Wo6hGjg1R4qykvwnjpdNcZNcN2dHXyA5PVcvTndVuCGVHcoqkheJ572Sm3wERncj6wupUwQwZcem7PWCmIcXf7V64BA9rB0kWK6yk+n1rmpC3nghbAF5y+q2Oh9a/GCftxyGTAC8qPbRYBeI1nkvB4zuOfqfCd4GOsSadCh4K/C2rgA0inBhkUhr2qh9SbG1nHI0iL5LNdgtgOvUqrQfinkWuXwcKa1fWKx0oi8NlbXyvSH+61+rX4paQZAo/4cEEyDbigy4tQYAcLSJg9nU3Q9/WxVvxFLGiDC/Vdq4u6yZ5+TCmvym7u0gdskvGjTDjU1mlE5nalKZFjCEwztlwXwB1MPQv5byruinCJJMwYo1CW7rGmYK9LNvL0oZxZM+d3+jbmzCZw0gNqf2I68bTQ2nsQ5HbVrqtxwPMKIAE+74uw5thXwDEXblKXN9/SVIR+O8+v7a2vvbejMc1/tCN6eN1qsnZZRMtQ2MJdwcyCb2yKA0MxveiPuvFVlUllQNhnffMACNx9ZQmLkAivcnpKt4dcMZ88V98xTst2X4mfSpCMNM0KAaTTZWm7MyyhIIjJZ91omOdPEPwHZexVtMnwC+kd1L873yaYi95AZvGbMpLMe3eAyhxN/b/oadefETHHGJ7nM3ilr4WlKOFmaQ+6P/q4rwVo0M8nViPkpXvdLovGaD287wvoOiJKNwfMX16RE4uV40tyZFiQCePgAwN0aX0IelTu9kGZ9gSsxLtVS/KIMECLzec1fynMPFft26LAUJ4t2oQ/gl1tGQf2h9BLBBSJ5ka213S4Vg="};
 const b = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
