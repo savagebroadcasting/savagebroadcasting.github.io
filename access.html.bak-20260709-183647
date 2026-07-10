@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How to Watch — SBC</title>
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root { --navy:#0f1c2e; --pink:#e0218a; --yellow:#f5c744; --cream:#f5ecd7; --teal:#00b4a6; }
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--navy) url(noise.png);color:var(--cream);font-family:'Inter',sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:30px 24px 60px}
+nav{display:flex;gap:22px;justify-content:center;padding:18px 0;font-weight:800;flex-wrap:wrap}
+nav a{color:var(--cream);text-decoration:none;font-size:15px}
+nav a:hover,nav a.on{color:var(--yellow)}
+h1{font-family:'Alfa Slab One',serif;font-size:42px;color:var(--yellow);text-shadow:4px 4px 0 #000;transform:rotate(-1.5deg);text-align:center;margin:14px 0 6px}
+.tag{text-align:center;color:var(--teal);font-style:italic;margin-bottom:30px}
+.gate{max-width:420px;margin:30px auto;text-align:center;background:rgba(255,255,255,.05);border:2px solid var(--pink);border-radius:16px;padding:30px}
+.gate input{width:100%;padding:12px 16px;font-size:18px;letter-spacing:2px;text-align:center;border-radius:10px;border:2px solid var(--teal);background:rgba(0,0,0,.4);color:var(--cream);margin:14px 0;text-transform:uppercase}
+.gate button{background:var(--yellow);color:#000;font-weight:800;font-size:16px;border:none;border-radius:10px;padding:11px 26px;cursor:pointer}
+.gate .err{color:var(--pink);font-weight:700;margin-top:10px;min-height:20px}
+#content{display:none;background:rgba(255,255,255,.05);border:2px solid var(--teal);border-radius:16px;padding:28px 30px;line-height:1.7}
+#content h2{font-family:'Alfa Slab One',serif;color:var(--teal);margin-bottom:10px}
+#content h3{color:var(--yellow);margin:18px 0 8px}
+#content ol,#content ul{margin-left:22px}
+#content .cred{background:rgba(245,199,68,.1);border:1px dashed var(--yellow);border-radius:10px;padding:14px 18px;margin:10px 0;font-size:17px}
+#content .fine{font-size:13px;color:#c9c2b4}
+#content .or{color:#c9c2b4;font-style:italic}
+footer{text-align:center;margin-top:36px;font-size:13px;color:#c9c2b4}
+</style></head><body><div class="wrap">
+<nav><a href="index.html">Channel Guide</a><a href="channels.html">By Channel</a><a href="schedule.html">Tonight on SBC</a><a href="flix.html">Find Your Next Flix</a><a href="this-week.html">This Week</a><a class="on" href="access.html">How to Watch</a></nav>
+<h1>How to Watch</h1>
+<div class="tag">This page is for invited viewers only.</div>
+<div class="gate" id="gate">
+  <div style="font-size:38px"></div>
+  <p style="margin-top:8px">Enter the access code<br><span style="font-size:13px;color:#c9c2b4">(ask Randy or Tabitha — they'll tell you out loud, old-school)</span></p>
+  <input id="code" placeholder="ACCESS CODE" onkeydown="if(event.key==='Enter')unlock()">
+  <button onclick="unlock()">Open Sesame</button>
+  <div class="err" id="err"></div>
+</div>
+<div id="content"></div>
+<footer>☾ A Savage Family Production</footer>
+</div>
+<script>
+const V = {"s": "fBjEVaXbkH2RyzxPkPIgFg==", "n": "Alnpki/PO/fdv7I8", "c": "6kVzF8e9OsVXFCWIz+I0N5+whkHuWMX07c3G/AzNxR2Iy2c9wXoz/MVBdDUvXtbAzPuS0mXD/OAI9XwxaH9LnL+UOZvjveJmUpDqAJ0vA9MjmI8ApvPLoBAZMOkvGUjj66L5N2TjMocUEk3g3matvOal2BYtXiGtptHBVMfzppvAaPL6j13NPymzqgTt+G/zWOHg8OF7uY5p7rXsqXlfajRPztkQy8cZnqu2iZGY6h0+Rgc0D8k2cQRm5fdVGYqnXcXylSpqXiokU84h0FqE9/BOX6kfYf9mb2CbgvHeIFjOo/R40kb3kqlcIJ3CcJGVR8bugB2I+wtmfP9RID8QRFcKCl5RnTsJDLkrDs00mkhwmMacOYhun5jg3KIYEnvIkbtPfHI+bu8Ea5vk+MsCgq8Xry2NgY/ZzyVccv/18AsDQRC95CCb2fl/0mSv1xdxIoqrMMiO7ekQ++gM9n9JOPLZm8V03G3uvcIBEvqUM5U+BD4SIGIkYxZl7yqtfTfVOP+rrRm1YgJrzzWHCnj1UZu5QVIHMde/dGYojKdC4GY3tcRZszd1wK6lugBhapBaBJi0rh8xzLvLXvMVTGcxk7uNLqQbg0ZB/jv+hXTiIrbwBPGpEE+CsVhkDGmyoSTYzbUdweONKh57VFMlkVQAionZ7y8yeR2doUNgmO47XZra0fsOjk2EVrLjwySYR+neoIXxlqXi0ZNtS9OifMNm1Nl+m9+vXgLuepfp4m5lN8+fVTWOjNg/9Af/o3lgX4nWGhNW+iYFQNLm8idFv+dapw0iaty/kBRsjY8YLce6duhFEMiw5I8fGUQPahVqwGL+kacxs0s9cz7wsj4DmYW7kI8mcZshSRWsn71SvIpcmbb78O3oXSNy69Lnt9EjxeEvHppx5tmSM4Ajq6Vedogcg7q7Jx+ewDIjdlDiQ9owSZclPl+e9+hL5iNMXXodf6na1hDkkFQ1S0JfsXp+LvRDj/H23NGQbAuwyfwlnv1bIRFqCfrtdLSn9jWQfwj1Do+jWIZw6PeNY6Fbln15z9XTx0wy/egF45cm5Ke8cvar8o1bRSJlNKJF9u15sF3JKmm/CIOqY8ZhzqqO63JG2tlHCP2BRdUlQZ6vCAIJja0ntB2dErlLCW2VLjAb+uUdg3Aen2075Qb/phaDFGfmnMBBgQvtTM48RIeMttokMxGrk0sQR3BSFePvpOwRbAMTxJ+SztEF94jw8fraRwA0Sjlni4Qoeaj31SMgl5fkCRIQy4sbrGKmsPDw2lkyOQ8nKyksooMMTkEbQn1sMt/vH+hKN2ixCNppGPPtg1hThr2W6kcS8df2B7klqpwSz3/nBrExTamGZC4GidD9wnrWLhw5kUH/FZh3ymNT625DsLdWJMbd3R/MNp8FBMM3/hNJYeqNtXFbBHHEROYn0PCGnZgt5ajh+ddHca+2aEm9PDYQ/fpPWZ2LZDJPFHy2aIwUEA7Rhk1ZCmxYShptlPKCDM6RKzKMD6hY7QKR//lHAPERHYseDRkKDoHeFBFLzMuew/BUKKn0L9ZYzS2Bp3+Qre2K/mcOj+0R0Xgv5mcdVaFbzehrhCMvDwv0wQBRA+msUnfrati0oPO8BIeC3JiMbAdb9UP6I5c/mhRxM4JwxwI7xAVb+Y117/iU1ZtCHtTCwIj9a8gsAPrlBsVjNaPLdq2bjFECLywWwqEtklvMc1xitwiVcDWE5j6AAAT122WnFJl1kgXUtfmxtPC4m8k2lMw4fJ46qu+WBQc7BH9Ehu/ldakKhINOM0hDnru2zR05fZn90xr1oDeEx0sAj7k7J7faOorfkuNipZZjWJiZfwq5wPRX0YJHGYLX8stzCIQ+j9DfnWdZGN0RRMYJbVOYzeywNmBe/KrMOyVQOrXjRhSaZ/neiEF4L4k35CQMpZrOsC4TaPdnlTPzje50VT1lQ0h8PC1l6zNOJYGyjmy9dz1hIEh//d4FUY4="};
+const b = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+async function unlock() {
+  const code = document.getElementById('code').value.trim().toUpperCase();
+  try {
+    const km = await crypto.subtle.importKey('raw', new TextEncoder().encode(code), 'PBKDF2', false, ['deriveKey']);
+    const key = await crypto.subtle.deriveKey({name:'PBKDF2', salt:b(V.s), iterations:250000, hash:'SHA-256'}, km,
+      {name:'AES-GCM', length:256}, false, ['decrypt']);
+    const pt = await crypto.subtle.decrypt({name:'AES-GCM', iv:b(V.n)}, key, b(V.c));
+    document.getElementById('content').innerHTML = new TextDecoder().decode(pt);
+    document.getElementById('content').style.display = 'block';
+    document.getElementById('gate').style.display = 'none';
+  } catch(e) {
+    document.getElementById('err').textContent = 'Not quite — dig it? Try again.';
+  }
+}
+</script>
+</body></html>
