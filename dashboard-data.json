@@ -1,12 +1,12 @@
 {
- "generated": "2026-07-31 17:27",
- "generated_ts": 1785536846,
+ "generated": "2026-07-31 17:47",
+ "generated_ts": 1785538051,
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2098.1,
+   "used_gb": 2103.0,
    "total_gb": 11999.8,
-   "pct": 17,
+   "pct": 18,
    "online": true
   },
   {
