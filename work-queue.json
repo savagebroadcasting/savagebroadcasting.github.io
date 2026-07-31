@@ -1,0 +1,75 @@
+{
+  "generated": "2026-07-31 16:35",
+  "now": "Ripping set #77 — History of WWE (disc 1 of 4). After #77, pausing new wrestling to catch up on the backlog.",
+  "legend": {"done": "done", "prog": "in progress", "queued": "queued", "you": "needs you", "flagged": "flagged"},
+  "groups": [
+    {
+      "title": "Active right now",
+      "items": [
+        {"t": "Set #77 History of WWE — ripping disc 1 of 4, filing each film as its own documentary", "s": "prog"},
+        {"t": "Ops dashboard redesign — cross-media Overview, this queue, Certified column, seasons+discs on TV tab", "s": "prog"},
+        {"t": "1TB cleanup — ~100GB of certified-safe duplicates ready to clear (Power Rangers, In Living Color, SNL S1, Raising Hope)", "s": "you"},
+        {"t": "Batman: TAS — 1TB copy is more complete than 12TB; move it to 12TB (don't delete)", "s": "queued"}
+      ]
+    },
+    {
+      "title": "Wrestling — cutting into matches (WCW first)",
+      "items": [
+        {"t": "WCW's Greatest Pay-Per-View Matches Vol. 1 — 21 matches, live + theme", "s": "done"},
+        {"t": "WCW Clash of the Champions — 24 matches, verified", "s": "done"},
+        {"t": "OMG! Top 50 WCW — cut Disc 1 countdown into Season 1", "s": "prog"},
+        {"t": "nWo: Back in Black + Rise & Fall bonus matches", "s": "queued"},
+        {"t": "WWF/WWE: Hogan's Unreleased, both Ultimate Warriors, Paul Heyman, Sting sets", "s": "queued"},
+        {"t": "ECW: One Night Stand 2006 + Barely Legal, Blood Sport, verify Extreme Rules", "s": "queued"},
+        {"t": "TNA: Christopher Daniels, Sting Return of an Icon", "s": "queued"},
+        {"t": "ECW ONS 2005 (no chapters, manual) + Hogan Anthology D4 Walmart bonus (research)", "s": "flagged"},
+        {"t": "Re-verify already-filed sets are truly complete", "s": "queued"}
+      ]
+    },
+    {
+      "title": "Polish sweep (after matches cut)",
+      "items": [
+        {"t": "Flat covers (your images) — no watermark, edge-to-edge", "s": "queued"},
+        {"t": "Era-correct varied themes per set", "s": "queued"},
+        {"t": "Era-correct belt icons per match (by date)", "s": "queued"},
+        {"t": "Chronological by-wrestler collections + dedup repeat matches", "s": "queued"}
+      ]
+    },
+    {
+      "title": "SWN network build",
+      "items": [
+        {"t": "Build/populate WWF (300), TNA (303), misc (304) channels", "s": "queued"},
+        {"t": "SWN branding: idents, guide-page block, Match of the Week", "s": "queued"},
+        {"t": "Phase-2: On This Day, anniversary marathons, feud collections, 5-Star Classics", "s": "queued"}
+      ]
+    },
+    {
+      "title": "Certification — auto-running in the background",
+      "items": [
+        {"t": "Season content-match sweep (backlog clearing on its own)", "s": "prog"},
+        {"t": "Duck Dynasty numbering audit (23 discs held)", "s": "prog"},
+        {"t": "Auto-fixed renumbers requeued for Gemini re-verify", "s": "prog"}
+      ]
+    },
+    {
+      "title": "Real disc gaps — needs you to reinsert",
+      "items": [
+        {"t": "Fresh Prince S4 D4 — e26 (never captured; disc may be defective)", "s": "you"},
+        {"t": "Happy Days S1 D1 — e5", "s": "you"},
+        {"t": "Duck Dynasty S8 D2 — e9", "s": "you"},
+        {"t": "Beverly Hills 90210 S10 — e12", "s": "you"},
+        {"t": "King of the Hill S6 — e1-e3", "s": "you"},
+        {"t": "Mad Men S4 D1 — e3", "s": "you"},
+        {"t": "Gilmore Girls S2 D4 — e13-16 (replacement disc, original defective)", "s": "you"},
+        {"t": "The True Story of the Royal Rumble — 2 more discs coming to complete the set", "s": "you"}
+      ]
+    },
+    {
+      "title": "Incoming",
+      "items": [
+        {"t": "eBay #121-127 (Monday Night War, WCW vs Japan x3, Collision in Korea, Allied Powers, Raw vs Nitro) — intake on arrival", "s": "queued"},
+        {"t": "Blu-rays on hold (Monday Night War Vol. 2)", "s": "you"}
+      ]
+    }
+  ]
+}
