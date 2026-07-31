@@ -1,0 +1,1184 @@
+{
+ "generated": "2026-07-31 15:53",
+ "generated_ts": 1785531205,
+ "drives": [
+  {
+   "label": "12TB (library)",
+   "used_gb": 2077.8,
+   "total_gb": 11999.8,
+   "pct": 17,
+   "online": true
+  },
+  {
+   "label": "1TB (rip scratch)",
+   "used_gb": 869.3,
+   "total_gb": 999.8,
+   "pct": 87,
+   "online": true
+  }
+ ],
+ "discs_needed": [
+  "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
+  "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
+  "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
+  "Happy Days (1974) \u2014 Season 1, Disc 1   (missing e5)",
+  "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
+  "Mad Men (2007) \u2014 Season 4, Disc 1   (missing e3)",
+  "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)"
+ ],
+ "wrestling": {
+  "sets": [
+   {
+    "id": "set-1",
+    "rip": 1,
+    "name": "20 Years Too Soon: The Superstar Billy Graham Story",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-2",
+    "rip": 2,
+    "name": "Batista: The Animal Unleashed",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-4",
+    "rip": 4,
+    "name": "Born to Controversy: The Roddy Piper Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-5",
+    "rip": 5,
+    "name": "Breaking the Code: Behind the Walls of Chris Jericho",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-6",
+    "rip": 6,
+    "name": "Diamond Dallas Page: Positively Living",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-9",
+    "rip": 9,
+    "name": "ECW Unreleased: Vol. 1",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-10",
+    "rip": 10,
+    "name": "ECW Unreleased: Vol. 2",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-11",
+    "rip": 11,
+    "name": "ECW Unreleased: Vol. 3",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-13",
+    "rip": 13,
+    "name": "ESPN Films 30 for 30: Nature Boy",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-14",
+    "rip": 14,
+    "name": "For All Mankind: The Life & Career of Mick Foley",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-15",
+    "rip": 15,
+    "name": "Hard Knocks: The Chris Benoit Story",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-16",
+    "rip": 16,
+    "name": "Hitman Hart: Wrestling with Shadows",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-18",
+    "rip": 18,
+    "name": "It's Good to Be the King: The Jerry Lawler Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-19",
+    "rip": 19,
+    "name": "Jake \"The Snake\" Roberts: Pick Your Poison",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-20",
+    "rip": 20,
+    "name": "Kurt Angle: The Essential Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-22",
+    "rip": 22,
+    "name": "Nature Boy Ric Flair: The Definitive Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-24",
+    "rip": 24,
+    "name": "nWo: The Revolution",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-25",
+    "rip": 25,
+    "name": "NXT: From Secret to Sensation",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-27",
+    "rip": 27,
+    "name": "Randy Savage Unreleased: The Unseen Matches of the Macho Man",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-28",
+    "rip": 28,
+    "name": "Ricky Steamboat: The Life Story of the Dragon",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-30",
+    "rip": 30,
+    "name": "Starrcade: The Essential Collection (1983-2000)",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-31",
+    "rip": 31,
+    "name": "Stone Cold Steve Austin: The Bottom Line on the Most Popular Superstar of All Time",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-35",
+    "rip": 35,
+    "name": "The Essential AJ Styles Collection",
+    "discs": "4",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-36",
+    "rip": 36,
+    "name": "The Ladder Match",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-37",
+    "rip": 37,
+    "name": "The Life and Times of Mr. Perfect",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-39",
+    "rip": 39,
+    "name": "The Rise and Fall of ECW",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-40",
+    "rip": 40,
+    "name": "The Rock: The Most Electrifying Man in Sports Entertainment",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-41",
+    "rip": 41,
+    "name": "The Self-Destruction of the Ultimate Warrior",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-42",
+    "rip": 42,
+    "name": "The Shawn Michaels Story: Heartbreak & Triumph",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-43",
+    "rip": 43,
+    "name": "The Spectacular Legacy of the AWA",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-44",
+    "rip": 44,
+    "name": "The Triumph and Tragedy of World Class Championship Wrestling",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-45",
+    "rip": 45,
+    "name": "TNA One Night Only: Global Impact Japan",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-46",
+    "rip": 46,
+    "name": "TNA One Night Only: Hardcore Justice 2",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-47",
+    "rip": 47,
+    "name": "TNA One Night Only: Joker's Wild",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-48",
+    "rip": 48,
+    "name": "TNA One Night Only: Jokers Wild 2",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-49",
+    "rip": 49,
+    "name": "TNA One Night Only: Old School 2014",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-50",
+    "rip": 50,
+    "name": "TNA One Night Only: Tag Team Tournament",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-51",
+    "rip": 51,
+    "name": "TNA One Night Only: TNA 10 Reunion",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-52",
+    "rip": 52,
+    "name": "TNA One Night Only: Tournament of Champions",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-53",
+    "rip": 53,
+    "name": "TNA One Night Only: X-Travaganza",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-65",
+    "rip": 65,
+    "name": "Triple H: Thy Kingdom Come",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-66",
+    "rip": 66,
+    "name": "Twist of Fate: The Matt & Jeff Hardy Story",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-68",
+    "rip": 68,
+    "name": "United We Slam: The Best of the Great American Bash",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-69",
+    "rip": 69,
+    "name": "WCW War Games: WCW's Most Notorious Matches",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-71",
+    "rip": 71,
+    "name": "WCW: The Best of Monday Nitro - Volume 2",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-72",
+    "rip": 72,
+    "name": "WWE Greatest NXT Matches Volume 1",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-73",
+    "rip": 73,
+    "name": "WWE Monday Night War Vol. 2: Know Your Role",
+    "discs": "4",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-74",
+    "rip": 74,
+    "name": "WWE Raw: The Beginning - The Best of Seasons 1 & 2",
+    "discs": "4",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-75",
+    "rip": 75,
+    "name": "WWE TLC: Tables, Ladders & Chairs 2009",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-76",
+    "rip": 76,
+    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-77",
+    "rip": 77,
+    "name": "WWE: 4 Film Favorites - Essential WWE Collection",
+    "discs": "4",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-78",
+    "rip": 78,
+    "name": "WWE: Batista - I Walk Alone",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-79",
+    "rip": 79,
+    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-80",
+    "rip": 80,
+    "name": "WWE: CM Punk - Best in the World",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-81",
+    "rip": 81,
+    "name": "WWE: Falls Count Anywhere - The Greatest Street Fights and Other Out of Control Matches",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-82",
+    "rip": 82,
+    "name": "WWE: Fight Owens Fight - The Kevin Owens Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-83",
+    "rip": 83,
+    "name": "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-84",
+    "rip": 84,
+    "name": "WWE: Goldberg - The Ultimate Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-85",
+    "rip": 85,
+    "name": "WWE: Hart & Soul - The Hart Family Anthology",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-89",
+    "rip": 89,
+    "name": "WWE: Legends of Mid-South Wrestling",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-90",
+    "rip": 90,
+    "name": "WWE: Macho Madness - The Randy Savage Ultimate Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-92",
+    "rip": 92,
+    "name": "WWE: Ric Flair & The Four Horsemen",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-93",
+    "rip": 93,
+    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-94",
+    "rip": 94,
+    "name": "WWE: Satan's Prison - The Anthology of the Elimination Chamber",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-95",
+    "rip": 95,
+    "name": "WWE: Seth Rollins - Building the Architect",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-97",
+    "rip": 97,
+    "name": "WWE: SummerSlam The Complete Anthology, Volume 1 (1988-1992)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-98",
+    "rip": 98,
+    "name": "WWE: SummerSlam The Complete Anthology, Volume 2 (1993-1997)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-99",
+    "rip": 99,
+    "name": "WWE: SummerSlam The Complete Anthology, Volume 3 (1998-2002)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-100",
+    "rip": 100,
+    "name": "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-101",
+    "rip": 101,
+    "name": "WWE: Survivor Series Anthology, Vol. 1 (1987-1991)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-102",
+    "rip": 102,
+    "name": "WWE: Survivor Series Anthology, Vol. 2 (1992-1996)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-103",
+    "rip": 103,
+    "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-104",
+    "rip": 104,
+    "name": "WWE: The Best of King of the Ring",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-105",
+    "rip": 105,
+    "name": "WWE: The Best of Saturday Night's Main Event",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-106",
+    "rip": 106,
+    "name": "WWE: The Best of the Intercontinental Championship",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-107",
+    "rip": 107,
+    "name": "WWE: The Greatest Wrestling Stars of the '80s",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-108",
+    "rip": 108,
+    "name": "WWE: The History of the Intercontinental Championship",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-109",
+    "rip": 109,
+    "name": "WWE: The History of the World Heavyweight Championship",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-110",
+    "rip": 110,
+    "name": "WWE: The History of the WWE Championship",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-111",
+    "rip": 111,
+    "name": "WWE: The Legacy of Stone Cold Steve Austin",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-113",
+    "rip": 113,
+    "name": "WWE: The Ultimate Ric Flair Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-114",
+    "rip": 114,
+    "name": "WWE: The Very Best of WCW Monday Nitro",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-115",
+    "rip": 115,
+    "name": "WWE: The Very Best of WCW Monday Nitro Volume 3",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-116",
+    "rip": 116,
+    "name": "WWE: True Giants",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-118",
+    "rip": 118,
+    "name": "WWE: Wrestling's Highest Flyers",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-119",
+    "rip": 119,
+    "name": "WWF Hardcore",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-121",
+    "rip": 121,
+    "name": "WWE: The Monday Night War Vol. 1",
+    "discs": "TBD",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-122",
+    "rip": 122,
+    "name": "WCW vs. Japan Supershow 1",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-123",
+    "rip": 123,
+    "name": "WCW vs. Japan Supershow 2",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-124",
+    "rip": 124,
+    "name": "WCW vs. Japan Supershow 3",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-125",
+    "rip": 125,
+    "name": "WCW vs. Japan: Collision in Korea",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-126",
+    "rip": 126,
+    "name": "Allied Powers: The World's Greatest Tag Teams",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-17",
+    "rip": 17,
+    "name": "Hollywood Hulk Hogan: Hulk Still Rules",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-29",
+    "rip": 29,
+    "name": "Rob Van Dam: One of a Kind",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-38",
+    "rip": 38,
+    "name": "The Rise & Fall of WCW",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-54",
+    "rip": 54,
+    "name": "TNA Wrestling: Best of the X Division, Vol. 2",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-55",
+    "rip": 55,
+    "name": "TNA Wrestling: Hardcore Justice 2010",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-56",
+    "rip": 56,
+    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-57",
+    "rip": 57,
+    "name": "TNA Wrestling: Kurt Angle - Champion",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-64",
+    "rip": 64,
+    "name": "TNA Wrestling: World X Cup 2008",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-70",
+    "rip": 70,
+    "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-87",
+    "rip": 87,
+    "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-117",
+    "rip": 117,
+    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-127",
+    "rip": 127,
+    "name": "The Monday Night War: WWE Raw vs. WCW Nitro (2004)",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-3",
+    "rip": 3,
+    "name": "Blood Sport: ECW's Most Violent Matches",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-23",
+    "rip": 23,
+    "name": "nWo: Back in Black",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-32",
+    "rip": 32,
+    "name": "The Best of Christopher Daniels: Heaven Sent, Hell Bound",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-58",
+    "rip": 58,
+    "name": "TNA Wrestling: Sting - Return of an Icon",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-88",
+    "rip": 88,
+    "name": "WWE: Ladies and Gentlemen, My Name Is Paul Heyman",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-96",
+    "rip": 96,
+    "name": "WWE: Sting - Into the Light",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Scanned",
+    "matches": 0
+   },
+   {
+    "id": "set-7",
+    "rip": 7,
+    "name": "ECW One Night Stand 2005",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 10
+   },
+   {
+    "id": "set-8",
+    "rip": 8,
+    "name": "ECW One Night Stand 2006",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 10
+   },
+   {
+    "id": "set-12",
+    "rip": 12,
+    "name": "ECW: Extreme Rules",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 17
+   },
+   {
+    "id": "set-21",
+    "rip": 21,
+    "name": "Macho Man: The Randy Savage Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 15
+   },
+   {
+    "id": "set-26",
+    "rip": 26,
+    "name": "OMG! Vol. 2: The Top 50 Incidents in WCW History",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 22
+   },
+   {
+    "id": "set-33",
+    "rip": 33,
+    "name": "The Best of Sting: The Ultimate Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-34",
+    "rip": 34,
+    "name": "The Best of WCW Clash of the Champions",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 24
+   },
+   {
+    "id": "set-59",
+    "rip": 59,
+    "name": "TNA Wrestling: The 50 Greatest Moments",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-60",
+    "rip": 60,
+    "name": "TNA Wrestling: The Best of Sting",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-61",
+    "rip": 61,
+    "name": "TNA Wrestling: The Best of the Asylum Years, Vol. 1",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-62",
+    "rip": 62,
+    "name": "TNA Wrestling: The Best of the Asylum Years, Volume 2",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-63",
+    "rip": 63,
+    "name": "TNA Wrestling: The Best of the X Division, Vol. 1",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 8
+   },
+   {
+    "id": "set-67",
+    "rip": 67,
+    "name": "Ultimate Warrior: Always Believe",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 16
+   },
+   {
+    "id": "set-86",
+    "rip": 86,
+    "name": "WWE: Hulk Hogan - The Ultimate Anthology",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 24
+   },
+   {
+    "id": "set-91",
+    "rip": 91,
+    "name": "WWE: Macho Man - The Randy Savage Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 15
+   },
+   {
+    "id": "set-112",
+    "rip": 112,
+    "name": "WWE: The True Story of WrestleMania",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 2
+   },
+   {
+    "id": "set-120",
+    "rip": 120,
+    "name": "WWE: WrestleMania VIII (from The Complete Anthology, Vol. II)",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 2
+   }
+  ],
+  "counts": {
+   "Purchased": 92,
+   "Ripped": 12,
+   "Scanned": 6,
+   "Filed": 17
+  },
+  "total_sets": 127,
+  "total_matches": 205
+ }
+}

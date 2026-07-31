@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBC Operations</title>
+<style>
+  :root{--bg:#0f1c2e;--panel:#152538;--line:#1e3247;--teal:#00b4a6;--ink:#e8edf2;--dim:#8aa0b2}
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);margin:0}
+  #gate{position:fixed;inset:0;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;z-index:99}
+  #gate h1{color:var(--teal);margin:0}
+  #gate input{font-size:22px;padding:10px 16px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);text-align:center;width:160px}
+  #gate .err{color:#f08a8a;height:18px;font-size:14px}
+  header{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+  header h1{color:var(--teal);margin:0;font-size:22px}
+  .stamp{color:var(--dim);font-size:12px}
+  nav{display:flex;gap:6px;padding:10px 20px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+  nav button{background:var(--panel);color:var(--dim);border:1px solid var(--line);padding:7px 14px;border-radius:20px;cursor:pointer;font-size:14px}
+  nav button.on{background:var(--teal);color:#03121a;border-color:var(--teal);font-weight:600}
+  main{padding:18px 20px;max-width:1100px;margin:0 auto}
+  .tab{display:none}.tab.on{display:block}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin-bottom:20px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px}
+  .stat .n{font-size:30px;color:var(--teal);font-weight:700}
+  .stat .l{color:var(--dim);font-size:13px;margin-top:2px}
+  .bar{height:12px;background:var(--line);border-radius:6px;overflow:hidden;margin-top:8px}
+  .bar>i{display:block;height:100%;background:var(--teal)}
+  .bar>i.hot{background:#f0a05a}.bar>i.crit{background:#f08a8a}
+  h2{color:var(--teal);font-size:16px;border-bottom:1px solid var(--line);padding-bottom:6px;margin:26px 0 12px}
+  .kanban{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  .col{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px;min-height:80px}
+  .col h3{margin:0 0 8px;font-size:13px;color:var(--dim);text-transform:uppercase;letter-spacing:.5px;display:flex;justify-content:space-between}
+  .col h3 span{color:var(--teal)}
+  .set{background:#0f2033;border:1px solid var(--line);border-radius:7px;padding:7px 9px;margin-bottom:7px;font-size:12.5px;line-height:1.3}
+  .set .rip{color:var(--dim);font-size:11px}
+  .set .mt{color:var(--teal);font-size:11px}
+  ul.plain{list-style:none;padding:0;margin:0}
+  ul.plain li{background:var(--panel);border:1px solid var(--line);border-left:3px solid #f0a05a;border-radius:6px;padding:8px 12px;margin-bottom:7px;font-size:14px}
+  .muted{color:var(--dim);font-size:13px}
+  @media(max-width:720px){.kanban{grid-template-columns:1fr 1fr}}
+</style></head>
+<body>
+<div id="gate"><h1>Savage Broadcasting Co. — Ops</h1><input id="pw" type="password" placeholder="password" autofocus><div class="err" id="pwerr"></div></div>
+
+<header><h1>SBC Operations</h1><span class="stamp" id="stamp">loading…</span></header>
+<nav>
+  <button class="on" data-tab="overview">Overview</button>
+  <button data-tab="wrestling">Wrestling / SWN</button>
+  <button data-tab="tv">TV</button>
+  <button data-tab="movies">Movies</button>
+  <button data-tab="resale">Resale</button>
+</nav>
+<main>
+  <section class="tab on" id="overview"></section>
+  <section class="tab" id="wrestling"></section>
+  <section class="tab" id="tv"><p class="muted">TV pipeline board — coming in v2.</p></section>
+  <section class="tab" id="movies"><p class="muted">Movies pipeline board — coming in v2.</p></section>
+  <section class="tab" id="resale"><p class="muted">Resale (Keep / Sell / Sold + pricing) — coming in v3.</p></section>
+</main>
+
+<script>
+const PW="1111";
+document.getElementById('pw').addEventListener('keyup',e=>{
+  if(e.key==='Enter'){ if(e.target.value===PW){document.getElementById('gate').style.display='none';load();}
+    else{document.getElementById('pwerr').textContent='Nope, try again.';e.target.value='';} }
+});
+function bar(pct){const c=pct>=90?'crit':pct>=80?'hot':'';return `<div class="bar"><i class="${c}" style="width:${pct}%"></i></div>`;}
+async function load(){
+  let d; try{ d=await (await fetch('dashboard-data.json?_='+Date.now())).json(); }catch(e){ return; }
+  document.getElementById('stamp').textContent='updated '+d.generated;
+  const w=d.wrestling, c=w.counts;
+  // Overview
+  document.getElementById('overview').innerHTML=`
+    <div class="cards">
+      <div class="stat"><div class="n">${w.total_sets}</div><div class="l">wrestling sets tracked</div></div>
+      <div class="stat"><div class="n">${w.total_matches}</div><div class="l">matches filed in Plex</div></div>
+      <div class="stat"><div class="n">${c.Purchased}</div><div class="l">still to rip</div></div>
+      <div class="stat"><div class="n">${(c.Ripped||0)+(c.Scanned||0)}</div><div class="l">ripped, waiting to cut</div></div>
+    </div>
+    <h2>Drives</h2>
+    <div class="cards">${d.drives.map(dr=>dr.online?`<div class="stat"><div class="l">${dr.label}</div><div class="n" style="font-size:22px">${dr.used_gb} / ${dr.total_gb} GB</div>${bar(dr.pct)}<div class="l">${dr.pct}% used</div></div>`:`<div class="stat"><div class="l">${dr.label}</div><div class="muted">offline</div></div>`).join('')}</div>
+    <h2>Discs we need from you (${d.discs_needed.length})</h2>
+    ${d.discs_needed.length?`<ul class="plain">${d.discs_needed.map(x=>`<li>${x}</li>`).join('')}</ul>`:`<p class="muted">Nothing needed right now. 🎉</p>`}`;
+  // Wrestling kanban
+  const cols=['Purchased','Ripped','Scanned','Filed'];
+  document.getElementById('wrestling').innerHTML=`
+    <div class="cards">
+      <div class="stat"><div class="n">${c.Filed}</div><div class="l">sets filed</div></div>
+      <div class="stat"><div class="n">${w.total_matches}</div><div class="l">matches cut</div></div>
+      <div class="stat"><div class="n">${(c.Ripped||0)+(c.Scanned||0)}</div><div class="l">in the cutting queue</div></div>
+      <div class="stat"><div class="n">${c.Purchased}</div><div class="l">not yet ripped</div></div>
+    </div>
+    <h2>Pipeline</h2>
+    <div class="kanban">${cols.map(col=>{
+      const items=w.sets.filter(s=>s.stage===col);
+      return `<div class="col"><h3>${col}<span>${items.length}</span></h3>${items.map(s=>`<div class="set"><div class="rip">#${s.rip}</div>${s.name}${s.matches?`<div class="mt">${s.matches} matches</div>`:''}</div>`).join('')||'<div class="muted" style="font-size:12px">—</div>'}</div>`;
+    }).join('')}</div>`;
+}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('nav button').forEach(x=>x.classList.remove('on'));
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+  b.classList.add('on');document.getElementById(b.dataset.tab).classList.add('on');
+});
+setInterval(()=>{ if(document.getElementById('gate').style.display==='none') load(); }, 30000);
+</script>
+</body></html>
