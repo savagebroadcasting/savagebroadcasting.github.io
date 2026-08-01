@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 06:32",
- "generated_ts": 1785583931,
+ "generated": "2026-08-01 06:52",
+ "generated_ts": 1785585134,
  "stats": {
   "episodes_matches": 4903,
   "titles_total": 453,
@@ -10,11 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 216,
-  "discs_month": 0,
-  "discs_alltime": 405,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 217,
+  "discs_month": 1,
+  "discs_alltime": 406,
+  "discs_today_list": [
+   "The Little Rascals S1D1"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
@@ -193,6 +195,7 @@
    "The Dick Van Dyke Show S5D3",
    "The Dick Van Dyke Show S5D4",
    "The Dick Van Dyke Show S5D5",
+   "The Little Rascals S1D1",
    "The Monday Night War: WWE Raw vs. WCW Nitro D1",
    "The Rise & Fall of WCW D1",
    "The Rise & Fall of WCW D2",
@@ -233,7 +236,9 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "nWo: Back in Black D1"
   ],
-  "discs_month_list": [],
+  "discs_month_list": [
+   "The Little Rascals S1D1"
+  ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
    "100 Cartoon Classics S1D2",
@@ -585,6 +590,7 @@
    "The Dick Van Dyke Show S5D4",
    "The Dick Van Dyke Show S5D5",
    "The Fresh Prince of Bel-Air S4D4",
+   "The Little Rascals S1D1",
    "The Monday Night War: WWE Raw vs. WCW Nitro D1",
    "The Munsters S1D1",
    "The Munsters S1D2",
