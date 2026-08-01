@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 11:32",
- "generated_ts": 1785601979,
+ "generated": "2026-08-01 11:53",
+ "generated_ts": 1785603182,
  "stats": {
   "episodes_matches": 4938,
   "titles_total": 453,
@@ -680,18 +680,18 @@
   "certified_estimate": 249,
   "workload": {
    "overall": 7,
-   "wrestling": 5,
-   "actionable": 37,
-   "waiting_on_you": 104,
-   "note": "37 items Claude can work now \u00b7 104 waiting on you (discs to rip + gaps)"
+   "wrestling": 4,
+   "actionable": 34,
+   "waiting_on_you": 107,
+   "note": "34 items Claude can work now \u00b7 107 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2306.7,
+   "used_gb": 1966.9,
    "total_gb": 11999.8,
-   "pct": 19,
+   "pct": 16,
    "online": true
   },
   {
@@ -947,6 +947,15 @@
     "matches": 0
    },
    {
+    "id": "set-38",
+    "rip": 38,
+    "name": "The Rise & Fall of WCW",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-39",
     "rip": 39,
     "name": "The Rise and Fall of ECW",
@@ -1118,6 +1127,15 @@
     "matches": 0
    },
    {
+    "id": "set-70",
+    "rip": 70,
+    "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-71",
     "rip": 71,
     "name": "WCW: The Best of Monday Nitro - Volume 2",
@@ -1249,6 +1267,15 @@
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
     "discs": "3",
     "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-87",
+    "rip": 87,
+    "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
+    "discs": "3",
+    "type": "matches",
     "stage": "Purchased",
     "matches": 0
    },
@@ -1559,15 +1586,6 @@
     "matches": 0
    },
    {
-    "id": "set-38",
-    "rip": 38,
-    "name": "The Rise & Fall of WCW",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-54",
     "rip": 54,
     "name": "TNA Wrestling: Best of the X Division, Vol. 2",
@@ -1608,24 +1626,6 @@
     "rip": 64,
     "name": "TNA Wrestling: World X Cup 2008",
     "discs": "1",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-70",
-    "rip": 70,
-    "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-87",
-    "rip": 87,
-    "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
-    "discs": "3",
     "type": "matches",
     "stage": "Ripped",
     "matches": 0
@@ -1866,8 +1866,8 @@
    }
   ],
   "counts": {
-   "Purchased": 92,
-   "Ripped": 10,
+   "Purchased": 95,
+   "Ripped": 7,
    "Scanned": 5,
    "Encoding": 0,
    "Filed": 20,
