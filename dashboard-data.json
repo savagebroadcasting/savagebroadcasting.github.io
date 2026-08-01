@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 17:54",
- "generated_ts": 1785624843,
+ "generated": "2026-08-01 18:14",
+ "generated_ts": 1785626046,
  "stats": {
   "episodes_matches": 4938,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 15,
-  "discs_week": 231,
-  "discs_month": 15,
-  "discs_alltime": 420,
+  "discs_today": 16,
+  "discs_week": 232,
+  "discs_month": 16,
+  "discs_alltime": 421,
   "discs_today_list": [
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -23,6 +23,7 @@
    "Get Smart S2D1",
    "Get Smart S2D2",
    "Get Smart S2D3",
+   "Get Smart S2D4",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -71,6 +72,7 @@
    "Get Smart S2D1",
    "Get Smart S2D2",
    "Get Smart S2D3",
+   "Get Smart S2D4",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -273,6 +275,7 @@
    "Get Smart S2D1",
    "Get Smart S2D2",
    "Get Smart S2D3",
+   "Get Smart S2D4",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -383,6 +386,7 @@
    "Get Smart S2D1",
    "Get Smart S2D2",
    "Get Smart S2D3",
+   "Get Smart S2D4",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -724,9 +728,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 794.6,
+   "used_gb": 798.6,
    "total_gb": 999.8,
-   "pct": 79,
+   "pct": 80,
    "online": true
   }
  ],
