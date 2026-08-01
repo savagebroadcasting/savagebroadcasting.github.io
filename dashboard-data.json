@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 07:12",
- "generated_ts": 1785586337,
+ "generated": "2026-08-01 07:32",
+ "generated_ts": 1785587540,
  "stats": {
   "episodes_matches": 4903,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 1,
-  "discs_week": 217,
-  "discs_month": 1,
-  "discs_alltime": 406,
+  "discs_today": 2,
+  "discs_week": 218,
+  "discs_month": 2,
+  "discs_alltime": 407,
   "discs_today_list": [
-   "The Little Rascals S1D1"
+   "The Little Rascals S1D1",
+   "The Little Rascals S1D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -196,6 +197,7 @@
    "The Dick Van Dyke Show S5D4",
    "The Dick Van Dyke Show S5D5",
    "The Little Rascals S1D1",
+   "The Little Rascals S1D2",
    "The Monday Night War: WWE Raw vs. WCW Nitro D1",
    "The Rise & Fall of WCW D1",
    "The Rise & Fall of WCW D2",
@@ -237,7 +239,8 @@
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
-   "The Little Rascals S1D1"
+   "The Little Rascals S1D1",
+   "The Little Rascals S1D2"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -591,6 +594,7 @@
    "The Dick Van Dyke Show S5D5",
    "The Fresh Prince of Bel-Air S4D4",
    "The Little Rascals S1D1",
+   "The Little Rascals S1D2",
    "The Monday Night War: WWE Raw vs. WCW Nitro D1",
    "The Munsters S1D1",
    "The Munsters S1D2",
@@ -661,7 +665,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2243.5,
+   "used_gb": 2248.1,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
