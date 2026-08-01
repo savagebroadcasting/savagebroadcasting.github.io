@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 06:12",
- "generated_ts": 1785582727,
+ "generated": "2026-08-01 06:16",
+ "generated_ts": 1785582980,
  "stats": {
   "episodes_matches": 4903,
   "titles_total": 453,
@@ -642,7 +642,7 @@
    "nWo: Back in Black D1"
   ],
   "certified": 25,
-  "certified_shows": 13,
+  "certified_shows": 15,
   "certified_estimate": 246,
   "workload": {
    "overall": 7,
