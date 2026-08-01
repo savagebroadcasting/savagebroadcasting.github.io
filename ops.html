@@ -39,6 +39,26 @@
   .acc.open>h4 .arw{transform:rotate(90deg)}
   .acc .body{display:none;padding:10px 12px;border-top:1px solid var(--line)}
   .acc.open .body{display:block}
+  .gauge{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:18px}
+  .gauge .top{display:flex;justify-content:space-between;align-items:baseline}
+  .gauge .lab{font-weight:600;font-size:15px}
+  .gauge .val{font-size:30px;font-weight:800;color:var(--teal)}
+  .gauge .track{height:14px;background:var(--line);border-radius:7px;overflow:hidden;margin:9px 0 6px}
+  .gauge .track>i{display:block;height:100%;border-radius:7px;background:var(--teal)}
+  .gauge .track>i.hot{background:#f0a05a}.gauge .track>i.crit{background:#f08a8a}
+  .gauge .note{color:var(--dim);font-size:12px}
+  .clik{cursor:pointer}.clik:hover{border-color:var(--teal)}
+  .clik .mag{position:absolute;top:8px;right:11px;color:var(--dim);font-size:12px}
+  .big{position:relative}
+  #modal{position:fixed;inset:0;background:rgba(0,0,0,.65);display:none;align-items:flex-start;justify-content:center;z-index:200;padding:38px 14px;overflow:auto}
+  #modal.on{display:flex}
+  #modal .box{background:var(--panel);border:1px solid var(--teal);border-radius:12px;max-width:580px;width:100%;padding:18px 20px}
+  #modal .box h3{margin:0 0 4px;color:var(--teal)}
+  #modal .box .sub{color:var(--dim);font-size:13px;margin-bottom:12px}
+  #modal .box .x{float:right;cursor:pointer;color:var(--dim);font-size:22px;line-height:1}
+  #modal ul{list-style:none;padding:0;margin:0;max-height:62vh;overflow:auto}
+  #modal li{padding:6px 9px;border-bottom:1px solid var(--line);font-size:14px}
+  #modal li:nth-child(odd){background:#0f2033}
   .kanban{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
   .col{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px;min-height:80px}
   .col h3{margin:0 0 8px;font-size:13px;color:var(--dim);text-transform:uppercase;letter-spacing:.5px;display:flex;justify-content:space-between}
@@ -63,6 +83,7 @@
 </style></head>
 <body>
 <div id="gate"><h1>Savage Broadcasting Co. — Ops</h1><input id="pw" type="password" placeholder="password" autofocus><div class="err" id="pwerr"></div></div>
+<div id="modal" onclick="if(event.target.id==='modal')this.classList.remove('on')"><div class="box"><span class="x" onclick="document.getElementById('modal').classList.remove('on')">✕</span><h3 id="mTitle"></h3><div class="sub" id="mSub"></div><ul id="mList"></ul></div></div>
 
 <header><h1>SBC Operations</h1><span class="stamp" id="stamp">loading…</span></header>
 <nav>
@@ -89,18 +110,28 @@ document.getElementById('pw').addEventListener('keyup',e=>{
     else{document.getElementById('pwerr').textContent='Nope, try again.';e.target.value='';} }
 });
 function bar(pct){const c=pct>=90?'crit':pct>=80?'hot':'';return `<div class="bar"><i class="${c}" style="width:${pct}%"></i></div>`;}
+function gauge(label,score,note){const s=score||1,pct=s*10,cls=s>=8?'crit':s>=5?'hot':'';return `<div class="gauge"><div class="top"><span class="lab">${label}</span><span class="val">${s}<span style="font-size:15px;color:var(--dim)">/10</span></span></div><div class="track"><i class="${cls}" style="width:${pct}%"></i></div><div class="note">${note||''}</div></div>`;}
+function drill(period){const list=(window._lists||{})[period]||[];const names={today:'Discs ripped today',week:'Discs ripped this week',month:'Discs ripped this month',alltime:'All discs ripped (logged)'};document.getElementById('mTitle').textContent=names[period]||'Discs';document.getElementById('mSub').textContent=list.length+' discs';document.getElementById('mList').innerHTML=list.length?list.map(x=>`<li>${x}</li>`).join(''):'<li>Nothing logged for this period.</li>';document.getElementById('modal').classList.add('on');}
 async function load(){
   let d; try{ d=await (await fetch('dashboard-data.json?_='+Date.now())).json(); }catch(e){ return; }
   document.getElementById('stamp').textContent='updated '+d.generated;
   const w=d.wrestling, c=w.counts, st=d.stats||{}, order=d.stage_order||['Purchased','Ripped','Scanned','Encoding','Filed','Certified'];
-  const bt=st.titles_by_type||{};
-  // Overview — big numbers
+  const bt=st.titles_by_type||{}, wl=st.workload||{overall:1,note:''};
+  window._lists={today:st.discs_today_list||[], week:st.discs_week_list||[], month:st.discs_month_list||[], alltime:st.discs_alltime_list||[]};
+  // Overview
   document.getElementById('overview').innerHTML=`
+    ${gauge('Work on Claude&#39;s plate right now', wl.overall, wl.note)}
     <div class="hero">
       <div class="big"><div class="n">${(st.episodes_matches||0).toLocaleString()}</div><div class="l">episodes &amp; matches in Plex</div></div>
       <div class="big"><div class="n">${st.titles_total||0}</div><div class="l">titles in the collection</div><div class="sub">${bt.TV||0} TV · ${bt.Movies||0} movies · ${bt.Wrestling||0} wrestling · ${bt['Blu-ray']||0} Blu-ray</div></div>
-      <div class="big"><div class="n">${st.discs_week||0}</div><div class="l">discs ripped this week</div><div class="sub">${st.discs_today||0} today</div></div>
-      <div class="big"><div class="n">${st.discs_month||0}</div><div class="l">discs ripped this month</div></div>
+      <div class="big"><div class="n">${st.certified||0}<span style="font-size:20px;color:var(--dim)"> / ~${st.certified_estimate||0}</span></div><div class="l">shows certified</div><div class="sub">watch this climb</div></div>
+    </div>
+    <h2>Discs ripped <span style="font-size:12px;color:var(--dim);font-weight:400">— tap a number to see the list</span></h2>
+    <div class="hero">
+      <div class="big clik" onclick="drill('today')"><span class="mag">🔍</span><div class="n">${st.discs_today||0}</div><div class="l">today</div></div>
+      <div class="big clik" onclick="drill('week')"><span class="mag">🔍</span><div class="n">${st.discs_week||0}</div><div class="l">this week</div></div>
+      <div class="big clik" onclick="drill('month')"><span class="mag">🔍</span><div class="n">${st.discs_month||0}</div><div class="l">this month</div></div>
+      <div class="big clik" onclick="drill('alltime')"><span class="mag">🔍</span><div class="n">${st.discs_alltime||0}</div><div class="l">all time (logged)</div></div>
     </div>
     <h2>Drives</h2>
     <div class="cards">${d.drives.map(dr=>dr.online?`<div class="stat"><div class="l">${dr.label}</div><div class="n" style="font-size:22px">${dr.used_gb} / ${dr.total_gb} GB</div>${bar(dr.pct)}<div class="l">${dr.pct}% used</div></div>`:`<div class="stat"><div class="l">${dr.label}</div><div class="muted">offline</div></div>`).join('')}</div>
@@ -110,6 +141,7 @@ async function load(){
   loadQueue();
   // Wrestling — collapsible pipeline stages
   document.getElementById('wrestling').innerHTML=`
+    ${gauge('Wrestling backlog on Claude&#39;s plate', (wl.wrestling||1), (c.Purchased||0)+' sets still to rip · '+w.total_matches+' matches cut so far')}
     <div class="hero">
       <div class="big"><div class="n">${w.total_matches}</div><div class="l">matches cut &amp; filed</div></div>
       <div class="big"><div class="n">${w.total_sets}</div><div class="l">sets tracked</div></div>
