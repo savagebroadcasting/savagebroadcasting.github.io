@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 01:31",
- "generated_ts": 1785565877,
+ "generated": "2026-08-01 01:48",
+ "generated_ts": 1785566927,
  "stats": {
   "episodes_matches": 4903,
   "titles_total": 453,
@@ -641,8 +641,8 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "nWo: Back in Black D1"
   ],
-  "certified": 57,
-  "certified_shows": 18,
+  "certified": 19,
+  "certified_shows": 12,
   "certified_estimate": 246,
   "workload": {
    "overall": 7,
@@ -655,7 +655,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2228.8,
+   "used_gb": 2231.6,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
