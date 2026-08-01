@@ -1,10 +1,23 @@
 {
- "generated": "2026-07-31 19:28",
- "generated_ts": 1785544080,
+ "generated": "2026-07-31 19:50",
+ "generated_ts": 1785545430,
+ "stats": {
+  "episodes_matches": 4848,
+  "titles_total": 453,
+  "titles_by_type": {
+   "TV": 61,
+   "Movies": 228,
+   "Wrestling": 116,
+   "Blu-ray": 48
+  },
+  "discs_week": 247,
+  "discs_month": 405,
+  "discs_today": 17
+ },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2127.9,
+   "used_gb": 2134.1,
    "total_gb": 11999.8,
    "pct": 18,
    "online": true
@@ -25,6 +38,14 @@
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
   "Mad Men (2007) \u2014 Season 4, Disc 1   (missing e3)",
   "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)"
+ ],
+ "stage_order": [
+  "Purchased",
+  "Ripped",
+  "Scanned",
+  "Encoding",
+  "Filed",
+  "Certified"
  ],
  "wrestling": {
   "sets": [
@@ -1176,7 +1197,9 @@
    "Purchased": 92,
    "Ripped": 12,
    "Scanned": 6,
-   "Filed": 17
+   "Encoding": 0,
+   "Filed": 17,
+   "Certified": 0
   },
   "total_sets": 127,
   "total_matches": 205
