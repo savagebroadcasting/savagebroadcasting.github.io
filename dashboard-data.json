@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-01 07:32",
- "generated_ts": 1785587540,
+ "generated": "2026-08-01 07:52",
+ "generated_ts": 1785588743,
  "stats": {
-  "episodes_matches": 4903,
+  "episodes_matches": 4905,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -657,15 +657,15 @@
   "workload": {
    "overall": 7,
    "wrestling": 5,
-   "actionable": 36,
+   "actionable": 37,
    "waiting_on_you": 104,
-   "note": "36 items Claude can work now \u00b7 104 waiting on you (discs to rip + gaps)"
+   "note": "37 items Claude can work now \u00b7 104 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2248.1,
+   "used_gb": 2247.2,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
@@ -1685,7 +1685,7 @@
     "discs": "2",
     "type": "matches",
     "stage": "Filed",
-    "matches": 8
+    "matches": 17
    },
    {
     "id": "set-17",
@@ -1850,6 +1850,6 @@
    "Certified": 0
   },
   "total_sets": 127,
-  "total_matches": 231
+  "total_matches": 240
  }
 }
