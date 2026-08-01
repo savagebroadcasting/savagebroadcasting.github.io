@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-31 16:35",
-  "now": "Away-mode: encoding match titles from ECW_ONE_NIGHT_STAND_2006_2006_D1 (dashboard shows progress).",
+  "now": "Away-mode: encoding match titles from BLOOD_SPORT_ECWS_MOST_VIOLENT_MATCHES_2006_D2 (dashboard shows progress).",
   "legend": {
     "done": "done",
     "prog": "in progress",
@@ -41,6 +41,10 @@
     {
       "title": "Wrestling \u2014 cutting into matches (WCW first)",
       "items": [
+        {
+          "t": "Backfill 'Full Disc' whole-disc playback onto ALL sets (new + already-filed) \u2014 Randy's ask, files already staged",
+          "s": "queued"
+        },
         {
           "t": "WCW's Greatest Pay-Per-View Matches Vol. 1 \u2014 21 matches, live + theme",
           "s": "done"
