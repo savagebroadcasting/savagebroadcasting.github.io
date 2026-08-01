@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-01 10:32",
- "generated_ts": 1785598369,
+ "generated": "2026-08-01 10:52",
+ "generated_ts": 1785599573,
  "stats": {
   "episodes_matches": 4938,
   "titles_total": 453,
@@ -10,11 +10,12 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 7,
-  "discs_week": 223,
-  "discs_month": 7,
-  "discs_alltime": 412,
+  "discs_today": 8,
+  "discs_week": 224,
+  "discs_month": 8,
+  "discs_alltime": 413,
   "discs_today_list": [
+   "Get Smart S1D1",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -55,6 +56,7 @@
    "ECW One Night Stand 2006 D2",
    "ECW: Extreme Rules D1",
    "ECW: Extreme Rules D2",
+   "Get Smart S1D1",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -249,6 +251,7 @@
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
+   "Get Smart S1D1",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -351,6 +354,7 @@
    "Freaks and Geeks S1D4",
    "Freaks and Geeks S1D5",
    "Freaks and Geeks S1D6",
+   "Get Smart S1D1",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -685,7 +689,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2291.1,
+   "used_gb": 2294.1,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
