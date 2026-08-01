@@ -1,8 +1,8 @@
 {
- "generated": "2026-07-31 21:52",
- "generated_ts": 1785552743,
+ "generated": "2026-07-31 21:56",
+ "generated_ts": 1785552982,
  "stats": {
-  "episodes_matches": 4848,
+  "episodes_matches": 4903,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -1098,17 +1098,19 @@
   ],
   "certified": 58,
   "certified_shows": 18,
-  "certified_estimate": 234,
+  "certified_estimate": 246,
   "workload": {
-   "overall": 10,
-   "wrestling": 8,
-   "note": "110 wrestling sets in the pipeline \u00b7 32 open tasks in the queue"
+   "overall": 7,
+   "wrestling": 5,
+   "actionable": 36,
+   "waiting_on_you": 103,
+   "note": "36 items Claude can work now \u00b7 103 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2187.7,
+   "used_gb": 2188.0,
    "total_gb": 11999.8,
    "pct": 18,
    "online": true
@@ -1969,15 +1971,6 @@
     "matches": 0
    },
    {
-    "id": "set-17",
-    "rip": 17,
-    "name": "Hollywood Hulk Hogan: Hulk Still Rules",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-29",
     "rip": 29,
     "name": "Rob Van Dam: One of a Kind",
@@ -2068,29 +2061,11 @@
     "matches": 0
    },
    {
-    "id": "set-127",
-    "rip": 127,
-    "name": "The Monday Night War: WWE Raw vs. WCW Nitro (2004)",
-    "discs": "1",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-3",
     "rip": 3,
     "name": "Blood Sport: ECW's Most Violent Matches",
     "discs": "2",
     "type": "matches",
-    "stage": "Scanned",
-    "matches": 0
-   },
-   {
-    "id": "set-23",
-    "rip": 23,
-    "name": "nWo: Back in Black",
-    "discs": "1",
-    "type": "mixed",
     "stage": "Scanned",
     "matches": 0
    },
@@ -2155,7 +2130,16 @@
     "discs": "2",
     "type": "matches",
     "stage": "Filed",
-    "matches": 17
+    "matches": 8
+   },
+   {
+    "id": "set-17",
+    "rip": 17,
+    "name": "Hollywood Hulk Hogan: Hulk Still Rules",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 22
    },
    {
     "id": "set-21",
@@ -2165,6 +2149,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 15
+   },
+   {
+    "id": "set-23",
+    "rip": 23,
+    "name": "nWo: Back in Black",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 5
    },
    {
     "id": "set-26",
@@ -2282,17 +2275,26 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 2
+   },
+   {
+    "id": "set-127",
+    "rip": 127,
+    "name": "The Monday Night War: WWE Raw vs. WCW Nitro (2004)",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 8
    }
   ],
   "counts": {
    "Purchased": 92,
-   "Ripped": 12,
-   "Scanned": 6,
+   "Ripped": 10,
+   "Scanned": 5,
    "Encoding": 0,
-   "Filed": 17,
+   "Filed": 20,
    "Certified": 0
   },
   "total_sets": 127,
-  "total_matches": 205
+  "total_matches": 231
  }
 }
