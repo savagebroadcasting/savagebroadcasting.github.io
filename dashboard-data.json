@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 17:00",
- "generated_ts": 1785708049,
+ "generated": "2026-08-02 17:20",
+ "generated_ts": 1785709252,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 18,
-  "discs_week": 236,
-  "discs_month": 39,
-  "discs_alltime": 444,
+  "discs_today": 19,
+  "discs_week": 237,
+  "discs_month": 40,
+  "discs_alltime": 445,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -23,6 +23,7 @@
    "Get Smart S5D3",
    "Get Smart S5D4",
    "Hard Knocks: The Chris Benoit Story D1",
+   "Hard Knocks: The Chris Benoit Story D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
@@ -110,6 +111,7 @@
    "Happy Days S2D3",
    "Happy Days S2D4",
    "Hard Knocks: The Chris Benoit Story D1",
+   "Hard Knocks: The Chris Benoit Story D2",
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
@@ -295,6 +297,7 @@
    "Get Smart S5D3",
    "Get Smart S5D4",
    "Hard Knocks: The Chris Benoit Story D1",
+   "Hard Knocks: The Chris Benoit Story D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "The Little Rascals S1D1",
@@ -471,6 +474,7 @@
    "Happy Days S2D3",
    "Happy Days S2D4",
    "Hard Knocks: The Chris Benoit Story D1",
+   "Hard Knocks: The Chris Benoit Story D2",
    "He-Man and the Masters of the Universe S1D1",
    "He-Man and the Masters of the Universe S1D2",
    "He-Man and the Masters of the Universe S1D3",
@@ -780,9 +784,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 793.3,
+   "used_gb": 800.3,
    "total_gb": 999.8,
-   "pct": 79,
+   "pct": 80,
    "online": true
   }
  ],
