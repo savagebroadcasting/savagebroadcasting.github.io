@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 07:36",
- "generated_ts": 1785674209,
+ "generated": "2026-08-02 07:56",
+ "generated_ts": 1785675412,
  "stats": {
   "episodes_matches": 5228,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 1,
-  "discs_week": 219,
-  "discs_month": 22,
-  "discs_alltime": 427,
+  "discs_today": 2,
+  "discs_week": 220,
+  "discs_month": 23,
+  "discs_alltime": 428,
   "discs_today_list": [
-   "Get Smart S4D2"
+   "Get Smart S4D2",
+   "Get Smart S4D3"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -64,6 +65,7 @@
    "Get Smart S3D4",
    "Get Smart S4D1",
    "Get Smart S4D2",
+   "Get Smart S4D3",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -254,6 +256,7 @@
    "Get Smart S3D4",
    "Get Smart S4D1",
    "Get Smart S4D2",
+   "Get Smart S4D3",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -371,6 +374,7 @@
    "Get Smart S3D4",
    "Get Smart S4D1",
    "Get Smart S4D2",
+   "Get Smart S4D3",
    "Gilligan's Island S1D1",
    "Gilligan's Island S1D2",
    "Gilligan's Island S1D3",
@@ -705,7 +709,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2013.8,
+   "used_gb": 2018.5,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
