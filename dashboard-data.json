@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 15:00",
- "generated_ts": 1785700829,
+ "generated": "2026-08-02 15:20",
+ "generated_ts": 1785702032,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 13,
-  "discs_week": 231,
-  "discs_month": 34,
-  "discs_alltime": 439,
+  "discs_today": 14,
+  "discs_week": 232,
+  "discs_month": 35,
+  "discs_alltime": 440,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -25,6 +25,7 @@
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "WWE: The History of the Intercontinental Championship D1",
+   "WWE: The History of the Intercontinental Championship D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3"
@@ -254,6 +255,7 @@
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
    "WWE: The History of the Intercontinental Championship D1",
+   "WWE: The History of the Intercontinental Championship D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -294,6 +296,7 @@
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
    "WWE: The History of the Intercontinental Championship D1",
+   "WWE: The History of the Intercontinental Championship D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3"
@@ -731,6 +734,7 @@
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
    "WWE: The History of the Intercontinental Championship D1",
+   "WWE: The History of the Intercontinental Championship D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -760,9 +764,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 751.0,
+   "used_gb": 757.9,
    "total_gb": 999.8,
-   "pct": 75,
+   "pct": 76,
    "online": true
   }
  ],
