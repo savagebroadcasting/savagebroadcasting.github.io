@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 15:40",
- "generated_ts": 1785703236,
+ "generated": "2026-08-02 16:00",
+ "generated_ts": 1785704439,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 14,
-  "discs_week": 232,
-  "discs_month": 35,
-  "discs_alltime": 440,
+  "discs_today": 15,
+  "discs_week": 233,
+  "discs_month": 36,
+  "discs_alltime": 441,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -26,6 +26,7 @@
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
+   "WWE: The History of the Intercontinental Championship D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3"
@@ -256,6 +257,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
+   "WWE: The History of the Intercontinental Championship D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -297,6 +299,7 @@
    "The Little Rascals S1D7",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
+   "WWE: The History of the Intercontinental Championship D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3"
@@ -735,6 +738,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
+   "WWE: The History of the Intercontinental Championship D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -764,7 +768,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 765.1,
+   "used_gb": 772.5,
    "total_gb": 999.8,
    "pct": 77,
    "online": true
