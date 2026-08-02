@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 12:37",
- "generated_ts": 1785692259,
+ "generated": "2026-08-02 12:57",
+ "generated_ts": 1785693463,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 7,
-  "discs_week": 225,
-  "discs_month": 28,
-  "discs_alltime": 433,
+  "discs_today": 8,
+  "discs_week": 226,
+  "discs_month": 29,
+  "discs_alltime": 434,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -21,7 +21,8 @@
    "Get Smart S5D1",
    "Get Smart S5D2",
    "Get Smart S5D3",
-   "Get Smart S5D4"
+   "Get Smart S5D4",
+   "WWE: The Very Best of WCW Monday Nitro D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -245,6 +246,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
@@ -278,7 +280,8 @@
    "The Little Rascals S1D4",
    "The Little Rascals S1D5",
    "The Little Rascals S1D6",
-   "The Little Rascals S1D7"
+   "The Little Rascals S1D7",
+   "WWE: The Very Best of WCW Monday Nitro D1"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -710,6 +713,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
@@ -736,9 +740,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 720.8,
+   "used_gb": 725.0,
    "total_gb": 999.8,
-   "pct": 72,
+   "pct": 73,
    "online": true
   }
  ],
