@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 13:40",
- "generated_ts": 1785696016,
+ "generated": "2026-08-02 14:00",
+ "generated_ts": 1785697220,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 9,
-  "discs_week": 227,
-  "discs_month": 30,
-  "discs_alltime": 435,
+  "discs_today": 10,
+  "discs_week": 228,
+  "discs_month": 31,
+  "discs_alltime": 436,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -23,7 +23,8 @@
    "Get Smart S5D3",
    "Get Smart S5D4",
    "WWE: The Very Best of WCW Monday Nitro D1",
-   "WWE: The Very Best of WCW Monday Nitro D2"
+   "WWE: The Very Best of WCW Monday Nitro D2",
+   "WWE: The Very Best of WCW Monday Nitro D3"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -249,6 +250,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
+   "WWE: The Very Best of WCW Monday Nitro D3",
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
@@ -284,7 +286,8 @@
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
    "WWE: The Very Best of WCW Monday Nitro D1",
-   "WWE: The Very Best of WCW Monday Nitro D2"
+   "WWE: The Very Best of WCW Monday Nitro D2",
+   "WWE: The Very Best of WCW Monday Nitro D3"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -718,6 +721,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
+   "WWE: The Very Best of WCW Monday Nitro D3",
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
