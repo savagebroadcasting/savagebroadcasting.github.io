@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-03 18:11",
- "generated_ts": 1785798686,
+ "generated": "2026-08-03 18:31",
+ "generated_ts": 1785799890,
  "stats": {
-  "episodes_matches": 5302,
+  "episodes_matches": 5326,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 24,
-  "discs_week": 241,
-  "discs_month": 78,
-  "discs_alltime": 483,
+  "discs_today": 25,
+  "discs_week": 242,
+  "discs_month": 79,
+  "discs_alltime": 484,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -36,6 +36,7 @@
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
+   "WWE: The History of the WWE Championship D1",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3"
@@ -266,6 +267,7 @@
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
+   "WWE: The History of the WWE Championship D1",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -350,6 +352,7 @@
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
+   "WWE: The History of the WWE Championship D1",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -831,6 +834,7 @@
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
+   "WWE: The History of the WWE Championship D1",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -850,26 +854,26 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 260,
+  "certified_estimate": 262,
   "workload": {
    "overall": 7,
    "wrestling": 4,
-   "actionable": 34,
+   "actionable": 33,
    "waiting_on_you": 112,
-   "note": "34 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
+   "note": "33 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2043.0,
+   "used_gb": 2044.4,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 878.1,
+   "used_gb": 881.4,
    "total_gb": 999.8,
    "pct": 88,
    "online": true
@@ -1796,15 +1800,6 @@
     "matches": 0
    },
    {
-    "id": "set-29",
-    "rip": 29,
-    "name": "Rob Van Dam: One of a Kind",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-54",
     "rip": 54,
     "name": "TNA Wrestling: Best of the X Division, Vol. 2",
@@ -1967,6 +1962,15 @@
     "matches": 22
    },
    {
+    "id": "set-29",
+    "rip": 29,
+    "name": "Rob Van Dam: One of a Kind",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 7
+   },
+   {
     "id": "set-33",
     "rip": 33,
     "name": "The Best of Sting: The Ultimate Collection",
@@ -2104,13 +2108,13 @@
   ],
   "counts": {
    "Purchased": 100,
-   "Ripped": 7,
+   "Ripped": 6,
    "Scanned": 5,
    "Encoding": 0,
-   "Filed": 22,
+   "Filed": 23,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 244
+  "total_matches": 251
  }
 }
