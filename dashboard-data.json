@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 07:05",
- "generated_ts": 1785758740,
+ "generated": "2026-08-03 07:25",
+ "generated_ts": 1785759943,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,16 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 5,
-  "discs_week": 222,
-  "discs_month": 59,
-  "discs_alltime": 464,
+  "discs_today": 6,
+  "discs_week": 223,
+  "discs_month": 60,
+  "discs_alltime": 465,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "WCW vs. Japan Supershow 2 D1",
-   "WCW vs. Japan Supershow 3 D1"
+   "WCW vs. Japan Supershow 3 D1",
+   "WWE: The Best of Saturday Night's Main Event D1"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -227,6 +228,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -292,6 +294,7 @@
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -754,6 +757,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -793,7 +797,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 816.5,
+   "used_gb": 823.0,
    "total_gb": 999.8,
    "pct": 82,
    "online": true
