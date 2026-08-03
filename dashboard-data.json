@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 10:08",
- "generated_ts": 1785769681,
+ "generated": "2026-08-03 10:28",
+ "generated_ts": 1785770885,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,16 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 10,
-  "discs_week": 227,
-  "discs_month": 64,
-  "discs_alltime": 469,
+  "discs_today": 11,
+  "discs_week": 228,
+  "discs_month": 65,
+  "discs_alltime": 470,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Nature Boy Ric Flair: The Definitive Collection D1",
    "Nature Boy Ric Flair: The Definitive Collection D2",
+   "Nature Boy Ric Flair: The Definitive Collection D3",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
    "WWE: The Best of Saturday Night's Main Event D1",
@@ -156,6 +157,7 @@
    "Muppet Babies S3D3",
    "Nature Boy Ric Flair: The Definitive Collection D1",
    "Nature Boy Ric Flair: The Definitive Collection D2",
+   "Nature Boy Ric Flair: The Definitive Collection D3",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -287,6 +289,7 @@
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
    "Nature Boy Ric Flair: The Definitive Collection D2",
+   "Nature Boy Ric Flair: The Definitive Collection D3",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -575,6 +578,7 @@
    "Muppet Babies S7D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
    "Nature Boy Ric Flair: The Definitive Collection D2",
+   "Nature Boy Ric Flair: The Definitive Collection D3",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -806,16 +810,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2041.0,
+   "used_gb": 2041.2,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 870.9,
+   "used_gb": 878.0,
    "total_gb": 999.8,
-   "pct": 87,
+   "pct": 88,
    "online": true
   }
  ],
