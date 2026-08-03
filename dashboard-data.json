@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 11:28",
- "generated_ts": 1785774503,
+ "generated": "2026-08-03 11:48",
+ "generated_ts": 1785775707,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 13,
-  "discs_week": 230,
-  "discs_month": 67,
-  "discs_alltime": 472,
+  "discs_today": 14,
+  "discs_week": 231,
+  "discs_month": 68,
+  "discs_alltime": 473,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -25,6 +25,7 @@
    "WCW vs. Japan Supershow 3 D1",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D1",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D2",
+   "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D3",
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3"
@@ -240,6 +241,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D1",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D2",
+   "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D3",
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
@@ -313,6 +315,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D1",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D2",
+   "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D3",
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
@@ -783,6 +786,7 @@
    "WWE: Sting - Into the Light D3",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D1",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D2",
+   "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D3",
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
@@ -818,14 +822,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2041.4,
+   "used_gb": 2041.5,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 896.9,
+   "used_gb": 900.9,
    "total_gb": 999.8,
    "pct": 90,
    "online": true
