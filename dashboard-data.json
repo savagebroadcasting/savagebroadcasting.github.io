@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 18:31",
- "generated_ts": 1785799890,
+ "generated": "2026-08-03 18:51",
+ "generated_ts": 1785801093,
  "stats": {
   "episodes_matches": 5326,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 25,
-  "discs_week": 242,
-  "discs_month": 79,
-  "discs_alltime": 484,
+  "discs_today": 26,
+  "discs_week": 243,
+  "discs_month": 80,
+  "discs_alltime": 485,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -37,6 +37,7 @@
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
    "WWE: The History of the WWE Championship D1",
+   "WWE: The History of the WWE Championship D2",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3"
@@ -268,6 +269,7 @@
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the WWE Championship D1",
+   "WWE: The History of the WWE Championship D2",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -353,6 +355,7 @@
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the WWE Championship D1",
+   "WWE: The History of the WWE Championship D2",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -835,6 +838,7 @@
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the WWE Championship D1",
+   "WWE: The History of the WWE Championship D2",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
    "WWE: The History of the World Heavyweight Championship D3",
@@ -866,16 +870,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2044.4,
+   "used_gb": 2045.3,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 881.4,
+   "used_gb": 887.3,
    "total_gb": 999.8,
-   "pct": 88,
+   "pct": 89,
    "online": true
   }
  ],
