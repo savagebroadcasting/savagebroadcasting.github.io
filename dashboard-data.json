@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 09:47",
- "generated_ts": 1785768477,
+ "generated": "2026-08-03 10:08",
+ "generated_ts": 1785769681,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -813,9 +813,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 863.3,
+   "used_gb": 870.9,
    "total_gb": 999.8,
-   "pct": 86,
+   "pct": 87,
    "online": true
   }
  ],
