@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 20:41",
- "generated_ts": 1785721287,
+ "generated": "2026-08-02 21:01",
+ "generated_ts": 1785722490,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,11 +10,12 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 29,
-  "discs_week": 247,
-  "discs_month": 50,
-  "discs_alltime": 455,
+  "discs_today": 31,
+  "discs_week": 249,
+  "discs_month": 52,
+  "discs_alltime": 457,
   "discs_today_list": [
+   "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S4D2",
    "Get Smart S4D3",
    "Get Smart S4D4",
@@ -32,6 +33,7 @@
    "Tales from the Territories D3",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
@@ -77,6 +79,7 @@
    "ECW One Night Stand 2006 D2",
    "ECW: Extreme Rules D1",
    "ECW: Extreme Rules D2",
+   "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
    "Get Smart S1D3",
@@ -277,6 +280,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
@@ -295,6 +299,7 @@
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
+   "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
    "Get Smart S1D3",
@@ -333,6 +338,7 @@
    "The Little Rascals S1D7",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
@@ -434,6 +440,7 @@
    "ECW One Night Stand 2006 D2",
    "ECW: Extreme Rules D1",
    "ECW: Extreme Rules D2",
+   "ESPN Films 30 for 30: Nature Boy D1",
    "Freaks and Geeks S1D1",
    "Freaks and Geeks S1D2",
    "Freaks and Geeks S1D3",
@@ -786,6 +793,7 @@
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
+   "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
    "WWE: The History of the Intercontinental Championship D3",
@@ -824,9 +832,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 823.2,
+   "used_gb": 829.4,
    "total_gb": 999.8,
-   "pct": 82,
+   "pct": 83,
    "online": true
   }
  ],
