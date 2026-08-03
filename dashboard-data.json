@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 04:25",
- "generated_ts": 1785749110,
+ "generated": "2026-08-03 04:45",
+ "generated_ts": 1785750313,
  "stats": {
   "episodes_matches": 5297,
   "titles_total": 453,
@@ -10,12 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 217,
-  "discs_month": 54,
-  "discs_alltime": 459,
-  "discs_today_list": [],
+  "discs_today": 3,
+  "discs_week": 220,
+  "discs_month": 57,
+  "discs_alltime": 462,
+  "discs_today_list": [
+   "Allied Powers: The World's Greatest Tag Teams D1",
+   "WCW vs. Japan Supershow 2 D1",
+   "WCW vs. Japan Supershow 3 D1"
+  ],
   "discs_week_list": [
+   "Allied Powers: The World's Greatest Tag Teams D1",
    "Beverly Hills, 90210 S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -198,6 +203,8 @@
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
    "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan Supershow 2 D1",
+   "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
@@ -235,6 +242,7 @@
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
+   "Allied Powers: The World's Greatest Tag Teams D1",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -273,6 +281,8 @@
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
    "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan Supershow 2 D1",
+   "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
@@ -306,6 +316,7 @@
    "ALF S3D3",
    "ALF S3D4",
    "ALF S9D9",
+   "Allied Powers: The World's Greatest Tag Teams D1",
    "Are You Afraid of the Dark? S1D1",
    "Are You Afraid of the Dark? S1D7",
    "Are You Afraid of the Dark? S2D1",
@@ -715,6 +726,8 @@
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
    "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan Supershow 2 D1",
+   "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
@@ -772,9 +785,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 797.0,
+   "used_gb": 805.3,
    "total_gb": 999.8,
-   "pct": 80,
+   "pct": 81,
    "online": true
   }
  ],
