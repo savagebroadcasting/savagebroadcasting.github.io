@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 21:21",
- "generated_ts": 1785723693,
+ "generated": "2026-08-02 21:41",
+ "generated_ts": 1785724897,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -833,22 +833,25 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2062.6,
+   "used_gb": 2086.1,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 833.9,
+   "used_gb": 816.7,
    "total_gb": 999.8,
-   "pct": 83,
+   "pct": 82,
    "online": true
   }
  ],
  "discs_needed": [
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
+  "Get Smart (1965) \u2014 Season 5, Disc 2   (missing e11-e14)",
+  "Get Smart (1965) \u2014 Season 5, Disc 3   (missing e15-e20)",
+  "Get Smart (1965) \u2014 Season 5, Disc 4   (missing e21-e26)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "Happy Days (1974) \u2014 Season 1, Disc 1   (missing e5)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
