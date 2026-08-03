@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 17:31",
- "generated_ts": 1785796278,
+ "generated": "2026-08-03 17:51",
+ "generated_ts": 1785797482,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 23,
-  "discs_week": 240,
-  "discs_month": 77,
-  "discs_alltime": 482,
+  "discs_today": 24,
+  "discs_week": 241,
+  "discs_month": 78,
+  "discs_alltime": 483,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -37,7 +37,8 @@
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
    "WWE: The History of the World Heavyweight Championship D1",
-   "WWE: The History of the World Heavyweight Championship D2"
+   "WWE: The History of the World Heavyweight Championship D2",
+   "WWE: The History of the World Heavyweight Championship D3"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -267,6 +268,7 @@
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
+   "WWE: The History of the World Heavyweight Championship D3",
    "WWE: The Legacy of Stone Cold Steve Austin D1",
    "WWE: The Legacy of Stone Cold Steve Austin D2",
    "WWE: The Legacy of Stone Cold Steve Austin D3",
@@ -350,6 +352,7 @@
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
+   "WWE: The History of the World Heavyweight Championship D3",
    "WWE: The Legacy of Stone Cold Steve Austin D1",
    "WWE: The Legacy of Stone Cold Steve Austin D2",
    "WWE: The Legacy of Stone Cold Steve Austin D3",
@@ -830,6 +833,7 @@
    "WWE: The History of the Intercontinental Championship D3",
    "WWE: The History of the World Heavyweight Championship D1",
    "WWE: The History of the World Heavyweight Championship D2",
+   "WWE: The History of the World Heavyweight Championship D3",
    "WWE: The Legacy of Stone Cold Steve Austin D1",
    "WWE: The Legacy of Stone Cold Steve Austin D2",
    "WWE: The Legacy of Stone Cold Steve Austin D3",
@@ -865,9 +869,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 863.9,
+   "used_gb": 870.7,
    "total_gb": 999.8,
-   "pct": 86,
+   "pct": 87,
    "online": true
   }
  ],
