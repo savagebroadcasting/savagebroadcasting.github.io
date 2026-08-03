@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 19:01",
- "generated_ts": 1785715269,
+ "generated": "2026-08-02 19:21",
+ "generated_ts": 1785716472,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 22,
-  "discs_week": 240,
-  "discs_month": 43,
-  "discs_alltime": 448,
+  "discs_today": 23,
+  "discs_week": 241,
+  "discs_month": 44,
+  "discs_alltime": 449,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -36,7 +36,8 @@
    "WWE: The Legacy of Stone Cold Steve Austin D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
-   "WWE: The Very Best of WCW Monday Nitro D3"
+   "WWE: The Very Best of WCW Monday Nitro D3",
+   "WWF Hardcore D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -278,6 +279,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
+   "WWF Hardcore D1",
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
@@ -323,7 +325,8 @@
    "WWE: The Legacy of Stone Cold Steve Austin D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
-   "WWE: The Very Best of WCW Monday Nitro D3"
+   "WWE: The Very Best of WCW Monday Nitro D3",
+   "WWF Hardcore D1"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -773,6 +776,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D1",
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
+   "WWF Hardcore D1",
    "nWo: Back in Black D1"
   ],
   "certified": 43,
@@ -796,7 +800,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 789.1,
+   "used_gb": 794.3,
    "total_gb": 999.8,
    "pct": 79,
    "online": true
