@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 09:27",
- "generated_ts": 1785767272,
+ "generated": "2026-08-03 09:47",
+ "generated_ts": 1785768477,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,15 +10,16 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 9,
-  "discs_week": 226,
-  "discs_month": 63,
-  "discs_alltime": 468,
+  "discs_today": 10,
+  "discs_week": 227,
+  "discs_month": 64,
+  "discs_alltime": 469,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Nature Boy Ric Flair: The Definitive Collection D1",
+   "Nature Boy Ric Flair: The Definitive Collection D2",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
    "WWE: The Best of Saturday Night's Main Event D1",
@@ -154,6 +155,7 @@
    "Married... with Children S9D2",
    "Muppet Babies S3D3",
    "Nature Boy Ric Flair: The Definitive Collection D1",
+   "Nature Boy Ric Flair: The Definitive Collection D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -284,6 +286,7 @@
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
+   "Nature Boy Ric Flair: The Definitive Collection D2",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -571,6 +574,7 @@
    "Muppet Babies S6D2",
    "Muppet Babies S7D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
+   "Nature Boy Ric Flair: The Definitive Collection D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -809,7 +813,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 855.8,
+   "used_gb": 863.3,
    "total_gb": 999.8,
    "pct": 86,
    "online": true
