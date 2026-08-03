@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 21:01",
- "generated_ts": 1785722490,
+ "generated": "2026-08-02 21:21",
+ "generated_ts": 1785723693,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 31,
-  "discs_week": 249,
-  "discs_month": 52,
-  "discs_alltime": 457,
+  "discs_today": 33,
+  "discs_week": 251,
+  "discs_month": 54,
+  "discs_alltime": 459,
   "discs_today_list": [
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S4D2",
@@ -31,6 +31,8 @@
    "Tales from the Territories D1",
    "Tales from the Territories D2",
    "Tales from the Territories D3",
+   "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: The Best of the Intercontinental Championship D1",
@@ -263,6 +265,8 @@
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
+   "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan: Collision in Korea D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
@@ -336,6 +340,8 @@
    "The Little Rascals S1D5",
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
+   "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: The Best of the Intercontinental Championship D1",
@@ -776,6 +782,8 @@
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
+   "WCW vs. Japan Supershow 1 D1",
+   "WCW vs. Japan: Collision in Korea D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
@@ -832,7 +840,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 829.4,
+   "used_gb": 833.9,
    "total_gb": 999.8,
    "pct": 83,
    "online": true
