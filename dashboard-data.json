@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-03 08:05",
- "generated_ts": 1785762351,
+ "generated": "2026-08-03 08:27",
+ "generated_ts": 1785763656,
  "stats": {
   "episodes_matches": 5302,
   "titles_total": 453,
@@ -10,17 +10,18 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 6,
-  "discs_week": 223,
-  "discs_month": 60,
-  "discs_alltime": 465,
+  "discs_today": 7,
+  "discs_week": 224,
+  "discs_month": 61,
+  "discs_alltime": 466,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
-   "WWE: The Best of Saturday Night's Main Event D1"
+   "WWE: The Best of Saturday Night's Main Event D1",
+   "WWE: The Best of Saturday Night's Main Event D2"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -229,6 +230,7 @@
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
    "WWE: The Best of Saturday Night's Main Event D1",
+   "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -295,6 +297,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: The Best of Saturday Night's Main Event D1",
+   "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -758,6 +761,7 @@
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
    "WWE: The Best of Saturday Night's Main Event D1",
+   "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D1",
    "WWE: The History of the Intercontinental Championship D2",
@@ -780,24 +784,21 @@
   "certified_shows": 15,
   "certified_estimate": 260,
   "workload": {
-   "overall": 7,
-   "wrestling": 4,
-   "actionable": 34,
-   "waiting_on_you": 112,
-   "note": "34 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
+   "overall": 5,
+   "wrestling": 2,
+   "actionable": 27,
+   "waiting_on_you": 119,
+   "note": "27 items Claude can work now \u00b7 119 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2037.2,
-   "total_gb": 11999.8,
-   "pct": 17,
-   "online": true
+   "online": false
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 830.5,
+   "used_gb": 834.6,
    "total_gb": 999.8,
    "pct": 83,
    "online": true
@@ -1004,6 +1005,15 @@
     "matches": 0
    },
    {
+    "id": "set-29",
+    "rip": 29,
+    "name": "Rob Van Dam: One of a Kind",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-30",
     "rip": 30,
     "name": "Starrcade: The Essential Collection (1983-2000)",
@@ -1187,6 +1197,51 @@
     "id": "set-53",
     "rip": 53,
     "name": "TNA One Night Only: X-Travaganza",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-54",
+    "rip": 54,
+    "name": "TNA Wrestling: Best of the X Division, Vol. 2",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-55",
+    "rip": 55,
+    "name": "TNA Wrestling: Hardcore Justice 2010",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-56",
+    "rip": 56,
+    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-57",
+    "rip": 57,
+    "name": "TNA Wrestling: Kurt Angle - Champion",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-64",
+    "rip": 64,
+    "name": "TNA Wrestling: World X Cup 2008",
     "discs": "1",
     "type": "matches",
     "stage": "Purchased",
@@ -1607,6 +1662,15 @@
     "matches": 0
    },
    {
+    "id": "set-117",
+    "rip": 117,
+    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-118",
     "rip": 118,
     "name": "WWE: Wrestling's Highest Flyers",
@@ -1721,69 +1785,6 @@
     "discs": "1",
     "type": "documentary",
     "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-29",
-    "rip": 29,
-    "name": "Rob Van Dam: One of a Kind",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-54",
-    "rip": 54,
-    "name": "TNA Wrestling: Best of the X Division, Vol. 2",
-    "discs": "1",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-55",
-    "rip": 55,
-    "name": "TNA Wrestling: Hardcore Justice 2010",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-56",
-    "rip": 56,
-    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
-    "discs": "4",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-57",
-    "rip": 57,
-    "name": "TNA Wrestling: Kurt Angle - Champion",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-64",
-    "rip": 64,
-    "name": "TNA Wrestling: World X Cup 2008",
-    "discs": "1",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-117",
-    "rip": 117,
-    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
     "matches": 0
    },
    {
@@ -2031,8 +2032,8 @@
    }
   ],
   "counts": {
-   "Purchased": 100,
-   "Ripped": 7,
+   "Purchased": 107,
+   "Ripped": 0,
    "Scanned": 5,
    "Encoding": 0,
    "Filed": 22,
