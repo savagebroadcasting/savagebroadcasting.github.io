@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-03 05:05",
- "generated_ts": 1785751518,
+ "generated": "2026-08-03 05:25",
+ "generated_ts": 1785752722,
  "stats": {
-  "episodes_matches": 5297,
+  "episodes_matches": 5302,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -10,17 +10,19 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 3,
-  "discs_week": 220,
-  "discs_month": 57,
-  "discs_alltime": 462,
+  "discs_today": 4,
+  "discs_week": 221,
+  "discs_month": 58,
+  "discs_alltime": 463,
   "discs_today_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
+   "Allied Powers: The World's Greatest Tag Teams D2",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
+   "Allied Powers: The World's Greatest Tag Teams D2",
    "Beverly Hills, 90210 S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -243,6 +245,7 @@
   ],
   "discs_month_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
+   "Allied Powers: The World's Greatest Tag Teams D2",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -317,6 +320,7 @@
    "ALF S3D4",
    "ALF S9D9",
    "Allied Powers: The World's Greatest Tag Teams D1",
+   "Allied Powers: The World's Greatest Tag Teams D2",
    "Are You Afraid of the Dark? S1D1",
    "Are You Afraid of the Dark? S1D7",
    "Are You Afraid of the Dark? S2D1",
@@ -778,14 +782,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2048.7,
+   "used_gb": 2035.8,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 812.5,
+   "used_gb": 812.7,
    "total_gb": 999.8,
    "pct": 81,
    "online": true
