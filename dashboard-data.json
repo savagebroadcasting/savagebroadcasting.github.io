@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-02 19:21",
- "generated_ts": 1785716472,
+ "generated": "2026-08-02 19:41",
+ "generated_ts": 1785717676,
  "stats": {
   "episodes_matches": 5254,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 23,
-  "discs_week": 241,
-  "discs_month": 44,
-  "discs_alltime": 449,
+  "discs_today": 24,
+  "discs_week": 242,
+  "discs_month": 45,
+  "discs_alltime": 450,
   "discs_today_list": [
    "Get Smart S4D2",
    "Get Smart S4D3",
@@ -37,7 +37,8 @@
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
-   "WWF Hardcore D1"
+   "WWF Hardcore D1",
+   "Who Killed WCW? D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S1D1",
@@ -280,6 +281,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWF Hardcore D1",
+   "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
   "discs_month_list": [
@@ -326,7 +328,8 @@
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
-   "WWF Hardcore D1"
+   "WWF Hardcore D1",
+   "Who Killed WCW? D1"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -777,6 +780,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWF Hardcore D1",
+   "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
   "certified": 43,
@@ -786,8 +790,8 @@
    "overall": 7,
    "wrestling": 4,
    "actionable": 34,
-   "waiting_on_you": 107,
-   "note": "34 items Claude can work now \u00b7 107 waiting on you (discs to rip + gaps)"
+   "waiting_on_you": 112,
+   "note": "34 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
@@ -800,9 +804,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 794.3,
+   "used_gb": 802.1,
    "total_gb": 999.8,
-   "pct": 79,
+   "pct": 80,
    "online": true
   }
  ],
@@ -1681,6 +1685,51 @@
     "matches": 0
    },
    {
+    "id": "set-128",
+    "rip": 128,
+    "name": "Tales from the Territories (2024)",
+    "discs": "3",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-129",
+    "rip": 129,
+    "name": "Who Killed WCW? (2024)",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-132",
+    "rip": 132,
+    "name": "Triple H: The King of Kings (2008)",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-133",
+    "rip": 133,
+    "name": "Mick Foley: Greatest Hits & Misses (2004)",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-134",
+    "rip": 134,
+    "name": "WWE: The Stone Cold Truth (2004)",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-29",
     "rip": 29,
     "name": "Rob Van Dam: One of a Kind",
@@ -1967,17 +2016,35 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 8
+   },
+   {
+    "id": "set-130",
+    "rip": 130,
+    "name": "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22)",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 2
+   },
+   {
+    "id": "set-131",
+    "rip": 131,
+    "name": "WWE: WrestleMania - The Complete Anthology, Volume 1 (2005)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 2
    }
   ],
   "counts": {
-   "Purchased": 95,
+   "Purchased": 100,
    "Ripped": 7,
    "Scanned": 5,
    "Encoding": 0,
-   "Filed": 20,
+   "Filed": 22,
    "Certified": 0
   },
-  "total_sets": 127,
-  "total_matches": 240
+  "total_sets": 134,
+  "total_matches": 244
  }
 }
