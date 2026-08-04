@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-04 12:45",
- "generated_ts": 1785865517,
+ "generated": "2026-08-04 13:05",
+ "generated_ts": 1785866721,
  "stats": {
   "episodes_matches": 6079,
   "titles_total": 453,
@@ -10,11 +10,12 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 10,
-  "discs_week": 219,
-  "discs_month": 91,
-  "discs_alltime": 496,
+  "discs_today": 11,
+  "discs_week": 220,
+  "discs_month": 92,
+  "discs_alltime": 497,
   "discs_today_list": [
+   "Leave It to Beaver S1D1",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Triple H: The King of Kings D1",
@@ -74,6 +75,7 @@
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
+   "Leave It to Beaver S1D1",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -277,6 +279,7 @@
    "Hard Knocks: The Chris Benoit Story D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
+   "Leave It to Beaver S1D1",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -530,6 +533,7 @@
    "King of the Hill S6D4",
    "King of the Hill S6D5",
    "King of the Hill S6D6",
+   "Leave It to Beaver S1D1",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -859,7 +863,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 909.3,
+   "used_gb": 909.5,
    "total_gb": 999.8,
    "pct": 91,
    "online": true
