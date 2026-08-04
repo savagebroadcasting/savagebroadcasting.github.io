@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-04 08:57",
- "generated_ts": 1785851856,
+ "generated": "2026-08-04 09:17",
+ "generated_ts": 1785853060,
  "stats": {
-  "episodes_matches": 5363,
+  "episodes_matches": 6079,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -10,13 +10,14 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 2,
-  "discs_week": 211,
-  "discs_month": 83,
-  "discs_alltime": 488,
+  "discs_today": 3,
+  "discs_week": 212,
+  "discs_month": 84,
+  "discs_alltime": 489,
   "discs_today_list": [
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
-   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2"
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -227,6 +228,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
    "WWF Hardcore D1",
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
@@ -313,6 +315,7 @@
    "WWE: The Very Best of WCW Monday Nitro D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
    "WWF Hardcore D1",
    "Who Killed WCW? D1"
   ],
@@ -802,25 +805,26 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
    "WWF Hardcore D1",
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 264,
+  "certified_estimate": 307,
   "workload": {
-   "overall": 6,
-   "wrestling": 3,
-   "actionable": 31,
-   "waiting_on_you": 112,
-   "note": "31 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
+   "overall": 5,
+   "wrestling": 2,
+   "actionable": 27,
+   "waiting_on_you": 101,
+   "note": "27 items Claude can work now \u00b7 101 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2223.6,
+   "used_gb": 2231.1,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
@@ -923,28 +927,10 @@
     "matches": 0
    },
    {
-    "id": "set-13",
-    "rip": 13,
-    "name": "ESPN Films 30 for 30: Nature Boy",
-    "discs": "1",
-    "type": "documentary",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-14",
     "rip": 14,
     "name": "For All Mankind: The Life & Career of Mick Foley",
     "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-15",
-    "rip": 15,
-    "name": "Hard Knocks: The Chris Benoit Story",
-    "discs": "2",
     "type": "mixed",
     "stage": "Purchased",
     "matches": 0
@@ -982,15 +968,6 @@
     "name": "Kurt Angle: The Essential Collection",
     "discs": "3",
     "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-22",
-    "rip": 22,
-    "name": "Nature Boy Ric Flair: The Definitive Collection",
-    "discs": "3",
-    "type": "mixed",
     "stage": "Purchased",
     "matches": 0
    },
@@ -1373,15 +1350,6 @@
     "matches": 0
    },
    {
-    "id": "set-83",
-    "rip": 83,
-    "name": "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-84",
     "rip": 84,
     "name": "WWE: Goldberg - The Ultimate Collection",
@@ -1499,24 +1467,6 @@
     "matches": 0
    },
    {
-    "id": "set-101",
-    "rip": 101,
-    "name": "WWE: Survivor Series Anthology, Vol. 1 (1987-1991)",
-    "discs": "5",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-102",
-    "rip": 102,
-    "name": "WWE: Survivor Series Anthology, Vol. 2 (1992-1996)",
-    "discs": "5",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-103",
     "rip": 103,
     "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999",
@@ -1535,56 +1485,11 @@
     "matches": 0
    },
    {
-    "id": "set-105",
-    "rip": 105,
-    "name": "WWE: The Best of Saturday Night's Main Event",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-106",
-    "rip": 106,
-    "name": "WWE: The Best of the Intercontinental Championship",
-    "discs": "1",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-107",
     "rip": 107,
     "name": "WWE: The Greatest Wrestling Stars of the '80s",
     "discs": "3",
     "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-108",
-    "rip": 108,
-    "name": "WWE: The History of the Intercontinental Championship",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-109",
-    "rip": 109,
-    "name": "WWE: The History of the World Heavyweight Championship",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-110",
-    "rip": 110,
-    "name": "WWE: The History of the WWE Championship",
-    "discs": "3",
-    "type": "matches",
     "stage": "Purchased",
     "matches": 0
    },
@@ -1751,15 +1656,6 @@
     "matches": 0
    },
    {
-    "id": "set-54",
-    "rip": 54,
-    "name": "TNA Wrestling: Best of the X Division, Vol. 2",
-    "discs": "1",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-55",
     "rip": 55,
     "name": "TNA Wrestling: Hardcore Justice 2010",
@@ -1805,33 +1701,6 @@
     "matches": 0
    },
    {
-    "id": "set-58",
-    "rip": 58,
-    "name": "TNA Wrestling: Sting - Return of an Icon",
-    "discs": "1",
-    "type": "mixed",
-    "stage": "Scanned",
-    "matches": 0
-   },
-   {
-    "id": "set-88",
-    "rip": 88,
-    "name": "WWE: Ladies and Gentlemen, My Name Is Paul Heyman",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Scanned",
-    "matches": 0
-   },
-   {
-    "id": "set-96",
-    "rip": 96,
-    "name": "WWE: Sting - Into the Light",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Scanned",
-    "matches": 0
-   },
-   {
     "id": "set-7",
     "rip": 7,
     "name": "ECW One Night Stand 2005",
@@ -1859,6 +1728,24 @@
     "matches": 17
    },
    {
+    "id": "set-13",
+    "rip": 13,
+    "name": "ESPN Films 30 for 30: Nature Boy",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Filed",
+    "matches": 9
+   },
+   {
+    "id": "set-15",
+    "rip": 15,
+    "name": "Hard Knocks: The Chris Benoit Story",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 13
+   },
+   {
     "id": "set-17",
     "rip": 17,
     "name": "Hollywood Hulk Hogan: Hulk Still Rules",
@@ -1875,6 +1762,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 15
+   },
+   {
+    "id": "set-22",
+    "rip": 22,
+    "name": "Nature Boy Ric Flair: The Definitive Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 39
    },
    {
     "id": "set-23",
@@ -1919,7 +1815,7 @@
     "discs": "3",
     "type": "matches",
     "stage": "Filed",
-    "matches": 8
+    "matches": 46
    },
    {
     "id": "set-34",
@@ -1929,6 +1825,24 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 24
+   },
+   {
+    "id": "set-54",
+    "rip": 54,
+    "name": "TNA Wrestling: Best of the X Division, Vol. 2",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 19
+   },
+   {
+    "id": "set-58",
+    "rip": 58,
+    "name": "TNA Wrestling: Sting - Return of an Icon",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 13
    },
    {
     "id": "set-59",
@@ -1985,6 +1899,15 @@
     "matches": 16
    },
    {
+    "id": "set-83",
+    "rip": 83,
+    "name": "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 50
+   },
+   {
     "id": "set-86",
     "rip": 86,
     "name": "WWE: Hulk Hogan - The Ultimate Anthology",
@@ -1994,6 +1917,15 @@
     "matches": 24
    },
    {
+    "id": "set-88",
+    "rip": 88,
+    "name": "WWE: Ladies and Gentlemen, My Name Is Paul Heyman",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 78
+   },
+   {
     "id": "set-91",
     "rip": 91,
     "name": "WWE: Macho Man - The Randy Savage Story",
@@ -2001,6 +1933,78 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 15
+   },
+   {
+    "id": "set-96",
+    "rip": 96,
+    "name": "WWE: Sting - Into the Light",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 48
+   },
+   {
+    "id": "set-101",
+    "rip": 101,
+    "name": "WWE: Survivor Series Anthology, Vol. 1 (1987-1991)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 54
+   },
+   {
+    "id": "set-102",
+    "rip": 102,
+    "name": "WWE: Survivor Series Anthology, Vol. 2 (1992-1996)",
+    "discs": "5",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 54
+   },
+   {
+    "id": "set-105",
+    "rip": 105,
+    "name": "WWE: The Best of Saturday Night's Main Event",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 71
+   },
+   {
+    "id": "set-106",
+    "rip": 106,
+    "name": "WWE: The Best of the Intercontinental Championship",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 7
+   },
+   {
+    "id": "set-108",
+    "rip": 108,
+    "name": "WWE: The History of the Intercontinental Championship",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 54
+   },
+   {
+    "id": "set-109",
+    "rip": 109,
+    "name": "WWE: The History of the World Heavyweight Championship",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 54
+   },
+   {
+    "id": "set-110",
+    "rip": 110,
+    "name": "WWE: The History of the WWE Championship",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 54
    },
    {
     "id": "set-112",
@@ -2058,14 +2062,14 @@
    }
   ],
   "counts": {
-   "Purchased": 100,
-   "Ripped": 5,
-   "Scanned": 4,
+   "Purchased": 89,
+   "Ripped": 4,
+   "Scanned": 1,
    "Encoding": 0,
-   "Filed": 25,
+   "Filed": 40,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 288
+  "total_matches": 943
  }
 }
