@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-04 15:05",
- "generated_ts": 1785873947,
+ "generated": "2026-08-04 15:25",
+ "generated_ts": 1785875151,
  "stats": {
   "episodes_matches": 6079,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 14,
-  "discs_week": 223,
-  "discs_month": 95,
-  "discs_alltime": 500,
+  "discs_today": 15,
+  "discs_week": 224,
+  "discs_month": 96,
+  "discs_alltime": 501,
   "discs_today_list": [
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
@@ -25,6 +25,7 @@
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2rip",
+   "WWE: WrestleMania - The Complete Anthology, Volume 1 D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
@@ -247,6 +248,7 @@
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2rip",
+   "WWE: WrestleMania - The Complete Anthology, Volume 1 D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
@@ -345,6 +347,7 @@
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2rip",
+   "WWE: WrestleMania - The Complete Anthology, Volume 1 D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
@@ -846,6 +849,7 @@
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D2rip",
+   "WWE: WrestleMania - The Complete Anthology, Volume 1 D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
@@ -875,9 +879,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 930.0,
+   "used_gb": 936.0,
    "total_gb": 999.8,
-   "pct": 93,
+   "pct": 94,
    "online": true
   }
  ],
