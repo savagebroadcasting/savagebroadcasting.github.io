@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-04 08:37",
- "generated_ts": 1785850652,
+ "generated": "2026-08-04 08:57",
+ "generated_ts": 1785851856,
  "stats": {
   "episodes_matches": 5363,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 1,
-  "discs_week": 210,
-  "discs_month": 82,
-  "discs_alltime": 487,
+  "discs_today": 2,
+  "discs_week": 211,
+  "discs_month": 83,
+  "discs_alltime": 488,
   "discs_today_list": [
-   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1"
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -225,6 +226,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWF Hardcore D1",
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
@@ -310,6 +312,7 @@
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWF Hardcore D1",
    "Who Killed WCW? D1"
   ],
@@ -798,6 +801,7 @@
    "WWE: Ultimate Warrior - The Ultimate Collection D2",
    "WWE: Ultimate Warrior - The Ultimate Collection D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
+   "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWF Hardcore D1",
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
@@ -816,9 +820,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2216.7,
+   "used_gb": 2223.6,
    "total_gb": 11999.8,
-   "pct": 18,
+   "pct": 19,
    "online": true
   },
   {
