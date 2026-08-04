@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-04 10:17",
- "generated_ts": 1785856673,
+ "generated": "2026-08-04 10:37",
+ "generated_ts": 1785857878,
  "stats": {
   "episodes_matches": 6079,
   "titles_total": 453,
@@ -10,13 +10,15 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 6,
-  "discs_week": 215,
-  "discs_month": 87,
-  "discs_alltime": 492,
+  "discs_today": 8,
+  "discs_week": 217,
+  "discs_month": 89,
+  "discs_alltime": 494,
   "discs_today_list": [
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
+   "Triple H: The King of Kings D1",
+   "Triple H: The King of Kings D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D2",
    "WWE: WrestleMania - The Complete Anthology, Volume 5 (2005-2006, WM 21-22) D3",
@@ -174,6 +176,8 @@
    "ThunderCats S3D2",
    "ThunderCats S3D3",
    "ThunderCats S4D2",
+   "Triple H: The King of Kings D1",
+   "Triple H: The King of Kings D2",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
@@ -285,6 +289,8 @@
    "The Little Rascals S1D5",
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
+   "Triple H: The King of Kings D1",
+   "Triple H: The King of Kings D2",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -757,6 +763,8 @@
    "Tom and Jerry S1D3",
    "Tom and Jerry S1D4",
    "Tom and Jerry S1D5",
+   "Triple H: The King of Kings D1",
+   "Triple H: The King of Kings D2",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
@@ -828,15 +836,15 @@
   "workload": {
    "overall": 6,
    "wrestling": 2,
-   "actionable": 28,
-   "waiting_on_you": 100,
-   "note": "28 items Claude can work now \u00b7 100 waiting on you (discs to rip + gaps)"
+   "actionable": 29,
+   "waiting_on_you": 99,
+   "note": "29 items Claude can work now \u00b7 99 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2250.4,
+   "used_gb": 2257.7,
    "total_gb": 11999.8,
    "pct": 19,
    "online": true
@@ -1641,15 +1649,6 @@
     "matches": 0
    },
    {
-    "id": "set-132",
-    "rip": 132,
-    "name": "Triple H: The King of Kings (2008)",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-134",
     "rip": 134,
     "name": "WWE: The Stone Cold Truth (2004)",
@@ -1690,6 +1689,15 @@
     "rip": 64,
     "name": "TNA Wrestling: World X Cup 2008",
     "discs": "1",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-132",
+    "rip": 132,
+    "name": "Triple H: The King of Kings (2008)",
+    "discs": "2",
     "type": "matches",
     "stage": "Ripped",
     "matches": 0
@@ -2074,8 +2082,8 @@
    }
   ],
   "counts": {
-   "Purchased": 88,
-   "Ripped": 5,
+   "Purchased": 87,
+   "Ripped": 6,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 40,
