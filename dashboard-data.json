@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-03 20:51",
- "generated_ts": 1785808319,
+ "generated": "2026-08-03 21:12",
+ "generated_ts": 1785809525,
  "stats": {
-  "episodes_matches": 5326,
+  "episodes_matches": 5363,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -862,19 +862,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 262,
+  "certified_estimate": 264,
   "workload": {
-   "overall": 7,
-   "wrestling": 4,
-   "actionable": 33,
+   "overall": 6,
+   "wrestling": 3,
+   "actionable": 31,
    "waiting_on_you": 112,
-   "note": "33 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
+   "note": "31 items Claude can work now \u00b7 112 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2052.8,
+   "used_gb": 2054.2,
    "total_gb": 11999.8,
    "pct": 17,
    "online": true
@@ -1853,28 +1853,10 @@
     "matches": 0
    },
    {
-    "id": "set-117",
-    "rip": 117,
-    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-3",
     "rip": 3,
     "name": "Blood Sport: ECW's Most Violent Matches",
     "discs": "2",
-    "type": "matches",
-    "stage": "Scanned",
-    "matches": 0
-   },
-   {
-    "id": "set-32",
-    "rip": 32,
-    "name": "The Best of Christopher Daniels: Heaven Sent, Hell Bound",
-    "discs": "1",
     "type": "matches",
     "stage": "Scanned",
     "matches": 0
@@ -1979,6 +1961,15 @@
     "matches": 7
    },
    {
+    "id": "set-32",
+    "rip": 32,
+    "name": "The Best of Christopher Daniels: Heaven Sent, Hell Bound",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 9
+   },
+   {
     "id": "set-33",
     "rip": 33,
     "name": "The Best of Sting: The Ultimate Collection",
@@ -2078,6 +2069,15 @@
     "matches": 2
    },
    {
+    "id": "set-117",
+    "rip": 117,
+    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 28
+   },
+   {
     "id": "set-120",
     "rip": 120,
     "name": "WWE: WrestleMania VIII (from The Complete Anthology, Vol. II)",
@@ -2116,13 +2116,13 @@
   ],
   "counts": {
    "Purchased": 100,
-   "Ripped": 6,
-   "Scanned": 5,
+   "Ripped": 5,
+   "Scanned": 4,
    "Encoding": 0,
-   "Filed": 23,
+   "Filed": 25,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 251
+  "total_matches": 288
  }
 }
