@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05 18:16",
- "generated_ts": 1785971774,
+ "generated": "2026-08-05 18:36",
+ "generated_ts": 1785972981,
  "stats": {
-  "episodes_matches": 6240,
+  "episodes_matches": 6308,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -803,19 +803,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 322,
+  "certified_estimate": 325,
   "workload": {
    "overall": 6,
    "wrestling": 2,
    "actionable": 28,
-   "waiting_on_you": 93,
-   "note": "28 items Claude can work now \u00b7 93 waiting on you (discs to rip + gaps)"
+   "waiting_on_you": 92,
+   "note": "28 items Claude can work now \u00b7 92 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2467.5,
+   "used_gb": 2472.0,
    "total_gb": 11999.8,
    "pct": 21,
    "online": true
@@ -1567,15 +1567,6 @@
     "matches": 0
    },
    {
-    "id": "set-126",
-    "rip": 126,
-    "name": "Allied Powers: The World's Greatest Tag Teams",
-    "discs": "TBD",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-55",
     "rip": 55,
     "name": "TNA Wrestling: Hardcore Justice 2010",
@@ -1990,6 +1981,15 @@
     "matches": 2
    },
    {
+    "id": "set-126",
+    "rip": 126,
+    "name": "Allied Powers: The World's Greatest Tag Teams",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 68
+   },
+   {
     "id": "set-127",
     "rip": 127,
     "name": "The Monday Night War: WWE Raw vs. WCW Nitro (2004)",
@@ -2054,14 +2054,14 @@
    }
   ],
   "counts": {
-   "Purchased": 81,
+   "Purchased": 80,
    "Ripped": 5,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 47,
+   "Filed": 48,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 1113
+  "total_matches": 1181
  }
 }
