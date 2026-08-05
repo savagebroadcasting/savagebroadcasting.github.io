@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05 13:14",
- "generated_ts": 1785953655,
+ "generated": "2026-08-05 13:34",
+ "generated_ts": 1785954864,
  "stats": {
-  "episodes_matches": 6065,
+  "episodes_matches": 6152,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -803,19 +803,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 307,
+  "certified_estimate": 315,
   "workload": {
    "overall": 6,
    "wrestling": 2,
-   "actionable": 29,
-   "waiting_on_you": 99,
-   "note": "29 items Claude can work now \u00b7 99 waiting on you (discs to rip + gaps)"
+   "actionable": 28,
+   "waiting_on_you": 97,
+   "note": "28 items Claude can work now \u00b7 97 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2410.4,
+   "used_gb": 2414.3,
    "total_gb": 11999.8,
    "pct": 20,
    "online": true
@@ -1004,15 +1004,6 @@
     "rip": 30,
     "name": "Starrcade: The Essential Collection (1983-2000)",
     "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-31",
-    "rip": 31,
-    "name": "Stone Cold Steve Austin: The Bottom Line on the Most Popular Superstar of All Time",
-    "discs": "4",
     "type": "mixed",
     "stage": "Purchased",
     "matches": 0
@@ -1486,15 +1477,6 @@
     "matches": 0
    },
    {
-    "id": "set-111",
-    "rip": 111,
-    "name": "WWE: The Legacy of Stone Cold Steve Austin",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-113",
     "rip": 113,
     "name": "WWE: The Ultimate Ric Flair Collection",
@@ -1675,15 +1657,6 @@
     "matches": 0
    },
    {
-    "id": "set-133",
-    "rip": 133,
-    "name": "Mick Foley: Greatest Hits & Misses (2004)",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-3",
     "rip": 3,
     "name": "Blood Sport: ECW's Most Violent Matches",
@@ -1790,6 +1763,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 7
+   },
+   {
+    "id": "set-31",
+    "rip": 31,
+    "name": "Stone Cold Steve Austin: The Bottom Line on the Most Popular Superstar of All Time",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 47
    },
    {
     "id": "set-32",
@@ -1999,6 +1981,15 @@
     "matches": 59
    },
    {
+    "id": "set-111",
+    "rip": 111,
+    "name": "WWE: The Legacy of Stone Cold Steve Austin",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 47
+   },
+   {
     "id": "set-112",
     "rip": 112,
     "name": "WWE: The True Story of WrestleMania",
@@ -2051,17 +2042,26 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 2
+   },
+   {
+    "id": "set-133",
+    "rip": 133,
+    "name": "Mick Foley: Greatest Hits & Misses (2004)",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 15
    }
   ],
   "counts": {
-   "Purchased": 87,
-   "Ripped": 6,
+   "Purchased": 85,
+   "Ripped": 5,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 40,
+   "Filed": 43,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 944
+  "total_matches": 1053
  }
 }
