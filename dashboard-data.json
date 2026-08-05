@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05 15:35",
- "generated_ts": 1785962115,
+ "generated": "2026-08-05 15:55",
+ "generated_ts": 1785963322,
  "stats": {
-  "episodes_matches": 6163,
+  "episodes_matches": 6177,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -803,19 +803,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 318,
+  "certified_estimate": 319,
   "workload": {
    "overall": 6,
    "wrestling": 2,
    "actionable": 28,
-   "waiting_on_you": 94,
-   "note": "28 items Claude can work now \u00b7 94 waiting on you (discs to rip + gaps)"
+   "waiting_on_you": 93,
+   "note": "28 items Claude can work now \u00b7 93 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2436.9,
+   "used_gb": 2440.5,
    "total_gb": 11999.8,
    "pct": 20,
    "online": true
@@ -1522,15 +1522,6 @@
     "matches": 0
    },
    {
-    "id": "set-119",
-    "rip": 119,
-    "name": "WWF Hardcore",
-    "discs": "1",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-121",
     "rip": 121,
     "name": "WWE: The Monday Night War Vol. 1",
@@ -1981,6 +1972,15 @@
     "matches": 28
    },
    {
+    "id": "set-119",
+    "rip": 119,
+    "name": "WWF Hardcore",
+    "discs": "1",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 14
+   },
+   {
     "id": "set-120",
     "rip": 120,
     "name": "WWE: WrestleMania VIII (from The Complete Anthology, Vol. II)",
@@ -2054,14 +2054,14 @@
    }
   ],
   "counts": {
-   "Purchased": 82,
+   "Purchased": 81,
    "Ripped": 5,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 46,
+   "Filed": 47,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 1064
+  "total_matches": 1078
  }
 }
