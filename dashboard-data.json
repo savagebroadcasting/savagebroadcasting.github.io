@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 16:02",
- "generated_ts": 1786050172,
+ "generated": "2026-08-06 16:22",
+ "generated_ts": 1786051375,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,16 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 20,
-  "discs_week": 157,
-  "discs_month": 114,
-  "discs_alltime": 519,
+  "discs_today": 21,
+  "discs_week": 158,
+  "discs_month": 115,
+  "discs_alltime": 520,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Leave It to Beaver S1D3",
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
+   "Leave It to Beaver S1D6",
    "Triple H: The King of Kings D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
@@ -79,6 +80,7 @@
    "Leave It to Beaver S1D3",
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
+   "Leave It to Beaver S1D6",
    "Mad Men S5D1",
    "Mad Men S5D2",
    "Mad Men S5D3",
@@ -232,6 +234,7 @@
    "Leave It to Beaver S1D3",
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
+   "Leave It to Beaver S1D6",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -508,6 +511,7 @@
    "Leave It to Beaver S1D3",
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
+   "Leave It to Beaver S1D6",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -846,7 +850,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2631.5,
+   "used_gb": 2637.2,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
