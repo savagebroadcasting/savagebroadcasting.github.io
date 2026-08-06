@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 05:59",
- "generated_ts": 1786013955,
+ "generated": "2026-08-06 06:19",
+ "generated_ts": 1786015159,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,11 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 139,
-  "discs_month": 96,
-  "discs_alltime": 501,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 140,
+  "discs_month": 97,
+  "discs_alltime": 502,
+  "discs_today_list": [
+   "WWE: Ric Flair & The Four Horsemen D1"
+  ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -115,6 +117,7 @@
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -213,6 +216,7 @@
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -709,6 +713,7 @@
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D1",
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D2",
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D3",
+   "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
@@ -761,20 +766,17 @@
   "certified_shows": 15,
   "certified_estimate": 329,
   "workload": {
-   "overall": 6,
-   "wrestling": 2,
-   "actionable": 28,
-   "waiting_on_you": 88,
-   "note": "28 items Claude can work now \u00b7 88 waiting on you (discs to rip + gaps)"
+   "overall": 5,
+   "wrestling": 1,
+   "actionable": 23,
+   "waiting_on_you": 93,
+   "note": "23 items Claude can work now \u00b7 93 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2532.5,
-   "total_gb": 11999.8,
-   "pct": 21,
-   "online": true
+   "online": false
   },
   {
    "label": "1TB (rip scratch)",
@@ -1136,6 +1138,42 @@
     "matches": 0
    },
    {
+    "id": "set-55",
+    "rip": 55,
+    "name": "TNA Wrestling: Hardcore Justice 2010",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-56",
+    "rip": 56,
+    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-57",
+    "rip": 57,
+    "name": "TNA Wrestling: Kurt Angle - Champion",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-64",
+    "rip": 64,
+    "name": "TNA Wrestling: World X Cup 2008",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-65",
     "rip": 65,
     "name": "Triple H: Thy Kingdom Come",
@@ -1487,48 +1525,12 @@
     "matches": 0
    },
    {
-    "id": "set-55",
-    "rip": 55,
-    "name": "TNA Wrestling: Hardcore Justice 2010",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-56",
-    "rip": 56,
-    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
-    "discs": "4",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-57",
-    "rip": 57,
-    "name": "TNA Wrestling: Kurt Angle - Champion",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-64",
-    "rip": 64,
-    "name": "TNA Wrestling: World X Cup 2008",
-    "discs": "1",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-132",
     "rip": 132,
     "name": "Triple H: The King of Kings (2008)",
     "discs": "2",
     "type": "matches",
-    "stage": "Ripped",
+    "stage": "Purchased",
     "matches": 0
    },
    {
@@ -2010,8 +2012,8 @@
    }
   ],
   "counts": {
-   "Purchased": 76,
-   "Ripped": 5,
+   "Purchased": 81,
+   "Ripped": 0,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
