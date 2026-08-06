@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06 18:23",
- "generated_ts": 1786058599,
+ "generated": "2026-08-06 18:43",
+ "generated_ts": 1786059802,
  "stats": {
-  "episodes_matches": 6376,
+  "episodes_matches": 6373,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 26,
-  "discs_week": 160,
-  "discs_month": 117,
-  "discs_alltime": 522,
+  "discs_today": 27,
+  "discs_week": 161,
+  "discs_month": 118,
+  "discs_alltime": 523,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
@@ -33,6 +33,7 @@
    "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
+   "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
    "WWE: The Ultimate Ric Flair Collection D1",
    "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Ultimate Ric Flair Collection D3",
@@ -158,6 +159,7 @@
    "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
+   "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -277,6 +279,7 @@
    "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
+   "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -794,6 +797,7 @@
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
+   "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
@@ -849,19 +853,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 329,
+  "certified_estimate": 332,
   "workload": {
    "overall": 7,
    "wrestling": 4,
-   "actionable": 34,
-   "waiting_on_you": 82,
-   "note": "34 items Claude can work now \u00b7 82 waiting on you (discs to rip + gaps)"
+   "actionable": 35,
+   "waiting_on_you": 81,
+   "note": "35 items Claude can work now \u00b7 81 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2675.6,
+   "used_gb": 2682.5,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
@@ -1390,15 +1394,6 @@
     "matches": 0
    },
    {
-    "id": "set-93",
-    "rip": 93,
-    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-94",
     "rip": 94,
     "name": "WWE: Satan's Prison - The Anthology of the Elimination Chamber",
@@ -1583,6 +1578,15 @@
     "rip": 85,
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
     "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-93",
+    "rip": 93,
+    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
+    "discs": "2",
     "type": "mixed",
     "stage": "Ripped",
     "matches": 0
@@ -2093,8 +2097,8 @@
    }
   ],
   "counts": {
-   "Purchased": 70,
-   "Ripped": 11,
+   "Purchased": 69,
+   "Ripped": 12,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
