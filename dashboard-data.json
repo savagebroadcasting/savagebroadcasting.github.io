@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 11:40",
- "generated_ts": 1786034455,
+ "generated": "2026-08-06 12:00",
+ "generated_ts": 1786035659,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,15 +10,16 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 9,
-  "discs_week": 147,
-  "discs_month": 104,
-  "discs_alltime": 509,
+  "discs_today": 10,
+  "discs_week": 148,
+  "discs_month": 105,
+  "discs_alltime": 510,
   "discs_today_list": [
    "Triple H: The King of Kings D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
+   "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: The Ultimate Ric Flair Collection D1",
@@ -128,6 +129,7 @@
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
@@ -234,6 +236,7 @@
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
@@ -729,6 +732,7 @@
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Hulk Hogan - The Ultimate Anthology D2",
    "WWE: Hulk Hogan - The Ultimate Anthology D3",
    "WWE: Hulk Hogan - The Ultimate Anthology D4",
@@ -796,16 +800,16 @@
   "certified_estimate": 329,
   "workload": {
    "overall": 6,
-   "wrestling": 2,
-   "actionable": 29,
-   "waiting_on_you": 87,
-   "note": "29 items Claude can work now \u00b7 87 waiting on you (discs to rip + gaps)"
+   "wrestling": 3,
+   "actionable": 30,
+   "waiting_on_you": 86,
+   "note": "30 items Claude can work now \u00b7 86 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2563.3,
+   "used_gb": 2570.3,
    "total_gb": 11999.8,
    "pct": 21,
    "online": true
@@ -1316,15 +1320,6 @@
     "matches": 0
    },
    {
-    "id": "set-85",
-    "rip": 85,
-    "name": "WWE: Hart & Soul - The Hart Family Anthology",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-87",
     "rip": 87,
     "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
@@ -1544,6 +1539,15 @@
     "id": "set-79",
     "rip": 79,
     "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-85",
+    "rip": 85,
+    "name": "WWE: Hart & Soul - The Hart Family Anthology",
     "discs": "3",
     "type": "mixed",
     "stage": "Ripped",
@@ -2037,8 +2041,8 @@
    }
   ],
   "counts": {
-   "Purchased": 75,
-   "Ripped": 6,
+   "Purchased": 74,
+   "Ripped": 7,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
