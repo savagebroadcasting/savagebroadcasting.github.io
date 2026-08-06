@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 09:19",
- "generated_ts": 1786025992,
+ "generated": "2026-08-06 09:39",
+ "generated_ts": 1786027196,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,13 +10,14 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 7,
-  "discs_week": 145,
-  "discs_month": 102,
-  "discs_alltime": 507,
+  "discs_today": 8,
+  "discs_week": 146,
+  "discs_month": 103,
+  "discs_alltime": 508,
   "discs_today_list": [
    "Triple H: The King of Kings D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
+   "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: The Ultimate Ric Flair Collection D1",
@@ -122,6 +123,7 @@
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
+   "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Ric Flair & The Four Horsemen D1",
@@ -226,6 +228,7 @@
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
+   "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Ric Flair & The Four Horsemen D1",
@@ -719,6 +722,7 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
+   "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Hulk Hogan - The Ultimate Anthology D2",
@@ -801,7 +805,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 999.0,
+   "used_gb": 997.8,
    "total_gb": 999.8,
    "pct": 100,
    "online": true
