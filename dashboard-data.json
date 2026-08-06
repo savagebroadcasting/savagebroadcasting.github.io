@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 07:39",
- "generated_ts": 1786019973,
+ "generated": "2026-08-06 07:59",
+ "generated_ts": 1786021177,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,14 +10,15 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 3,
-  "discs_week": 142,
-  "discs_month": 99,
-  "discs_alltime": 504,
+  "discs_today": 4,
+  "discs_week": 143,
+  "discs_month": 100,
+  "discs_alltime": 505,
   "discs_today_list": [
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
-   "WWE: The Ultimate Ric Flair Collection D1"
+   "WWE: The Ultimate Ric Flair Collection D1",
+   "WWE: The Ultimate Ric Flair Collection D2"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -149,6 +150,7 @@
    "WWE: The Legacy of Stone Cold Steve Austin D3",
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
+   "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -250,6 +252,7 @@
    "WWE: The Legacy of Stone Cold Steve Austin D3",
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
+   "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -752,6 +755,7 @@
    "WWE: The Legacy of Stone Cold Steve Austin D3",
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
+   "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -788,9 +792,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 972.6,
+   "used_gb": 979.0,
    "total_gb": 999.8,
-   "pct": 97,
+   "pct": 98,
    "online": true
   }
  ],
