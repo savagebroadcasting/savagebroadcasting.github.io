@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 13:21",
- "generated_ts": 1786040474,
+ "generated": "2026-08-06 13:41",
+ "generated_ts": 1786041678,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,15 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 15,
-  "discs_week": 153,
-  "discs_month": 110,
-  "discs_alltime": 515,
+  "discs_today": 17,
+  "discs_week": 155,
+  "discs_month": 112,
+  "discs_alltime": 517,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Triple H: The King of Kings D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -132,6 +134,8 @@
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -244,6 +248,8 @@
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -745,6 +751,8 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -829,7 +837,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2601.6,
+   "used_gb": 2607.8,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
