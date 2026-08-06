@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 18:03",
- "generated_ts": 1786057395,
+ "generated": "2026-08-06 18:23",
+ "generated_ts": 1786058599,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,7 +10,7 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 25,
+  "discs_today": 26,
   "discs_week": 160,
   "discs_month": 117,
   "discs_alltime": 522,
@@ -37,6 +37,7 @@
    "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Ultimate Ric Flair Collection D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
+   "WWE: The Very Best of WCW Monday Nitro D3",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D4",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D5"
@@ -860,7 +861,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2668.6,
+   "used_gb": 2675.6,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
