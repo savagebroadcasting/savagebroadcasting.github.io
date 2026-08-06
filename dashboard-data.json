@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 07:59",
- "generated_ts": 1786021177,
+ "generated": "2026-08-06 08:19",
+ "generated_ts": 1786022381,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,15 +10,16 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 4,
-  "discs_week": 143,
-  "discs_month": 100,
-  "discs_alltime": 505,
+  "discs_today": 5,
+  "discs_week": 144,
+  "discs_month": 101,
+  "discs_alltime": 506,
   "discs_today_list": [
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: The Ultimate Ric Flair Collection D1",
-   "WWE: The Ultimate Ric Flair Collection D2"
+   "WWE: The Ultimate Ric Flair Collection D2",
+   "WWE: The Ultimate Ric Flair Collection D3"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -151,6 +152,7 @@
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
    "WWE: The Ultimate Ric Flair Collection D2",
+   "WWE: The Ultimate Ric Flair Collection D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -253,6 +255,7 @@
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
    "WWE: The Ultimate Ric Flair Collection D2",
+   "WWE: The Ultimate Ric Flair Collection D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -756,6 +759,7 @@
    "WWE: The Stone Cold Truth D1",
    "WWE: The Ultimate Ric Flair Collection D1",
    "WWE: The Ultimate Ric Flair Collection D2",
+   "WWE: The Ultimate Ric Flair Collection D3",
    "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: The Very Best of WCW Monday Nitro D2",
    "WWE: The Very Best of WCW Monday Nitro D3",
@@ -792,9 +796,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 979.0,
+   "used_gb": 984.9,
    "total_gb": 999.8,
-   "pct": 98,
+   "pct": 99,
    "online": true
   }
  ],
