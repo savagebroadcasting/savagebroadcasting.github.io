@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 06:19",
- "generated_ts": 1786015159,
+ "generated": "2026-08-06 06:39",
+ "generated_ts": 1786016362,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 1,
-  "discs_week": 140,
-  "discs_month": 97,
-  "discs_alltime": 502,
+  "discs_today": 2,
+  "discs_week": 141,
+  "discs_month": 98,
+  "discs_alltime": 503,
   "discs_today_list": [
-   "WWE: Ric Flair & The Four Horsemen D1"
+   "WWE: Ric Flair & The Four Horsemen D1",
+   "WWE: Ric Flair & The Four Horsemen D2"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -118,6 +119,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Ric Flair & The Four Horsemen D1",
+   "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -217,6 +219,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D1",
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Ric Flair & The Four Horsemen D1",
+   "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D3",
@@ -714,6 +717,7 @@
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D2",
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D3",
    "WWE: Ric Flair & The Four Horsemen D1",
+   "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Sting - Into the Light D1",
    "WWE: Sting - Into the Light D2",
    "WWE: Sting - Into the Light D3",
@@ -780,9 +784,9 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 944.7,
+   "used_gb": 950.8,
    "total_gb": 999.8,
-   "pct": 94,
+   "pct": 95,
    "online": true
   }
  ],
