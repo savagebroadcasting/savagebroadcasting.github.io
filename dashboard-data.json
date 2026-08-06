@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 12:41",
- "generated_ts": 1786038067,
+ "generated": "2026-08-06 13:01",
+ "generated_ts": 1786039271,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,12 +10,15 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 12,
-  "discs_week": 150,
-  "discs_month": 107,
-  "discs_alltime": 512,
+  "discs_today": 15,
+  "discs_week": 153,
+  "discs_month": 110,
+  "discs_alltime": 515,
   "discs_today_list": [
+   "Hitman Hart: Wrestling with Shadows D1",
+   "Hitman Hart: Wrestling with Shadows D2",
    "Triple H: The King of Kings D2",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -60,6 +63,8 @@
    "Get Smart S5D4",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
+   "Hitman Hart: Wrestling with Shadows D1",
+   "Hitman Hart: Wrestling with Shadows D2",
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
@@ -126,6 +131,7 @@
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -208,6 +214,8 @@
    "Get Smart S5D4",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
+   "Hitman Hart: Wrestling with Shadows D1",
+   "Hitman Hart: Wrestling with Shadows D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "Leave It to Beaver S1D1",
@@ -235,6 +243,7 @@
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
    "WCW vs. Japan: Collision in Korea D1",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -466,6 +475,8 @@
    "He-Man and the Masters of the Universe S2D5",
    "He-Man and the Masters of the Universe S2D6",
    "He-Man and the Masters of the Universe S2D7",
+   "Hitman Hart: Wrestling with Shadows D1",
+   "Hitman Hart: Wrestling with Shadows D2",
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
@@ -733,6 +744,7 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
+   "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -809,15 +821,15 @@
   "workload": {
    "overall": 6,
    "wrestling": 3,
-   "actionable": 30,
-   "waiting_on_you": 86,
-   "note": "30 items Claude can work now \u00b7 86 waiting on you (discs to rip + gaps)"
+   "actionable": 32,
+   "waiting_on_you": 84,
+   "note": "32 items Claude can work now \u00b7 84 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2584.5,
+   "used_gb": 2594.5,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
@@ -919,15 +931,6 @@
     "name": "For All Mankind: The Life & Career of Mick Foley",
     "discs": "3",
     "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-16",
-    "rip": 16,
-    "name": "Hitman Hart: Wrestling with Shadows",
-    "discs": "1",
-    "type": "documentary",
     "stage": "Purchased",
     "matches": 0
    },
@@ -1265,15 +1268,6 @@
     "matches": 0
    },
    {
-    "id": "set-76",
-    "rip": 76,
-    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-77",
     "rip": 77,
     "name": "WWE: 4 Film Favorites - Essential WWE Collection",
@@ -1508,6 +1502,15 @@
     "matches": 0
    },
    {
+    "id": "set-16",
+    "rip": 16,
+    "name": "Hitman Hart: Wrestling with Shadows",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
     "id": "set-55",
     "rip": 55,
     "name": "TNA Wrestling: Hardcore Justice 2010",
@@ -1540,6 +1543,15 @@
     "name": "TNA Wrestling: World X Cup 2008",
     "discs": "1",
     "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-76",
+    "rip": 76,
+    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
+    "discs": "3",
+    "type": "mixed",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2049,8 +2061,8 @@
    }
   ],
   "counts": {
-   "Purchased": 74,
-   "Ripped": 7,
+   "Purchased": 72,
+   "Ripped": 9,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
