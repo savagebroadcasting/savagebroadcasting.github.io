@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 12:21",
- "generated_ts": 1786036863,
+ "generated": "2026-08-06 12:41",
+ "generated_ts": 1786038067,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 11,
-  "discs_week": 149,
-  "discs_month": 106,
-  "discs_alltime": 511,
+  "discs_today": 12,
+  "discs_week": 150,
+  "discs_month": 107,
+  "discs_alltime": 512,
   "discs_today_list": [
    "Triple H: The King of Kings D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
@@ -21,6 +21,7 @@
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
    "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Hart & Soul - The Hart Family Anthology D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: The Ultimate Ric Flair Collection D1",
@@ -132,6 +133,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Hart & Soul - The Hart Family Anthology D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
@@ -240,6 +242,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Hart & Soul - The Hart Family Anthology D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Survivor Series Anthology, Vol. 1 (1987-1991) D1",
@@ -737,6 +740,7 @@
    "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper D2",
    "WWE: Hart & Soul - The Hart Family Anthology D1",
    "WWE: Hart & Soul - The Hart Family Anthology D2",
+   "WWE: Hart & Soul - The Hart Family Anthology D3",
    "WWE: Hulk Hogan - The Ultimate Anthology D2",
    "WWE: Hulk Hogan - The Ultimate Anthology D3",
    "WWE: Hulk Hogan - The Ultimate Anthology D4",
@@ -813,9 +817,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2577.6,
+   "used_gb": 2584.5,
    "total_gb": 11999.8,
-   "pct": 21,
+   "pct": 22,
    "online": true
   },
   {
