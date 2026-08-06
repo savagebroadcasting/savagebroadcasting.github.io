@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 10:20",
- "generated_ts": 1786029605,
+ "generated": "2026-08-06 10:40",
+ "generated_ts": 1786030809,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -801,27 +801,20 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2543.7,
+   "used_gb": 2550.9,
    "total_gb": 11999.8,
    "pct": 21,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 997.0,
+   "used_gb": 995.5,
    "total_gb": 999.8,
    "pct": 100,
    "online": true
   }
  ],
- "discs_needed": [
-  "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
-  "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
-  "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
-  "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
-  "ThunderCats (1985) \u2014 Season 1, Disc 5   (missing e53)",
-  "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)"
- ],
+ "discs_needed": [],
  "stage_order": [
   "Purchased",
   "Ripped",
