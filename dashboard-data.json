@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 17:43",
- "generated_ts": 1786056191,
+ "generated": "2026-08-06 18:03",
+ "generated_ts": 1786057395,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,7 +10,7 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 24,
+  "discs_today": 25,
   "discs_week": 160,
   "discs_month": 117,
   "discs_alltime": 522,
@@ -36,6 +36,7 @@
    "WWE: The Ultimate Ric Flair Collection D1",
    "WWE: The Ultimate Ric Flair Collection D2",
    "WWE: The Ultimate Ric Flair Collection D3",
+   "WWE: The Very Best of WCW Monday Nitro D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D1",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D4",
    "WWE: WrestleMania - The Complete Anthology, Volume 1 D5"
@@ -849,17 +850,17 @@
   "certified_shows": 15,
   "certified_estimate": 329,
   "workload": {
-   "overall": 6,
-   "wrestling": 3,
-   "actionable": 32,
-   "waiting_on_you": 84,
-   "note": "32 items Claude can work now \u00b7 84 waiting on you (discs to rip + gaps)"
+   "overall": 7,
+   "wrestling": 4,
+   "actionable": 34,
+   "waiting_on_you": 82,
+   "note": "34 items Claude can work now \u00b7 82 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2662.9,
+   "used_gb": 2668.6,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
@@ -1487,24 +1488,6 @@
     "matches": 0
    },
    {
-    "id": "set-114",
-    "rip": 114,
-    "name": "WWE: The Very Best of WCW Monday Nitro",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-115",
-    "rip": 115,
-    "name": "WWE: The Very Best of WCW Monday Nitro Volume 3",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-116",
     "rip": 116,
     "name": "WWE: True Giants",
@@ -1600,6 +1583,24 @@
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
     "discs": "3",
     "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-114",
+    "rip": 114,
+    "name": "WWE: The Very Best of WCW Monday Nitro",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-115",
+    "rip": 115,
+    "name": "WWE: The Very Best of WCW Monday Nitro Volume 3",
+    "discs": "3",
+    "type": "matches",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2091,8 +2092,8 @@
    }
   ],
   "counts": {
-   "Purchased": 72,
-   "Ripped": 9,
+   "Purchased": 70,
+   "Ripped": 11,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
