@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 09:39",
- "generated_ts": 1786027196,
+ "generated": "2026-08-06 10:00",
+ "generated_ts": 1786028401,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -791,21 +791,24 @@
   "certified_shows": 15,
   "certified_estimate": 329,
   "workload": {
-   "overall": 5,
-   "wrestling": 1,
-   "actionable": 23,
-   "waiting_on_you": 93,
-   "note": "23 items Claude can work now \u00b7 93 waiting on you (discs to rip + gaps)"
+   "overall": 6,
+   "wrestling": 2,
+   "actionable": 29,
+   "waiting_on_you": 87,
+   "note": "29 items Claude can work now \u00b7 87 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "online": false
+   "used_gb": 2536.7,
+   "total_gb": 11999.8,
+   "pct": 21,
+   "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 997.8,
+   "used_gb": 997.0,
    "total_gb": 999.8,
    "pct": 100,
    "online": true
@@ -1163,42 +1166,6 @@
     "matches": 0
    },
    {
-    "id": "set-55",
-    "rip": 55,
-    "name": "TNA Wrestling: Hardcore Justice 2010",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-56",
-    "rip": 56,
-    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
-    "discs": "4",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-57",
-    "rip": 57,
-    "name": "TNA Wrestling: Kurt Angle - Champion",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-64",
-    "rip": 64,
-    "name": "TNA Wrestling: World X Cup 2008",
-    "discs": "1",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-65",
     "rip": 65,
     "name": "Triple H: Thy Kingdom Come",
@@ -1310,15 +1277,6 @@
     "id": "set-78",
     "rip": 78,
     "name": "WWE: Batista - I Walk Alone",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-79",
-    "rip": 79,
-    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
     "discs": "3",
     "type": "mixed",
     "stage": "Purchased",
@@ -1550,12 +1508,57 @@
     "matches": 0
    },
    {
+    "id": "set-55",
+    "rip": 55,
+    "name": "TNA Wrestling: Hardcore Justice 2010",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-56",
+    "rip": 56,
+    "name": "TNA Wrestling: Jeff Jarrett - King of the Mountain",
+    "discs": "4",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-57",
+    "rip": 57,
+    "name": "TNA Wrestling: Kurt Angle - Champion",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-64",
+    "rip": 64,
+    "name": "TNA Wrestling: World X Cup 2008",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-79",
+    "rip": 79,
+    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
     "id": "set-132",
     "rip": 132,
     "name": "Triple H: The King of Kings (2008)",
     "discs": "2",
     "type": "matches",
-    "stage": "Purchased",
+    "stage": "Ripped",
     "matches": 0
    },
    {
@@ -2037,8 +2040,8 @@
    }
   ],
   "counts": {
-   "Purchased": 81,
-   "Ripped": 0,
+   "Purchased": 75,
+   "Ripped": 6,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
