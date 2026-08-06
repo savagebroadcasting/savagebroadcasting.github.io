@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-05 22:17",
- "generated_ts": 1785986259,
+ "generated": "2026-08-05 22:37",
+ "generated_ts": 1785987466,
  "stats": {
-  "episodes_matches": 6308,
+  "episodes_matches": 6365,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -803,19 +803,19 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 325,
+  "certified_estimate": 329,
   "workload": {
    "overall": 6,
    "wrestling": 2,
    "actionable": 28,
-   "waiting_on_you": 92,
-   "note": "28 items Claude can work now \u00b7 92 waiting on you (discs to rip + gaps)"
+   "waiting_on_you": 88,
+   "note": "28 items Claude can work now \u00b7 88 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2518.4,
+   "used_gb": 2522.5,
    "total_gb": 11999.8,
    "pct": 21,
    "online": true
@@ -1531,42 +1531,6 @@
     "matches": 0
    },
    {
-    "id": "set-122",
-    "rip": 122,
-    "name": "WCW vs. Japan Supershow 1",
-    "discs": "TBD",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-123",
-    "rip": 123,
-    "name": "WCW vs. Japan Supershow 2",
-    "discs": "TBD",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-124",
-    "rip": 124,
-    "name": "WCW vs. Japan Supershow 3",
-    "discs": "TBD",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-125",
-    "rip": 125,
-    "name": "WCW vs. Japan: Collision in Korea",
-    "discs": "TBD",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-55",
     "rip": 55,
     "name": "TNA Wrestling: Hardcore Justice 2010",
@@ -1879,7 +1843,7 @@
     "discs": "5",
     "type": "matches",
     "stage": "Filed",
-    "matches": 54
+    "matches": 72
    },
    {
     "id": "set-102",
@@ -1888,7 +1852,7 @@
     "discs": "5",
     "type": "matches",
     "stage": "Filed",
-    "matches": 54
+    "matches": 72
    },
    {
     "id": "set-105",
@@ -1981,6 +1945,42 @@
     "matches": 2
    },
    {
+    "id": "set-122",
+    "rip": 122,
+    "name": "WCW vs. Japan Supershow 1",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 11
+   },
+   {
+    "id": "set-123",
+    "rip": 123,
+    "name": "WCW vs. Japan Supershow 2",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 11
+   },
+   {
+    "id": "set-124",
+    "rip": 124,
+    "name": "WCW vs. Japan Supershow 3",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 11
+   },
+   {
+    "id": "set-125",
+    "rip": 125,
+    "name": "WCW vs. Japan: Collision in Korea",
+    "discs": "TBD",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 12
+   },
+   {
     "id": "set-126",
     "rip": 126,
     "name": "Allied Powers: The World's Greatest Tag Teams",
@@ -2054,14 +2054,14 @@
    }
   ],
   "counts": {
-   "Purchased": 80,
+   "Purchased": 76,
    "Ripped": 5,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 48,
+   "Filed": 52,
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 1181
+  "total_matches": 1262
  }
 }
