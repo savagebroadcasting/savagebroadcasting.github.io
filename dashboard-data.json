@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07 09:07",
- "generated_ts": 1786111641,
+ "generated": "2026-08-07 09:27",
+ "generated_ts": 1786112846,
  "stats": {
   "episodes_matches": 6354,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 7,
-  "discs_week": 148,
-  "discs_month": 131,
-  "discs_alltime": 536,
+  "discs_today": 8,
+  "discs_week": 149,
+  "discs_month": 132,
+  "discs_alltime": 537,
   "discs_today_list": [
    "Leave It to Beaver S2D1",
    "Leave It to Beaver S2D2",
@@ -21,6 +21,7 @@
    "Leave It to Beaver S2D4",
    "Leave It to Beaver S2D5",
    "Leave It to Beaver S2D6",
+   "Leave It to Beaver S3D1",
    "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_week_list": [
@@ -76,6 +77,7 @@
    "Leave It to Beaver S2D4",
    "Leave It to Beaver S2D5",
    "Leave It to Beaver S2D6",
+   "Leave It to Beaver S3D1",
    "Married... with Children S10D1",
    "Married... with Children S10D2",
    "Married... with Children S10D3",
@@ -220,6 +222,7 @@
    "Leave It to Beaver S2D4",
    "Leave It to Beaver S2D5",
    "Leave It to Beaver S2D6",
+   "Leave It to Beaver S3D1",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -513,6 +516,7 @@
    "Leave It to Beaver S2D4",
    "Leave It to Beaver S2D5",
    "Leave It to Beaver S2D6",
+   "Leave It to Beaver S3D1",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -858,7 +862,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2805.4,
+   "used_gb": 2810.4,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
