@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 20:43",
- "generated_ts": 1786067025,
+ "generated": "2026-08-06 21:03",
+ "generated_ts": 1786068229,
  "stats": {
   "episodes_matches": 6343,
   "titles_total": 453,
@@ -10,7 +10,7 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 32,
+  "discs_today": 33,
   "discs_week": 166,
   "discs_month": 123,
   "discs_alltime": 528,
@@ -26,6 +26,7 @@
    "Triple H: Thy Kingdom Come D1",
    "Triple H: Thy Kingdom Come D2",
    "Triple H: Thy Kingdom Come D3",
+   "WCW vs. Japan Supershow 1 D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -885,7 +886,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2718.7,
+   "used_gb": 2725.0,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
