@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07 10:47",
- "generated_ts": 1786117667,
+ "generated": "2026-08-07 11:07",
+ "generated_ts": 1786118871,
  "stats": {
   "episodes_matches": 6354,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 11,
+  "discs_today": 12,
   "discs_week": 151,
-  "discs_month": 135,
+  "discs_month": 136,
   "discs_alltime": 539,
   "discs_today_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
+   "Blood Sport: ECW's Most Violent Matches D2",
    "Leave It to Beaver S2D1",
    "Leave It to Beaver S2D2",
    "Leave It to Beaver S2D3",
@@ -185,6 +186,7 @@
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Blood Sport: ECW's Most Violent Matches D1",
+   "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
@@ -872,7 +874,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2836.4,
+   "used_gb": 2843.7,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
