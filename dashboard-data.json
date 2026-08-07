@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07 06:26",
- "generated_ts": 1786102008,
+ "generated": "2026-08-07 06:46",
+ "generated_ts": 1786103212,
  "stats": {
   "episodes_matches": 6354,
   "titles_total": 453,
@@ -10,11 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 142,
-  "discs_month": 125,
-  "discs_alltime": 530,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 143,
+  "discs_month": 126,
+  "discs_alltime": 531,
+  "discs_today_list": [
+   "Leave It to Beaver S2D1"
+  ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -62,6 +64,7 @@
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
    "Leave It to Beaver S1D6",
+   "Leave It to Beaver S2D1",
    "Married... with Children S10D1",
    "Married... with Children S10D2",
    "Married... with Children S10D3",
@@ -200,6 +203,7 @@
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
    "Leave It to Beaver S1D6",
+   "Leave It to Beaver S2D1",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -487,6 +491,7 @@
    "Leave It to Beaver S1D4",
    "Leave It to Beaver S1D5",
    "Leave It to Beaver S1D6",
+   "Leave It to Beaver S2D1",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -818,8 +823,8 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 83,
-  "certified_shows": 28,
+  "certified": 90,
+  "certified_shows": 29,
   "certified_estimate": 330,
   "workload": {
    "overall": 7,
@@ -832,7 +837,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2746.4,
+   "used_gb": 2764.0,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
