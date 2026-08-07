@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-07 05:06",
- "generated_ts": 1786097193,
+ "generated": "2026-08-07 05:26",
+ "generated_ts": 1786098396,
  "stats": {
-  "episodes_matches": 6355,
+  "episodes_matches": 6354,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -818,9 +818,9 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 43,
-  "certified_shows": 15,
-  "certified_estimate": 329,
+  "certified": 48,
+  "certified_shows": 16,
+  "certified_estimate": 330,
   "workload": {
    "overall": 7,
    "wrestling": 5,
@@ -854,7 +854,9 @@
   "Leave It to Beaver (1957) \u2014 Season 1, Disc 2   (missing e8-e14)",
   "Leave It to Beaver (1957) \u2014 Season 1, Disc 3   (missing e17-e21)",
   "ThunderCats (1985) \u2014 Season 1, Disc 5   (missing e53)",
-  "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)"
+  "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)",
+  "Tales from the Crypt (1989) \u2014 Season 7, Disc 3   (missing e12 \"Confession\" \u2014 its slot held a duplicate of the e13 finale; dup quarantined 8/7 5:30 AM)",
+  "Tales from the Crypt (1989) \u2014 Season 3, disc TBD (Claude will identify)   (missing e14 \"Yellow\" \u2014 its slot held a Comic-Con panel bonus feature, now refiled to Season 00)"
  ],
  "stage_order": [
   "Purchased",
@@ -2019,15 +2021,6 @@
     "matches": 9
    },
    {
-    "id": "set-128",
-    "rip": 128,
-    "name": "Tales from the Territories (2024)",
-    "discs": "3",
-    "type": "documentary",
-    "stage": "Filed",
-    "matches": 10
-   },
-   {
     "id": "set-129",
     "rip": 129,
     "name": "Who Killed WCW? (2024)",
@@ -2071,6 +2064,15 @@
     "type": "documentary",
     "stage": "Filed",
     "matches": 5
+   },
+   {
+    "id": "set-128",
+    "rip": 128,
+    "name": "Tales from the Territories (2024)",
+    "discs": "3",
+    "type": "documentary",
+    "stage": "Certified",
+    "matches": 10
    }
   ],
   "counts": {
@@ -2078,8 +2080,8 @@
    "Ripped": 14,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 52,
-   "Certified": 0
+   "Filed": 51,
+   "Certified": 1
   },
   "total_sets": 134,
   "total_matches": 1300
