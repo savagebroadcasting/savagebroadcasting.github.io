@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 19:23",
- "generated_ts": 1786062210,
+ "generated": "2026-08-06 19:43",
+ "generated_ts": 1786063414,
  "stats": {
   "episodes_matches": 6336,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 28,
-  "discs_week": 162,
-  "discs_month": 119,
-  "discs_alltime": 524,
+  "discs_today": 29,
+  "discs_week": 163,
+  "discs_month": 120,
+  "discs_alltime": 525,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
@@ -22,6 +22,7 @@
    "Leave It to Beaver S1D5",
    "Leave It to Beaver S1D6",
    "Triple H: The King of Kings D2",
+   "Triple H: Thy Kingdom Come D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -143,6 +144,7 @@
    "ThunderCats S4D2",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
+   "Triple H: Thy Kingdom Come D1",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -264,6 +266,7 @@
    "The Little Rascals S1D7",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
+   "Triple H: Thy Kingdom Come D1",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -768,6 +771,7 @@
    "Tom and Jerry S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
+   "Triple H: Thy Kingdom Come D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
@@ -860,18 +864,18 @@
   "certified_estimate": 331,
   "workload": {
    "overall": 7,
-   "wrestling": 4,
-   "actionable": 35,
-   "waiting_on_you": 81,
-   "note": "35 items Claude can work now \u00b7 81 waiting on you (discs to rip + gaps)"
+   "wrestling": 5,
+   "actionable": 36,
+   "waiting_on_you": 80,
+   "note": "36 items Claude can work now \u00b7 80 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2697.1,
+   "used_gb": 2704.1,
    "total_gb": 11999.8,
-   "pct": 22,
+   "pct": 23,
    "online": true
   },
   {
@@ -1218,15 +1222,6 @@
     "matches": 0
    },
    {
-    "id": "set-65",
-    "rip": 65,
-    "name": "Triple H: Thy Kingdom Come",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-66",
     "rip": 66,
     "name": "Twist of Fate: The Matt & Jeff Hardy Story",
@@ -1556,6 +1551,15 @@
     "name": "TNA Wrestling: World X Cup 2008",
     "discs": "1",
     "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-65",
+    "rip": 65,
+    "name": "Triple H: Thy Kingdom Come",
+    "discs": "3",
+    "type": "mixed",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2101,8 +2105,8 @@
    }
   ],
   "counts": {
-   "Purchased": 69,
-   "Ripped": 12,
+   "Purchased": 68,
+   "Ripped": 13,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
