@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 20:23",
- "generated_ts": 1786065822,
+ "generated": "2026-08-06 20:43",
+ "generated_ts": 1786067025,
  "stats": {
   "episodes_matches": 6343,
   "titles_total": 453,
@@ -10,11 +10,12 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 31,
-  "discs_week": 165,
-  "discs_month": 122,
-  "discs_alltime": 527,
+  "discs_today": 32,
+  "discs_week": 166,
+  "discs_month": 123,
+  "discs_alltime": 528,
   "discs_today_list": [
+   "Born to Controversy: The Roddy Piper Story D1",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Leave It to Beaver S1D3",
@@ -53,6 +54,7 @@
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
+   "Born to Controversy: The Roddy Piper Story D1",
    "ECW One Night Stand 2006 D1",
    "ECW One Night Stand 2006 D2",
    "ESPN Films 30 for 30: Nature Boy D1",
@@ -218,6 +220,7 @@
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
+   "Born to Controversy: The Roddy Piper Story D1",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -401,6 +404,7 @@
    "Beverly Hills, 90210 S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
+   "Born to Controversy: The Roddy Piper Story D1",
    "Duck Dynasty S10D1",
    "Duck Dynasty S10D2",
    "Duck Dynasty S10D3",
@@ -873,15 +877,15 @@
   "workload": {
    "overall": 7,
    "wrestling": 5,
-   "actionable": 36,
-   "waiting_on_you": 80,
-   "note": "36 items Claude can work now \u00b7 80 waiting on you (discs to rip + gaps)"
+   "actionable": 37,
+   "waiting_on_you": 79,
+   "note": "37 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2711.8,
+   "used_gb": 2718.7,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -918,15 +922,6 @@
     "id": "set-2",
     "rip": 2,
     "name": "Batista: The Animal Unleashed",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-4",
-    "rip": 4,
-    "name": "Born to Controversy: The Roddy Piper Story",
     "discs": "3",
     "type": "mixed",
     "stage": "Purchased",
@@ -1515,6 +1510,15 @@
     "discs": "TBD",
     "type": "mixed",
     "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-4",
+    "rip": 4,
+    "name": "Born to Controversy: The Roddy Piper Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
     "matches": 0
    },
    {
@@ -2113,8 +2117,8 @@
    }
   ],
   "counts": {
-   "Purchased": 68,
-   "Ripped": 13,
+   "Purchased": 67,
+   "Ripped": 14,
    "Scanned": 1,
    "Encoding": 0,
    "Filed": 52,
