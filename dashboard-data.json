@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07 17:29",
- "generated_ts": 1786141779,
+ "generated": "2026-08-07 17:49",
+ "generated_ts": 1786142983,
  "stats": {
   "episodes_matches": 6376,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 19,
-  "discs_week": 158,
-  "discs_month": 143,
-  "discs_alltime": 546,
+  "discs_today": 20,
+  "discs_week": 159,
+  "discs_month": 144,
+  "discs_alltime": 547,
   "discs_today_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -33,6 +33,7 @@
    "Leave It to Beaver S4D2",
    "Leave It to Beaver S4D3",
    "Leave It to Beaver S4D4",
+   "Leave It to Beaver S4D5",
    "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_week_list": [
@@ -98,6 +99,7 @@
    "Leave It to Beaver S4D2",
    "Leave It to Beaver S4D3",
    "Leave It to Beaver S4D4",
+   "Leave It to Beaver S4D5",
    "Married... with Children S10D1",
    "Married... with Children S10D2",
    "Married... with Children S10D3",
@@ -254,6 +256,7 @@
    "Leave It to Beaver S4D2",
    "Leave It to Beaver S4D3",
    "Leave It to Beaver S4D4",
+   "Leave It to Beaver S4D5",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -557,6 +560,7 @@
    "Leave It to Beaver S4D2",
    "Leave It to Beaver S4D3",
    "Leave It to Beaver S4D4",
+   "Leave It to Beaver S4D5",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -902,7 +906,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2909.5,
+   "used_gb": 2915.8,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -926,7 +930,9 @@
   "ThunderCats (1985) \u2014 Season 1, Disc 5   (missing e53)",
   "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)",
   "Tales from the Crypt (1989) \u2014 Season 7, Disc 3   (missing e12 \"Confession\" \u2014 its slot held a duplicate of the e13 finale; dup quarantined 8/7 5:30 AM)",
-  "Tales from the Crypt (1989) \u2014 Season 3, disc TBD (Claude will identify)   (missing e14 \"Yellow\" \u2014 its slot held a Comic-Con panel bonus feature, now refiled to Season 00)"
+  "Tales from the Crypt (1989) \u2014 Season 3, disc TBD (Claude will identify)   (missing e14 \"Yellow\" \u2014 its slot held a Comic-Con panel bonus feature, now refiled to Season 00)",
+  "Sanford and Son (1972) \u2014 Season 4, disc TBD (Claude will identify)   (missing e7 \"Home Sweet Home\" \u2014 24 of 25 filed after the 8/7 renumber)",
+  "The Wonder Years (1988) \u2014 Season 2, disc TBD (Claude will identify)   (missing e2, e3, e5 \u2014 the early-episodes disc; 5 featurettes were squatting in their slots)"
  ],
  "stage_order": [
   "Purchased",
