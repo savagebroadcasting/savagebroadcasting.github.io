@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-06 21:03",
- "generated_ts": 1786068229,
+ "generated": "2026-08-06 21:23",
+ "generated_ts": 1786069433,
  "stats": {
   "episodes_matches": 6343,
   "titles_total": 453,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 33,
-  "discs_week": 166,
-  "discs_month": 123,
-  "discs_alltime": 528,
+  "discs_today": 34,
+  "discs_week": 167,
+  "discs_month": 124,
+  "discs_alltime": 529,
   "discs_today_list": [
    "Born to Controversy: The Roddy Piper Story D1",
+   "Born to Controversy: The Roddy Piper Story D2",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Leave It to Beaver S1D3",
@@ -56,6 +57,7 @@
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
+   "Born to Controversy: The Roddy Piper Story D2",
    "ECW One Night Stand 2006 D1",
    "ECW One Night Stand 2006 D2",
    "ESPN Films 30 for 30: Nature Boy D1",
@@ -222,6 +224,7 @@
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Born to Controversy: The Roddy Piper Story D1",
+   "Born to Controversy: The Roddy Piper Story D2",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -406,6 +409,7 @@
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
+   "Born to Controversy: The Roddy Piper Story D2",
    "Duck Dynasty S10D1",
    "Duck Dynasty S10D2",
    "Duck Dynasty S10D3",
@@ -886,7 +890,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2725.0,
+   "used_gb": 2732.2,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
