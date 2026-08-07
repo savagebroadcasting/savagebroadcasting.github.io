@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-06 19:43",
- "generated_ts": 1786063414,
+ "generated": "2026-08-06 20:03",
+ "generated_ts": 1786064618,
  "stats": {
-  "episodes_matches": 6336,
+  "episodes_matches": 6350,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 29,
-  "discs_week": 163,
-  "discs_month": 120,
-  "discs_alltime": 525,
+  "discs_today": 30,
+  "discs_week": 164,
+  "discs_month": 121,
+  "discs_alltime": 526,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
@@ -23,6 +23,7 @@
    "Leave It to Beaver S1D6",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
+   "Triple H: Thy Kingdom Come D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -145,6 +146,7 @@
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
+   "Triple H: Thy Kingdom Come D2",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -267,6 +269,7 @@
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
+   "Triple H: Thy Kingdom Come D2",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -772,6 +775,7 @@
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
+   "Triple H: Thy Kingdom Come D2",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
@@ -861,7 +865,7 @@
   ],
   "certified": 43,
   "certified_shows": 15,
-  "certified_estimate": 331,
+  "certified_estimate": 330,
   "workload": {
    "overall": 7,
    "wrestling": 5,
@@ -873,7 +877,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2704.1,
+   "used_gb": 2704.6,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -1696,7 +1700,7 @@
     "discs": "3",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 15
+    "matches": 16
    },
    {
     "id": "set-22",
@@ -1714,7 +1718,7 @@
     "discs": "1",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 5
+    "matches": 6
    },
    {
     "id": "set-26",
@@ -1876,7 +1880,7 @@
     "discs": "3",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 15
+    "matches": 16
    },
    {
     "id": "set-96",
@@ -2047,7 +2051,7 @@
     "discs": "1",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 8
+    "matches": 9
    },
    {
     "id": "set-128",
@@ -2113,6 +2117,6 @@
    "Certified": 0
   },
   "total_sets": 134,
-  "total_matches": 1289
+  "total_matches": 1293
  }
 }
