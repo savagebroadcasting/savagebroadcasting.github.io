@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-08 11:33",
- "generated_ts": 1786206811,
+ "generated": "2026-08-08 11:53",
+ "generated_ts": 1786208015,
  "stats": {
   "episodes_matches": 6562,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 11,
-  "discs_week": 162,
-  "discs_month": 162,
-  "discs_alltime": 565,
+  "discs_today": 12,
+  "discs_week": 163,
+  "discs_month": 163,
+  "discs_alltime": 566,
   "discs_today_list": [
    "Leave It to Beaver S6D1",
    "Leave It to Beaver S6D2",
@@ -25,7 +25,8 @@
    "Taxi S1D2",
    "Taxi S1D3",
    "Taxi S2D1",
-   "Taxi S2D2"
+   "Taxi S2D2",
+   "Taxi S2D3"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -114,6 +115,7 @@
    "Taxi S1D3",
    "Taxi S2D1",
    "Taxi S2D2",
+   "Taxi S2D3",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -278,6 +280,7 @@
    "Taxi S1D3",
    "Taxi S2D1",
    "Taxi S2D2",
+   "Taxi S2D3",
    "The Little Rascals S1D1",
    "The Little Rascals S1D2",
    "The Little Rascals S1D3",
@@ -709,6 +712,7 @@
    "Taxi S1D3",
    "Taxi S2D1",
    "Taxi S2D2",
+   "Taxi S2D3",
    "Teenage Mutant Ninja Turtles S10D1",
    "Teenage Mutant Ninja Turtles S7D3",
    "Teenage Mutant Ninja Turtles S7D4",
@@ -936,7 +940,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2719.8,
+   "used_gb": 2726.4,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
