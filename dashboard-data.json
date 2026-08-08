@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-08 14:54",
- "generated_ts": 1786218850,
+ "generated": "2026-08-08 15:14",
+ "generated_ts": 1786220055,
  "stats": {
   "episodes_matches": 6582,
   "titles_total": 456,
@@ -10,15 +10,16 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 20,
-  "discs_week": 171,
-  "discs_month": 171,
-  "discs_alltime": 574,
+  "discs_today": 21,
+  "discs_week": 172,
+  "discs_month": 172,
+  "discs_alltime": 575,
   "discs_today_list": [
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
    "Doug S1D4",
+   "Doug S1D5",
    "Leave It to Beaver S6D1",
    "Leave It to Beaver S6D2",
    "Leave It to Beaver S6D3",
@@ -49,6 +50,7 @@
    "Doug S1D2",
    "Doug S1D3",
    "Doug S1D4",
+   "Doug S1D5",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -222,6 +224,7 @@
    "Doug S1D2",
    "Doug S1D3",
    "Doug S1D4",
+   "Doug S1D5",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -452,6 +455,7 @@
    "Doug S1D2",
    "Doug S1D3",
    "Doug S1D4",
+   "Doug S1D5",
    "Duck Dynasty S10D1",
    "Duck Dynasty S10D2",
    "Duck Dynasty S10D3",
@@ -972,7 +976,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2753.0,
+   "used_gb": 2757.1,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
