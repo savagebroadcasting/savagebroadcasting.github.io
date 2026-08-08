@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-08 14:14",
- "generated_ts": 1786216443,
+ "generated": "2026-08-08 14:34",
+ "generated_ts": 1786217646,
  "stats": {
   "episodes_matches": 6582,
   "titles_total": 456,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 17,
-  "discs_week": 168,
-  "discs_month": 168,
-  "discs_alltime": 571,
+  "discs_today": 18,
+  "discs_week": 169,
+  "discs_month": 169,
+  "discs_alltime": 572,
   "discs_today_list": [
    "Doug S1D1",
+   "Doug S1D2",
    "Leave It to Beaver S6D1",
    "Leave It to Beaver S6D2",
    "Leave It to Beaver S6D3",
@@ -43,6 +44,7 @@
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
    "Doug S1D1",
+   "Doug S1D2",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -213,6 +215,7 @@
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
    "Doug S1D1",
+   "Doug S1D2",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Get Smart S1D1",
    "Get Smart S1D2",
@@ -440,6 +443,7 @@
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
    "Doug S1D1",
+   "Doug S1D2",
    "Duck Dynasty S10D1",
    "Duck Dynasty S10D2",
    "Duck Dynasty S10D3",
@@ -960,7 +964,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2746.1,
+   "used_gb": 2754.7,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
