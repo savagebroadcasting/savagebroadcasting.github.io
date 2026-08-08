@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-07 20:10",
- "generated_ts": 1786151409,
+ "generated": "2026-08-07 20:30",
+ "generated_ts": 1786152613,
  "stats": {
   "episodes_matches": 6402,
   "titles_total": 453,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 25,
-  "discs_week": 164,
-  "discs_month": 149,
-  "discs_alltime": 552,
+  "discs_today": 26,
+  "discs_week": 165,
+  "discs_month": 150,
+  "discs_alltime": 553,
   "discs_today_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -39,6 +39,7 @@
    "Leave It to Beaver S5D2",
    "Leave It to Beaver S5D3",
    "Leave It to Beaver S5D4",
+   "Leave It to Beaver S5D5",
    "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_week_list": [
@@ -110,6 +111,7 @@
    "Leave It to Beaver S5D2",
    "Leave It to Beaver S5D3",
    "Leave It to Beaver S5D4",
+   "Leave It to Beaver S5D5",
    "Married... with Children S10D1",
    "Married... with Children S10D2",
    "Married... with Children S10D3",
@@ -272,6 +274,7 @@
    "Leave It to Beaver S5D2",
    "Leave It to Beaver S5D3",
    "Leave It to Beaver S5D4",
+   "Leave It to Beaver S5D5",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -581,6 +584,7 @@
    "Leave It to Beaver S5D2",
    "Leave It to Beaver S5D3",
    "Leave It to Beaver S5D4",
+   "Leave It to Beaver S5D5",
    "Mad Men S1D1",
    "Mad Men S1D2",
    "Mad Men S1D3",
@@ -926,7 +930,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2944.5,
+   "used_gb": 2950.0,
    "total_gb": 11999.8,
    "pct": 25,
    "online": true
