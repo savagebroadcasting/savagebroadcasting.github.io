@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-08 15:54",
- "generated_ts": 1786222463,
+ "generated": "2026-08-08 16:14",
+ "generated_ts": 1786223667,
  "stats": {
   "episodes_matches": 6582,
   "titles_total": 456,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 23,
-  "discs_week": 174,
-  "discs_month": 174,
-  "discs_alltime": 577,
+  "discs_today": 24,
+  "discs_week": 175,
+  "discs_month": 175,
+  "discs_alltime": 578,
   "discs_today_list": [
    "Doug S1D1",
    "Doug S1D2",
@@ -28,6 +28,7 @@
    "Leave It to Beaver S6D5",
    "Leave It to Beaver S6D6",
    "Night Gallery S1D1",
+   "Night Gallery S1D2",
    "Taxi S1D1",
    "Taxi S1D2",
    "Taxi S1D3",
@@ -124,6 +125,7 @@
    "Nature Boy Ric Flair: The Definitive Collection D2",
    "Nature Boy Ric Flair: The Definitive Collection D3",
    "Night Gallery S1D1",
+   "Night Gallery S1D2",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -300,6 +302,7 @@
    "Nature Boy Ric Flair: The Definitive Collection D2",
    "Nature Boy Ric Flair: The Definitive Collection D3",
    "Night Gallery S1D1",
+   "Night Gallery S1D2",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -696,6 +699,7 @@
    "Nature Boy Ric Flair: The Definitive Collection D2",
    "Nature Boy Ric Flair: The Definitive Collection D3",
    "Night Gallery S1D1",
+   "Night Gallery S1D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -984,7 +988,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2765.9,
+   "used_gb": 2770.3,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
