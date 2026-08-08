@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08 05:32",
- "generated_ts": 1786185140,
+ "generated": "2026-08-08 05:52",
+ "generated_ts": 1786186345,
  "stats": {
-  "episodes_matches": 6547,
+  "episodes_matches": 6549,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -891,7 +891,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2658.4,
+   "used_gb": 2652.2,
    "total_gb": 11999.8,
    "pct": 22,
    "online": true
@@ -909,22 +909,18 @@
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
-  "Leave It to Beaver (1957) \u2014 Season 1, Disc 1   (missing e1-e7)",
-  "Leave It to Beaver (1957) \u2014 Season 1, Disc 2   (missing e8-e14)",
-  "Leave It to Beaver (1957) \u2014 Season 1, Disc 3   (missing e17-e21)",
-  "Leave It to Beaver (1957) \u2014 Season 4, Disc 2   (missing e11-e13)",
-  "Leave It to Beaver (1957) \u2014 Season 4, Disc 3   (missing e14-e20)",
-  "Leave It to Beaver (1957) \u2014 Season 4, Disc 4   (missing e21-e26)",
-  "Leave It to Beaver (1957) \u2014 Season 4, Disc 5   (missing e27-e33)",
-  "Leave It to Beaver (1957) \u2014 Season 4, Disc 6   (missing e34-e39)",
+  "Leave It to Beaver (1957) \u2014 Season 1, Disc 3   (missing e20-e21)",
   "Robot Chicken (2005) \u2014 Season 5, disc TBD (Claude will identify)   (missing e10-e11)",
+  "Sex and the City (1998) \u2014 Season 2, disc TBD (Claude will identify)   (missing e13)",
   "The Wonder Years (1988) \u2014 Season 2, disc TBD (Claude will identify)   (missing e2-e3, e5)",
   "ThunderCats (1985) \u2014 Season 1, Disc 5   (missing e53)",
   "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)",
   "Tales from the Crypt (1989) \u2014 Season 3, disc TBD (Claude will identify) \u2014 (missing e14 \"Yellow\"; slot held a Comic-Con panel, refiled to S00)",
-  "The Wonder Years (1988) \u2014 Season 2, disc TBD (Claude will identify) \u2014 (missing e2, e3, e5; five featurettes were squatting in their slots)",
-  "Triple H - The King of Kings (2008) \u2014 Disc 2 \u2014 re-rip (staging held only 2 of ~6 matches)",
-  "WWE The Very Best of WCW Monday Nitro (2011) \u2014 Discs 1 + 3 \u2014 re-rip (empty staging husks; D2 held+fine)"
+  "Tales from the Crypt (1989) \u2014 Season 7, Disc 3   (missing e12; slot held a dup of the finale, quarantined; re-rip)",
+  "Sex and the City (1998) \u2014 Season 6, disc TBD (Claude will identify)   (missing e20 \u2014 THE SERIES FINALE)",
+  "Who Killed WCW? (2024) \u2014 Disc 2   (missing e4 The Final Nitro \u2014 disc 1 held only eps 1-3)",
+  "Triple H - The King of Kings (2008) \u2014 Disc 2   (missing ~4 of 6 matches \u2014 partial rip, re-rip)",
+  "WWE The Very Best of WCW Monday Nitro (2011) \u2014 Discs 1 + 3   (missing all content \u2014 rips never completed; D2 held fine)"
  ],
  "stage_order": [
   "Purchased",
