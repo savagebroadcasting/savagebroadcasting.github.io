@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08 00:31",
- "generated_ts": 1786167073,
+ "generated": "2026-08-08 00:51",
+ "generated_ts": 1786168279,
  "stats": {
-  "episodes_matches": 6462,
+  "episodes_matches": 6473,
   "titles_total": 453,
   "titles_by_type": {
    "TV": 61,
@@ -877,23 +877,23 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 107,
+  "certified": 109,
   "certified_shows": 34,
-  "certified_estimate": 337,
+  "certified_estimate": 340,
   "workload": {
    "overall": 7,
-   "wrestling": 5,
-   "actionable": 37,
+   "wrestling": 4,
+   "actionable": 34,
    "waiting_on_you": 79,
-   "note": "37 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
+   "note": "34 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2699.0,
+   "used_gb": 2702.9,
    "total_gb": 11999.8,
-   "pct": 22,
+   "pct": 23,
    "online": true
   },
   {
@@ -1540,24 +1540,6 @@
     "matches": 0
    },
    {
-    "id": "set-4",
-    "rip": 4,
-    "name": "Born to Controversy: The Roddy Piper Story",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-16",
-    "rip": 16,
-    "name": "Hitman Hart: Wrestling with Shadows",
-    "discs": "1",
-    "type": "documentary",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-55",
     "rip": 55,
     "name": "TNA Wrestling: Hardcore Justice 2010",
@@ -1630,15 +1612,6 @@
     "matches": 0
    },
    {
-    "id": "set-93",
-    "rip": 93,
-    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-114",
     "rip": 114,
     "name": "WWE: The Very Best of WCW Monday Nitro",
@@ -1673,6 +1646,15 @@
     "type": "matches",
     "stage": "Scanned",
     "matches": 0
+   },
+   {
+    "id": "set-4",
+    "rip": 4,
+    "name": "Born to Controversy: The Roddy Piper Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 1
    },
    {
     "id": "set-7",
@@ -1718,6 +1700,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 14
+   },
+   {
+    "id": "set-16",
+    "rip": 16,
+    "name": "Hitman Hart: Wrestling with Shadows",
+    "discs": "1",
+    "type": "documentary",
+    "stage": "Filed",
+    "matches": 1
    },
    {
     "id": "set-17",
@@ -1916,6 +1907,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 16
+   },
+   {
+    "id": "set-93",
+    "rip": 93,
+    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 1
    },
    {
     "id": "set-96",
@@ -2145,13 +2145,13 @@
   ],
   "counts": {
    "Purchased": 67,
-   "Ripped": 14,
+   "Ripped": 11,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 51,
+   "Filed": 54,
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1309
+  "total_matches": 1312
  }
 }
