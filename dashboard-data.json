@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08 20:15",
- "generated_ts": 1786238131,
+ "generated": "2026-08-08 20:35",
+ "generated_ts": 1786239338,
  "stats": {
-  "episodes_matches": 6576,
+  "episodes_matches": 6595,
   "titles_total": 456,
   "titles_by_type": {
    "TV": 64,
@@ -980,19 +980,19 @@
   ],
   "certified": 116,
   "certified_shows": 34,
-  "certified_estimate": 345,
+  "certified_estimate": 348,
   "workload": {
    "overall": 7,
    "wrestling": 4,
-   "actionable": 34,
+   "actionable": 33,
    "waiting_on_you": 79,
-   "note": "34 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
+   "note": "33 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2794.8,
+   "used_gb": 2798.1,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -1691,15 +1691,6 @@
     "matches": 0
    },
    {
-    "id": "set-79",
-    "rip": 79,
-    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-85",
     "rip": 85,
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
@@ -1968,6 +1959,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 16
+   },
+   {
+    "id": "set-79",
+    "rip": 79,
+    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 19
    },
    {
     "id": "set-83",
@@ -2242,13 +2242,13 @@
   ],
   "counts": {
    "Purchased": 67,
-   "Ripped": 11,
+   "Ripped": 10,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 54,
+   "Filed": 55,
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1308
+  "total_matches": 1327
  }
 }
