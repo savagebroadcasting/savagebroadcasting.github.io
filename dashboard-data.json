@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 16:20",
- "generated_ts": 1786310412,
+ "generated": "2026-08-09 16:40",
+ "generated_ts": 1786311616,
  "stats": {
   "episodes_matches": 6807,
   "titles_total": 457,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 8,
-  "discs_week": 162,
-  "discs_month": 183,
-  "discs_alltime": 586,
+  "discs_today": 9,
+  "discs_week": 163,
+  "discs_month": 184,
+  "discs_alltime": 587,
   "discs_today_list": [
    "Night Gallery S1D2",
    "Night Gallery S2D1",
@@ -22,7 +22,8 @@
    "Night Gallery S2D4",
    "Night Gallery S2D5",
    "Night Gallery S3D1",
-   "Night Gallery S3D2"
+   "Night Gallery S3D2",
+   "Punky Brewster S1D1"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -104,6 +105,7 @@
    "Night Gallery S2D5",
    "Night Gallery S3D1",
    "Night Gallery S3D2",
+   "Punky Brewster S1D1",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -282,6 +284,7 @@
    "Night Gallery S2D5",
    "Night Gallery S3D1",
    "Night Gallery S3D2",
+   "Punky Brewster S1D1",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -690,6 +693,7 @@
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
+   "Punky Brewster S1D1",
    "Quantum Leap S1D1",
    "Raising Hope S2D2",
    "Rob Van Dam: One of a Kind D1",
@@ -987,7 +991,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2836.9,
+   "used_gb": 2843.9,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
