@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09 00:36",
- "generated_ts": 1786253816,
+ "generated": "2026-08-09 00:57",
+ "generated_ts": 1786255022,
  "stats": {
-  "episodes_matches": 6694,
+  "episodes_matches": 6707,
   "titles_total": 456,
   "titles_by_type": {
    "TV": 64,
@@ -933,19 +933,19 @@
   ],
   "certified": 116,
   "certified_shows": 34,
-  "certified_estimate": 359,
+  "certified_estimate": 363,
   "workload": {
-   "overall": 7,
-   "wrestling": 4,
-   "actionable": 33,
+   "overall": 6,
+   "wrestling": 3,
+   "actionable": 32,
    "waiting_on_you": 79,
-   "note": "33 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
+   "note": "32 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2840.4,
+   "used_gb": 2845.8,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -1635,15 +1635,6 @@
     "matches": 0
    },
    {
-    "id": "set-76",
-    "rip": 76,
-    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-85",
     "rip": 85,
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
@@ -1912,6 +1903,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 16
+   },
+   {
+    "id": "set-76",
+    "rip": 76,
+    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 13
    },
    {
     "id": "set-79",
@@ -2195,13 +2195,13 @@
   ],
   "counts": {
    "Purchased": 67,
-   "Ripped": 10,
+   "Ripped": 9,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 55,
+   "Filed": 56,
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1361
+  "total_matches": 1374
  }
 }
