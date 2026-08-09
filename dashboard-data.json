@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09 01:17",
- "generated_ts": 1786256229,
+ "generated": "2026-08-09 01:37",
+ "generated_ts": 1786257434,
  "stats": {
-  "episodes_matches": 6707,
+  "episodes_matches": 6720,
   "titles_total": 456,
   "titles_by_type": {
    "TV": 64,
@@ -933,19 +933,19 @@
   ],
   "certified": 116,
   "certified_shows": 34,
-  "certified_estimate": 363,
+  "certified_estimate": 366,
   "workload": {
    "overall": 6,
    "wrestling": 3,
-   "actionable": 32,
+   "actionable": 31,
    "waiting_on_you": 79,
-   "note": "32 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
+   "note": "31 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2849.8,
+   "used_gb": 2832.3,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -1626,15 +1626,6 @@
     "matches": 0
    },
    {
-    "id": "set-65",
-    "rip": 65,
-    "name": "Triple H: Thy Kingdom Come",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
     "id": "set-85",
     "rip": 85,
     "name": "WWE: Hart & Soul - The Hart Family Anthology",
@@ -1894,6 +1885,15 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 8
+   },
+   {
+    "id": "set-65",
+    "rip": 65,
+    "name": "Triple H: Thy Kingdom Come",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 13
    },
    {
     "id": "set-67",
@@ -2195,13 +2195,13 @@
   ],
   "counts": {
    "Purchased": 67,
-   "Ripped": 9,
+   "Ripped": 8,
    "Scanned": 1,
    "Encoding": 0,
-   "Filed": 56,
+   "Filed": 57,
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1374
+  "total_matches": 1387
  }
 }
