@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 13:39",
- "generated_ts": 1786300779,
+ "generated": "2026-08-09 13:59",
+ "generated_ts": 1786301983,
  "stats": {
   "episodes_matches": 6815,
   "titles_total": 457,
@@ -10,15 +10,16 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 4,
-  "discs_week": 158,
-  "discs_month": 179,
-  "discs_alltime": 582,
+  "discs_today": 5,
+  "discs_week": 159,
+  "discs_month": 180,
+  "discs_alltime": 583,
   "discs_today_list": [
    "Night Gallery S1D2",
    "Night Gallery S2D1",
    "Night Gallery S2D2",
-   "Night Gallery S2D3"
+   "Night Gallery S2D3",
+   "Night Gallery S2D4"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -96,6 +97,7 @@
    "Night Gallery S2D1",
    "Night Gallery S2D2",
    "Night Gallery S2D3",
+   "Night Gallery S2D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -270,6 +272,7 @@
    "Night Gallery S2D1",
    "Night Gallery S2D2",
    "Night Gallery S2D3",
+   "Night Gallery S2D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -671,6 +674,7 @@
    "Night Gallery S2D1",
    "Night Gallery S2D2",
    "Night Gallery S2D3",
+   "Night Gallery S2D4",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -971,7 +975,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2811.5,
+   "used_gb": 2814.0,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
