@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09 11:19",
- "generated_ts": 1786292349,
+ "generated": "2026-08-09 11:39",
+ "generated_ts": 1786293553,
  "stats": {
-  "episodes_matches": 6806,
+  "episodes_matches": 6815,
   "titles_total": 457,
   "titles_by_type": {
    "TV": 65,
@@ -10,11 +10,12 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 3,
+  "discs_today": 4,
   "discs_week": 158,
   "discs_month": 179,
   "discs_alltime": 582,
   "discs_today_list": [
+   "Night Gallery S1D2",
    "Night Gallery S2D1",
    "Night Gallery S2D2",
    "Night Gallery S2D3"
@@ -946,12 +947,12 @@
   ],
   "certified": 142,
   "certified_shows": 50,
-  "certified_estimate": 372,
+  "certified_estimate": 375,
   "cert_split": {
    "tv": {
     "certified": 142,
     "evidence": 0,
-    "total_seasons": 246
+    "total_seasons": 249
    },
    "wrestling": {
     "certified": 0,
@@ -970,7 +971,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2808.3,
+   "used_gb": 2803.9,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -985,7 +986,6 @@
  ],
  "discs_needed": [
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
-  "(no disc needed \u2014 Doug (1991) S1 e9 already ripped, encoding now)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
