@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 08:38",
- "generated_ts": 1786282718,
+ "generated": "2026-08-09 08:58",
+ "generated_ts": 1786283922,
  "stats": {
   "episodes_matches": 6806,
   "titles_total": 457,
@@ -10,12 +10,14 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 1,
-  "discs_week": 156,
-  "discs_month": 177,
-  "discs_alltime": 580,
+  "discs_today": 3,
+  "discs_week": 158,
+  "discs_month": 179,
+  "discs_alltime": 582,
   "discs_today_list": [
-   "Night Gallery S2D1"
+   "Night Gallery S2D1",
+   "Night Gallery S2D2",
+   "Night Gallery S2D3"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -91,6 +93,8 @@
    "Night Gallery S1D2",
    "Night Gallery S1D3",
    "Night Gallery S2D1",
+   "Night Gallery S2D2",
+   "Night Gallery S2D3",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -263,6 +267,8 @@
    "Night Gallery S1D2",
    "Night Gallery S1D3",
    "Night Gallery S2D1",
+   "Night Gallery S2D2",
+   "Night Gallery S2D3",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -662,6 +668,8 @@
    "Night Gallery S1D2",
    "Night Gallery S1D3",
    "Night Gallery S2D1",
+   "Night Gallery S2D2",
+   "Night Gallery S2D3",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -950,7 +958,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2792.2,
+   "used_gb": 2794.6,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -987,7 +995,8 @@
   "Born to Controversy (2006) \u2014 Disc 1   (missing Raw Homecoming 2005-10-03 match; below length floor or inside doc \u2014 verify on re-look)",
   "Born to Controversy (2006) \u2014 Disc 2   (missing Mountie IC match, Royal Rumble 1992-01-19 \u2014 not on play-all or discretes; re-rip disc)",
   "WM Anthology Vol 5 \u2014 Disc 1 side B   (WrestleMania 21 second half; flip disc and rip)",
-  "WM Anthology Vol 5 \u2014 Disc 2 side B   (WrestleMania 22 second half; flip disc and rip)"
+  "WM Anthology Vol 5 \u2014 Disc 2 side B   (WrestleMania 22 second half; flip disc and rip)",
+  "Night Gallery (1970) \u2014 Season 2, Disc 1   (re-insert to finish: titles 10-15 still to pull; 9/15 staged; wedge mid-rip then disc swapped)"
  ],
  "stage_order": [
   "Purchased",
