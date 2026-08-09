@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 10:39",
- "generated_ts": 1786289940,
+ "generated": "2026-08-09 10:59",
+ "generated_ts": 1786291144,
  "stats": {
   "episodes_matches": 6806,
   "titles_total": 457,
@@ -944,13 +944,13 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 139,
+  "certified": 141,
   "certified_shows": 50,
   "certified_estimate": 372,
   "cert_split": {
    "tv": {
-    "certified": 139,
-    "evidence": 5,
+    "certified": 141,
+    "evidence": 2,
     "total_seasons": 246
    },
    "wrestling": {
@@ -970,7 +970,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2804.5,
+   "used_gb": 2805.8,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -985,7 +985,7 @@
  ],
  "discs_needed": [
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
-  "(no disc needed \u2014 Doug (1991) S1 e1-e9 already ripped, encoding now)",
+  "(no disc needed \u2014 Doug (1991) S1 e3-e9 already ripped, encoding now)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
@@ -1006,7 +1006,8 @@
   "Born to Controversy (2006) \u2014 Disc 2   (missing Mountie IC match, Royal Rumble 1992-01-19 \u2014 not on play-all or discretes; re-rip disc)",
   "WM Anthology Vol 5 \u2014 Disc 1 side B   (WrestleMania 21 second half; flip disc and rip)",
   "WM Anthology Vol 5 \u2014 Disc 2 side B   (WrestleMania 22 second half; flip disc and rip)",
-  "Night Gallery (1970) \u2014 Season 2, Disc 1   (re-insert to finish: titles 10-15 still to pull; 9/15 staged; wedge mid-rip then disc swapped)"
+  "Night Gallery (1970) \u2014 Season 2, Disc 1   (re-insert to finish: titles 10-15 still to pull; 9/15 staged; wedge mid-rip then disc swapped)",
+  "Night Gallery (1970) \u2014 Season 2, Disc 3   (2 failed attempts: HP pre-scan wedge + ASUS died at title 2; 2 titles staged; wipe disc + auto-retries on insert)"
  ],
  "stage_order": [
   "Purchased",
