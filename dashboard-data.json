@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 09:19",
- "generated_ts": 1786285190,
+ "generated": "2026-08-09 09:38",
+ "generated_ts": 1786286329,
  "stats": {
   "episodes_matches": 6806,
   "titles_total": 457,
@@ -944,13 +944,13 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 116,
-  "certified_shows": 34,
+  "certified": 130,
+  "certified_shows": 48,
   "certified_estimate": 372,
   "cert_split": {
    "tv": {
-    "certified": 116,
-    "evidence": 16,
+    "certified": 130,
+    "evidence": 15,
     "total_seasons": 246
    },
    "wrestling": {
@@ -970,7 +970,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2798.2,
+   "used_gb": 2802.1,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -1003,7 +1003,6 @@
   "Triple H - The King of Kings (2008) \u2014 Disc 2   (missing ~4 of 6 matches \u2014 partial rip, re-rip)",
   "WWE The Very Best of WCW Monday Nitro (2011) \u2014 Discs 1 + 3   (missing all content \u2014 rips never completed; D2 held fine)",
   "The Dick Van Dyke Show (1961) \u2014 Season 5, Disc 2   (missing e09)",
-  "King of the Hill (1997) \u2014 Season 6, Disc 1   (missing e01 e02 e03)",
   "Born to Controversy (2006) \u2014 Disc 1   (missing Raw Homecoming 2005-10-03 match; below length floor or inside doc \u2014 verify on re-look)",
   "Born to Controversy (2006) \u2014 Disc 2   (missing Mountie IC match, Royal Rumble 1992-01-19 \u2014 not on play-all or discretes; re-rip disc)",
   "WM Anthology Vol 5 \u2014 Disc 1 side B   (WrestleMania 21 second half; flip disc and rip)",
@@ -1651,42 +1650,6 @@
     "matches": 0
    },
    {
-    "id": "set-3",
-    "rip": 3,
-    "name": "Blood Sport: ECW's Most Violent Matches",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Filed",
-    "matches": 20
-   },
-   {
-    "id": "set-4",
-    "rip": 4,
-    "name": "Born to Controversy: The Roddy Piper Story",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 42
-   },
-   {
-    "id": "set-7",
-    "rip": 7,
-    "name": "ECW One Night Stand 2005",
-    "discs": "1",
-    "type": "matches",
-    "stage": "Filed",
-    "matches": 10
-   },
-   {
-    "id": "set-8",
-    "rip": 8,
-    "name": "ECW One Night Stand 2006",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Filed",
-    "matches": 10
-   },
-   {
     "id": "set-12",
     "rip": 12,
     "name": "ECW: Extreme Rules",
@@ -1777,15 +1740,6 @@
     "matches": 22
    },
    {
-    "id": "set-29",
-    "rip": 29,
-    "name": "Rob Van Dam: One of a Kind",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 22
-   },
-   {
     "id": "set-31",
     "rip": 31,
     "name": "Stone Cold Steve Austin: The Bottom Line on the Most Popular Superstar of All Time",
@@ -1802,15 +1756,6 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 26
-   },
-   {
-    "id": "set-33",
-    "rip": 33,
-    "name": "The Best of Sting: The Ultimate Collection",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Filed",
-    "matches": 33
    },
    {
     "id": "set-34",
@@ -1894,24 +1839,6 @@
     "matches": 8
    },
    {
-    "id": "set-65",
-    "rip": 65,
-    "name": "Triple H: Thy Kingdom Come",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 13
-   },
-   {
-    "id": "set-67",
-    "rip": 67,
-    "name": "Ultimate Warrior: Always Believe",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 16
-   },
-   {
     "id": "set-70",
     "rip": 70,
     "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
@@ -1921,24 +1848,6 @@
     "matches": 21
    },
    {
-    "id": "set-76",
-    "rip": 76,
-    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 13
-   },
-   {
-    "id": "set-79",
-    "rip": 79,
-    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 19
-   },
-   {
     "id": "set-83",
     "rip": 83,
     "name": "WWE: Getting Rowdy - The Unreleased Matches of Roddy Piper",
@@ -1946,15 +1855,6 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 50
-   },
-   {
-    "id": "set-85",
-    "rip": 85,
-    "name": "WWE: Hart & Soul - The Hart Family Anthology",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 16
    },
    {
     "id": "set-86",
@@ -1991,15 +1891,6 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 16
-   },
-   {
-    "id": "set-93",
-    "rip": 93,
-    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 20
    },
    {
     "id": "set-96",
@@ -2090,15 +1981,6 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 2
-   },
-   {
-    "id": "set-117",
-    "rip": 117,
-    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Filed",
-    "matches": 37
    },
    {
     "id": "set-119",
@@ -2200,15 +2082,6 @@
     "matches": 2
    },
    {
-    "id": "set-133",
-    "rip": 133,
-    "name": "Mick Foley: Greatest Hits & Misses (2004)",
-    "discs": "2",
-    "type": "matches",
-    "stage": "Filed",
-    "matches": 22
-   },
-   {
     "id": "set-134",
     "rip": 134,
     "name": "WWE: The Stone Cold Truth (2004)",
@@ -2218,6 +2091,123 @@
     "matches": 5
    },
    {
+    "id": "set-3",
+    "rip": 3,
+    "name": "Blood Sport: ECW's Most Violent Matches",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Certified",
+    "matches": 20
+   },
+   {
+    "id": "set-4",
+    "rip": 4,
+    "name": "Born to Controversy: The Roddy Piper Story",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 42
+   },
+   {
+    "id": "set-7",
+    "rip": 7,
+    "name": "ECW One Night Stand 2005",
+    "discs": "1",
+    "type": "matches",
+    "stage": "Certified",
+    "matches": 10
+   },
+   {
+    "id": "set-8",
+    "rip": 8,
+    "name": "ECW One Night Stand 2006",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Certified",
+    "matches": 10
+   },
+   {
+    "id": "set-29",
+    "rip": 29,
+    "name": "Rob Van Dam: One of a Kind",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 22
+   },
+   {
+    "id": "set-33",
+    "rip": 33,
+    "name": "The Best of Sting: The Ultimate Collection",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Certified",
+    "matches": 33
+   },
+   {
+    "id": "set-65",
+    "rip": 65,
+    "name": "Triple H: Thy Kingdom Come",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 13
+   },
+   {
+    "id": "set-67",
+    "rip": 67,
+    "name": "Ultimate Warrior: Always Believe",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 16
+   },
+   {
+    "id": "set-76",
+    "rip": 76,
+    "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 13
+   },
+   {
+    "id": "set-79",
+    "rip": 79,
+    "name": "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 19
+   },
+   {
+    "id": "set-85",
+    "rip": 85,
+    "name": "WWE: Hart & Soul - The Hart Family Anthology",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 16
+   },
+   {
+    "id": "set-93",
+    "rip": 93,
+    "name": "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 20
+   },
+   {
+    "id": "set-117",
+    "rip": 117,
+    "name": "WWE: Ultimate Warrior - The Ultimate Collection",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Certified",
+    "matches": 37
+   },
+   {
     "id": "set-128",
     "rip": 128,
     "name": "Tales from the Territories (2024)",
@@ -2225,6 +2215,15 @@
     "type": "documentary",
     "stage": "Certified",
     "matches": 10
+   },
+   {
+    "id": "set-133",
+    "rip": 133,
+    "name": "Mick Foley: Greatest Hits & Misses (2004)",
+    "discs": "2",
+    "type": "matches",
+    "stage": "Certified",
+    "matches": 22
    }
   ],
   "counts": {
@@ -2232,8 +2231,8 @@
    "Ripped": 3,
    "Scanned": 0,
    "Encoding": 0,
-   "Filed": 63,
-   "Certified": 1
+   "Filed": 49,
+   "Certified": 15
   },
   "total_sets": 134,
   "total_matches": 1558
