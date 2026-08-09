@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 17:20",
- "generated_ts": 1786314025,
+ "generated": "2026-08-09 17:40",
+ "generated_ts": 1786315229,
  "stats": {
   "episodes_matches": 6807,
   "titles_total": 457,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 11,
-  "discs_week": 165,
-  "discs_month": 186,
-  "discs_alltime": 589,
+  "discs_today": 12,
+  "discs_week": 166,
+  "discs_month": 187,
+  "discs_alltime": 590,
   "discs_today_list": [
    "Night Gallery S1D2",
    "Night Gallery S2D1",
@@ -25,7 +25,8 @@
    "Night Gallery S3D2",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
-   "Punky Brewster S1D3"
+   "Punky Brewster S1D3",
+   "Punky Brewster S1D4"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -110,6 +111,7 @@
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
+   "Punky Brewster S1D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -291,6 +293,7 @@
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
+   "Punky Brewster S1D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -702,6 +705,7 @@
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
+   "Punky Brewster S1D4",
    "Quantum Leap S1D1",
    "Raising Hope S2D2",
    "Rob Van Dam: One of a Kind D1",
@@ -999,7 +1003,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2858.5,
+   "used_gb": 2867.0,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
