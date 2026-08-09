@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 09:17",
- "generated_ts": 1786285068,
+ "generated": "2026-08-09 09:18",
+ "generated_ts": 1786285103,
  "stats": {
   "episodes_matches": 6806,
   "titles_total": 457,
@@ -950,15 +950,15 @@
   "workload": {
    "overall": 5,
    "wrestling": 1,
-   "actionable": 26,
-   "waiting_on_you": 84,
-   "note": "26 items Claude can work now \u00b7 84 waiting on you (discs to rip + gaps)"
+   "actionable": 25,
+   "waiting_on_you": 79,
+   "note": "25 items Claude can work now \u00b7 79 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2798.0,
+   "used_gb": 2798.2,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -1090,15 +1090,6 @@
     "matches": 0
    },
    {
-    "id": "set-19",
-    "rip": 19,
-    "name": "Jake \"The Snake\" Roberts: Pick Your Poison",
-    "discs": "2",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-20",
     "rip": 20,
     "name": "Kurt Angle: The Essential Collection",
@@ -1175,15 +1166,6 @@
     "rip": 37,
     "name": "The Life and Times of Mr. Perfect",
     "discs": "2",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-38",
-    "rip": 38,
-    "name": "The Rise & Fall of WCW",
-    "discs": "3",
     "type": "mixed",
     "stage": "Purchased",
     "matches": 0
@@ -1387,15 +1369,6 @@
     "matches": 0
    },
    {
-    "id": "set-70",
-    "rip": 70,
-    "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-71",
     "rip": 71,
     "name": "WCW: The Best of Monday Nitro - Volume 2",
@@ -1489,24 +1462,6 @@
     "id": "set-84",
     "rip": 84,
     "name": "WWE: Goldberg - The Ultimate Collection",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-85",
-    "rip": 85,
-    "name": "WWE: Hart & Soul - The Hart Family Anthology",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-87",
-    "rip": 87,
-    "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
     "discs": "3",
     "type": "matches",
     "stage": "Purchased",
@@ -1689,8 +1644,8 @@
     "name": "Blood Sport: ECW's Most Violent Matches",
     "discs": "2",
     "type": "matches",
-    "stage": "Scanned",
-    "matches": 0
+    "stage": "Filed",
+    "matches": 20
    },
    {
     "id": "set-4",
@@ -1763,6 +1718,15 @@
     "type": "mixed",
     "stage": "Filed",
     "matches": 22
+   },
+   {
+    "id": "set-19",
+    "rip": 19,
+    "name": "Jake \"The Snake\" Roberts: Pick Your Poison",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 61
    },
    {
     "id": "set-21",
@@ -1846,6 +1810,15 @@
     "matches": 24
    },
    {
+    "id": "set-38",
+    "rip": 38,
+    "name": "The Rise & Fall of WCW",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 20
+   },
+   {
     "id": "set-54",
     "rip": 54,
     "name": "TNA Wrestling: Best of the X Division, Vol. 2",
@@ -1927,6 +1900,15 @@
     "matches": 16
    },
    {
+    "id": "set-70",
+    "rip": 70,
+    "name": "WCW's Greatest Pay-Per-View Matches - Volume 1",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 21
+   },
+   {
     "id": "set-76",
     "rip": 76,
     "name": "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart",
@@ -1954,6 +1936,15 @@
     "matches": 50
    },
    {
+    "id": "set-85",
+    "rip": 85,
+    "name": "WWE: Hart & Soul - The Hart Family Anthology",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 16
+   },
+   {
     "id": "set-86",
     "rip": 86,
     "name": "WWE: Hulk Hogan - The Ultimate Anthology",
@@ -1961,6 +1952,15 @@
     "type": "matches",
     "stage": "Filed",
     "matches": 24
+   },
+   {
+    "id": "set-87",
+    "rip": 87,
+    "name": "WWE: Hulk Hogan's Unreleased Collector's Series",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Filed",
+    "matches": 33
    },
    {
     "id": "set-88",
@@ -2216,14 +2216,14 @@
    }
   ],
   "counts": {
-   "Purchased": 72,
+   "Purchased": 67,
    "Ripped": 3,
-   "Scanned": 1,
+   "Scanned": 0,
    "Encoding": 0,
-   "Filed": 57,
+   "Filed": 63,
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1387
+  "total_matches": 1558
  }
 }
