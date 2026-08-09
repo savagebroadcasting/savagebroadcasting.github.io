@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-09 08:18",
- "generated_ts": 1786281514,
+ "generated": "2026-08-09 08:38",
+ "generated_ts": 1786282718,
  "stats": {
-  "episodes_matches": 6805,
+  "episodes_matches": 6806,
   "titles_total": 457,
   "titles_by_type": {
    "TV": 65,
@@ -10,11 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 155,
-  "discs_month": 176,
-  "discs_alltime": 579,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 156,
+  "discs_month": 177,
+  "discs_alltime": 580,
+  "discs_today_list": [
+   "Night Gallery S2D1"
+  ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -88,6 +90,7 @@
    "Night Gallery S1D1",
    "Night Gallery S1D2",
    "Night Gallery S1D3",
+   "Night Gallery S2D1",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -259,6 +262,7 @@
    "Night Gallery S1D1",
    "Night Gallery S1D2",
    "Night Gallery S1D3",
+   "Night Gallery S2D1",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -657,6 +661,7 @@
    "Night Gallery S1D1",
    "Night Gallery S1D2",
    "Night Gallery S1D3",
+   "Night Gallery S2D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -945,7 +950,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2789.8,
+   "used_gb": 2792.2,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -965,7 +970,6 @@
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
-  "Night Gallery (1970) \u2014 Season 1, Disc 2   (missing e5)",
   "Robot Chicken (2005) \u2014 Season 5, disc TBD (Claude will identify)   (missing e10-e11)",
   "Sex and the City (1998) \u2014 Season 2, disc TBD (Claude will identify)   (missing e13)",
   "The Dick Van Dyke Show (1961) \u2014 Season 5, Disc 2   (missing e9)",
@@ -978,7 +982,6 @@
   "Who Killed WCW? (2024) \u2014 Disc 2   (missing e4 The Final Nitro \u2014 disc 1 held only eps 1-3)",
   "Triple H - The King of Kings (2008) \u2014 Disc 2   (missing ~4 of 6 matches \u2014 partial rip, re-rip)",
   "WWE The Very Best of WCW Monday Nitro (2011) \u2014 Discs 1 + 3   (missing all content \u2014 rips never completed; D2 held fine)",
-  "Night Gallery (1970) \u2014 Season 1, Disc 2   (missing e05)",
   "The Dick Van Dyke Show (1961) \u2014 Season 5, Disc 2   (missing e09)",
   "King of the Hill (1997) \u2014 Season 6, Disc 1   (missing e01 e02 e03)",
   "Born to Controversy (2006) \u2014 Disc 1   (missing Raw Homecoming 2005-10-03 match; below length floor or inside doc \u2014 verify on re-look)",
