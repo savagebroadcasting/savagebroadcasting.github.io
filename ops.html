@@ -124,7 +124,8 @@ async function load(){
     <div class="hero">
       <div class="big"><div class="n">${(st.episodes_matches||0).toLocaleString()}</div><div class="l">episodes &amp; matches in Plex</div></div>
       <div class="big"><div class="n">${st.titles_total||0}</div><div class="l">titles in the collection</div><div class="sub">${bt.TV||0} TV · ${bt.Movies||0} movies · ${bt.Wrestling||0} wrestling · ${bt['Blu-ray']||0} Blu-ray</div></div>
-      <div class="big"><div class="n">${st.certified||0}<span style="font-size:20px;color:var(--dim)"> / ~${st.certified_estimate||0}</span></div><div class="l">seasons certified</div><div class="sub">across ${st.certified_shows||0} shows · climbing</div></div>
+      <div class="big"><div class="n">${st.certified||0}<span style="font-size:20px;color:var(--dim)"> / ~${st.certified_estimate||0}</span></div><div class="l">seasons certified</div><div class="sub">across ${st.certified_shows||0} shows · climbing</div>
+      ${st.cert_split ? `<div class="sub" style="margin-top:6px">TV: <b>${st.cert_split.tv.certified}</b> certified + ${st.cert_split.tv.evidence} evidence-passed of ${st.cert_split.tv.total_seasons} seasons<br>Wrestling: <b>${st.cert_split.wrestling.certified}</b> certified + ${st.cert_split.wrestling.evidence} evidence-passed of ${st.cert_split.wrestling.total_seasons} disc-seasons</div>` : ``}</div>
     </div>
     <h2>Discs ripped <span style="font-size:12px;color:var(--dim);font-weight:400">— tap a number to see the list</span></h2>
     <div class="hero">
