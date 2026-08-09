@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 10:59",
- "generated_ts": 1786291144,
+ "generated": "2026-08-09 11:19",
+ "generated_ts": 1786292349,
  "stats": {
   "episodes_matches": 6806,
   "titles_total": 457,
@@ -944,13 +944,13 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 141,
+  "certified": 142,
   "certified_shows": 50,
   "certified_estimate": 372,
   "cert_split": {
    "tv": {
-    "certified": 141,
-    "evidence": 2,
+    "certified": 142,
+    "evidence": 0,
     "total_seasons": 246
    },
    "wrestling": {
@@ -970,7 +970,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2805.8,
+   "used_gb": 2808.3,
    "total_gb": 11999.8,
    "pct": 23,
    "online": true
@@ -985,7 +985,7 @@
  ],
  "discs_needed": [
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
-  "(no disc needed \u2014 Doug (1991) S1 e3-e9 already ripped, encoding now)",
+  "(no disc needed \u2014 Doug (1991) S1 e9 already ripped, encoding now)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
