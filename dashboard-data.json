@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-09 18:00",
- "generated_ts": 1786316433,
+ "generated": "2026-08-09 18:20",
+ "generated_ts": 1786317637,
  "stats": {
   "episodes_matches": 6807,
   "titles_total": 457,
@@ -1007,7 +1007,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2872.2,
+   "used_gb": 2876.3,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -1026,6 +1026,9 @@
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
   "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
+  "(no disc needed \u2014 Punky Brewster (1984) S1 e1-e6 already ripped, encoding now)",
+  "(no disc needed \u2014 Punky Brewster (1984) S1 e7-e14 already ripped, encoding now)",
+  "(no disc needed \u2014 Punky Brewster (1984) S1 e15-e18 already ripped, encoding now)",
   "Robot Chicken (2005) \u2014 Season 5, disc TBD (Claude will identify)   (missing e10-e11)",
   "Sex and the City (1998) \u2014 Season 2, disc TBD (Claude will identify)   (missing e13)",
   "The Dick Van Dyke Show (1961) \u2014 Season 5, Disc 2   (missing e9)",
