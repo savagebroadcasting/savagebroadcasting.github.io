@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-08 23:56",
- "generated_ts": 1786251403,
+ "generated": "2026-08-09 00:16",
+ "generated_ts": 1786252609,
  "stats": {
-  "episodes_matches": 6679,
+  "episodes_matches": 6694,
   "titles_total": 456,
   "titles_by_type": {
    "TV": 64,
@@ -10,37 +10,11 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 25,
-  "discs_week": 176,
+  "discs_today": 0,
+  "discs_week": 155,
   "discs_month": 176,
   "discs_alltime": 579,
-  "discs_today_list": [
-   "Doug S1D1",
-   "Doug S1D2",
-   "Doug S1D3",
-   "Doug S1D4",
-   "Doug S1D5",
-   "Doug S1D6",
-   "Leave It to Beaver S6D1",
-   "Leave It to Beaver S6D2",
-   "Leave It to Beaver S6D3",
-   "Leave It to Beaver S6D4",
-   "Leave It to Beaver S6D5",
-   "Leave It to Beaver S6D6",
-   "Night Gallery S1D1",
-   "Night Gallery S1D2",
-   "Night Gallery S1D3",
-   "Taxi S1D1",
-   "Taxi S1D2",
-   "Taxi S1D3",
-   "Taxi S2D1",
-   "Taxi S2D2",
-   "Taxi S2D3",
-   "Taxi S2D4",
-   "Taxi S3D2",
-   "Taxi S3D3",
-   "Taxi S3D4"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
@@ -57,20 +31,6 @@
    "Doug S1D5",
    "Doug S1D6",
    "ESPN Films 30 for 30: Nature Boy D1",
-   "Get Smart S1D1",
-   "Get Smart S1D2",
-   "Get Smart S1D3",
-   "Get Smart S1D4",
-   "Get Smart S1D5",
-   "Get Smart S2D1",
-   "Get Smart S2D2",
-   "Get Smart S2D3",
-   "Get Smart S2D4",
-   "Get Smart S3D1",
-   "Get Smart S3D2",
-   "Get Smart S3D3",
-   "Get Smart S3D4",
-   "Get Smart S4D1",
    "Get Smart S4D2",
    "Get Smart S4D3",
    "Get Smart S4D4",
@@ -142,13 +102,6 @@
    "Taxi S3D2",
    "Taxi S3D3",
    "Taxi S3D4",
-   "The Little Rascals S1D1",
-   "The Little Rascals S1D2",
-   "The Little Rascals S1D3",
-   "The Little Rascals S1D4",
-   "The Little Rascals S1D5",
-   "The Little Rascals S1D6",
-   "The Little Rascals S1D7",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
@@ -980,7 +933,7 @@
   ],
   "certified": 116,
   "certified_shows": 34,
-  "certified_estimate": 358,
+  "certified_estimate": 359,
   "workload": {
    "overall": 7,
    "wrestling": 4,
@@ -992,7 +945,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2826.6,
+   "used_gb": 2836.3,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -2111,7 +2064,7 @@
     "discs": "3",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 22
+    "matches": 37
    },
    {
     "id": "set-119",
@@ -2249,6 +2202,6 @@
    "Certified": 1
   },
   "total_sets": 134,
-  "total_matches": 1346
+  "total_matches": 1361
  }
 }
