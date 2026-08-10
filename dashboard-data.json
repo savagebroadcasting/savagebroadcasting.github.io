@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10 18:12",
- "generated_ts": 1786403540,
+ "generated": "2026-08-10 18:32",
+ "generated_ts": 1786404744,
  "stats": {
   "episodes_matches": 6896,
   "titles_total": 0,
@@ -1033,12 +1033,12 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 163,
-  "certified_shows": 56,
+  "certified": 168,
+  "certified_shows": 61,
   "certified_estimate": 380,
   "cert_split": {
    "tv": {
-    "certified": 163,
+    "certified": 168,
     "evidence": 0,
     "total_seasons": 254
    },
@@ -1063,7 +1063,7 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 989.3,
+   "used_gb": 993.5,
    "total_gb": 999.8,
    "pct": 99,
    "online": true
