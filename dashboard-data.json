@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10 10:45",
- "generated_ts": 1786376739,
+ "generated": "2026-08-10 11:05",
+ "generated_ts": 1786377943,
  "stats": {
   "episodes_matches": 6821,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 11,
-  "discs_week": 149,
-  "discs_month": 200,
-  "discs_alltime": 603,
+  "discs_today": 12,
+  "discs_week": 150,
+  "discs_month": 201,
+  "discs_alltime": 604,
   "discs_today_list": [
    "King of the Hill S2D1",
    "King of the Hill S2D2",
@@ -23,6 +23,7 @@
    "King of the Hill S3D2",
    "King of the Hill S3D3",
    "King of the Hill S3D4",
+   "King of the Hill S3D5",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4"
@@ -52,6 +53,7 @@
    "King of the Hill S3D2",
    "King of the Hill S3D3",
    "King of the Hill S3D4",
+   "King of the Hill S3D5",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -229,6 +231,7 @@
    "King of the Hill S3D2",
    "King of the Hill S3D3",
    "King of the Hill S3D4",
+   "King of the Hill S3D5",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -583,6 +586,7 @@
    "King of the Hill S3D2",
    "King of the Hill S3D3",
    "King of the Hill S3D4",
+   "King of the Hill S3D5",
    "King of the Hill S6D1",
    "King of the Hill S6D2",
    "King of the Hill S6D3",
@@ -1011,7 +1015,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2963.2,
+   "used_gb": 2970.5,
    "total_gb": 11999.8,
    "pct": 25,
    "online": true
@@ -1028,7 +1032,7 @@
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
-  "(no disc needed \u2014 King of the Hill (1997) S2 e2-e6 already ripped, encoding now)",
+  "(no disc needed \u2014 King of the Hill (1997) S2 e3-e6 already ripped, encoding now)",
   "(no disc needed \u2014 King of the Hill (1997) S2 e7-e11 already ripped, encoding now)",
   "(no disc needed \u2014 King of the Hill (1997) S2 e12-e16 already ripped, encoding now)",
   "(no disc needed \u2014 King of the Hill (1997) S2 e17-e22 already ripped, encoding now)",
