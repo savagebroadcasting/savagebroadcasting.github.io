@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10 15:09",
- "generated_ts": 1786392553,
+ "generated": "2026-08-10 15:29",
+ "generated_ts": 1786393757,
  "stats": {
-  "episodes_matches": 6866,
+  "episodes_matches": 6880,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 17,
-  "discs_week": 155,
-  "discs_month": 206,
-  "discs_alltime": 609,
+  "discs_today": 18,
+  "discs_week": 156,
+  "discs_month": 207,
+  "discs_alltime": 610,
   "discs_today_list": [
    "King of the Hill S2D1",
    "King of the Hill S2D2",
@@ -29,6 +29,7 @@
    "King of the Hill S4D2",
    "King of the Hill S4D3",
    "King of the Hill S4D4",
+   "King of the Hill S4D5",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4"
@@ -64,6 +65,7 @@
    "King of the Hill S4D2",
    "King of the Hill S4D3",
    "King of the Hill S4D4",
+   "King of the Hill S4D5",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -247,6 +249,7 @@
    "King of the Hill S4D2",
    "King of the Hill S4D3",
    "King of the Hill S4D4",
+   "King of the Hill S4D5",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -607,6 +610,7 @@
    "King of the Hill S4D2",
    "King of the Hill S4D3",
    "King of the Hill S4D4",
+   "King of the Hill S4D5",
    "King of the Hill S6D1",
    "King of the Hill S6D2",
    "King of the Hill S6D3",
@@ -1011,12 +1015,12 @@
   ],
   "certified": 163,
   "certified_shows": 56,
-  "certified_estimate": 378,
+  "certified_estimate": 379,
   "cert_split": {
    "tv": {
     "certified": 163,
     "evidence": 0,
-    "total_seasons": 252
+    "total_seasons": 253
    },
    "wrestling": {
     "certified": 0,
@@ -1035,11 +1039,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "online": false
+   "used_gb": 2954.6,
+   "total_gb": 11999.8,
+   "pct": 25,
+   "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 989.0,
+   "total_gb": 999.8,
+   "pct": 99,
+   "online": true
   }
  ],
  "discs_needed": [],
