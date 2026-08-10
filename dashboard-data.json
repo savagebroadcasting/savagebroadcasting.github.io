@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10 09:05",
- "generated_ts": 1786370714,
+ "generated": "2026-08-10 09:25",
+ "generated_ts": 1786371919,
  "stats": {
   "episodes_matches": 6821,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
-  "discs_week": 142,
-  "discs_month": 193,
-  "discs_alltime": 596,
+  "discs_today": 5,
+  "discs_week": 143,
+  "discs_month": 194,
+  "discs_alltime": 597,
   "discs_today_list": [
    "King of the Hill S2D1",
+   "King of the Hill S2D2",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4"
@@ -38,6 +39,7 @@
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "King of the Hill S2D1",
+   "King of the Hill S2D2",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -208,6 +210,7 @@
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
    "King of the Hill S2D1",
+   "King of the Hill S2D2",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -555,6 +558,7 @@
    "King of the Hill S1D2",
    "King of the Hill S1D3",
    "King of the Hill S2D1",
+   "King of the Hill S2D2",
    "King of the Hill S6D1",
    "King of the Hill S6D2",
    "King of the Hill S6D3",
@@ -983,9 +987,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2936.2,
+   "used_gb": 2940.0,
    "total_gb": 11999.8,
-   "pct": 24,
+   "pct": 25,
    "online": true
   },
   {
