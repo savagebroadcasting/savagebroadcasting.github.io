@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10 08:05",
- "generated_ts": 1786367101,
+ "generated": "2026-08-10 08:25",
+ "generated_ts": 1786368305,
  "stats": {
   "episodes_matches": 6821,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 140,
-  "discs_month": 191,
-  "discs_alltime": 594,
+  "discs_today": 3,
+  "discs_week": 141,
+  "discs_month": 192,
+  "discs_alltime": 595,
   "discs_today_list": [
    "Punky Brewster S4D1",
-   "Punky Brewster S4D3"
+   "Punky Brewster S4D3",
+   "Punky Brewster S4D4"
   ],
   "discs_week_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -94,6 +95,7 @@
    "Punky Brewster S3D1",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
+   "Punky Brewster S4D4",
    "Taxi S1D1",
    "Taxi S1D2",
    "Taxi S1D3",
@@ -262,6 +264,7 @@
    "Punky Brewster S3D1",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
+   "Punky Brewster S4D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -678,6 +681,7 @@
    "Punky Brewster S3D1",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
+   "Punky Brewster S4D4",
    "Quantum Leap S1D1",
    "Raising Hope S2D2",
    "Rob Van Dam: One of a Kind D1",
@@ -975,7 +979,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2925.9,
+   "used_gb": 2930.8,
    "total_gb": 11999.8,
    "pct": 24,
    "online": true
@@ -992,30 +996,10 @@
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
-  "King of the Hill (1997) \u2014 Season 2, disc TBD (Claude will identify)   (missing e1-e4)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
   "(no disc needed \u2014 Punky Brewster (1984) S1 e1-e6 already ripped, encoding now)",
   "(no disc needed \u2014 Punky Brewster (1984) S1 e7-e14 already ripped, encoding now)",
-  "(no disc needed \u2014 Punky Brewster (1984) S1 e15-e18 already ripped, encoding now)",
-  "(no disc needed \u2014 Punky Brewster (1984) S2 e1-e7 already ripped, encoding now)",
-  "Robot Chicken (2005) \u2014 Season 5, disc TBD (Claude will identify)   (missing e10-e11)",
-  "Sex and the City (1998) \u2014 Season 2, disc TBD (Claude will identify)   (missing e13)",
-  "The Dick Van Dyke Show (1961) \u2014 Season 5, Disc 2   (missing e9)",
-  "The Wonder Years (1988) \u2014 Season 2, disc TBD (Claude will identify)   (missing e2-e3, e5)",
-  "ThunderCats (1985) \u2014 Season 1, Disc 5   (missing e53)",
-  "The Fresh Prince of Bel-Air (1990) \u2014 Season 4, Disc 4 \u2014 re-rip (e26; S4 is a 26-ep season, disc never fully landed)",
-  "Tales from the Crypt (1989) \u2014 Season 3, disc TBD (Claude will identify) \u2014 (missing e14 \"Yellow\"; slot held a Comic-Con panel, refiled to S00)",
-  "Tales from the Crypt (1989) \u2014 Season 7, Disc 3   (missing e12; slot held a dup of the finale, quarantined; re-rip)",
-  "Sex and the City (1998) \u2014 Season 6, disc TBD (Claude will identify)   (missing e20 \u2014 THE SERIES FINALE)",
-  "Who Killed WCW? (2024) \u2014 Disc 2   (missing e4 The Final Nitro \u2014 disc 1 held only eps 1-3)",
-  "Triple H - The King of Kings (2008) \u2014 Disc 2   (missing ~4 of 6 matches \u2014 partial rip, re-rip)",
-  "WWE The Very Best of WCW Monday Nitro (2011) \u2014 Discs 1 + 3   (missing all content \u2014 rips never completed; D2 held fine)",
-  "Born to Controversy (2006) \u2014 Disc 1   (missing Raw Homecoming 2005-10-03 match; below length floor or inside doc \u2014 verify on re-look)",
-  "Born to Controversy (2006) \u2014 Disc 2   (missing Mountie IC match, Royal Rumble 1992-01-19 \u2014 not on play-all or discretes; re-rip disc)",
-  "WM Anthology Vol 5 \u2014 Disc 1 side B   (WrestleMania 21 second half; flip disc and rip)",
-  "WM Anthology Vol 5 \u2014 Disc 2 side B   (WrestleMania 22 second half; flip disc and rip)",
-  "Night Gallery (1970) \u2014 Season 2, Disc 1   (re-insert to finish: titles 10-15 still to pull; 9/15 staged; wedge mid-rip then disc swapped)",
-  "Night Gallery (1970) \u2014 Season 2, Disc 3   (2 failed attempts: HP pre-scan wedge + ASUS died at title 2; 2 titles staged; wipe disc + auto-retries on insert)"
+  "(no disc needed \u2014 Punky Brewster (1984) S1 e15-e18 already ripped, encoding now)"
  ],
  "stage_order": [
   "Purchased",
