@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10 12:46",
- "generated_ts": 1786383976,
+ "generated": "2026-08-10 13:06",
+ "generated_ts": 1786385180,
  "stats": {
-  "episodes_matches": 6858,
+  "episodes_matches": 6862,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 12,
-  "discs_week": 150,
-  "discs_month": 201,
-  "discs_alltime": 604,
+  "discs_today": 13,
+  "discs_week": 151,
+  "discs_month": 202,
+  "discs_alltime": 605,
   "discs_today_list": [
    "King of the Hill S2D1",
    "King of the Hill S2D2",
@@ -24,6 +24,7 @@
    "King of the Hill S3D3",
    "King of the Hill S3D4",
    "King of the Hill S3D5",
+   "King of the Hill S3D6",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4"
@@ -54,6 +55,7 @@
    "King of the Hill S3D3",
    "King of the Hill S3D4",
    "King of the Hill S3D5",
+   "King of the Hill S3D6",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -232,6 +234,7 @@
    "King of the Hill S3D3",
    "King of the Hill S3D4",
    "King of the Hill S3D5",
+   "King of the Hill S3D6",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -587,6 +590,7 @@
    "King of the Hill S3D3",
    "King of the Hill S3D4",
    "King of the Hill S3D5",
+   "King of the Hill S3D6",
    "King of the Hill S6D1",
    "King of the Hill S6D2",
    "King of the Hill S6D3",
@@ -989,12 +993,12 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 147,
-  "certified_shows": 52,
+  "certified": 163,
+  "certified_shows": 56,
   "certified_estimate": 378,
   "cert_split": {
    "tv": {
-    "certified": 147,
+    "certified": 163,
     "evidence": 0,
     "total_seasons": 252
    },
@@ -1015,7 +1019,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2949.2,
+   "used_gb": 2945.9,
    "total_gb": 11999.8,
    "pct": 25,
    "online": true
@@ -1032,8 +1036,6 @@
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e14-e16 already ripped, encoding now)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e17-e20 already ripped, encoding now)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
   "(no disc needed \u2014 Punky Brewster (1984) S1 e1-e6 already ripped, encoding now)",
   "(no disc needed \u2014 Punky Brewster (1984) S1 e7-e14 already ripped, encoding now)",
@@ -1056,8 +1058,7 @@
   "WM Anthology Vol 5 \u2014 Disc 1 side B   (WrestleMania 21 second half; flip disc and rip)",
   "WM Anthology Vol 5 \u2014 Disc 2 side B   (WrestleMania 22 second half; flip disc and rip)",
   "Night Gallery (1970) \u2014 Season 2, Disc 1   (re-insert to finish: titles 10-15 still to pull; 9/15 staged; wedge mid-rip then disc swapped)",
-  "Night Gallery (1970) \u2014 Season 2, Disc 3   (2 failed attempts: HP pre-scan wedge + ASUS died at title 2; 2 titles staged; wipe disc + auto-retries on insert)",
-  "(no disc needed \u2014 already ripped, encoding now: King of the Hill (1997) \u2014 Season 3, Disc 5 \u2014 DEFECTIVE s)"
+  "Night Gallery (1970) \u2014 Season 2, Disc 3   (2 failed attempts: HP pre-scan wedge + ASUS died at title 2; 2 titles staged; wipe disc + auto-retries on insert)"
  ],
  "stage_order": [
   "Purchased",
