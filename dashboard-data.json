@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-10 12:26",
- "generated_ts": 1786382770,
+ "generated": "2026-08-10 12:46",
+ "generated_ts": 1786383976,
  "stats": {
-  "episodes_matches": 6836,
+  "episodes_matches": 6858,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -991,12 +991,12 @@
   ],
   "certified": 147,
   "certified_shows": 52,
-  "certified_estimate": 377,
+  "certified_estimate": 378,
   "cert_split": {
    "tv": {
     "certified": 147,
     "evidence": 0,
-    "total_seasons": 251
+    "total_seasons": 252
    },
    "wrestling": {
     "certified": 0,
@@ -1015,7 +1015,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 2956.3,
+   "used_gb": 2949.2,
    "total_gb": 11999.8,
    "pct": 25,
    "online": true
@@ -1032,10 +1032,7 @@
   "Beverly Hills, 90210 (1990) \u2014 Season 10, disc TBD (Claude will identify)   (missing e12)",
   "Duck Dynasty (2012) \u2014 Season 8, Disc 2   (missing e9)",
   "Gilmore Girls (2000) \u2014 Season 2, Disc 4   (missing e13-e16)  << REPLACEMENT disc (original was defective)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e2-e5 already ripped, encoding now)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e6-e8 already ripped, encoding now)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e9-e12 already ripped, encoding now)",
-  "(no disc needed \u2014 King of the Hill (1997) S3 e13-e16 already ripped, encoding now)",
+  "(no disc needed \u2014 King of the Hill (1997) S3 e14-e16 already ripped, encoding now)",
   "(no disc needed \u2014 King of the Hill (1997) S3 e17-e20 already ripped, encoding now)",
   "King of the Hill (1997) \u2014 Season 6, disc TBD (Claude will identify)   (missing e1-e3)",
   "(no disc needed \u2014 Punky Brewster (1984) S1 e1-e6 already ripped, encoding now)",
