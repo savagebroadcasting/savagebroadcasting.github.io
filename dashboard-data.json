@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-11 07:53",
- "generated_ts": 1786452789,
+ "generated": "2026-08-11 08:13",
+ "generated_ts": 1786453993,
  "stats": {
   "episodes_matches": 6958,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 141,
-  "discs_month": 219,
-  "discs_alltime": 622,
+  "discs_today": 3,
+  "discs_week": 142,
+  "discs_month": 220,
+  "discs_alltime": 623,
   "discs_today_list": [
+   "King of the Hill S10D1",
    "King of the Hill S9D1",
    "King of the Hill S9D2"
   ],
@@ -32,6 +33,7 @@
    "Doug S1D6",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
+   "King of the Hill S10D1",
    "King of the Hill S2D1",
    "King of the Hill S2D2",
    "King of the Hill S2D3",
@@ -204,6 +206,7 @@
    "Hitman Hart: Wrestling with Shadows D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
+   "King of the Hill S10D1",
    "King of the Hill S2D1",
    "King of the Hill S2D2",
    "King of the Hill S2D3",
@@ -574,6 +577,7 @@
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
+   "King of the Hill S10D1",
    "King of the Hill S1D1",
    "King of the Hill S1D2",
    "King of the Hill S1D3",
@@ -1032,7 +1036,10 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "online": false
+   "used_gb": 3472.1,
+   "total_gb": 11999.8,
+   "pct": 29,
+   "online": true
   },
   {
    "label": "1TB (rip scratch)",
