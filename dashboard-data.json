@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-11 12:14",
- "generated_ts": 1786468466,
+ "generated": "2026-08-11 12:34",
+ "generated_ts": 1786469670,
  "stats": {
-  "episodes_matches": 6973,
+  "episodes_matches": 6981,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,7 +10,7 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
+  "discs_today": 9,
   "discs_week": 145,
   "discs_month": 223,
   "discs_alltime": 626,
@@ -21,6 +21,7 @@
    "King of the Hill S12D1",
    "King of the Hill S5D1",
    "King of the Hill S5D2",
+   "King of the Hill S5D3",
    "King of the Hill S9D1",
    "King of the Hill S9D2"
   ],
@@ -1026,12 +1027,12 @@
   ],
   "certified": 173,
   "certified_shows": 64,
-  "certified_estimate": 384,
+  "certified_estimate": 385,
   "cert_split": {
    "tv": {
     "certified": 173,
     "evidence": 0,
-    "total_seasons": 258
+    "total_seasons": 259
    },
    "wrestling": {
     "certified": 0,
@@ -1050,7 +1051,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3491.6,
+   "used_gb": 3492.1,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
