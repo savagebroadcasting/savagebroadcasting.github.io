@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-11 13:54",
- "generated_ts": 1786474487,
+ "generated": "2026-08-11 14:14",
+ "generated_ts": 1786475692,
  "stats": {
   "episodes_matches": 6981,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 13,
-  "discs_week": 149,
-  "discs_month": 227,
-  "discs_alltime": 630,
+  "discs_today": 14,
+  "discs_week": 150,
+  "discs_month": 228,
+  "discs_alltime": 631,
   "discs_today_list": [
    "King of the Hill S10D1",
    "King of the Hill S10D2",
@@ -23,6 +23,7 @@
    "King of the Hill S13D2",
    "King of the Hill S13D3",
    "King of the Hill S14D1",
+   "King of the Hill S14D2",
    "King of the Hill S5D1",
    "King of the Hill S5D2",
    "King of the Hill S5D3",
@@ -51,6 +52,7 @@
    "King of the Hill S13D2",
    "King of the Hill S13D3",
    "King of the Hill S14D1",
+   "King of the Hill S14D2",
    "King of the Hill S2D1",
    "King of the Hill S2D2",
    "King of the Hill S2D3",
@@ -231,6 +233,7 @@
    "King of the Hill S13D2",
    "King of the Hill S13D3",
    "King of the Hill S14D1",
+   "King of the Hill S14D2",
    "King of the Hill S2D1",
    "King of the Hill S2D2",
    "King of the Hill S2D3",
@@ -609,6 +612,7 @@
    "King of the Hill S13D2",
    "King of the Hill S13D3",
    "King of the Hill S14D1",
+   "King of the Hill S14D2",
    "King of the Hill S1D1",
    "King of the Hill S1D2",
    "King of the Hill S1D3",
@@ -1067,7 +1071,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3513.0,
+   "used_gb": 3520.0,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
