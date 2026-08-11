@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-10 19:52",
- "generated_ts": 1786409562,
+ "generated": "2026-08-10 20:12",
+ "generated_ts": 1786410766,
  "stats": {
   "episodes_matches": 6896,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 27,
-  "discs_week": 165,
-  "discs_month": 216,
-  "discs_alltime": 619,
+  "discs_today": 28,
+  "discs_week": 166,
+  "discs_month": 217,
+  "discs_alltime": 620,
   "discs_today_list": [
    "King of the Hill S2D1",
    "King of the Hill S2D2",
@@ -39,6 +39,7 @@
    "King of the Hill S7D3",
    "King of the Hill S8D1",
    "King of the Hill S8D2",
+   "King of the Hill S8D3",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4"
@@ -84,6 +85,7 @@
    "King of the Hill S7D3",
    "King of the Hill S8D1",
    "King of the Hill S8D2",
+   "King of the Hill S8D3",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -277,6 +279,7 @@
    "King of the Hill S7D3",
    "King of the Hill S8D1",
    "King of the Hill S8D2",
+   "King of the Hill S8D3",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -653,6 +656,7 @@
    "King of the Hill S7D3",
    "King of the Hill S8D1",
    "King of the Hill S8D2",
+   "King of the Hill S8D3",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -1075,7 +1079,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3020.4,
+   "used_gb": 3025.3,
    "total_gb": 11999.8,
    "pct": 25,
    "online": true
