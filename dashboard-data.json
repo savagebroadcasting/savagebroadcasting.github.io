@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-11 00:33",
- "generated_ts": 1786426420,
+ "generated": "2026-08-11 04:20",
+ "generated_ts": 1786440050,
  "stats": {
   "episodes_matches": 6920,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 139,
-  "discs_month": 217,
-  "discs_alltime": 620,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 140,
+  "discs_month": 218,
+  "discs_alltime": 621,
+  "discs_today_list": [
+   "King of the Hill S9D1"
+  ],
   "discs_week_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -54,6 +56,7 @@
    "King of the Hill S8D1",
    "King of the Hill S8D2",
    "King of the Hill S8D3",
+   "King of the Hill S9D1",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -224,6 +227,7 @@
    "King of the Hill S8D1",
    "King of the Hill S8D2",
    "King of the Hill S8D3",
+   "King of the Hill S9D1",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -601,6 +605,7 @@
    "King of the Hill S8D1",
    "King of the Hill S8D2",
    "King of the Hill S8D3",
+   "King of the Hill S9D1",
    "Leave It to Beaver S1D1",
    "Leave It to Beaver S1D2",
    "Leave It to Beaver S1D3",
@@ -1003,7 +1008,7 @@
   "cert_split": {
    "tv": {
     "certified": 171,
-    "evidence": 1,
+    "evidence": 0,
     "total_seasons": 256
    },
    "wrestling": {
@@ -1023,7 +1028,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3465.8,
+   "used_gb": 3463.6,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
