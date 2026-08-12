@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-12 16:20",
- "generated_ts": 1786569633,
+ "generated": "2026-08-12 16:40",
+ "generated_ts": 1786570837,
  "stats": {
   "episodes_matches": 7074,
   "titles_total": 458,
@@ -10,11 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 142,
-  "discs_month": 232,
-  "discs_alltime": 635,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 143,
+  "discs_month": 233,
+  "discs_alltime": 636,
+  "discs_today_list": [
+   "Gilmore Girls S3D5"
+  ],
   "discs_week_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -31,6 +33,7 @@
    "Gilmore Girls S3D2",
    "Gilmore Girls S3D3",
    "Gilmore Girls S3D4",
+   "Gilmore Girls S3D5",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "King of the Hill S10D1",
@@ -200,6 +203,7 @@
    "Gilmore Girls S3D2",
    "Gilmore Girls S3D3",
    "Gilmore Girls S3D4",
+   "Gilmore Girls S3D5",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
    "Hitman Hart: Wrestling with Shadows D1",
@@ -554,6 +558,7 @@
    "Gilmore Girls S3D2",
    "Gilmore Girls S3D3",
    "Gilmore Girls S3D4",
+   "Gilmore Girls S3D5",
    "Glee S2D1",
    "Glee S2D2",
    "Glee S2D3",
@@ -1056,7 +1061,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3163.5,
+   "used_gb": 3167.4,
    "total_gb": 11999.8,
    "pct": 26,
    "online": true
