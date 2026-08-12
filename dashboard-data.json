@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-11 19:16",
- "generated_ts": 1786493768,
+ "generated": "2026-08-11 19:36",
+ "generated_ts": 1786494973,
  "stats": {
   "episodes_matches": 7056,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 16,
-  "discs_week": 152,
-  "discs_month": 230,
-  "discs_alltime": 633,
+  "discs_today": 17,
+  "discs_week": 153,
+  "discs_month": 231,
+  "discs_alltime": 634,
   "discs_today_list": [
    "Gilmore Girls S3D1",
    "Gilmore Girls S3D2",
+   "Gilmore Girls S3D3",
    "King of the Hill S10D1",
    "King of the Hill S10D2",
    "King of the Hill S11D1",
@@ -46,6 +47,7 @@
    "Doug S1D6",
    "Gilmore Girls S3D1",
    "Gilmore Girls S3D2",
+   "Gilmore Girls S3D3",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "King of the Hill S10D1",
@@ -225,6 +227,7 @@
    "Get Smart S5D4",
    "Gilmore Girls S3D1",
    "Gilmore Girls S3D2",
+   "Gilmore Girls S3D3",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
    "Hitman Hart: Wrestling with Shadows D1",
@@ -577,6 +580,7 @@
    "Gilmore Girls S2D6",
    "Gilmore Girls S3D1",
    "Gilmore Girls S3D2",
+   "Gilmore Girls S3D3",
    "Glee S2D1",
    "Glee S2D2",
    "Glee S2D3",
@@ -1079,7 +1083,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3496.5,
+   "used_gb": 3497.9,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
