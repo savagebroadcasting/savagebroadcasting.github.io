@@ -1,14 +1,14 @@
 {
- "generated": "2026-08-12 04:57",
- "generated_ts": 1786528677,
+ "generated": "2026-08-12 05:18",
+ "generated_ts": 1786529881,
  "stats": {
   "episodes_matches": 7074,
-  "titles_total": 0,
+  "titles_total": 458,
   "titles_by_type": {
-   "TV": 0,
-   "Movies": 0,
-   "Wrestling": 0,
-   "Blu-ray": 0
+   "TV": 66,
+   "Movies": 228,
+   "Wrestling": 116,
+   "Blu-ray": 48
   },
   "discs_today": 0,
   "discs_week": 142,
