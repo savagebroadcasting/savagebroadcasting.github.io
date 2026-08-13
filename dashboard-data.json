@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-13 15:09",
- "generated_ts": 1786651765,
+ "generated": "2026-08-13 15:29",
+ "generated_ts": 1786652969,
  "stats": {
   "episodes_matches": 7080,
   "titles_total": 458,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 28,
-  "discs_week": 173,
-  "discs_month": 263,
-  "discs_alltime": 666,
+  "discs_today": 29,
+  "discs_week": 174,
+  "discs_month": 264,
+  "discs_alltime": 667,
   "discs_today_list": [
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D3",
@@ -42,7 +42,8 @@
    "Green Acres S6D2",
    "Green Acres S6D3",
    "Green Acres S6D4",
-   "Hey Dude S1D1"
+   "Hey Dude S1D1",
+   "Hey Dude S1D2"
   ],
   "discs_week_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
@@ -91,6 +92,7 @@
    "Green Acres S6D3",
    "Green Acres S6D4",
    "Hey Dude S1D1",
+   "Hey Dude S1D2",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "King of the Hill S10D1",
@@ -293,6 +295,7 @@
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
    "Hey Dude S1D1",
+   "Hey Dude S1D2",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
@@ -705,6 +708,7 @@
    "He-Man and the Masters of the Universe S2D6",
    "He-Man and the Masters of the Universe S2D7",
    "Hey Dude S1D1",
+   "Hey Dude S1D2",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
@@ -1178,7 +1182,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3284.7,
+   "used_gb": 3289.8,
    "total_gb": 11999.8,
    "pct": 27,
    "online": true
