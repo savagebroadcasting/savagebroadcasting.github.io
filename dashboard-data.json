@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-12 23:42",
- "generated_ts": 1786596123,
+ "generated": "2026-08-13 00:02",
+ "generated_ts": 1786597328,
  "stats": {
   "episodes_matches": 7080,
   "titles_total": 458,
@@ -10,15 +10,11 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 3,
+  "discs_today": 0,
   "discs_week": 145,
   "discs_month": 235,
   "discs_alltime": 638,
-  "discs_today_list": [
-   "Gilmore Girls S3D5",
-   "Gilmore Girls S3D6",
-   "Gilmore Girls S4D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
