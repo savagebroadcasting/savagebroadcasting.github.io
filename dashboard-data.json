@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-13 12:28",
- "generated_ts": 1786642126,
+ "generated": "2026-08-13 12:48",
+ "generated_ts": 1786643332,
  "stats": {
   "episodes_matches": 7080,
   "titles_total": 458,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 14,
-  "discs_week": 159,
-  "discs_month": 249,
-  "discs_alltime": 652,
+  "discs_today": 16,
+  "discs_week": 161,
+  "discs_month": 251,
+  "discs_alltime": 654,
   "discs_today_list": [
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D3",
@@ -28,7 +28,9 @@
    "Green Acres S2D4",
    "Green Acres S3D1",
    "Green Acres S3D2",
-   "Green Acres S3D3"
+   "Green Acres S3D3",
+   "Green Acres S3D4",
+   "Green Acres S4D1"
   ],
   "discs_week_list": [
    "Blood Sport: ECW's Most Violent Matches D1",
@@ -63,6 +65,8 @@
    "Green Acres S3D1",
    "Green Acres S3D2",
    "Green Acres S3D3",
+   "Green Acres S3D4",
+   "Green Acres S4D1",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "King of the Hill S10D1",
@@ -249,6 +253,8 @@
    "Green Acres S3D1",
    "Green Acres S3D2",
    "Green Acres S3D3",
+   "Green Acres S3D4",
+   "Green Acres S4D1",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
    "Hitman Hart: Wrestling with Shadows D1",
@@ -626,6 +632,8 @@
    "Green Acres S3D1",
    "Green Acres S3D2",
    "Green Acres S3D3",
+   "Green Acres S3D4",
+   "Green Acres S4D1",
    "Happy Days S1D1",
    "Happy Days S1D2",
    "Happy Days S1D3",
@@ -1122,7 +1130,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3224.1,
+   "used_gb": 3229.8,
    "total_gb": 11999.8,
    "pct": 27,
    "online": true
