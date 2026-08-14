@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-13 20:50",
- "generated_ts": 1786672246,
+ "generated": "2026-08-13 21:10",
+ "generated_ts": 1786673451,
  "stats": {
   "episodes_matches": 7080,
   "titles_total": 458,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 41,
-  "discs_week": 186,
-  "discs_month": 276,
-  "discs_alltime": 679,
+  "discs_today": 42,
+  "discs_week": 187,
+  "discs_month": 277,
+  "discs_alltime": 680,
   "discs_today_list": [
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D3",
@@ -27,6 +27,7 @@
    "Gilmore Girls S6D1",
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
+   "Gilmore Girls S6D4",
    "Green Acres S1D1",
    "Green Acres S1D2",
    "Green Acres S1D3",
@@ -88,6 +89,7 @@
    "Gilmore Girls S6D1",
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
+   "Gilmore Girls S6D4",
    "Green Acres S1D1",
    "Green Acres S1D2",
    "Green Acres S1D3",
@@ -301,6 +303,7 @@
    "Gilmore Girls S6D1",
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
+   "Gilmore Girls S6D4",
    "Green Acres S1D1",
    "Green Acres S1D2",
    "Green Acres S1D3",
@@ -699,6 +702,7 @@
    "Gilmore Girls S6D1",
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
+   "Gilmore Girls S6D4",
    "Glee S2D1",
    "Glee S2D2",
    "Glee S2D3",
@@ -1230,7 +1234,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3361.3,
+   "used_gb": 3367.4,
    "total_gb": 11999.8,
    "pct": 28,
    "online": true
