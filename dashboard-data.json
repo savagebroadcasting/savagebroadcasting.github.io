@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 11:00",
- "generated_ts": 1786809619,
+ "generated": "2026-08-15 11:20",
+ "generated_ts": 1786810822,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -10,16 +10,17 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 5,
-  "discs_week": 144,
-  "discs_month": 294,
-  "discs_alltime": 697,
+  "discs_today": 6,
+  "discs_week": 145,
+  "discs_month": 295,
+  "discs_alltime": 698,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
-   "Beverly Hills, 90210 S7D7"
+   "Beverly Hills, 90210 S7D7",
+   "Beverly Hills, 90210 S8D7"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -27,6 +28,7 @@
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
+   "Beverly Hills, 90210 S8D7",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -176,6 +178,7 @@
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
+   "Beverly Hills, 90210 S8D7",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -529,6 +532,7 @@
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
+   "Beverly Hills, 90210 S8D7",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -1346,7 +1350,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3838.4,
+   "used_gb": 3845.4,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
