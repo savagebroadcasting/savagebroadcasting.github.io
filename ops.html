@@ -111,13 +111,15 @@ document.getElementById('pw').addEventListener('keyup',e=>{
 });
 function bar(pct){const c=pct>=90?'crit':pct>=80?'hot':'';return `<div class="bar"><i class="${c}" style="width:${pct}%"></i></div>`;}
 function gauge(label,score,note){const s=score||1,pct=s*10,cls=s>=8?'crit':s>=5?'hot':'';return `<div class="gauge"><div class="top"><span class="lab">${label}</span><span class="val">${s}<span style="font-size:15px;color:var(--dim)">/10</span></span></div><div class="track"><i class="${cls}" style="width:${pct}%"></i></div><div class="note">${note||''}</div></div>`;}
-function drill(period){const list=(window._lists||{})[period]||[];const names={today:'Discs ripped today',week:'Discs ripped this week',month:'Discs ripped this month',alltime:'All discs ripped (logged)'};document.getElementById('mTitle').textContent=names[period]||'Discs';document.getElementById('mSub').textContent=list.length+' discs';document.getElementById('mList').innerHTML=list.length?list.map(x=>`<li>${x}</li>`).join(''):'<li>Nothing logged for this period.</li>';document.getElementById('modal').classList.add('on');}
+function drill(period){const list=(window._lists||{})[period]||[];const names={today:'Discs ripped today',week:'Discs ripped this week',month:'Discs ripped this month',alltime:'All discs ripped (logged)',discage:'Discs sitting 5+ days (oldest first)'};document.getElementById('mTitle').textContent=names[period]||'Discs';document.getElementById('mSub').textContent=list.length+(period==='discage'?' discs aging (WARN+ALARM)':' discs');document.getElementById('mList').innerHTML=list.length?list.map(x=>`<li>${x}</li>`).join(''):'<li>'+(period==='discage'?'Nothing aging — everything is under 5 days. 🎉':'Nothing logged for this period.')+'</li>';document.getElementById('modal').classList.add('on');}
 async function load(){
   let d; try{ d=await (await fetch('dashboard-data.json?_='+Date.now())).json(); }catch(e){ return; }
   document.getElementById('stamp').textContent='updated '+d.generated;
   const w=d.wrestling, c=w.counts, st=d.stats||{}, order=d.stage_order||['Purchased','Ripped','Scanned','Encoding','Filed','Certified'];
   const bt=st.titles_by_type||{}, wl=st.workload||{overall:1,note:''};
-  window._lists={today:st.discs_today_list||[], week:st.discs_week_list||[], month:st.discs_month_list||[], alltime:st.discs_alltime_list||[]};
+  const da=st.disc_age||{alarm:0,warn:0,ok:0,oldest:[]};
+  window._lists={today:st.discs_today_list||[], week:st.discs_week_list||[], month:st.discs_month_list||[], alltime:st.discs_alltime_list||[],
+    discage:(da.oldest||[]).map(o=>o.days+'d — '+o.name)};
   // Overview
   document.getElementById('overview').innerHTML=`
     ${gauge('Work on Claude&#39;s plate right now', wl.overall, wl.note)}
@@ -126,6 +128,7 @@ async function load(){
       <div class="big"><div class="n">${st.titles_total||0}</div><div class="l">titles in the collection</div><div class="sub">${bt.TV||0} TV · ${bt.Movies||0} movies · ${bt.Wrestling||0} wrestling · ${bt['Blu-ray']||0} Blu-ray</div></div>
       <div class="big"><div class="n">${st.certified||0}<span style="font-size:20px;color:var(--dim)"> / ~${st.certified_estimate||0}</span></div><div class="l">seasons certified</div><div class="sub">across ${st.certified_shows||0} shows · climbing</div>
       ${st.cert_split ? `<div class="sub" style="margin-top:6px">TV: <b>${st.cert_split.tv.certified}</b> certified + ${st.cert_split.tv.evidence} evidence-passed of ${st.cert_split.tv.total_seasons} seasons<br>Wrestling: <b>${st.cert_split.wrestling.certified}</b> certified + ${st.cert_split.wrestling.evidence} evidence-passed of ${st.cert_split.wrestling.total_seasons} disc-seasons</div>` : ``}</div>
+      <div class="big clik" onclick="drill('discage')"><span class="mag">🔍</span><div class="n" style="color:${da.alarm?'#f08a8a':(da.warn?'#f0a05a':'var(--teal)')}">${da.alarm||0}</div><div class="l">discs sitting 7+ days</div><div class="sub">rule: nothing sits &gt;1 week · ${da.warn||0} at 5–6 days · goal is zero${da.generated?'<br>checked '+da.generated:''}</div></div>
     </div>
     <h2>Discs ripped <span style="font-size:12px;color:var(--dim);font-weight:400">— tap a number to see the list</span></h2>
     <div class="hero">
