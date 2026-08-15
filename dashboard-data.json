@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-14 21:56",
- "generated_ts": 1786762595,
+ "generated": "2026-08-14 22:17",
+ "generated_ts": 1786763823,
  "stats": {
   "episodes_matches": 7273,
   "titles_total": 458,
@@ -1197,17 +1197,17 @@
    }
   },
   "workload": {
-   "overall": 6,
-   "wrestling": 3,
-   "actionable": 32,
-   "waiting_on_you": 74,
-   "note": "32 items Claude can work now \u00b7 74 waiting on you (discs to rip + gaps)"
+   "overall": 7,
+   "wrestling": 4,
+   "actionable": 34,
+   "waiting_on_you": 72,
+   "note": "34 items Claude can work now \u00b7 72 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3501.8,
+   "used_gb": 3534.1,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
@@ -1775,24 +1775,6 @@
     "matches": 0
    },
    {
-    "id": "set-103",
-    "rip": 103,
-    "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999 (2013)",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-104",
-    "rip": 104,
-    "name": "WWE: The Best of King of the Ring (2015)",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-113",
     "rip": 113,
     "name": "WWE: The Ultimate Ric Flair Collection (2003)",
@@ -1861,6 +1843,24 @@
     "name": "WWE: Ric Flair & The Four Horsemen (2007)",
     "discs": "2",
     "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-103",
+    "rip": 103,
+    "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999 (2013)",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-104",
+    "rip": 104,
+    "name": "WWE: The Best of King of the Ring (2015)",
+    "discs": "3",
+    "type": "matches",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2514,8 +2514,8 @@
    }
   ],
   "counts": {
-   "Purchased": 62,
-   "Ripped": 10,
+   "Purchased": 60,
+   "Ripped": 12,
    "Scanned": 0,
    "Encoding": 0,
    "Filed": 18,
