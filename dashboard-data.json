@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15 14:20",
- "generated_ts": 1786821653,
+ "generated": "2026-08-15 14:40",
+ "generated_ts": 1786822856,
  "stats": {
-  "episodes_matches": 7339,
+  "episodes_matches": 7340,
   "titles_total": 458,
   "titles_by_type": {
    "TV": 66,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 12,
-  "discs_week": 151,
-  "discs_month": 301,
-  "discs_alltime": 703,
+  "discs_today": 13,
+  "discs_week": 152,
+  "discs_month": 302,
+  "discs_alltime": 704,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
@@ -23,6 +23,7 @@
    "Beverly Hills, 90210 S8D7",
    "In Living Color S3D6",
    "Jem and the Holograms S1D1",
+   "King of the Hill S11D2",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "The Fresh Prince of Bel-Air S4D4",
@@ -95,6 +96,7 @@
    "King of the Hill S10D1",
    "King of the Hill S10D2",
    "King of the Hill S11D1",
+   "King of the Hill S11D2",
    "King of the Hill S12D1",
    "King of the Hill S13D1",
    "King of the Hill S13D2",
@@ -284,6 +286,7 @@
    "King of the Hill S10D1",
    "King of the Hill S10D2",
    "King of the Hill S11D1",
+   "King of the Hill S11D2",
    "King of the Hill S12D1",
    "King of the Hill S13D1",
    "King of the Hill S13D2",
@@ -736,6 +739,7 @@
    "King of the Hill S10D1",
    "King of the Hill S10D2",
    "King of the Hill S11D1",
+   "King of the Hill S11D2",
    "King of the Hill S12D1",
    "King of the Hill S13D1",
    "King of the Hill S13D2",
@@ -1373,7 +1377,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3852.2,
+   "used_gb": 3851.4,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
