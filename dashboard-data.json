@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-14 21:36",
- "generated_ts": 1786761387,
+ "generated": "2026-08-14 21:56",
+ "generated_ts": 1786762595,
  "stats": {
   "episodes_matches": 7273,
   "titles_total": 458,
@@ -1199,15 +1199,15 @@
   "workload": {
    "overall": 6,
    "wrestling": 3,
-   "actionable": 30,
-   "waiting_on_you": 76,
-   "note": "30 items Claude can work now \u00b7 76 waiting on you (discs to rip + gaps)"
+   "actionable": 32,
+   "waiting_on_you": 74,
+   "note": "32 items Claude can work now \u00b7 74 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3472.1,
+   "used_gb": 3501.8,
    "total_gb": 11999.8,
    "pct": 29,
    "online": true
@@ -1676,15 +1676,6 @@
     "matches": 0
    },
    {
-    "id": "set-80",
-    "rip": 80,
-    "name": "WWE: CM Punk - Best in the World (2012)",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-81",
     "rip": 81,
     "name": "WWE: Falls Count Anywhere - The Greatest Street Fights and Other Out of Control Matches (2012)",
@@ -1726,15 +1717,6 @@
     "name": "WWE: Macho Madness - The Randy Savage Ultimate Collection (2009)",
     "discs": "3",
     "type": "matches",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
-    "id": "set-92",
-    "rip": 92,
-    "name": "WWE: Ric Flair & The Four Horsemen (2007)",
-    "discs": "2",
-    "type": "mixed",
     "stage": "Purchased",
     "matches": 0
    },
@@ -1859,6 +1841,24 @@
     "id": "set-66",
     "rip": 66,
     "name": "Twist of Fate: The Matt & Jeff Hardy Story (2008)",
+    "discs": "2",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-80",
+    "rip": 80,
+    "name": "WWE: CM Punk - Best in the World (2012)",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-92",
+    "rip": 92,
+    "name": "WWE: Ric Flair & The Four Horsemen (2007)",
     "discs": "2",
     "type": "mixed",
     "stage": "Ripped",
@@ -2514,8 +2514,8 @@
    }
   ],
   "counts": {
-   "Purchased": 64,
-   "Ripped": 8,
+   "Purchased": 62,
+   "Ripped": 10,
    "Scanned": 0,
    "Encoding": 0,
    "Filed": 18,
