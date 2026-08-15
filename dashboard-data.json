@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-14 23:37",
- "generated_ts": 1786768679,
+ "generated": "2026-08-14 23:58",
+ "generated_ts": 1786769884,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -1199,17 +1199,17 @@
   "workload": {
    "overall": 6,
    "wrestling": 3,
-   "actionable": 30,
-   "waiting_on_you": 72,
-   "note": "30 items Claude can work now \u00b7 72 waiting on you (discs to rip + gaps)"
+   "actionable": 31,
+   "waiting_on_you": 71,
+   "note": "31 items Claude can work now \u00b7 71 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3656.8,
+   "used_gb": 3695.0,
    "total_gb": 11999.8,
-   "pct": 30,
+   "pct": 31,
    "online": true
   },
   {
@@ -1784,15 +1784,6 @@
     "matches": 0
    },
    {
-    "id": "set-116",
-    "rip": 116,
-    "name": "WWE: True Giants (2014)",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-135",
     "rip": 135,
     "name": "WWE: Greatest Stars of the '90s (2009)",
@@ -1879,6 +1870,15 @@
     "name": "WWE: The Very Best of WCW Monday Nitro Volume 3 (2015)",
     "discs": "3",
     "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-116",
+    "rip": 116,
+    "name": "WWE: True Giants (2014)",
+    "discs": "3",
+    "type": "mixed",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2514,8 +2514,8 @@
    }
   ],
   "counts": {
-   "Purchased": 60,
-   "Ripped": 8,
+   "Purchased": 59,
+   "Ripped": 9,
    "Scanned": 0,
    "Encoding": 0,
    "Filed": 22,
