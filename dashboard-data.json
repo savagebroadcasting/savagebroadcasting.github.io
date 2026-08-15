@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 17:41",
- "generated_ts": 1786833688,
+ "generated": "2026-08-15 18:01",
+ "generated_ts": 1786834891,
  "stats": {
   "episodes_matches": 7357,
   "titles_total": 458,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 15,
-  "discs_week": 154,
-  "discs_month": 304,
-  "discs_alltime": 706,
+  "discs_today": 16,
+  "discs_week": 155,
+  "discs_month": 305,
+  "discs_alltime": 707,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
@@ -26,6 +26,7 @@
    "Jem and the Holograms S1D1",
    "King of the Hill S11D2",
    "Married... with Children S5D2",
+   "Married... with Children S5D3",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "The Fresh Prince of Bel-Air S4D4",
@@ -140,6 +141,7 @@
    "Leave It to Beaver S6D5",
    "Leave It to Beaver S6D6",
    "Married... with Children S5D2",
+   "Married... with Children S5D3",
    "Night Gallery S1D1",
    "Night Gallery S1D2",
    "Night Gallery S1D3",
@@ -362,6 +364,7 @@
    "Leave It to Beaver S6D5",
    "Leave It to Beaver S6D6",
    "Married... with Children S5D2",
+   "Married... with Children S5D3",
    "Mick Foley: Greatest Hits & Misses D1",
    "Mick Foley: Greatest Hits & Misses D2",
    "Nature Boy Ric Flair: The Definitive Collection D1",
@@ -868,6 +871,7 @@
    "Married... with Children S4D3",
    "Married... with Children S5D1",
    "Married... with Children S5D2",
+   "Married... with Children S5D3",
    "Married... with Children S6D1",
    "Married... with Children S6D2",
    "Married... with Children S6D3",
@@ -1385,7 +1389,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3828.9,
+   "used_gb": 3832.5,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
