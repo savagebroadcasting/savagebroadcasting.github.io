@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15 16:21",
- "generated_ts": 1786828875,
+ "generated": "2026-08-15 16:41",
+ "generated_ts": 1786830078,
  "stats": {
-  "episodes_matches": 7353,
+  "episodes_matches": 7357,
   "titles_total": 458,
   "titles_by_type": {
    "TV": 66,
@@ -10,12 +10,13 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 13,
-  "discs_week": 152,
-  "discs_month": 302,
-  "discs_alltime": 704,
+  "discs_today": 14,
+  "discs_week": 153,
+  "discs_month": 303,
+  "discs_alltime": 705,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
+   "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
@@ -31,6 +32,7 @@
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
+   "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
@@ -188,6 +190,7 @@
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Beverly Hills, 90210 S10D3",
+   "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
@@ -548,6 +551,7 @@
    "Batman: The Animated Series S4D2",
    "Batman: The Animated Series S4D3",
    "Beverly Hills, 90210 S10D3",
+   "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S1D1",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D6",
@@ -1193,13 +1197,13 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 205,
+  "certified": 206,
   "certified_shows": 82,
   "certified_estimate": 326,
   "cert_split": {
    "tv": {
-    "certified": 205,
-    "evidence": 1,
+    "certified": 206,
+    "evidence": 0,
     "total_seasons": 263
    },
    "wrestling": {
@@ -1377,7 +1381,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3817.8,
+   "used_gb": 3815.1,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
