@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 11:40",
- "generated_ts": 1786812026,
+ "generated": "2026-08-15 12:00",
+ "generated_ts": 1786813229,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 7,
-  "discs_week": 146,
-  "discs_month": 296,
-  "discs_alltime": 699,
+  "discs_today": 9,
+  "discs_week": 148,
+  "discs_month": 298,
+  "discs_alltime": 700,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
@@ -21,6 +21,8 @@
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D7",
+   "Robot Chicken S3D2",
+   "The Fresh Prince of Bel-Air S4D4",
    "The Wonder Years S6D4"
   ],
   "discs_week_list": [
@@ -146,6 +148,7 @@
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
+   "Robot Chicken S3D2",
    "Taxi S1D1",
    "Taxi S1D2",
    "Taxi S1D3",
@@ -156,6 +159,7 @@
    "Taxi S3D2",
    "Taxi S3D3",
    "Taxi S3D4",
+   "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
    "The Resurrection of Jake The Snake D1",
@@ -365,6 +369,7 @@
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
+   "Robot Chicken S3D2",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -379,6 +384,7 @@
    "Taxi S3D2",
    "Taxi S3D3",
    "Taxi S3D4",
+   "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
    "The Little Rascals S1D1",
@@ -890,6 +896,7 @@
    "Raising Hope S2D2",
    "Rob Van Dam: One of a Kind D1",
    "Rob Van Dam: One of a Kind D2",
+   "Robot Chicken S3D2",
    "Robot Chicken S4D1",
    "Sanford and Son S1D1",
    "Sanford and Son S1D2",
@@ -1354,7 +1361,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3850.4,
+   "used_gb": 3856.6,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
