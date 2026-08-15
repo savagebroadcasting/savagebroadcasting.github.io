@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 09:00",
- "generated_ts": 1786802400,
+ "generated": "2026-08-15 09:20",
+ "generated_ts": 1786803604,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -1173,10 +1173,10 @@
    "note": "29 items Claude can work now \u00b7 73 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 24,
+   "alarm": 23,
    "warn": 7,
-   "ok": 38,
-   "generated": "2026-08-15 06:44",
+   "ok": 41,
+   "generated": "2026-08-15 09:00",
    "oldest": [
     {
      "tag": "ALARM",
@@ -1240,8 +1240,23 @@
     },
     {
      "tag": "ALARM",
-     "days": 10,
-     "name": "TRIPLE_H_THE_KING_OF_KINGS_2008_D2"
+     "days": 9,
+     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D3"
+    },
+    {
+     "tag": "ALARM",
+     "days": 9,
+     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D2"
+    },
+    {
+     "tag": "ALARM",
+     "days": 9,
+     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D1"
+    },
+    {
+     "tag": "ALARM",
+     "days": 9,
+     "name": "WWE_RIC_FLAIR__THE_FOUR_HORSEMEN_2007_D2"
     },
     {
      "tag": "ALARM",
@@ -1277,26 +1292,6 @@
      "tag": "ALARM",
      "days": 8,
      "name": "WWE_THE_VERY_BEST_OF_WCW_MONDAY_NITRO_2011_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "WWE_RIC_FLAIR__THE_FOUR_HORSEMEN_2007_D2"
     },
     {
      "tag": "WARN",
@@ -1339,7 +1334,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3812.0,
+   "used_gb": 3816.9,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
