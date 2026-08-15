@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 07:59",
- "generated_ts": 1786798791,
+ "generated": "2026-08-15 08:19",
+ "generated_ts": 1786799994,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -10,12 +10,15 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 0,
-  "discs_week": 139,
-  "discs_month": 289,
-  "discs_alltime": 692,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 140,
+  "discs_month": 290,
+  "discs_alltime": 693,
+  "discs_today_list": [
+   "Beverly Hills, 90210 S10D3"
+  ],
   "discs_week_list": [
+   "Beverly Hills, 90210 S10D3",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -160,6 +163,7 @@
    "Allied Powers: The World's Greatest Tag Teams D1",
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
+   "Beverly Hills, 90210 S10D3",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -507,6 +511,7 @@
    "Batman: The Animated Series S4D1",
    "Batman: The Animated Series S4D2",
    "Batman: The Animated Series S4D3",
+   "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -1141,12 +1146,12 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 202,
+  "certified": 203,
   "certified_shows": 82,
   "certified_estimate": 324,
   "cert_split": {
    "tv": {
-    "certified": 202,
+    "certified": 203,
     "evidence": 0,
     "total_seasons": 263
    },
@@ -1330,7 +1335,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3802.5,
+   "used_gb": 3803.6,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
