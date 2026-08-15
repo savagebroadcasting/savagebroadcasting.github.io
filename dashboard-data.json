@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15 13:00",
- "generated_ts": 1786816839,
+ "generated": "2026-08-15 13:20",
+ "generated_ts": 1786818043,
  "stats": {
-  "episodes_matches": 7336,
+  "episodes_matches": 7339,
   "titles_total": 458,
   "titles_by_type": {
    "TV": 66,
@@ -10,10 +10,10 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 9,
-  "discs_week": 148,
-  "discs_month": 298,
-  "discs_alltime": 700,
+  "discs_today": 10,
+  "discs_week": 149,
+  "discs_month": 299,
+  "discs_alltime": 701,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
@@ -21,6 +21,7 @@
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D7",
+   "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The Wonder Years S6D4"
@@ -148,6 +149,7 @@
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
+   "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Taxi S1D1",
    "Taxi S1D2",
@@ -369,6 +371,7 @@
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
+   "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
@@ -893,6 +896,7 @@
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
    "Quantum Leap S1D1",
+   "Quantum Leap S1D2",
    "Raising Hope S2D2",
    "Rob Van Dam: One of a Kind D1",
    "Rob Van Dam: One of a Kind D2",
@@ -1177,12 +1181,12 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 203,
+  "certified": 204,
   "certified_shows": 82,
   "certified_estimate": 326,
   "cert_split": {
    "tv": {
-    "certified": 203,
+    "certified": 204,
     "evidence": 0,
     "total_seasons": 263
    },
@@ -1361,7 +1365,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3845.0,
+   "used_gb": 3841.2,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
