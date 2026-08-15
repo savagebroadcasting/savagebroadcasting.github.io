@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 10:00",
- "generated_ts": 1786806010,
+ "generated": "2026-08-15 10:20",
+ "generated_ts": 1786807213,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -10,18 +10,20 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 3,
-  "discs_week": 142,
-  "discs_month": 292,
-  "discs_alltime": 695,
+  "discs_today": 4,
+  "discs_week": 143,
+  "discs_month": 293,
+  "discs_alltime": 696,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
+   "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
+   "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Doug S1D1",
    "Doug S1D2",
@@ -169,6 +171,7 @@
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S5D8",
+   "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -520,6 +523,7 @@
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S1D1",
    "Beverly Hills, 90210 S5D8",
+   "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
@@ -1160,7 +1164,7 @@
   "cert_split": {
    "tv": {
     "certified": 203,
-    "evidence": 1,
+    "evidence": 0,
     "total_seasons": 263
    },
    "wrestling": {
@@ -1338,7 +1342,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3825.3,
+   "used_gb": 3829.6,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
