@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-15 12:20",
- "generated_ts": 1786814432,
+ "generated": "2026-08-15 12:40",
+ "generated_ts": 1786815635,
  "stats": {
-  "episodes_matches": 7293,
+  "episodes_matches": 7335,
   "titles_total": 458,
   "titles_by_type": {
    "TV": 66,
@@ -1179,7 +1179,7 @@
   ],
   "certified": 203,
   "certified_shows": 82,
-  "certified_estimate": 324,
+  "certified_estimate": 326,
   "cert_split": {
    "tv": {
     "certified": 203,
@@ -1189,15 +1189,15 @@
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 61
+    "total_seasons": 63
    }
   },
   "workload": {
    "overall": 6,
    "wrestling": 2,
    "actionable": 29,
-   "waiting_on_you": 73,
-   "note": "29 items Claude can work now \u00b7 73 waiting on you (discs to rip + gaps)"
+   "waiting_on_you": 72,
+   "note": "29 items Claude can work now \u00b7 72 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
    "alarm": 23,
@@ -1361,7 +1361,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3857.9,
+   "used_gb": 3850.4,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
@@ -1827,15 +1827,6 @@
     "matches": 0
    },
    {
-    "id": "set-80",
-    "rip": 80,
-    "name": "WWE: CM Punk - Best in the World (2012)",
-    "discs": "3",
-    "type": "mixed",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-81",
     "rip": 81,
     "name": "WWE: Falls Count Anywhere - The Greatest Street Fights and Other Out of Control Matches (2012)",
@@ -2079,6 +2070,15 @@
     "matches": 1
    },
    {
+    "id": "set-80",
+    "rip": 80,
+    "name": "WWE: CM Punk - Best in the World (2012)",
+    "discs": "3",
+    "type": "mixed",
+    "stage": "Filed",
+    "matches": 12
+   },
+   {
     "id": "set-88",
     "rip": 88,
     "name": "WWE: Ladies and Gentlemen, My Name Is Paul Heyman (2014)",
@@ -2112,7 +2112,7 @@
     "discs": "3",
     "type": "mixed",
     "stage": "Filed",
-    "matches": 2
+    "matches": 7
    },
    {
     "id": "set-118",
@@ -2130,7 +2130,7 @@
     "discs": "1",
     "type": "matches",
     "stage": "Filed",
-    "matches": 2
+    "matches": 7
    },
    {
     "id": "set-121",
@@ -2193,7 +2193,7 @@
     "discs": "2",
     "type": "matches",
     "stage": "Filed",
-    "matches": 2
+    "matches": 7
    },
    {
     "id": "set-131",
@@ -2202,7 +2202,7 @@
     "discs": "5",
     "type": "matches",
     "stage": "Filed",
-    "matches": 2
+    "matches": 7
    },
    {
     "id": "set-132",
@@ -2211,7 +2211,7 @@
     "discs": "2",
     "type": "matches",
     "stage": "Filed",
-    "matches": 3
+    "matches": 8
    },
    {
     "id": "set-134",
@@ -2665,14 +2665,14 @@
    }
   ],
   "counts": {
-   "Purchased": 61,
+   "Purchased": 60,
    "Ripped": 7,
    "Scanned": 0,
    "Encoding": 0,
-   "Filed": 22,
+   "Filed": 23,
    "Certified": 48
   },
   "total_sets": 138,
-  "total_matches": 1580
+  "total_matches": 1617
  }
 }
