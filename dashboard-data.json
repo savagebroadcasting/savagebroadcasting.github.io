@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 01:38",
- "generated_ts": 1786775921,
+ "generated": "2026-08-15 01:58",
+ "generated_ts": 1786777124,
  "stats": {
   "episodes_matches": 7293,
   "titles_total": 458,
@@ -1158,16 +1158,16 @@
   },
   "workload": {
    "overall": 6,
-   "wrestling": 3,
-   "actionable": 31,
-   "waiting_on_you": 71,
-   "note": "31 items Claude can work now \u00b7 71 waiting on you (discs to rip + gaps)"
+   "wrestling": 2,
+   "actionable": 29,
+   "waiting_on_you": 73,
+   "note": "29 items Claude can work now \u00b7 73 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3736.7,
+   "used_gb": 3722.7,
    "total_gb": 11999.8,
    "pct": 31,
    "online": true
@@ -1744,6 +1744,24 @@
     "matches": 0
    },
    {
+    "id": "set-103",
+    "rip": 103,
+    "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999 (2013)",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
+    "id": "set-104",
+    "rip": 104,
+    "name": "WWE: The Best of King of the Ring (2015)",
+    "discs": "3",
+    "type": "matches",
+    "stage": "Purchased",
+    "matches": 0
+   },
+   {
     "id": "set-135",
     "rip": 135,
     "name": "WWE: Greatest Stars of the '90s (2009)",
@@ -1776,24 +1794,6 @@
     "name": "WWE: Ric Flair & The Four Horsemen (2007)",
     "discs": "2",
     "type": "mixed",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-103",
-    "rip": 103,
-    "name": "WWE: The Best of In Your House - Pay-Per-View Classics 1995-1999 (2013)",
-    "discs": "3",
-    "type": "matches",
-    "stage": "Ripped",
-    "matches": 0
-   },
-   {
-    "id": "set-104",
-    "rip": 104,
-    "name": "WWE: The Best of King of the Ring (2015)",
-    "discs": "3",
-    "type": "matches",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2474,8 +2474,8 @@
    }
   ],
   "counts": {
-   "Purchased": 59,
-   "Ripped": 9,
+   "Purchased": 61,
+   "Ripped": 7,
    "Scanned": 0,
    "Encoding": 0,
    "Filed": 22,
