@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-14 19:44",
- "generated_ts": 1786754663,
+ "generated": "2026-08-14 19:56",
+ "generated_ts": 1786755371,
  "stats": {
   "episodes_matches": 7273,
   "titles_total": 458,
@@ -10,13 +10,14 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 12,
-  "discs_week": 164,
-  "discs_month": 288,
-  "discs_alltime": 691,
+  "discs_today": 13,
+  "discs_week": 165,
+  "discs_month": 289,
+  "discs_alltime": 692,
   "discs_today_list": [
    "The History of WWE D2",
    "The History of WWE D3",
+   "The Resurrection of Jake The Snake D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D2",
@@ -183,6 +184,7 @@
    "Taxi S3D4",
    "The History of WWE D2",
    "The History of WWE D3",
+   "The Resurrection of Jake The Snake D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D2",
@@ -405,6 +407,7 @@
    "The Little Rascals S1D5",
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
+   "The Resurrection of Jake The Snake D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -1055,6 +1058,7 @@
    "The Munsters S2D3",
    "The Munsters S2D4",
    "The Munsters S2D5",
+   "The Resurrection of Jake The Snake D1",
    "The Rise & Fall of WCW D1",
    "The Rise & Fall of WCW D2",
    "The Rise & Fall of WCW D3",
@@ -1194,16 +1198,16 @@
   },
   "workload": {
    "overall": 6,
-   "wrestling": 2,
-   "actionable": 29,
-   "waiting_on_you": 77,
-   "note": "29 items Claude can work now \u00b7 77 waiting on you (discs to rip + gaps)"
+   "wrestling": 3,
+   "actionable": 30,
+   "waiting_on_you": 76,
+   "note": "30 items Claude can work now \u00b7 76 waiting on you (discs to rip + gaps)"
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3385.6,
+   "used_gb": 3389.7,
    "total_gb": 11999.8,
    "pct": 28,
    "online": true
@@ -1840,15 +1844,6 @@
     "matches": 0
    },
    {
-    "id": "set-137",
-    "rip": 137,
-    "name": "The Resurrection of Jake The Snake (2015)",
-    "discs": "1",
-    "type": "documentary",
-    "stage": "Purchased",
-    "matches": 0
-   },
-   {
     "id": "set-42",
     "rip": 42,
     "name": "The Shawn Michaels Story: Heartbreak & Triumph (2007)",
@@ -1908,6 +1903,15 @@
     "name": "Triple H: The King of Kings (2008)",
     "discs": "2",
     "type": "matches",
+    "stage": "Ripped",
+    "matches": 0
+   },
+   {
+    "id": "set-137",
+    "rip": 137,
+    "name": "The Resurrection of Jake The Snake (2015)",
+    "discs": "1",
+    "type": "documentary",
     "stage": "Ripped",
     "matches": 0
    },
@@ -2507,8 +2511,8 @@
    }
   ],
   "counts": {
-   "Purchased": 65,
-   "Ripped": 7,
+   "Purchased": 64,
+   "Ripped": 8,
    "Scanned": 0,
    "Encoding": 0,
    "Filed": 18,
