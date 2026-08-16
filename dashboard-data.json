@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16 08:51",
- "generated_ts": 1786888271,
+ "generated": "2026-08-16 09:11",
+ "generated_ts": 1786889476,
  "stats": {
-  "episodes_matches": 7534,
+  "episodes_matches": 7566,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -1192,159 +1192,139 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 23,
+   "alarm": 19,
    "warn": 7,
-   "ok": 41,
-   "generated": "2026-08-15 09:00",
+   "ok": 49,
+   "generated": "2026-08-16 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 29,
-     "name": "TMNT_CLEANUP_REVIEW"
-    },
-    {
-     "tag": "ALARM",
-     "days": 29,
-     "name": "RH_S1_REVIEW"
-    },
-    {
-     "tag": "ALARM",
-     "days": 29,
-     "name": "70S_STRAYS_REVIEW"
-    },
-    {
-     "tag": "ALARM",
-     "days": 28,
-     "name": "JEM_REVIEW"
-    },
-    {
-     "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TRUE_STORY_OF_ROYAL_RUMBLE_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TRUE_STORY_OF_ROYAL_RUMBLE_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TRUE_STORY_OF_ROYAL_RUMBLE_D1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "MCMAHON_DISC_1"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "WWE_THE_VERY_BEST_OF_WCW_MONDAY_NITRO_2011_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ULTIMATE_RIC_FLAIR_COLLECTION_2003_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_RIC_FLAIR__THE_FOUR_HORSEMEN_2007_D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_RIC_FLAIR__THE_FOUR_HORSEMEN_2007_D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D5_SIDEB"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D5"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D4_SIDEB"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_THE_VERY_BEST_OF_WCW_MONDAY_NITRO_2011_D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "WWE_THE_VERY_BEST_OF_WCW_MONDAY_NITRO_2011_D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S3D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S3D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S2D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S2D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S2D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S2D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "NIGHT_GALLERY_S2D1"
     }
    ]
@@ -1353,7 +1333,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3988.0,
+   "used_gb": 3991.1,
    "total_gb": 11999.8,
    "pct": 33,
    "online": true
