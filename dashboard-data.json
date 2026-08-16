@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-15 18:41",
- "generated_ts": 1786837298,
+ "generated": "2026-08-15 19:01",
+ "generated_ts": 1786838501,
  "stats": {
   "episodes_matches": 7357,
   "titles_total": 458,
@@ -10,9 +10,9 @@
    "Wrestling": 116,
    "Blu-ray": 48
   },
-  "discs_today": 17,
-  "discs_week": 156,
-  "discs_month": 306,
+  "discs_today": 18,
+  "discs_week": 157,
+  "discs_month": 307,
   "discs_alltime": 708,
   "discs_today_list": [
    "Beverly Hills, 90210 S10D3",
@@ -30,6 +30,7 @@
    "Married... with Children S9D3",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
+   "Sanford and Son S6D3",
    "The Fresh Prince of Bel-Air S4D4",
    "The Wonder Years S6D4"
   ],
@@ -165,6 +166,7 @@
    "Punky Brewster S4D4",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
+   "Sanford and Son S6D3",
    "Taxi S1D1",
    "Taxi S1D2",
    "Taxi S1D3",
@@ -394,6 +396,7 @@
    "Punky Brewster S4D4",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
+   "Sanford and Son S6D3",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -1393,7 +1396,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 3841.9,
+   "used_gb": 3847.6,
    "total_gb": 11999.8,
    "pct": 32,
    "online": true
