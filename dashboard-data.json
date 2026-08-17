@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-16 23:53",
- "generated_ts": 1786942436,
+ "generated": "2026-08-17 00:14",
+ "generated_ts": 1786943640,
  "stats": {
-  "episodes_matches": 7666,
+  "episodes_matches": 7680,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -11,7 +11,7 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 133,
+  "discs_week": 119,
   "discs_month": 307,
   "discs_alltime": 708,
   "discs_today_list": [],
@@ -114,20 +114,6 @@
    "Married... with Children S5D2",
    "Married... with Children S5D3",
    "Married... with Children S9D3",
-   "Night Gallery S1D2",
-   "Night Gallery S2D1",
-   "Night Gallery S2D2",
-   "Night Gallery S2D3",
-   "Night Gallery S2D4",
-   "Night Gallery S2D5",
-   "Night Gallery S3D1",
-   "Night Gallery S3D2",
-   "Punky Brewster S1D1",
-   "Punky Brewster S1D2",
-   "Punky Brewster S1D3",
-   "Punky Brewster S1D4",
-   "Punky Brewster S2D1",
-   "Punky Brewster S3D1",
    "Punky Brewster S4D1",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
@@ -1171,7 +1157,7 @@
   ],
   "certified": 214,
   "certified_shows": 89,
-  "certified_estimate": 343,
+  "certified_estimate": 344,
   "cert_split": {
    "tv": {
     "certified": 214,
@@ -1181,7 +1167,7 @@
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 78
+    "total_seasons": 79
    }
   },
   "workload": {
@@ -1333,7 +1319,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4050.0,
+   "used_gb": 4053.8,
    "total_gb": 11999.8,
    "pct": 34,
    "online": true
