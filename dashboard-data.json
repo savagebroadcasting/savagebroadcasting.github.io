@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19 07:21",
- "generated_ts": 1787142106,
+ "generated": "2026-08-19 07:41",
+ "generated_ts": 1787143310,
  "stats": {
   "episodes_matches": 8113,
   "titles_total": 0,
@@ -1135,32 +1135,26 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 1,
+   "alarm": 0,
    "warn": 0,
    "ok": 54,
-   "generated": "2026-08-19 06:42",
-   "oldest": [
-    {
-     "tag": "ALARM",
-     "days": 18,
-     "name": "MCMAHON_DISC_1"
-    }
-   ]
+   "generated": "2026-08-19 07:33",
+   "oldest": []
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4640.8,
+   "used_gb": 4517.7,
    "total_gb": 11999.8,
-   "pct": 39,
+   "pct": 38,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 439.8,
+   "used_gb": 397.6,
    "total_gb": 999.8,
-   "pct": 44,
+   "pct": 40,
    "online": true
   }
  ],
