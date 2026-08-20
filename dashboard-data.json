@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19 20:04",
- "generated_ts": 1787187888,
+ "generated": "2026-08-19 20:24",
+ "generated_ts": 1787189092,
  "stats": {
   "episodes_matches": 8357,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
-  "discs_week": 80,
-  "discs_month": 311,
+  "discs_today": 5,
+  "discs_week": 81,
+  "discs_month": 312,
   "discs_alltime": 711,
   "discs_today_list": [
    "Beverly Hills, 90210 S6D1",
    "Sex and the City S2D3",
    "Sex and the City S6D4",
-   "Tales from the Crypt S3D3"
+   "Tales from the Crypt S3D3",
+   "Tales from the Crypt S7D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -86,6 +87,7 @@
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "Tales from the Crypt S3D3",
+   "Tales from the Crypt S7D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
@@ -311,6 +313,7 @@
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Crypt S3D3",
+   "Tales from the Crypt S7D2",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
    "Tales from the Territories D3",
@@ -1161,7 +1164,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4716.6,
+   "used_gb": 4721.2,
    "total_gb": 11999.8,
    "pct": 39,
    "online": true
