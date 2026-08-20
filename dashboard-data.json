@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19 18:44",
- "generated_ts": 1787183069,
+ "generated": "2026-08-19 19:04",
+ "generated_ts": 1787184275,
  "stats": {
   "episodes_matches": 8357,
   "titles_total": 0,
@@ -10,12 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 77,
-  "discs_month": 308,
-  "discs_alltime": 709,
+  "discs_today": 3,
+  "discs_week": 79,
+  "discs_month": 310,
+  "discs_alltime": 711,
   "discs_today_list": [
-   "Beverly Hills, 90210 S6D1"
+   "Beverly Hills, 90210 S6D1",
+   "Sex and the City S2D3",
+   "Sex and the City S6D4"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -80,6 +82,8 @@
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Sanford and Son S6D3",
+   "Sex and the City S2D3",
+   "Sex and the City S6D4",
    "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
@@ -301,6 +305,8 @@
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Sanford and Son S6D3",
+   "Sex and the City S2D3",
+   "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "Tales from the Territories D1",
    "Tales from the Territories D2",
@@ -855,6 +861,8 @@
    "Sanford and Son S6D1",
    "Sanford and Son S6D2",
    "Sanford and Son S6D3",
+   "Sex and the City S2D3",
+   "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
    "TNA Wrestling: The Best of Sting D1",
@@ -1150,7 +1158,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4732.3,
+   "used_gb": 4736.2,
    "total_gb": 11999.8,
    "pct": 39,
    "online": true
