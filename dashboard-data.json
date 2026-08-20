@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20 17:49",
- "generated_ts": 1787266178,
+ "generated": "2026-08-20 18:09",
+ "generated_ts": 1787267382,
  "stats": {
   "episodes_matches": 8486,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
+  "discs_today": 2,
   "discs_week": 80,
   "discs_month": 313,
   "discs_alltime": 712,
   "discs_today_list": [
-   "Gilmore Girls S4D1"
+   "Gilmore Girls S4D1",
+   "The Wonder Years S2D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -1161,7 +1162,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4997.4,
+   "used_gb": 4998.3,
    "total_gb": 11999.8,
    "pct": 42,
    "online": true
