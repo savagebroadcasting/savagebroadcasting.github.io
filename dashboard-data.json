@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-20 11:08",
- "generated_ts": 1787242083,
+ "generated": "2026-08-20 11:28",
+ "generated_ts": 1787243289,
  "stats": {
-  "episodes_matches": 8400,
+  "episodes_matches": 8432,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -1127,7 +1127,7 @@
   ],
   "certified": 311,
   "certified_shows": 140,
-  "certified_estimate": 377,
+  "certified_estimate": 378,
   "cert_split": {
    "tv": {
     "certified": 311,
@@ -1137,7 +1137,7 @@
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 104
+    "total_seasons": 105
    }
   },
   "workload": {
@@ -1158,7 +1158,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4958.5,
+   "used_gb": 4964.8,
    "total_gb": 11999.8,
    "pct": 41,
    "online": true
