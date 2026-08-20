@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19 20:44",
- "generated_ts": 1787190295,
+ "generated": "2026-08-19 21:04",
+ "generated_ts": 1787191499,
  "stats": {
   "episodes_matches": 8356,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 81,
-  "discs_month": 312,
-  "discs_alltime": 711,
+  "discs_today": 6,
+  "discs_week": 82,
+  "discs_month": 313,
+  "discs_alltime": 712,
   "discs_today_list": [
    "Beverly Hills, 90210 S6D1",
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "Tales from the Crypt S3D3",
-   "Tales from the Crypt S7D2"
+   "Tales from the Crypt S7D2",
+   "The Wonder Years S2D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -93,6 +94,7 @@
    "The History of WWE D3",
    "The Resurrection of Jake The Snake D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Wonder Years S2D1",
    "The Wonder Years S6D4",
    "Twist of Fate: The Matt & Jeff Hardy Story D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D2",
@@ -339,6 +341,7 @@
    "The Little Rascals S1D7",
    "The Resurrection of Jake The Snake D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Wonder Years S2D1",
    "The Wonder Years S6D4",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -1012,6 +1015,7 @@
    "The Rise & Fall of WCW D2",
    "The Rise & Fall of WCW D3",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Wonder Years S2D1",
    "The Wonder Years S5D2",
    "The Wonder Years S5D4",
    "The Wonder Years S6D4",
@@ -1164,7 +1168,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 4725.3,
+   "used_gb": 4726.9,
    "total_gb": 11999.8,
    "pct": 39,
    "online": true
