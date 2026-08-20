@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-20 18:29",
- "generated_ts": 1787268586,
+ "generated": "2026-08-20 18:49",
+ "generated_ts": 1787269790,
  "stats": {
   "episodes_matches": 8486,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 80,
+  "discs_today": 3,
+  "discs_week": 81,
   "discs_month": 313,
   "discs_alltime": 712,
   "discs_today_list": [
    "Gilmore Girls S4D1",
+   "Punky Brewster S3D1",
    "The Wonder Years S2D1"
   ],
   "discs_week_list": [
@@ -76,6 +77,7 @@
    "Married... with Children S5D2",
    "Married... with Children S5D3",
    "Married... with Children S9D3",
+   "Punky Brewster S3D1",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Sanford and Son S6D3",
@@ -1162,7 +1164,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5002.6,
+   "used_gb": 5004.4,
    "total_gb": 11999.8,
    "pct": 42,
    "online": true
