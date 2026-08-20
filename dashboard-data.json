@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-19 23:45",
- "generated_ts": 1787201152,
+ "generated": "2026-08-20 00:05",
+ "generated_ts": 1787202355,
  "stats": {
   "episodes_matches": 8404,
   "titles_total": 0,
@@ -10,18 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 82,
+  "discs_today": 0,
+  "discs_week": 79,
   "discs_month": 313,
   "discs_alltime": 712,
-  "discs_today_list": [
-   "Beverly Hills, 90210 S6D1",
-   "Sex and the City S2D3",
-   "Sex and the City S6D4",
-   "Tales from the Crypt S3D3",
-   "Tales from the Crypt S7D2",
-   "The Wonder Years S2D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
@@ -31,9 +24,6 @@
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D7",
-   "Gilmore Girls S3D5",
-   "Gilmore Girls S3D6",
-   "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D3",
    "Gilmore Girls S4D4",
