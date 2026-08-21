@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-21 08:56",
- "generated_ts": 1787320573,
+ "generated": "2026-08-21 09:16",
+ "generated_ts": 1787321777,
  "stats": {
   "episodes_matches": 8498,
   "titles_total": 0,
@@ -1114,16 +1114,22 @@
   },
   "disc_age": {
    "alarm": 0,
-   "warn": 0,
-   "ok": 63,
-   "generated": "2026-08-20 09:00",
-   "oldest": []
+   "warn": 1,
+   "ok": 86,
+   "generated": "2026-08-21 09:00",
+   "oldest": [
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "KING_OF_THE_HILL_S11D2"
+    }
+   ]
   }
  },
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5320.1,
+   "used_gb": 5320.3,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
