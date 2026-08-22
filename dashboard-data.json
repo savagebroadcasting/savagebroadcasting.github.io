@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-21 23:40",
- "generated_ts": 1787373610,
+ "generated": "2026-08-22 00:00",
+ "generated_ts": 1787374844,
  "stats": {
   "episodes_matches": 8777,
   "titles_total": 0,
@@ -11,7 +11,7 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 42,
+  "discs_week": 29,
   "discs_month": 314,
   "discs_alltime": 713,
   "discs_today_list": [],
@@ -43,21 +43,8 @@
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "The Fresh Prince of Bel-Air S4D4",
-   "The History of WWE D2",
-   "The History of WWE D3",
-   "The Resurrection of Jake The Snake D1",
-   "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Wonder Years S2D1",
-   "The Wonder Years S6D4",
-   "Twist of Fate: The Matt & Jeff Hardy Story D1",
-   "Twist of Fate: The Matt & Jeff Hardy Story D2",
-   "WCW vs. Japan Supershow 1 D1",
-   "WWE: The Greatest Wrestling Stars of the '80s D1",
-   "WWE: The Greatest Wrestling Stars of the '80s D2",
-   "WWE: The Greatest Wrestling Stars of the '80s D3",
-   "WWE: Wrestling's Highest Flyers D1",
-   "WWE: Wrestling's Highest Flyers D2",
-   "WWE: Wrestling's Highest Flyers D3"
+   "The Wonder Years S6D4"
   ],
   "discs_month_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -1129,7 +1116,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5427.6,
+   "used_gb": 5433.0,
    "total_gb": 11999.8,
    "pct": 45,
    "online": true
