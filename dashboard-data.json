@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 11:32",
- "generated_ts": 1787416340,
+ "generated": "2026-08-22 11:52",
+ "generated_ts": 1787417544,
  "stats": {
   "episodes_matches": 9071,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
+  "discs_today": 1,
   "discs_week": 29,
   "discs_month": 314,
   "discs_alltime": 713,
-  "discs_today_list": [],
+  "discs_today_list": [
+   "Punky Brewster S1D3"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
@@ -1131,7 +1133,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5533.8,
+   "used_gb": 5547.4,
    "total_gb": 11999.8,
    "pct": 46,
    "online": true
