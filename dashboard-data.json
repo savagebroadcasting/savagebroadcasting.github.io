@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-22 11:52",
- "generated_ts": 1787417544,
+ "generated": "2026-08-22 12:12",
+ "generated_ts": 1787418748,
  "stats": {
-  "episodes_matches": 9071,
+  "episodes_matches": 9072,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 29,
-  "discs_month": 314,
-  "discs_alltime": 713,
+  "discs_today": 2,
+  "discs_week": 30,
+  "discs_month": 315,
+  "discs_alltime": 714,
   "discs_today_list": [
-   "Punky Brewster S1D3"
+   "Punky Brewster S1D3",
+   "Punky Brewster S4D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -37,6 +38,7 @@
    "Punky Brewster S1D3",
    "Punky Brewster S3D1",
    "Punky Brewster S3D2",
+   "Punky Brewster S4D2",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Sanford and Son S6D3",
@@ -249,6 +251,7 @@
    "Punky Brewster S3D1",
    "Punky Brewster S3D2",
    "Punky Brewster S4D1",
+   "Punky Brewster S4D2",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
    "Quantum Leap S1D2",
@@ -788,6 +791,7 @@
    "Punky Brewster S3D1",
    "Punky Brewster S3D2",
    "Punky Brewster S4D1",
+   "Punky Brewster S4D2",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
    "Quantum Leap S1D1",
@@ -1079,12 +1083,12 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 329,
-  "certified_shows": 156,
+  "certified": 330,
+  "certified_shows": 157,
   "certified_estimate": 394,
   "cert_split": {
    "tv": {
-    "certified": 329,
+    "certified": 330,
     "evidence": 1,
     "total_seasons": 270
    },
@@ -1133,17 +1137,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5547.4,
+   "used_gb": 5553.9,
    "total_gb": 11999.8,
    "pct": 46,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 398.1,
-   "total_gb": 999.8,
-   "pct": 40,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [],
