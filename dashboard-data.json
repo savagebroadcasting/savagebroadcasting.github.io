@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 16:53",
- "generated_ts": 1787435611,
+ "generated": "2026-08-22 17:13",
+ "generated_ts": 1787436814,
  "stats": {
   "episodes_matches": 9141,
   "titles_total": 0,
@@ -10,14 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 31,
+  "discs_today": 4,
+  "discs_week": 32,
   "discs_month": 315,
   "discs_alltime": 714,
   "discs_today_list": [
    "Punky Brewster S1D3",
    "Punky Brewster S4D2",
-   "Punky Brewster S4D3"
+   "Punky Brewster S4D3",
+   "Punky Brewster S4D4"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -41,6 +42,7 @@
    "Punky Brewster S3D2",
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
+   "Punky Brewster S4D4",
    "Quantum Leap S1D2",
    "Robot Chicken S3D2",
    "Sanford and Son S6D3",
@@ -1139,7 +1141,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5609.0,
+   "used_gb": 5611.0,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
