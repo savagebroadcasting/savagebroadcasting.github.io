@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 18:33",
- "generated_ts": 1787441629,
+ "generated": "2026-08-22 18:53",
+ "generated_ts": 1787442834,
  "stats": {
   "episodes_matches": 9141,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 32,
-  "discs_month": 315,
+  "discs_today": 6,
+  "discs_week": 33,
+  "discs_month": 316,
   "discs_alltime": 714,
   "discs_today_list": [
    "Gilmore Girls S4D1",
    "Punky Brewster S1D3",
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
-   "Punky Brewster S4D4"
+   "Punky Brewster S4D4",
+   "ThunderCats S1D5"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -53,7 +54,8 @@
    "Tales from the Crypt S7D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The Wonder Years S2D1",
-   "The Wonder Years S6D4"
+   "The Wonder Years S6D4",
+   "ThunderCats S1D5"
   ],
   "discs_month_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -294,6 +296,7 @@
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
+   "ThunderCats S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
    "Triple H: Thy Kingdom Come D1",
@@ -1142,7 +1145,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5632.0,
+   "used_gb": 5635.7,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
