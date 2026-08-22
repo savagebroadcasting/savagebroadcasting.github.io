@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 17:33",
- "generated_ts": 1787438017,
+ "generated": "2026-08-22 17:53",
+ "generated_ts": 1787439221,
  "stats": {
   "episodes_matches": 9141,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
+  "discs_today": 5,
   "discs_week": 32,
   "discs_month": 315,
   "discs_alltime": 714,
   "discs_today_list": [
+   "Gilmore Girls S4D1",
    "Punky Brewster S1D3",
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
@@ -1141,7 +1142,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5614.4,
+   "used_gb": 5619.3,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
