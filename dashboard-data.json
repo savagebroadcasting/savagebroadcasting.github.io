@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 08:51",
- "generated_ts": 1787406712,
+ "generated": "2026-08-22 09:11",
+ "generated_ts": 1787407915,
  "stats": {
   "episodes_matches": 8871,
   "titles_total": 0,
@@ -1077,13 +1077,13 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 324,
+  "certified": 325,
   "certified_shows": 152,
   "certified_estimate": 387,
   "cert_split": {
    "tv": {
-    "certified": 324,
-    "evidence": 3,
+    "certified": 325,
+    "evidence": 2,
     "total_seasons": 270
    },
    "wrestling": {
@@ -1101,14 +1101,29 @@
   },
   "disc_age": {
    "alarm": 0,
-   "warn": 1,
-   "ok": 86,
-   "generated": "2026-08-21 09:00",
+   "warn": 4,
+   "ok": 83,
+   "generated": "2026-08-22 09:00",
    "oldest": [
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "KING_OF_THE_HILL_S11D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "GILMORE_GIRLS_S7D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "11_22_63_S1D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "11_22_63_S1D1"
     }
    ]
   }
@@ -1116,14 +1131,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5454.9,
+   "used_gb": 5461.8,
    "total_gb": 11999.8,
-   "pct": 45,
+   "pct": 46,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 398.1,
+   "total_gb": 999.8,
+   "pct": 40,
+   "online": true
   }
  ],
  "discs_needed": [],
