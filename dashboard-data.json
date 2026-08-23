@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 10:56",
- "generated_ts": 1787500610,
+ "generated": "2026-08-23 11:16",
+ "generated_ts": 1787501813,
  "stats": {
   "episodes_matches": 9134,
   "titles_total": 0,
@@ -10,14 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 23,
-  "discs_month": 320,
+  "discs_today": 4,
+  "discs_week": 24,
+  "discs_month": 321,
   "discs_alltime": 717,
   "discs_today_list": [
    "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
-   "The Shawn Michaels Story: Heartbreak & Triumph D1"
+   "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "Ultimate Warrior: Always Believe D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -42,6 +43,7 @@
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Wonder Years S2D1",
    "ThunderCats S1D5",
+   "Ultimate Warrior: Always Believe D1",
    "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_month_list": [
@@ -295,6 +297,7 @@
    "Triple H: Thy Kingdom Come D3",
    "Twist of Fate: The Matt & Jeff Hardy Story D1",
    "Twist of Fate: The Matt & Jeff Hardy Story D2",
+   "Ultimate Warrior: Always Believe D1",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -1124,17 +1127,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5237.9,
+   "used_gb": 5238.6,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 124.8,
-   "total_gb": 999.8,
-   "pct": 12,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [],
