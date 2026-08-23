@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 18:38",
- "generated_ts": 1787528295,
+ "generated": "2026-08-23 18:58",
+ "generated_ts": 1787529498,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 13,
-  "discs_week": 32,
-  "discs_month": 328,
-  "discs_alltime": 723,
+  "discs_today": 14,
+  "discs_week": 33,
+  "discs_month": 329,
+  "discs_alltime": 724,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
+   "OMG! The Top 50 Incidents in WWE History D2",
    "Quantum Leap S5D4",
    "Sex and the City S6D4",
    "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
@@ -36,6 +37,7 @@
    "Gilmore Girls S4D4",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
+   "OMG! The Top 50 Incidents in WWE History D2",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
    "Punky Brewster S3D1",
@@ -257,6 +259,7 @@
    "Night Gallery S3D1",
    "Night Gallery S3D2",
    "OMG! The Top 50 Incidents in WWE History D1",
+   "OMG! The Top 50 Incidents in WWE History D2",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -807,6 +810,7 @@
    "Night Gallery S3D1",
    "Night Gallery S3D2",
    "OMG! The Top 50 Incidents in WWE History D1",
+   "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
@@ -1157,7 +1161,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5322.8,
+   "used_gb": 5326.6,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
