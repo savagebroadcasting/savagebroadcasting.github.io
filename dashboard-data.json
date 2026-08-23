@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 16:57",
- "generated_ts": 1787522275,
+ "generated": "2026-08-23 17:17",
+ "generated_ts": 1787523479,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 10,
-  "discs_week": 29,
-  "discs_month": 325,
-  "discs_alltime": 720,
+  "discs_today": 11,
+  "discs_week": 30,
+  "discs_month": 326,
+  "discs_alltime": 721,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D2",
    "Quantum Leap S5D4",
@@ -22,6 +22,7 @@
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The True Story of the Royal Rumble D2",
+   "The True Story of the Royal Rumble D3",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
    "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1"
@@ -50,6 +51,7 @@
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The True Story of the Royal Rumble D2",
+   "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
@@ -300,6 +302,7 @@
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The True Story of the Royal Rumble D2",
+   "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
    "ThunderCats S1D5",
@@ -985,6 +988,7 @@
    "The Rise & Fall of WCW D3",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The True Story of the Royal Rumble D2",
+   "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
    "The Wonder Years S5D2",
    "The Wonder Years S5D4",
@@ -1145,7 +1149,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5305.8,
+   "used_gb": 5313.1,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
