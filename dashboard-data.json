@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 20:54",
- "generated_ts": 1787450063,
+ "generated": "2026-08-22 21:14",
+ "generated_ts": 1787451267,
  "stats": {
   "episodes_matches": 9152,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 9,
-  "discs_week": 36,
-  "discs_month": 316,
-  "discs_alltime": 714,
+  "discs_today": 10,
+  "discs_week": 37,
+  "discs_month": 317,
+  "discs_alltime": 715,
   "discs_today_list": [
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
@@ -22,6 +22,7 @@
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
+   "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "ThunderCats S1D5",
    "WCW vs. Japan Supershow 1 D1"
   ],
@@ -55,6 +56,7 @@
    "Sanford and Son S6D3",
    "Sex and the City S2D3",
    "Sex and the City S6D4",
+   "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "The Fresh Prince of Bel-Air S4D4",
@@ -273,6 +275,7 @@
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
+   "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "Tales from the Territories D1",
@@ -835,6 +838,7 @@
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
+   "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
    "TNA Wrestling: The Best of Sting D1",
    "Tales from the Crypt S1D1",
@@ -1151,7 +1155,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5652.7,
+   "used_gb": 5659.5,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
