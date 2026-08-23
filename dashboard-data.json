@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 17:38",
- "generated_ts": 1787524682,
+ "generated": "2026-08-23 17:58",
+ "generated_ts": 1787525887,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 11,
-  "discs_week": 30,
-  "discs_month": 326,
-  "discs_alltime": 721,
+  "discs_today": 12,
+  "discs_week": 31,
+  "discs_month": 327,
+  "discs_alltime": 722,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D2",
    "Quantum Leap S5D4",
@@ -23,6 +23,7 @@
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
+   "Three's Company S1D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
    "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1"
@@ -53,6 +54,7 @@
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
+   "Three's Company S1D1",
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
@@ -305,6 +307,7 @@
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
+   "Three's Company S1D1",
    "ThunderCats S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -993,6 +996,7 @@
    "The Wonder Years S5D2",
    "The Wonder Years S5D4",
    "The Wonder Years S6D4",
+   "Three's Company S1D1",
    "ThunderCats S1D1",
    "ThunderCats S1D2",
    "ThunderCats S1D3",
@@ -1149,7 +1153,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5313.1,
+   "used_gb": 5313.6,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
