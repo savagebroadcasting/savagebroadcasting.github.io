@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 21:14",
- "generated_ts": 1787451267,
+ "generated": "2026-08-22 21:34",
+ "generated_ts": 1787452470,
  "stats": {
   "episodes_matches": 9152,
   "titles_total": 0,
@@ -10,9 +10,9 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 10,
-  "discs_week": 37,
-  "discs_month": 317,
+  "discs_today": 11,
+  "discs_week": 38,
+  "discs_month": 318,
   "discs_alltime": 715,
   "discs_today_list": [
    "Gilmore Girls S4D1",
@@ -23,6 +23,7 @@
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
+   "The Rise & Fall of WCW D1",
    "ThunderCats S1D5",
    "WCW vs. Japan Supershow 1 D1"
   ],
@@ -60,6 +61,7 @@
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "The Fresh Prince of Bel-Air S4D4",
+   "The Rise & Fall of WCW D1",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
    "ThunderCats S1D5",
@@ -302,6 +304,7 @@
    "The Little Rascals S1D6",
    "The Little Rascals S1D7",
    "The Resurrection of Jake The Snake D1",
+   "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
@@ -1155,14 +1158,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5659.5,
+   "used_gb": 5660.2,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 484.3,
+   "total_gb": 999.8,
+   "pct": 48,
+   "online": true
   }
  ],
  "discs_needed": [],
