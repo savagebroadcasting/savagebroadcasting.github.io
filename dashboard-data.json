@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-23 14:17",
- "generated_ts": 1787512646,
+ "generated": "2026-08-23 14:37",
+ "generated_ts": 1787513849,
  "stats": {
-  "episodes_matches": 9134,
+  "episodes_matches": 9166,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
+  "discs_today": 9,
   "discs_week": 28,
   "discs_month": 324,
   "discs_alltime": 719,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D2",
    "Quantum Leap S5D4",
+   "Sex and the City S6D4",
    "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
@@ -1103,7 +1104,7 @@
   ],
   "certified": 343,
   "certified_shows": 169,
-  "certified_estimate": 399,
+  "certified_estimate": 400,
   "cert_split": {
    "tv": {
     "certified": 343,
@@ -1113,7 +1114,7 @@
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 129
+    "total_seasons": 130
    }
   },
   "workload": {
@@ -1140,7 +1141,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5275.7,
+   "used_gb": 5279.6,
    "total_gb": 11999.8,
    "pct": 44,
    "online": true
