@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 08:56",
- "generated_ts": 1787493389,
+ "generated": "2026-08-23 09:16",
+ "generated_ts": 1787494593,
  "stats": {
   "episodes_matches": 9134,
   "titles_total": 0,
@@ -1108,30 +1108,15 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 0,
-   "warn": 4,
-   "ok": 83,
-   "generated": "2026-08-22 09:00",
+   "alarm": 1,
+   "warn": 0,
+   "ok": 37,
+   "generated": "2026-08-23 09:00",
    "oldest": [
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "KING_OF_THE_HILL_S11D2"
-    },
-    {
-     "tag": "WARN",
-     "days": 5,
-     "name": "GILMORE_GIRLS_S7D1"
-    },
-    {
-     "tag": "WARN",
-     "days": 5,
-     "name": "11_22_63_S1D2"
-    },
-    {
-     "tag": "WARN",
-     "days": 5,
-     "name": "11_22_63_S1D1"
     }
    ]
   }
@@ -1139,7 +1124,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5134.7,
+   "used_gb": 5159.3,
    "total_gb": 11999.8,
    "pct": 43,
    "online": true
