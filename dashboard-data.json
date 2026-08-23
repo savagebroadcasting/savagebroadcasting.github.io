@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 08:16",
- "generated_ts": 1787490982,
+ "generated": "2026-08-23 08:36",
+ "generated_ts": 1787492186,
  "stats": {
   "episodes_matches": 9134,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 21,
+  "discs_today": 2,
+  "discs_week": 22,
   "discs_month": 319,
   "discs_alltime": 716,
   "discs_today_list": [
-   "TNA Wrestling: The Best of the X Division, Vol. 1 D1"
+   "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
+   "The Shawn Michaels Story: Heartbreak & Triumph D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -36,6 +37,7 @@
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "The Rise & Fall of WCW D1",
+   "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Wonder Years S2D1",
    "ThunderCats S1D5",
    "WCW vs. Japan Supershow 1 D1"
@@ -1133,7 +1135,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5121.1,
+   "used_gb": 5127.0,
    "total_gb": 11999.8,
    "pct": 43,
    "online": true
