@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 08:36",
- "generated_ts": 1787492186,
+ "generated": "2026-08-23 08:56",
+ "generated_ts": 1787493389,
  "stats": {
   "episodes_matches": 9134,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 22,
-  "discs_month": 319,
-  "discs_alltime": 716,
+  "discs_today": 3,
+  "discs_week": 23,
+  "discs_month": 320,
+  "discs_alltime": 717,
   "discs_today_list": [
+   "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1"
   ],
@@ -33,6 +34,7 @@
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
+   "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
@@ -253,6 +255,7 @@
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
+   "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
@@ -820,6 +823,7 @@
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
    "TNA Wrestling: The Best of Sting D1",
+   "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S1D1",
    "Tales from the Crypt S1D2",
@@ -1135,14 +1139,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5127.0,
+   "used_gb": 5134.7,
    "total_gb": 11999.8,
    "pct": 43,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 235.4,
+   "total_gb": 999.8,
+   "pct": 24,
+   "online": true
   }
  ],
  "discs_needed": [],
