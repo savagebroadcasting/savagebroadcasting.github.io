@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 20:14",
- "generated_ts": 1787447654,
+ "generated": "2026-08-22 20:34",
+ "generated_ts": 1787448858,
  "stats": {
   "episodes_matches": 9141,
   "titles_total": 0,
@@ -10,8 +10,8 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 35,
+  "discs_today": 9,
+  "discs_week": 36,
   "discs_month": 316,
   "discs_alltime": 714,
   "discs_today_list": [
@@ -22,7 +22,8 @@
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
-   "ThunderCats S1D5"
+   "ThunderCats S1D5",
+   "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S10D3",
@@ -59,7 +60,8 @@
    "The Fresh Prince of Bel-Air S4D4",
    "The Wonder Years S2D1",
    "The Wonder Years S6D4",
-   "ThunderCats S1D5"
+   "ThunderCats S1D5",
+   "WCW vs. Japan Supershow 1 D1"
   ],
   "discs_month_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -1149,7 +1151,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5647.3,
+   "used_gb": 5652.0,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
