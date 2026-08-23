@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-22 19:13",
- "generated_ts": 1787444039,
+ "generated": "2026-08-22 19:34",
+ "generated_ts": 1787445244,
  "stats": {
   "episodes_matches": 9141,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 33,
+  "discs_today": 7,
+  "discs_week": 34,
   "discs_month": 316,
   "discs_alltime": 714,
   "discs_today_list": [
    "Gilmore Girls S4D1",
+   "Gilmore Girls S4D2",
    "Punky Brewster S1D3",
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
@@ -32,6 +33,7 @@
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D7",
    "Gilmore Girls S4D1",
+   "Gilmore Girls S4D2",
    "In Living Color S3D6",
    "Jem and the Holograms S1D1",
    "King of the Hill S11D2",
@@ -1145,7 +1147,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5632.3,
+   "used_gb": 5637.9,
    "total_gb": 11999.8,
    "pct": 47,
    "online": true
