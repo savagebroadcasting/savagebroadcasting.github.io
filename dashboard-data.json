@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 07:36",
- "generated_ts": 1787488575,
+ "generated": "2026-08-23 07:56",
+ "generated_ts": 1787489779,
  "stats": {
   "episodes_matches": 9134,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 20,
-  "discs_month": 318,
-  "discs_alltime": 715,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 21,
+  "discs_month": 319,
+  "discs_alltime": 716,
+  "discs_today_list": [
+   "TNA Wrestling: The Best of the X Division, Vol. 1 D1"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
@@ -30,6 +32,7 @@
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
+   "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "The Rise & Fall of WCW D1",
@@ -248,6 +251,7 @@
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
+   "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
    "Tales from the Territories D1",
@@ -814,6 +818,7 @@
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
    "TNA Wrestling: The Best of Sting D1",
+   "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S1D1",
    "Tales from the Crypt S1D2",
    "Tales from the Crypt S2D1",
@@ -1128,17 +1133,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5124.2,
+   "used_gb": 5119.0,
    "total_gb": 11999.8,
    "pct": 43,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 240.6,
-   "total_gb": 999.8,
-   "pct": 24,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [],
