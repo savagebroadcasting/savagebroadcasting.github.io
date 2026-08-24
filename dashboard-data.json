@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-24 06:40",
- "generated_ts": 1787571646,
+ "generated": "2026-08-24 07:00",
+ "generated_ts": 1787572849,
  "stats": {
   "episodes_matches": 9282,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 37,
-  "discs_month": 333,
-  "discs_alltime": 728,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 38,
+  "discs_month": 334,
+  "discs_alltime": 729,
+  "discs_today_list": [
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
@@ -22,6 +24,7 @@
    "Gilmore Girls S4D4",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
@@ -147,6 +150,7 @@
    "Hard Knocks: The Chris Benoit Story D2",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -629,6 +633,7 @@
    "He-Man and the Masters of the Universe S2D7",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -1158,16 +1163,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5423.6,
+   "used_gb": 5432.2,
    "total_gb": 11999.8,
    "pct": 45,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 223.5,
+   "used_gb": 168.1,
    "total_gb": 999.8,
-   "pct": 22,
+   "pct": 17,
    "online": true
   }
  ],
