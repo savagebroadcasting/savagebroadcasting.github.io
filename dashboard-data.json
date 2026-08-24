@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 19:38",
- "generated_ts": 1787531905,
+ "generated": "2026-08-23 19:58",
+ "generated_ts": 1787533108,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 15,
-  "discs_week": 34,
-  "discs_month": 330,
-  "discs_alltime": 725,
+  "discs_today": 16,
+  "discs_week": 35,
+  "discs_month": 331,
+  "discs_alltime": 726,
   "discs_today_list": [
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
@@ -29,6 +29,7 @@
    "Three's Company S1D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
+   "Undertaker: He Buries Them Alive D1",
    "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1"
   ],
   "discs_week_list": [
@@ -64,6 +65,7 @@
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
+   "Undertaker: He Buries Them Alive D1",
    "WCW vs. Japan Supershow 1 D1",
    "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1"
   ],
@@ -327,6 +329,7 @@
    "Twist of Fate: The Matt & Jeff Hardy Story D2",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
+   "Undertaker: He Buries Them Alive D1",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -1035,6 +1038,7 @@
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "Ultimate Warrior: Always Believe D3",
+   "Undertaker: He Buries Them Alive D1",
    "WCW vs. Japan Supershow 1 D1",
    "WCW vs. Japan Supershow 2 D1",
    "WCW vs. Japan Supershow 3 D1",
@@ -1165,9 +1169,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5338.8,
+   "used_gb": 5342.2,
    "total_gb": 11999.8,
-   "pct": 44,
+   "pct": 45,
    "online": true
   },
   {
