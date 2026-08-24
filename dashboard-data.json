@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-24 16:04",
- "generated_ts": 1787605448,
+ "generated": "2026-08-24 16:24",
+ "generated_ts": 1787606653,
  "stats": {
   "episodes_matches": 9340,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 44,
-  "discs_month": 340,
-  "discs_alltime": 735,
+  "discs_today": 8,
+  "discs_week": 45,
+  "discs_month": 341,
+  "discs_alltime": 736,
   "discs_today_list": [
    "Gilmore Girls S7D6",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
@@ -21,7 +21,8 @@
    "Three's Company S2D2",
    "Three's Company S2D3",
    "Three's Company S2D4",
-   "Three's Company S3D1"
+   "Three's Company S3D1",
+   "Three's Company S3D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -62,6 +63,7 @@
    "Three's Company S2D3",
    "Three's Company S2D4",
    "Three's Company S3D1",
+   "Three's Company S3D2",
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
@@ -328,6 +330,7 @@
    "Three's Company S2D3",
    "Three's Company S2D4",
    "Three's Company S3D1",
+   "Three's Company S3D2",
    "ThunderCats S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -1030,6 +1033,7 @@
    "Three's Company S2D3",
    "Three's Company S2D4",
    "Three's Company S3D1",
+   "Three's Company S3D2",
    "ThunderCats S1D1",
    "ThunderCats S1D2",
    "ThunderCats S1D3",
@@ -1217,7 +1221,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5484.5,
+   "used_gb": 5487.8,
    "total_gb": 11999.8,
    "pct": 46,
    "online": true
