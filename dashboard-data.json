@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 20:18",
- "generated_ts": 1787534316,
+ "generated": "2026-08-23 20:38",
+ "generated_ts": 1787535520,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 17,
-  "discs_week": 36,
-  "discs_month": 332,
-  "discs_alltime": 727,
+  "discs_today": 18,
+  "discs_week": 37,
+  "discs_month": 333,
+  "discs_alltime": 728,
   "discs_today_list": [
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
@@ -39,6 +40,7 @@
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
@@ -163,6 +165,7 @@
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -644,6 +647,7 @@
    "He-Man and the Masters of the Universe S2D6",
    "He-Man and the Masters of the Universe S2D7",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -1173,14 +1177,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5346.4,
+   "used_gb": 5350.3,
    "total_gb": 11999.8,
    "pct": 45,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 223.5,
+   "total_gb": 999.8,
+   "pct": 22,
+   "online": true
   }
  ],
  "discs_needed": [],
