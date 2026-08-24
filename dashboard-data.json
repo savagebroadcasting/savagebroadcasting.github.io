@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-24 08:41",
- "generated_ts": 1787578872,
+ "generated": "2026-08-24 09:01",
+ "generated_ts": 1787580076,
  "stats": {
-  "episodes_matches": 9282,
+  "episodes_matches": 9346,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -1134,17 +1134,17 @@
   ],
   "certified": 348,
   "certified_shows": 173,
-  "certified_estimate": 402,
+  "certified_estimate": 407,
   "cert_split": {
    "tv": {
     "certified": 348,
     "evidence": 0,
-    "total_seasons": 271
+    "total_seasons": 275
    },
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 131
+    "total_seasons": 132
    }
   },
   "workload": {
@@ -1156,14 +1156,44 @@
   },
   "disc_age": {
    "alarm": 1,
-   "warn": 0,
-   "ok": 37,
-   "generated": "2026-08-23 09:00",
+   "warn": 6,
+   "ok": 68,
+   "generated": "2026-08-24 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "KING_OF_THE_HILL_S11D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D5_SIDEB"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D4_SIDEB"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "HEY_DUDE_S3D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "HEY_DUDE_S2D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "HEY_DUDE_S2D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "HEY_DUDE_S1D2"
     }
    ]
   }
@@ -1171,7 +1201,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5463.1,
+   "used_gb": 5461.3,
    "total_gb": 11999.8,
    "pct": 46,
    "online": true
