@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-23 19:58",
- "generated_ts": 1787533108,
+ "generated": "2026-08-23 20:18",
+ "generated_ts": 1787534316,
  "stats": {
   "episodes_matches": 9166,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 16,
-  "discs_week": 35,
-  "discs_month": 331,
-  "discs_alltime": 726,
+  "discs_today": 17,
+  "discs_week": 36,
+  "discs_month": 332,
+  "discs_alltime": 727,
   "discs_today_list": [
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
@@ -37,6 +38,7 @@
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hitman Hart: Wrestling with Shadows D2",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
@@ -160,6 +162,7 @@
    "Green Acres S6D4",
    "Hard Knocks: The Chris Benoit Story D1",
    "Hard Knocks: The Chris Benoit Story D2",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -640,6 +643,7 @@
    "He-Man and the Masters of the Universe S2D5",
    "He-Man and the Masters of the Universe S2D6",
    "He-Man and the Masters of the Universe S2D7",
+   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hey Dude S1D1",
    "Hey Dude S1D2",
    "Hey Dude S2D1",
@@ -1169,7 +1173,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5342.2,
+   "used_gb": 5346.4,
    "total_gb": 11999.8,
    "pct": 45,
    "online": true
