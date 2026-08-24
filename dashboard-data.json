@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-24 07:20",
- "generated_ts": 1787574053,
+ "generated": "2026-08-24 07:40",
+ "generated_ts": 1787575258,
  "stats": {
   "episodes_matches": 9282,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 38,
-  "discs_month": 334,
-  "discs_alltime": 729,
+  "discs_today": 2,
+  "discs_week": 39,
+  "discs_month": 335,
+  "discs_alltime": 730,
   "discs_today_list": [
+   "Gilmore Girls S7D6",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3"
   ],
   "discs_week_list": [
@@ -22,6 +23,7 @@
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
+   "Gilmore Girls S7D6",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
@@ -122,6 +124,7 @@
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
    "Gilmore Girls S6D4",
+   "Gilmore Girls S7D6",
    "Green Acres S1D1",
    "Green Acres S1D2",
    "Green Acres S1D3",
@@ -578,6 +581,7 @@
    "Gilmore Girls S6D2",
    "Gilmore Girls S6D3",
    "Gilmore Girls S6D4",
+   "Gilmore Girls S7D6",
    "Glee S2D1",
    "Glee S2D2",
    "Glee S2D3",
@@ -1163,17 +1167,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5445.8,
+   "used_gb": 5453.7,
    "total_gb": 11999.8,
    "pct": 45,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 153.0,
-   "total_gb": 999.8,
-   "pct": 15,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [],
