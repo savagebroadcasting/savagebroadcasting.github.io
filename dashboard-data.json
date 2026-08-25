@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-25 16:17",
- "generated_ts": 1787692629,
+ "generated": "2026-08-25 16:37",
+ "generated_ts": 1787693832,
  "stats": {
   "episodes_matches": 9431,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 62,
-  "discs_month": 358,
-  "discs_alltime": 753,
+  "discs_today": 8,
+  "discs_week": 63,
+  "discs_month": 359,
+  "discs_alltime": 754,
   "discs_today_list": [
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D1",
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
@@ -75,6 +76,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D1",
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
@@ -359,6 +361,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D1",
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
@@ -1079,6 +1082,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D1",
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
@@ -1361,7 +1365,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5851.3,
+   "used_gb": 5854.1,
    "total_gb": 11999.8,
    "pct": 49,
    "online": true
