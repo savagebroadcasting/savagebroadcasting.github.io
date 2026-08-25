@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-25 14:36",
- "generated_ts": 1787686608,
+ "generated": "2026-08-25 14:56",
+ "generated_ts": 1787687812,
  "stats": {
   "episodes_matches": 9431,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 60,
-  "discs_month": 356,
-  "discs_alltime": 751,
+  "discs_today": 6,
+  "discs_week": 61,
+  "discs_month": 357,
+  "discs_alltime": 752,
   "discs_today_list": [
    "Three's Company S6D2",
    "Three's Company S6D3",
    "Three's Company S7D2",
    "Three's Company S7D3",
-   "Three's Company S8D1"
+   "Three's Company S8D1",
+   "Three's Company S8D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -76,6 +77,7 @@
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
+   "Three's Company S8D2",
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
@@ -358,6 +360,7 @@
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
+   "Three's Company S8D2",
    "ThunderCats S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -1076,6 +1079,7 @@
    "Three's Company S7D2",
    "Three's Company S7D3",
    "Three's Company S8D1",
+   "Three's Company S8D2",
    "ThunderCats S1D1",
    "ThunderCats S1D2",
    "ThunderCats S1D3",
@@ -1353,7 +1357,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5842.2,
+   "used_gb": 5844.4,
    "total_gb": 11999.8,
    "pct": 49,
    "online": true
