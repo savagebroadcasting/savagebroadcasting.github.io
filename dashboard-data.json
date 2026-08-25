@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-24 23:53",
- "generated_ts": 1787633633,
+ "generated": "2026-08-25 00:13",
+ "generated_ts": 1787634837,
  "stats": {
   "episodes_matches": 9354,
   "titles_total": 0,
@@ -10,30 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 18,
+  "discs_today": 0,
   "discs_week": 55,
   "discs_month": 351,
   "discs_alltime": 746,
-  "discs_today_list": [
-   "Gilmore Girls S7D6",
-   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
-   "Three's Company S2D1",
-   "Three's Company S2D2",
-   "Three's Company S2D3",
-   "Three's Company S2D4",
-   "Three's Company S3D1",
-   "Three's Company S3D2",
-   "Three's Company S3D3",
-   "Three's Company S3D4",
-   "Three's Company S4D1",
-   "Three's Company S4D2",
-   "Three's Company S4D3",
-   "Three's Company S5D1",
-   "Three's Company S5D2",
-   "Three's Company S5D3",
-   "Three's Company S5D4",
-   "Three's Company S6D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
