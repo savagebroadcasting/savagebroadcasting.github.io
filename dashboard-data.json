@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-25 09:35",
- "generated_ts": 1787668543,
+ "generated": "2026-08-25 09:55",
+ "generated_ts": 1787669749,
  "stats": {
-  "episodes_matches": 9399,
+  "episodes_matches": 9445,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 57,
-  "discs_month": 353,
-  "discs_alltime": 748,
+  "discs_today": 3,
+  "discs_week": 58,
+  "discs_month": 354,
+  "discs_alltime": 749,
   "discs_today_list": [
    "Three's Company S6D2",
-   "Three's Company S6D3"
+   "Three's Company S6D3",
+   "Three's Company S7D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -70,6 +71,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D2",
    "ThunderCats S1D5",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D3",
@@ -349,6 +351,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D2",
    "ThunderCats S1D5",
    "Triple H: The King of Kings D1",
    "Triple H: The King of Kings D2",
@@ -1064,6 +1067,7 @@
    "Three's Company S6D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
+   "Three's Company S7D2",
    "ThunderCats S1D1",
    "ThunderCats S1D2",
    "ThunderCats S1D3",
@@ -1182,19 +1186,19 @@
    "Who Killed WCW? D1",
    "nWo: Back in Black D1"
   ],
-  "certified": 349,
-  "certified_shows": 174,
-  "certified_estimate": 408,
+  "certified": 350,
+  "certified_shows": 175,
+  "certified_estimate": 409,
   "cert_split": {
    "tv": {
-    "certified": 349,
+    "certified": 350,
     "evidence": 0,
     "total_seasons": 275
    },
    "wrestling": {
     "certified": 0,
     "evidence": 0,
-    "total_seasons": 133
+    "total_seasons": 134
    }
   },
   "workload": {
@@ -1341,7 +1345,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5810.9,
+   "used_gb": 5815.4,
    "total_gb": 11999.8,
    "pct": 48,
    "online": true
