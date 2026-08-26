@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-25 19:17",
- "generated_ts": 1787703462,
+ "generated": "2026-08-25 19:37",
+ "generated_ts": 1787704666,
  "stats": {
   "episodes_matches": 9479,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 63,
-  "discs_month": 359,
-  "discs_alltime": 754,
+  "discs_today": 9,
+  "discs_week": 64,
+  "discs_month": 360,
+  "discs_alltime": 755,
   "discs_today_list": [
+   "Popeye S1D1",
    "Three's Company S6D2",
    "Three's Company S6D3",
    "Three's Company S7D1",
@@ -37,6 +38,7 @@
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
+   "Popeye S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
    "Punky Brewster S3D1",
@@ -289,6 +291,7 @@
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
+   "Popeye S1D1",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -873,6 +876,7 @@
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
+   "Popeye S1D1",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -1365,7 +1369,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 5803.2,
+   "used_gb": 5803.5,
    "total_gb": 11999.8,
    "pct": 48,
    "online": true
