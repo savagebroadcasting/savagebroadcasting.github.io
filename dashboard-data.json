@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 18:26",
- "generated_ts": 1787786800,
+ "generated": "2026-08-26 18:46",
+ "generated_ts": 1787788004,
  "stats": {
   "episodes_matches": 9653,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 12,
-  "discs_week": 77,
-  "discs_month": 373,
-  "discs_alltime": 768,
+  "discs_today": 13,
+  "discs_week": 78,
+  "discs_month": 374,
+  "discs_alltime": 769,
   "discs_today_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
    "Better Call Saul S1D3",
    "Popeye S2D1",
    "Popeye S4D1",
+   "The Cosby Show S1D2",
    "The Simpsons S10D1",
    "The Simpsons S11D1",
    "The Simpsons S15D1",
@@ -63,6 +64,7 @@
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "Tales from the Crypt S3D3",
    "Tales from the Crypt S7D2",
+   "The Cosby Show S1D2",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
@@ -350,6 +352,7 @@
    "Taxi S3D2",
    "Taxi S3D3",
    "Taxi S3D4",
+   "The Cosby Show S1D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
@@ -1044,6 +1047,7 @@
    "The Brady Bunch S1D2",
    "The Brady Bunch S1D3",
    "The Brady Bunch S1D4",
+   "The Cosby Show S1D2",
    "The Dick Van Dyke Show S1D1",
    "The Dick Van Dyke Show S1D2",
    "The Dick Van Dyke Show S1D3",
@@ -1426,9 +1430,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6179.4,
+   "used_gb": 6180.4,
    "total_gb": 11999.8,
-   "pct": 51,
+   "pct": 52,
    "online": true
   },
   {
