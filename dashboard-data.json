@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-25 23:58",
- "generated_ts": 1787720318,
+ "generated": "2026-08-26 00:18",
+ "generated_ts": 1787721523,
  "stats": {
   "episodes_matches": 9552,
   "titles_total": 0,
@@ -10,22 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 10,
+  "discs_today": 0,
   "discs_week": 65,
   "discs_month": 361,
   "discs_alltime": 756,
-  "discs_today_list": [
-   "Popeye S1D1",
-   "Popeye S3D1",
-   "Three's Company S6D2",
-   "Three's Company S6D3",
-   "Three's Company S7D1",
-   "Three's Company S7D2",
-   "Three's Company S7D3",
-   "Three's Company S8D1",
-   "Three's Company S8D2",
-   "Three's Company S8D3"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
@@ -1373,7 +1362,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6061.3,
+   "used_gb": 6063.6,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
