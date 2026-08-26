@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 08:43",
- "generated_ts": 1787751832,
+ "generated": "2026-08-26 09:04",
+ "generated_ts": 1787753041,
  "stats": {
   "episodes_matches": 9643,
   "titles_total": 0,
@@ -1235,135 +1235,150 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 1,
-   "warn": 24,
-   "ok": 102,
-   "generated": "2026-08-25 09:00",
+   "alarm": 7,
+   "warn": 21,
+   "ok": 123,
+   "generated": "2026-08-26 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "KING_OF_THE_HILL_S11D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D5_SIDEB"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D4_SIDEB"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "HEY_DUDE_S3D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "HEY_DUDE_S2D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "HEY_DUDE_S2D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "HEY_DUDE_S1D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_THE_TOP_50_SUPERSTARS_OF_ALL_TIME_2010_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_X_DIVISION_VOL_1_2005_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_ASYLUM_YEARS_VOL_1_2010_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S2D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_3_2015_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_3_2015_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_3_2015_D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_2_2013_D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_2_2013_D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_UNRELEASED_VOL_2_2013_D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "PUNKY_BREWSTER_S3D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "PUNKY_BREWSTER_S3D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "PUNKY_BREWSTER_S1D2"
     }
    ]
   }
@@ -1371,7 +1386,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6118.3,
+   "used_gb": 6120.9,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
