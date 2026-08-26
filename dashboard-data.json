@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 12:45",
- "generated_ts": 1787766325,
+ "generated": "2026-08-26 13:05",
+ "generated_ts": 1787767530,
  "stats": {
   "episodes_matches": 9643,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 70,
-  "discs_month": 366,
-  "discs_alltime": 761,
+  "discs_today": 6,
+  "discs_week": 71,
+  "discs_month": 367,
+  "discs_alltime": 762,
   "discs_today_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
    "Better Call Saul S1D3",
    "Popeye S2D1",
-   "Popeye S4D1"
+   "Popeye S4D1",
+   "The Simpsons S15D1"
   ],
   "discs_week_list": [
    "Better Call Saul S1D1",
@@ -58,6 +59,7 @@
    "Tales from the Crypt S7D2",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Simpsons S15D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
@@ -349,6 +351,7 @@
    "The Resurrection of Jake The Snake D1",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Simpsons S15D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
@@ -1075,6 +1078,7 @@
    "The Rise & Fall of WCW D2",
    "The Rise & Fall of WCW D3",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
+   "The Simpsons S15D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
@@ -1398,7 +1402,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6167.2,
+   "used_gb": 6171.6,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
