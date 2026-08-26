@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 16:06",
- "generated_ts": 1787778372,
+ "generated": "2026-08-26 16:26",
+ "generated_ts": 1787779576,
  "stats": {
   "episodes_matches": 9653,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 10,
-  "discs_week": 75,
-  "discs_month": 371,
-  "discs_alltime": 766,
+  "discs_today": 11,
+  "discs_week": 76,
+  "discs_month": 372,
+  "discs_alltime": 767,
   "discs_today_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
@@ -23,6 +23,7 @@
    "The Simpsons S10D1",
    "The Simpsons S11D1",
    "The Simpsons S15D1",
+   "Three's Company S4D4",
    "Three's Company S7D4",
    "Three's Company S8D4"
   ],
@@ -81,6 +82,7 @@
    "Three's Company S4D1",
    "Three's Company S4D2",
    "Three's Company S4D3",
+   "Three's Company S4D4",
    "Three's Company S5D1",
    "Three's Company S5D2",
    "Three's Company S5D3",
@@ -378,6 +380,7 @@
    "Three's Company S4D1",
    "Three's Company S4D2",
    "Three's Company S4D3",
+   "Three's Company S4D4",
    "Three's Company S5D1",
    "Three's Company S5D2",
    "Three's Company S5D3",
@@ -1111,6 +1114,7 @@
    "Three's Company S4D1",
    "Three's Company S4D2",
    "Three's Company S4D3",
+   "Three's Company S4D4",
    "Three's Company S5D1",
    "Three's Company S5D2",
    "Three's Company S5D3",
