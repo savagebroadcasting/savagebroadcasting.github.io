@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 08:23",
- "generated_ts": 1787750624,
+ "generated": "2026-08-26 08:43",
+ "generated_ts": 1787751832,
  "stats": {
   "episodes_matches": 9643,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 66,
-  "discs_month": 362,
-  "discs_alltime": 757,
+  "discs_today": 2,
+  "discs_week": 67,
+  "discs_month": 363,
+  "discs_alltime": 758,
   "discs_today_list": [
+   "Popeye S2D1",
    "Popeye S4D1"
   ],
   "discs_week_list": [
@@ -31,6 +32,7 @@
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
    "Popeye S1D1",
+   "Popeye S2D1",
    "Popeye S3D1",
    "Popeye S4D1",
    "Punky Brewster S1D2",
@@ -286,6 +288,7 @@
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
    "Popeye S1D1",
+   "Popeye S2D1",
    "Popeye S3D1",
    "Popeye S4D1",
    "Punky Brewster S1D1",
@@ -873,6 +876,7 @@
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D2",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
    "Popeye S1D1",
+   "Popeye S2D1",
    "Popeye S3D1",
    "Popeye S4D1",
    "Punky Brewster S1D1",
@@ -1367,7 +1371,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6112.2,
+   "used_gb": 6118.3,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
