@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 08:03",
- "generated_ts": 1787749414,
+ "generated": "2026-08-26 08:23",
+ "generated_ts": 1787750624,
  "stats": {
   "episodes_matches": 9643,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 65,
-  "discs_month": 361,
-  "discs_alltime": 756,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 66,
+  "discs_month": 362,
+  "discs_alltime": 757,
+  "discs_today_list": [
+   "Popeye S4D1"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
@@ -30,6 +32,7 @@
    "OMG! The Top 50 Incidents in WWE History D3",
    "Popeye S1D1",
    "Popeye S3D1",
+   "Popeye S4D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
    "Punky Brewster S3D1",
@@ -284,6 +287,7 @@
    "OMG! The Top 50 Incidents in WWE History D3",
    "Popeye S1D1",
    "Popeye S3D1",
+   "Popeye S4D1",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -870,6 +874,7 @@
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D3",
    "Popeye S1D1",
    "Popeye S3D1",
+   "Popeye S4D1",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -1362,7 +1367,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6107.8,
+   "used_gb": 6112.2,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
