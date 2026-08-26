@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 10:24",
- "generated_ts": 1787757876,
+ "generated": "2026-08-26 10:44",
+ "generated_ts": 1787759083,
  "stats": {
   "episodes_matches": 9643,
   "titles_total": 0,
@@ -10,17 +10,19 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 68,
-  "discs_month": 364,
-  "discs_alltime": 759,
+  "discs_today": 4,
+  "discs_week": 69,
+  "discs_month": 365,
+  "discs_alltime": 760,
   "discs_today_list": [
    "Better Call Saul S1D1",
+   "Better Call Saul S1D2",
    "Popeye S2D1",
    "Popeye S4D1"
   ],
   "discs_week_list": [
    "Better Call Saul S1D1",
+   "Better Call Saul S1D2",
    "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
@@ -94,6 +96,7 @@
    "Allied Powers: The World's Greatest Tag Teams D2",
    "Allied Powers: The World's Greatest Tag Teams D3",
    "Better Call Saul S1D1",
+   "Better Call Saul S1D2",
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S5D8",
@@ -516,6 +519,7 @@
    "Batman: The Animated Series S4D2",
    "Batman: The Animated Series S4D3",
    "Better Call Saul S1D1",
+   "Better Call Saul S1D2",
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S1D1",
@@ -1390,7 +1394,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6137.6,
+   "used_gb": 6142.9,
    "total_gb": 11999.8,
    "pct": 51,
    "online": true
