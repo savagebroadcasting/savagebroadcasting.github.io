@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-26 23:47",
- "generated_ts": 1787806059,
+ "generated": "2026-08-27 00:07",
+ "generated_ts": 1787807264,
  "stats": {
   "episodes_matches": 9655,
   "titles_total": 0,
@@ -10,30 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 13,
-  "discs_week": 78,
+  "discs_today": 0,
+  "discs_week": 74,
   "discs_month": 374,
   "discs_alltime": 769,
-  "discs_today_list": [
-   "Better Call Saul S1D1",
-   "Better Call Saul S1D2",
-   "Better Call Saul S1D3",
-   "Popeye S2D1",
-   "Popeye S4D1",
-   "The Cosby Show S1D2",
-   "The Simpsons S10D1",
-   "The Simpsons S11D1",
-   "The Simpsons S15D1",
-   "Three's Company S4D4",
-   "Three's Company S6D4",
-   "Three's Company S7D4",
-   "Three's Company S8D4"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
    "Better Call Saul S1D3",
-   "Beverly Hills, 90210 S6D1",
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
@@ -57,13 +42,10 @@
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
    "Quantum Leap S5D4",
-   "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
-   "Tales from the Crypt S3D3",
-   "Tales from the Crypt S7D2",
    "The Cosby Show S1D2",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
@@ -1430,7 +1412,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6578.6,
+   "used_gb": 6625.0,
    "total_gb": 11999.8,
    "pct": 55,
    "online": true
