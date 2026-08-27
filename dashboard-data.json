@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-27 18:11",
- "generated_ts": 1787872316,
+ "generated": "2026-08-27 18:31",
+ "generated_ts": 1787873519,
  "stats": {
   "episodes_matches": 9659,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
+  "discs_today": 2,
   "discs_week": 75,
   "discs_month": 375,
   "discs_alltime": 770,
   "discs_today_list": [
+   "The Cosby Show S1D2",
    "The Cosby Show S2D1"
   ],
   "discs_week_list": [
@@ -1417,7 +1418,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6658.1,
+   "used_gb": 6659.8,
    "total_gb": 11999.8,
    "pct": 55,
    "online": true
