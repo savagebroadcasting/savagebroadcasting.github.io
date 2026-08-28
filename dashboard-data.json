@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-27 23:53",
- "generated_ts": 1787892784,
+ "generated": "2026-08-28 00:13",
+ "generated_ts": 1787893988,
  "stats": {
   "episodes_matches": 9735,
   "titles_total": 0,
@@ -10,15 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 76,
+  "discs_today": 0,
+  "discs_week": 72,
   "discs_month": 376,
   "discs_alltime": 771,
-  "discs_today_list": [
-   "The Cosby Show S1D2",
-   "The Cosby Show S2D1",
-   "The Cosby Show S2D2"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
@@ -38,10 +34,7 @@
    "Popeye S2D1",
    "Popeye S3D1",
    "Popeye S4D1",
-   "Punky Brewster S1D2",
    "Punky Brewster S1D3",
-   "Punky Brewster S3D1",
-   "Punky Brewster S3D2",
    "Punky Brewster S4D2",
    "Punky Brewster S4D3",
    "Punky Brewster S4D4",
@@ -60,7 +53,6 @@
    "The Simpsons S15D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
-   "The Wonder Years S2D1",
    "Three's Company S1D1",
    "Three's Company S2D1",
    "Three's Company S2D2",
@@ -1422,7 +1414,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6516.8,
+   "used_gb": 6538.0,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
