@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-28 14:56",
- "generated_ts": 1787946990,
+ "generated": "2026-08-28 15:16",
+ "generated_ts": 1787948194,
  "stats": {
   "episodes_matches": 9774,
   "titles_total": 0,
@@ -10,14 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 75,
-  "discs_month": 379,
-  "discs_alltime": 773,
+  "discs_today": 4,
+  "discs_week": 76,
+  "discs_month": 380,
+  "discs_alltime": 774,
   "discs_today_list": [
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S3D1",
-   "The Cosby Show S3D2"
+   "The Cosby Show S3D2",
+   "Who Killed WCW? D2"
   ],
   "discs_week_list": [
    "Better Call Saul S1D1",
@@ -94,7 +95,8 @@
    "Ultimate Warrior: Always Believe D3",
    "Undertaker: He Buries Them Alive D1",
    "WCW vs. Japan Supershow 1 D1",
-   "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1"
+   "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1",
+   "Who Killed WCW? D2"
   ],
   "discs_month_list": [
    "Allied Powers: The World's Greatest Tag Teams D1",
@@ -475,7 +477,8 @@
    "WWE: Wrestling's Highest Flyers D2",
    "WWE: Wrestling's Highest Flyers D3",
    "WWF Hardcore D1",
-   "Who Killed WCW? D1"
+   "Who Killed WCW? D1",
+   "Who Killed WCW? D2"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -1250,6 +1253,7 @@
    "WWE: Wrestling's Highest Flyers D3",
    "WWF Hardcore D1",
    "Who Killed WCW? D1",
+   "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
   "certified": 360,
@@ -1521,7 +1525,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6511.7,
+   "used_gb": 6518.0,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
