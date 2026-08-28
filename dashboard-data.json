@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-28 10:55",
- "generated_ts": 1787932518,
+ "generated": "2026-08-28 11:15",
+ "generated_ts": 1787933722,
  "stats": {
   "episodes_matches": 9774,
   "titles_total": 0,
@@ -1521,7 +1521,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6445.3,
+   "used_gb": 6445.5,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
@@ -1541,7 +1541,12 @@
   "Docs/bundles (no match list \u2014 different cert track, not match-cert candidates):",
   "#56  Jeff Jarrett: King of the Mountain \u2014 all 4 discs NOW on disk (D1 ripped",
   "Gift sets #139-144, #146 \u2014 raws present; cut + cert to HOLD (never live Plex).",
-  "montage w/ no discrete segments, becomes catalog disc_count=2 fix instead \u2014 verify on rip.)"
+  "montage w/ no discrete segments, becomes catalog disc_count=2 fix instead \u2014 verify on rip.)",
+  "#139 OMG! Top 50 Incidents in WWE History (2013) \u2014 3 discs",
+  "#142 Andre the Giant (2005) \u2014 1 disc (match list built: 10)",
+  "#144 The American Dream: Dusty Rhodes Story (2006) \u2014 3 discs (match list built: 25)",
+  "#145 Andre the Giant (2018) \u2014 1 disc",
+  "#146 Rey Mysterio: Biggest Little Man (2007) \u2014 3 discs (match list built: 28)"
  ],
  "stage_order": [
   "Purchased",
