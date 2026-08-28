@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-28 09:35",
- "generated_ts": 1787927700,
+ "generated": "2026-08-28 09:55",
+ "generated_ts": 1787928904,
  "stats": {
   "episodes_matches": 9774,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 74,
-  "discs_month": 378,
+  "discs_today": 3,
+  "discs_week": 75,
+  "discs_month": 379,
   "discs_alltime": 773,
   "discs_today_list": [
+   "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S3D1",
    "The Cosby Show S3D2"
   ],
@@ -33,6 +34,7 @@
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
+   "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "Popeye S1D1",
    "Popeye S2D1",
    "Popeye S3D1",
@@ -297,6 +299,7 @@
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
+   "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "Popeye S1D1",
    "Popeye S2D1",
    "Popeye S3D1",
@@ -1518,7 +1521,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6429.3,
+   "used_gb": 6433.3,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
