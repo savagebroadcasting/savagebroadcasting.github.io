@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-28 18:37",
- "generated_ts": 1787960231,
+ "generated": "2026-08-28 18:57",
+ "generated_ts": 1787961434,
  "stats": {
   "episodes_matches": 9778,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 76,
-  "discs_month": 380,
-  "discs_alltime": 774,
+  "discs_today": 6,
+  "discs_week": 77,
+  "discs_month": 381,
+  "discs_alltime": 775,
   "discs_today_list": [
+   "Dallas S1D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S1D2",
    "The Cosby Show S3D1",
@@ -25,6 +26,7 @@
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
    "Better Call Saul S1D3",
+   "Dallas S1D1",
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
@@ -119,6 +121,7 @@
    "Born to Controversy: The Roddy Piper Story D1",
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
+   "Dallas S1D1",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -558,6 +561,7 @@
    "Born to Controversy: The Roddy Piper Story D1",
    "Born to Controversy: The Roddy Piper Story D2",
    "Born to Controversy: The Roddy Piper Story D3",
+   "Dallas S1D1",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -1526,7 +1530,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6514.8,
+   "used_gb": 6518.1,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
