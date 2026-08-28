@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-27 20:52",
- "generated_ts": 1787881948,
+ "generated": "2026-08-27 21:12",
+ "generated_ts": 1787883152,
  "stats": {
-  "episodes_matches": 9659,
+  "episodes_matches": 9719,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 75,
-  "discs_month": 375,
-  "discs_alltime": 770,
+  "discs_today": 3,
+  "discs_week": 76,
+  "discs_month": 376,
+  "discs_alltime": 771,
   "discs_today_list": [
    "The Cosby Show S1D2",
-   "The Cosby Show S2D1"
+   "The Cosby Show S2D1",
+   "The Cosby Show S2D2"
   ],
   "discs_week_list": [
    "Better Call Saul S1D1",
@@ -51,6 +52,7 @@
    "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
+   "The Cosby Show S2D2",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
@@ -340,6 +342,7 @@
    "Taxi S3D4",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
+   "The Cosby Show S2D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
@@ -1036,6 +1039,7 @@
    "The Brady Bunch S1D4",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
+   "The Cosby Show S2D2",
    "The Dick Van Dyke Show S1D1",
    "The Dick Van Dyke Show S1D2",
    "The Dick Van Dyke Show S1D3",
@@ -1246,12 +1250,12 @@
   ],
   "certified": 359,
   "certified_shows": 184,
-  "certified_estimate": 420,
+  "certified_estimate": 425,
   "cert_split": {
    "tv": {
     "certified": 359,
     "evidence": 0,
-    "total_seasons": 283
+    "total_seasons": 288
    },
    "wrestling": {
     "certified": 0,
@@ -1418,14 +1422,17 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6482.0,
+   "used_gb": 6485.2,
    "total_gb": 11999.8,
    "pct": 54,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 641.5,
+   "total_gb": 999.8,
+   "pct": 64,
+   "online": true
   }
  ],
  "discs_needed": [
