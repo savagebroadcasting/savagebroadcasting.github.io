@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-29 11:20",
- "generated_ts": 1788020413,
+ "generated": "2026-08-29 11:40",
+ "generated_ts": 1788021616,
  "stats": {
   "episodes_matches": 9862,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 81,
-  "discs_month": 385,
-  "discs_alltime": 779,
+  "discs_today": 4,
+  "discs_week": 82,
+  "discs_month": 386,
+  "discs_alltime": 780,
   "discs_today_list": [
    "Dallas S2D2",
    "Dallas S3D1",
+   "Dallas S3D2",
    "The Cosby Show S5D1"
   ],
   "discs_week_list": [
@@ -27,6 +28,7 @@
    "Dallas S2D1",
    "Dallas S2D2",
    "Dallas S3D1",
+   "Dallas S3D2",
    "Gilmore Girls S4D1",
    "Gilmore Girls S4D2",
    "Gilmore Girls S4D4",
@@ -126,6 +128,7 @@
    "Dallas S2D1",
    "Dallas S2D2",
    "Dallas S3D1",
+   "Dallas S3D2",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -570,6 +573,7 @@
    "Dallas S2D1",
    "Dallas S2D2",
    "Dallas S3D1",
+   "Dallas S3D2",
    "Doug S1D1",
    "Doug S1D2",
    "Doug S1D3",
@@ -1270,12 +1274,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 281,
-  "certified_shows": 159,
+  "certified": 299,
+  "certified_shows": 164,
   "certified_estimate": 440,
   "cert_split": {
    "tv": {
-    "certified": 281,
+    "certified": 299,
     "evidence": 0,
     "total_seasons": 300
    },
