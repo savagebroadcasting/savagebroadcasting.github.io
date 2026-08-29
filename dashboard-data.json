@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-29 07:19",
- "generated_ts": 1788005972,
+ "generated": "2026-08-29 07:39",
+ "generated_ts": 1788007176,
  "stats": {
   "episodes_matches": 9863,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 78,
-  "discs_month": 382,
-  "discs_alltime": 776,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 79,
+  "discs_month": 383,
+  "discs_alltime": 777,
+  "discs_today_list": [
+   "The Cosby Show S5D1"
+  ],
   "discs_week_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
@@ -51,6 +53,7 @@
    "The Cosby Show S2D2",
    "The Cosby Show S3D1",
    "The Cosby Show S3D2",
+   "The Cosby Show S5D1",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
@@ -346,6 +349,7 @@
    "The Cosby Show S2D2",
    "The Cosby Show S3D1",
    "The Cosby Show S3D2",
+   "The Cosby Show S5D1",
    "The Fresh Prince of Bel-Air S4D4",
    "The History of WWE D2",
    "The History of WWE D3",
@@ -1048,6 +1052,7 @@
    "The Cosby Show S2D2",
    "The Cosby Show S3D1",
    "The Cosby Show S3D2",
+   "The Cosby Show S5D1",
    "The Dick Van Dyke Show S1D1",
    "The Dick Van Dyke Show S1D2",
    "The Dick Van Dyke Show S1D3",
@@ -1526,7 +1531,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6558.2,
+   "used_gb": 6558.9,
    "total_gb": 11999.8,
    "pct": 55,
    "online": true
