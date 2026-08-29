@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-28 23:58",
- "generated_ts": 1787979493,
+ "generated": "2026-08-29 00:18",
+ "generated_ts": 1787980697,
  "stats": {
-  "episodes_matches": 9816,
+  "episodes_matches": 9818,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,19 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
+  "discs_today": 0,
   "discs_week": 78,
   "discs_month": 382,
   "discs_alltime": 776,
-  "discs_today_list": [
-   "Dallas S1D1",
-   "Dallas S2D1",
-   "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
-   "The Cosby Show S1D2",
-   "The Cosby Show S3D1",
-   "The Cosby Show S3D2",
-   "Who Killed WCW? D2"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
@@ -1534,7 +1526,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6559.0,
+   "used_gb": 6559.5,
    "total_gb": 11999.8,
    "pct": 55,
    "online": true
