@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-30 17:45",
- "generated_ts": 1788129957,
+ "generated": "2026-08-30 18:06",
+ "generated_ts": 1788131161,
  "stats": {
   "episodes_matches": 10907,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 9,
-  "discs_week": 84,
-  "discs_month": 399,
-  "discs_alltime": 793,
+  "discs_today": 10,
+  "discs_week": 85,
+  "discs_month": 400,
+  "discs_alltime": 794,
   "discs_today_list": [
+   "Home Improvement S1D1",
    "The Mary Tyler Moore Show S5D1",
    "The Mary Tyler Moore Show S5D2",
    "The Mary Tyler Moore Show S5D3",
@@ -41,6 +42,7 @@
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
    "Hitman Hart: Wrestling with Shadows D2",
+   "Home Improvement S1D1",
    "OMG! The Top 50 Incidents in WWE History D1",
    "OMG! The Top 50 Incidents in WWE History D2",
    "OMG! The Top 50 Incidents in WWE History D3",
@@ -223,6 +225,7 @@
    "Hey Dude S3D1",
    "Hitman Hart: Wrestling with Shadows D1",
    "Hitman Hart: Wrestling with Shadows D2",
+   "Home Improvement S1D1",
    "In Living Color S3D6",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
@@ -773,6 +776,7 @@
    "Hitman Hart: Wrestling with Shadows D2",
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
+   "Home Improvement S1D1",
    "In Living Color S3D6",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
@@ -1786,7 +1790,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7125.9,
+   "used_gb": 7139.5,
    "total_gb": 11999.8,
    "pct": 59,
    "online": true
