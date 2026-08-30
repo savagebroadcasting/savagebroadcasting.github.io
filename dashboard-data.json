@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-30 13:04",
- "generated_ts": 1788113098,
+ "generated": "2026-08-30 13:25",
+ "generated_ts": 1788114302,
  "stats": {
   "episodes_matches": 10796,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
-  "discs_week": 79,
-  "discs_month": 394,
-  "discs_alltime": 788,
+  "discs_today": 5,
+  "discs_week": 80,
+  "discs_month": 395,
+  "discs_alltime": 789,
   "discs_today_list": [
    "The Mary Tyler Moore Show S5D1",
    "The Mary Tyler Moore Show S5D2",
    "The Mary Tyler Moore Show S5D3",
-   "The Mary Tyler Moore Show S6D1"
+   "The Mary Tyler Moore Show S6D1",
+   "The Mary Tyler Moore Show S6D2"
   ],
   "discs_week_list": [
    "Better Call Saul S1D1",
@@ -60,6 +61,7 @@
    "The Mary Tyler Moore Show S5D2",
    "The Mary Tyler Moore Show S5D3",
    "The Mary Tyler Moore Show S6D1",
+   "The Mary Tyler Moore Show S6D2",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
    "The Simpsons S11D1",
@@ -374,6 +376,7 @@
    "The Mary Tyler Moore Show S5D2",
    "The Mary Tyler Moore Show S5D3",
    "The Mary Tyler Moore Show S6D1",
+   "The Mary Tyler Moore Show S6D2",
    "The Resurrection of Jake The Snake D1",
    "The Rise & Fall of WCW D1",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
@@ -1113,6 +1116,7 @@
    "The Mary Tyler Moore Show S5D2",
    "The Mary Tyler Moore Show S5D3",
    "The Mary Tyler Moore Show S6D1",
+   "The Mary Tyler Moore Show S6D2",
    "The Monday Night War: WWE Raw vs. WCW Nitro D1",
    "The Munsters S1D1",
    "The Munsters S1D2",
@@ -1766,7 +1770,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 6930.4,
+   "used_gb": 6938.7,
    "total_gb": 11999.8,
    "pct": 58,
    "online": true
