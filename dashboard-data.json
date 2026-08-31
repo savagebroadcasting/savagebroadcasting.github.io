@@ -1,6 +1,6 @@
 {
- "generated": "2026-08-30 23:47",
- "generated_ts": 1788151630,
+ "generated": "2026-08-31 00:07",
+ "generated_ts": 1788152834,
  "stats": {
   "episodes_matches": 11016,
   "titles_total": 0,
@@ -10,22 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 10,
-  "discs_week": 85,
+  "discs_today": 0,
+  "discs_week": 67,
   "discs_month": 400,
   "discs_alltime": 794,
-  "discs_today_list": [
-   "Home Improvement S1D1",
-   "The Mary Tyler Moore Show S5D1",
-   "The Mary Tyler Moore Show S5D2",
-   "The Mary Tyler Moore Show S5D3",
-   "The Mary Tyler Moore Show S6D1",
-   "The Mary Tyler Moore Show S6D2",
-   "The Mary Tyler Moore Show S6D3",
-   "The Mary Tyler Moore Show S7D1",
-   "The Mary Tyler Moore Show S7D2",
-   "The Mary Tyler Moore Show S7D3"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Better Call Saul S1D1",
    "Better Call Saul S1D2",
@@ -38,23 +27,13 @@
    "Dallas S7D1",
    "Dallas S8D2A",
    "Gilmore Girls S7D6",
-   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D1",
-   "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D2",
    "Hell in a Cell: The Greatest Hell in a Cell Matches of All Time D3",
-   "Hitman Hart: Wrestling with Shadows D2",
    "Home Improvement S1D1",
-   "OMG! The Top 50 Incidents in WWE History D1",
-   "OMG! The Top 50 Incidents in WWE History D2",
-   "OMG! The Top 50 Incidents in WWE History D3",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "Popeye S1D1",
    "Popeye S2D1",
    "Popeye S3D1",
    "Popeye S4D1",
-   "Quantum Leap S5D4",
-   "Sex and the City S6D4",
-   "TNA Wrestling: The Best of the Asylum Years, Vol. 1 D1",
-   "TNA Wrestling: The Best of the X Division, Vol. 1 D1",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
    "The Cosby Show S2D2",
@@ -72,13 +51,9 @@
    "The Mary Tyler Moore Show S7D1",
    "The Mary Tyler Moore Show S7D2",
    "The Mary Tyler Moore Show S7D3",
-   "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
    "The Simpsons S11D1",
    "The Simpsons S15D1",
-   "The True Story of the Royal Rumble D2",
-   "The True Story of the Royal Rumble D3",
-   "Three's Company S1D1",
    "Three's Company S2D1",
    "Three's Company S2D2",
    "Three's Company S2D3",
@@ -107,10 +82,6 @@
    "Three's Company S8D2",
    "Three's Company S8D3",
    "Three's Company S8D4",
-   "Ultimate Warrior: Always Believe D1",
-   "Ultimate Warrior: Always Believe D3",
-   "Undertaker: He Buries Them Alive D1",
-   "WWE: SummerSlam The Complete Anthology, Volume 4 (2003-2007) (2003-2007) D1",
    "Who Killed WCW? D2"
   ],
   "discs_month_list": [
@@ -1317,7 +1288,7 @@
   "cert_split": {
    "tv": {
     "certified": 352,
-    "evidence": 10,
+    "evidence": 9,
     "total_seasons": 350
    },
    "wrestling": {
@@ -1790,7 +1761,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7281.6,
+   "used_gb": 7272.4,
    "total_gb": 11999.8,
    "pct": 61,
    "online": true
