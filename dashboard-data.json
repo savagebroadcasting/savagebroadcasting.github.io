@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-01 15:56",
- "generated_ts": 1788296177,
+ "generated": "2026-09-01 16:16",
+ "generated_ts": 1788297381,
  "stats": {
   "episodes_matches": 11597,
   "titles_total": 0,
@@ -869,7 +869,7 @@
   "cert_split": {
    "tv": {
     "certified": 362,
-    "evidence": 4,
+    "evidence": 3,
     "total_seasons": 370
    },
    "wrestling": {
