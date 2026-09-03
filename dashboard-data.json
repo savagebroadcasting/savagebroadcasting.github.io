@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02 23:42",
- "generated_ts": 1788410577,
+ "generated": "2026-09-03 00:03",
+ "generated_ts": 1788411781,
  "stats": {
   "episodes_matches": 11702,
   "titles_total": 0,
@@ -11,14 +11,11 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 39,
+  "discs_week": 27,
   "discs_month": 0,
   "discs_alltime": 794,
   "discs_today_list": [],
   "discs_week_list": [
-   "Better Call Saul S1D1",
-   "Better Call Saul S1D2",
-   "Better Call Saul S1D3",
    "Dallas S1D1",
    "Dallas S2D1",
    "Dallas S2D2",
@@ -28,8 +25,6 @@
    "Dallas S8D2A",
    "Home Improvement S1D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
-   "Popeye S2D1",
-   "Popeye S4D1",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
    "The Cosby Show S2D2",
@@ -47,13 +42,6 @@
    "The Mary Tyler Moore Show S7D1",
    "The Mary Tyler Moore Show S7D2",
    "The Mary Tyler Moore Show S7D3",
-   "The Simpsons S10D1",
-   "The Simpsons S11D1",
-   "The Simpsons S15D1",
-   "Three's Company S4D4",
-   "Three's Company S6D4",
-   "Three's Company S7D4",
-   "Three's Company S8D4",
    "Who Killed WCW? D2"
   ],
   "discs_month_list": [],
@@ -853,12 +841,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 363,
-  "certified_shows": 188,
+  "certified": 364,
+  "certified_shows": 189,
   "certified_estimate": 516,
   "cert_split": {
    "tv": {
-    "certified": 363,
+    "certified": 364,
     "evidence": 0,
     "total_seasons": 375
    },
