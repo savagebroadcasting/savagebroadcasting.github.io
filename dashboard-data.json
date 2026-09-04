@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-03 19:46",
- "generated_ts": 1788482812,
+ "generated": "2026-09-03 20:06",
+ "generated_ts": 1788484016,
  "stats": {
   "episodes_matches": 11719,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 27,
-  "discs_month": 0,
-  "discs_alltime": 794,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 28,
+  "discs_month": 1,
+  "discs_alltime": 795,
+  "discs_today_list": [
+   "Home Improvement S8D1"
+  ],
   "discs_week_list": [
    "Dallas S1D1",
    "Dallas S2D1",
@@ -24,6 +26,7 @@
    "Dallas S7D1",
    "Dallas S8D2A",
    "Home Improvement S1D1",
+   "Home Improvement S8D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S1D2",
    "The Cosby Show S2D1",
@@ -44,7 +47,9 @@
    "The Mary Tyler Moore Show S7D3",
    "Who Killed WCW? D2"
   ],
-  "discs_month_list": [],
+  "discs_month_list": [
+   "Home Improvement S8D1"
+  ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
    "100 Cartoon Classics S1D2",
@@ -307,6 +312,7 @@
    "Hollywood Hulk Hogan: Hulk Still Rules D1",
    "Hollywood Hulk Hogan: Hulk Still Rules D2",
    "Home Improvement S1D1",
+   "Home Improvement S8D1",
    "In Living Color S3D6",
    "Jake \"The Snake\" Roberts: Pick Your Poison D1",
    "Jake \"The Snake\" Roberts: Pick Your Poison D2",
@@ -1560,7 +1566,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7447.3,
+   "used_gb": 7477.0,
    "total_gb": 11999.8,
    "pct": 62,
    "online": true
