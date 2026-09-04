@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-03 23:47",
- "generated_ts": 1788497262,
+ "generated": "2026-09-04 00:07",
+ "generated_ts": 1788498466,
  "stats": {
   "episodes_matches": 11738,
   "titles_total": 0,
@@ -10,13 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 28,
+  "discs_today": 0,
+  "discs_week": 26,
   "discs_month": 1,
   "discs_alltime": 795,
-  "discs_today_list": [
-   "Home Improvement S8D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Dallas S1D1",
    "Dallas S2D1",
@@ -29,8 +27,6 @@
    "Home Improvement S8D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S1D2",
-   "The Cosby Show S2D1",
-   "The Cosby Show S2D2",
    "The Cosby Show S3D1",
    "The Cosby Show S3D2",
    "The Cosby Show S5D1",
