@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-04 08:49",
- "generated_ts": 1788529765,
+ "generated": "2026-09-04 09:09",
+ "generated_ts": 1788530969,
  "stats": {
   "episodes_matches": 11737,
   "titles_total": 0,
@@ -866,695 +866,715 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 98,
-   "warn": 39,
-   "ok": 36,
-   "generated": "2026-09-03 09:00",
+   "alarm": 100,
+   "warn": 41,
+   "ok": 32,
+   "generated": "2026-09-04 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_1_2005_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_THE_TOP_50_SUPERSTARS_OF_ALL_TIME_2010_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D5"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D4"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_X_DIVISION_VOL_1_2005_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_ASYLUM_YEARS_VOL_1_2010_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D4"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_3_2015_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_3_2015_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_3_2015_D1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_2_2013_D3"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_2_2013_D2"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "ECW_UNRELEASED_VOL_2_2013_D1"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "PUNKY_BREWSTER_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "WWE_FALLS_COUNT_ANYWHERE__THE_GREATEST_STREET_FIGHTS_AND_OTHER_OUT_OF_CONTROL_MATCHES_2012_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_2_2005_D5"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_2_2005_D4"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_2_2005_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_2_2005_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_2_2005_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D5"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D4"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_FALLS_COUNT_ANYWHERE__THE_GREATEST_STREET_FIGHTS_AND_OTHER_OUT_OF_CONTROL_MATCHES_2012_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_FALLS_COUNT_ANYWHERE__THE_GREATEST_STREET_FIGHTS_AND_OTHER_OUT_OF_CONTROL_MATCHES_2012_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_X_DIVISION_VOL_1_2005_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "THUNDERCATS_S1D5"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "PUNKY_BREWSTER_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "BEYOND_THE_MAT_1999_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_rescue-summerslam-97-d1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_gilmore7-staging"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_4_20032007_20032007_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_SUMMERSLAM_2012_2012_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_NO_WAY_OUT_2008_2008_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "UNDERTAKER_HE_BURIES_THEM_ALIVE_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ULTIMATE_WARRIOR_ALWAYS_BELIEVE_2015_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ULTIMATE_WARRIOR_ALWAYS_BELIEVE_2015_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_ASYLUM_YEARS_VOL_1_2010_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "THE_TRUE_STORY_OF_THE_ROYAL_RUMBLE_2016_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "THE_TRUE_STORY_OF_THE_ROYAL_RUMBLE_2016_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SUMMERSLAM_1988_D1_ISO"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "HITMAN_HART_WRESTLING_WITH_SHADOWS_1998_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "GILMORE_GIRLS_S7D5"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "GILMORE_GIRLS_S7D4"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "GILMORE_GIRLS_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ANDRE_THE_GIANT_2005_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "_rescue-threes-s3d1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "_rescue-threes-s2d1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "_bonus-not-needed"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_US_CHAMPIONSHIP__A_LEGACY_OF_GREATNESS_2016_D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_US_CHAMPIONSHIP__A_LEGACY_OF_GREATNESS_2016_D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_US_CHAMPIONSHIP__A_LEGACY_OF_GREATNESS_2016_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ATTITUDE_ERA_VOL_3__UNRELEASED_2017_D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ATTITUDE_ERA_VOL_3__UNRELEASED_2017_D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "WWE_THE_ATTITUDE_ERA_VOL_3__UNRELEASED_2017_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_SIMPSONS_S4D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_SIMPSONS_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_SIMPSONS_S3D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_SIMPSONS_S2D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_SIMPSONS_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "REY_MYSTERIO_THE_BIGGEST_LITTLE_MAN_2013_D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "REY_MYSTERIO_THE_BIGGEST_LITTLE_MAN_2013_D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "REY_MYSTERIO_THE_BIGGEST_LITTLE_MAN_2013_D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "JEM_AND_THE_HOLOGRAMS_S2D4"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "ANDRE_THE_GIANT_2018_D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S9D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S9D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S8D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S8D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S7D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S6D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S5D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S14D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S13D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "THE_SIMPSONS_S12D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "POPEYE_S4D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "POPEYE_S3D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "POPEYE_S2D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "POPEYE_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "THREES_COMPANY_S4D4"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "THE_SIMPSONS_S15D1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "THE_SIMPSONS_S11D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "THE_WALKING_DEAD_S7D4"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "THE_COSBY_SHOW_S2D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "TNA_WRESTLING_JEFF_JARRETT__KING_OF_THE_MOUNTAIN_2009_D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S8D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S8D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S8D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S8D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S7D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S7D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S7D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S7D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S6D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S6D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S6D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S6D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S5D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S5D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S5D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S5D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S4D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S3D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S3D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S3D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S3D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S2D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THREES_COMPANY_S2D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THE_OSBOURNES_S1D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THE_OSBOURNES_S1D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THE_COSBY_SHOW_S4D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "THE_COSBY_SHOW_S3D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "OMG_VOL_2_THE_TOP_50_INCIDENTS_IN_WCW_HISTORY_2014_D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "JEM_AND_THE_HOLOGRAMS_S2D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "JEM_AND_THE_HOLOGRAMS_S2D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "JEM_AND_THE_HOLOGRAMS_S2D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "HEY_DUDE_S3D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "HEY_DUDE_S2D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "HEY_DUDE_S2D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "HEY_DUDE_S1D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "GILMORE_GIRLS_S7D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "_cosby-s8d2-rescue"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "THE_COSBY_SHOW_S8D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "THE_COSBY_SHOW_S7D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "DINOSAURS_S2D3"
     }
    ]
   }
