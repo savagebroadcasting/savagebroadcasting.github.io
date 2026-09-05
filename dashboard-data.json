@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-04 19:52",
- "generated_ts": 1788569557,
+ "generated": "2026-09-04 20:12",
+ "generated_ts": 1788570761,
  "stats": {
   "episodes_matches": 11777,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 26,
-  "discs_month": 1,
-  "discs_alltime": 795,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 27,
+  "discs_month": 2,
+  "discs_alltime": 796,
+  "discs_today_list": [
+   "My Name Is Earl S1D1"
+  ],
   "discs_week_list": [
    "Dallas S1D1",
    "Dallas S2D1",
@@ -25,6 +27,7 @@
    "Dallas S8D2A",
    "Home Improvement S1D1",
    "Home Improvement S8D1",
+   "My Name Is Earl S1D1",
    "OMG! Vol. 2: The Top 50 Incidents in WCW History D1",
    "The Cosby Show S1D2",
    "The Cosby Show S3D1",
@@ -44,7 +47,8 @@
    "Who Killed WCW? D2"
   ],
   "discs_month_list": [
-   "Home Improvement S8D1"
+   "Home Improvement S8D1",
+   "My Name Is Earl S1D1"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -462,6 +466,7 @@
    "Muppet Babies S5D2",
    "Muppet Babies S6D2",
    "Muppet Babies S7D2",
+   "My Name Is Earl S1D1",
    "Nature Boy Ric Flair: The Definitive Collection D1",
    "Nature Boy Ric Flair: The Definitive Collection D2",
    "Nature Boy Ric Flair: The Definitive Collection D3",
