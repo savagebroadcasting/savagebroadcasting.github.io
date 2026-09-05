@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 09:22",
- "generated_ts": 1788618134,
+ "generated": "2026-09-05 09:42",
+ "generated_ts": 1788619338,
  "stats": {
   "episodes_matches": 11821,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 23,
-  "discs_month": 5,
-  "discs_alltime": 799,
+  "discs_today": 3,
+  "discs_week": 24,
+  "discs_month": 6,
+  "discs_alltime": 800,
   "discs_today_list": [
    "My Name Is Earl S1D3",
-   "My Name Is Earl S1D4"
+   "My Name Is Earl S1D4",
+   "WWE Holiday Tribute to the Troops D1"
   ],
   "discs_week_list": [
    "Dallas S2D2",
@@ -41,14 +42,16 @@
    "The Mary Tyler Moore Show S6D3",
    "The Mary Tyler Moore Show S7D1",
    "The Mary Tyler Moore Show S7D2",
-   "The Mary Tyler Moore Show S7D3"
+   "The Mary Tyler Moore Show S7D3",
+   "WWE Holiday Tribute to the Troops D1"
   ],
   "discs_month_list": [
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
    "My Name Is Earl S1D3",
-   "My Name Is Earl S1D4"
+   "My Name Is Earl S1D4",
+   "WWE Holiday Tribute to the Troops D1"
   ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
@@ -766,6 +769,7 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
+   "WWE Holiday Tribute to the Troops D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -1645,7 +1649,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7667.2,
+   "used_gb": 7671.3,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
