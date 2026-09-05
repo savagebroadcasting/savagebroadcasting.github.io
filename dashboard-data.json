@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 11:02",
- "generated_ts": 1788624152,
+ "generated": "2026-09-05 11:22",
+ "generated_ts": 1788625356,
  "stats": {
   "episodes_matches": 11824,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 27,
-  "discs_month": 9,
-  "discs_alltime": 803,
+  "discs_today": 7,
+  "discs_week": 28,
+  "discs_month": 10,
+  "discs_alltime": 804,
   "discs_today_list": [
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -48,6 +49,7 @@
    "The Mary Tyler Moore Show S7D3",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -59,6 +61,7 @@
    "My Name Is Earl S1D4",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -707,6 +710,7 @@
    "The Rise & Fall of WCW D3",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
    "The Simpsons S11D1",
@@ -1661,7 +1665,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7677.8,
+   "used_gb": 7677.9,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
