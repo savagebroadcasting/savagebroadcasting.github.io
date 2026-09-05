@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 16:43",
- "generated_ts": 1788644615,
+ "generated": "2026-09-05 17:03",
+ "generated_ts": 1788645819,
  "stats": {
   "episodes_matches": 11824,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 13,
-  "discs_week": 34,
-  "discs_month": 16,
-  "discs_alltime": 806,
+  "discs_today": 14,
+  "discs_week": 35,
+  "discs_month": 17,
+  "discs_alltime": 807,
   "discs_today_list": [
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
@@ -21,6 +21,7 @@
    "The Cosby Show S3D2",
    "The Cosby Show S3D6",
    "The Cosby Show S5D2",
+   "The Cosby Show S6D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
@@ -46,6 +47,7 @@
    "The Cosby Show S3D6",
    "The Cosby Show S5D1",
    "The Cosby Show S5D2",
+   "The Cosby Show S6D2",
    "The Cosby Show S7D1",
    "The Cosby Show S8D2",
    "The Mary Tyler Moore Show S5D1",
@@ -75,6 +77,7 @@
    "The Cosby Show S3D2",
    "The Cosby Show S3D6",
    "The Cosby Show S5D2",
+   "The Cosby Show S6D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
@@ -666,6 +669,7 @@
    "The Cosby Show S3D6",
    "The Cosby Show S5D1",
    "The Cosby Show S5D2",
+   "The Cosby Show S6D2",
    "The Cosby Show S7D1",
    "The Cosby Show S8D2",
    "The Dick Van Dyke Show S1D1",
@@ -1685,7 +1689,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7708.1,
+   "used_gb": 7713.5,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
