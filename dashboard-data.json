@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 10:02",
- "generated_ts": 1788620541,
+ "generated": "2026-09-05 10:22",
+ "generated_ts": 1788621745,
  "stats": {
   "episodes_matches": 11821,
   "titles_total": 0,
@@ -10,14 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 26,
-  "discs_month": 8,
-  "discs_alltime": 802,
+  "discs_today": 6,
+  "discs_week": 27,
+  "discs_month": 9,
+  "discs_alltime": 803,
   "discs_today_list": [
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -46,6 +47,7 @@
    "The Mary Tyler Moore Show S7D2",
    "The Mary Tyler Moore Show S7D3",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -56,6 +58,7 @@
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -703,6 +706,7 @@
    "The Rise & Fall of WCW D2",
    "The Rise & Fall of WCW D3",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
+   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Shawn Michaels Story: Heartbreak & Triumph D1",
    "The Simpsons S10D1",
    "The Simpsons S11D1",
@@ -1657,7 +1661,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7672.0,
+   "used_gb": 7678.4,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
