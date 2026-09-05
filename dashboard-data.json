@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 16:23",
- "generated_ts": 1788643411,
+ "generated": "2026-09-05 16:43",
+ "generated_ts": 1788644615,
  "stats": {
   "episodes_matches": 11824,
   "titles_total": 0,
@@ -10,9 +10,9 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 11,
-  "discs_week": 32,
-  "discs_month": 14,
+  "discs_today": 13,
+  "discs_week": 34,
+  "discs_month": 16,
   "discs_alltime": 806,
   "discs_today_list": [
    "My Name Is Earl S1D3",
@@ -24,6 +24,8 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
+   "Ultimate Warrior: Always Believe D1",
+   "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -58,6 +60,8 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
+   "Ultimate Warrior: Always Believe D1",
+   "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -74,6 +78,8 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
+   "Ultimate Warrior: Always Believe D1",
+   "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2"
   ],
@@ -1679,7 +1685,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7702.4,
+   "used_gb": 7708.1,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
