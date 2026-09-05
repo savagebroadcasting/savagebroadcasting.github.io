@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-05 12:42",
- "generated_ts": 1788630171,
+ "generated": "2026-09-05 13:02",
+ "generated_ts": 1788631374,
  "stats": {
   "episodes_matches": 11824,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 28,
-  "discs_month": 10,
+  "discs_today": 8,
+  "discs_week": 29,
+  "discs_month": 11,
   "discs_alltime": 804,
   "discs_today_list": [
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
+   "The Cosby Show S1D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
@@ -35,6 +36,7 @@
    "My Name Is Earl S1D2",
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
+   "The Cosby Show S1D2",
    "The Cosby Show S5D1",
    "The Cosby Show S7D1",
    "The Cosby Show S8D2",
@@ -59,6 +61,7 @@
    "My Name Is Earl S1D2",
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
+   "The Cosby Show S1D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
@@ -1665,7 +1668,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7689.2,
+   "used_gb": 7690.5,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
