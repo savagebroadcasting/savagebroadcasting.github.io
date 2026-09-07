@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06 23:51",
- "generated_ts": 1788756663,
+ "generated": "2026-09-07 00:11",
+ "generated_ts": 1788757867,
  "stats": {
-  "episodes_matches": 11868,
+  "episodes_matches": 11892,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -11,12 +11,11 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 28,
+  "discs_week": 18,
   "discs_month": 18,
   "discs_alltime": 807,
   "discs_today_list": [],
   "discs_week_list": [
-   "Home Improvement S1D1",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -28,15 +27,6 @@
    "The Cosby Show S5D2",
    "The Cosby Show S6D2",
    "The Cosby Show S8D2",
-   "The Mary Tyler Moore Show S5D1",
-   "The Mary Tyler Moore Show S5D2",
-   "The Mary Tyler Moore Show S5D3",
-   "The Mary Tyler Moore Show S6D1",
-   "The Mary Tyler Moore Show S6D2",
-   "The Mary Tyler Moore Show S6D3",
-   "The Mary Tyler Moore Show S7D1",
-   "The Mary Tyler Moore Show S7D2",
-   "The Mary Tyler Moore Show S7D3",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
@@ -874,14 +864,14 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 537,
+  "certified": 539,
   "certified_shows": 225,
-  "certified_estimate": 526,
+  "certified_estimate": 527,
   "cert_split": {
    "tv": {
-    "certified": 537,
+    "certified": 539,
     "evidence": 0,
-    "total_seasons": 383
+    "total_seasons": 384
    },
    "wrestling": {
     "certified": 0,
@@ -1743,7 +1733,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8400.0,
+   "used_gb": 8443.1,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
