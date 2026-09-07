@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-07 17:15",
- "generated_ts": 1788819327,
+ "generated": "2026-09-07 17:35",
+ "generated_ts": 1788820539,
  "stats": {
   "episodes_matches": 12594,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 25,
-  "discs_month": 25,
-  "discs_alltime": 814,
+  "discs_today": 8,
+  "discs_week": 26,
+  "discs_month": 26,
+  "discs_alltime": 815,
   "discs_today_list": [
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -21,7 +21,8 @@
    "Bewitched S1D4",
    "Bewitched S2D1",
    "Bewitched S2D2",
-   "Bewitched S2D3"
+   "Bewitched S2D3",
+   "Bewitched S2D4"
   ],
   "discs_week_list": [
    "Bewitched S1D1",
@@ -31,6 +32,7 @@
    "Bewitched S2D1",
    "Bewitched S2D2",
    "Bewitched S2D3",
+   "Bewitched S2D4",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -58,6 +60,7 @@
    "Bewitched S2D1",
    "Bewitched S2D2",
    "Bewitched S2D3",
+   "Bewitched S2D4",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -156,6 +159,7 @@
    "Bewitched S2D1",
    "Bewitched S2D2",
    "Bewitched S2D3",
+   "Bewitched S2D4",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -1762,7 +1766,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9451.6,
+   "used_gb": 9457.8,
    "total_gb": 11999.8,
    "pct": 79,
    "online": true
