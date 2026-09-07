@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-07 09:53",
- "generated_ts": 1788792794,
+ "generated": "2026-09-07 10:13",
+ "generated_ts": 1788793998,
  "stats": {
   "episodes_matches": 11982,
   "titles_total": 0,
@@ -10,12 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 18,
-  "discs_month": 18,
-  "discs_alltime": 807,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 19,
+  "discs_month": 19,
+  "discs_alltime": 808,
+  "discs_today_list": [
+   "Bewitched S1D1"
+  ],
   "discs_week_list": [
+   "Bewitched S1D1",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -36,6 +39,7 @@
    "WWE Holiday Tribute to the Troops D2"
   ],
   "discs_month_list": [
+   "Bewitched S1D1",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -127,6 +131,7 @@
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D7",
+   "Bewitched S1D1",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -1733,17 +1738,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9188.9,
+   "used_gb": 9222.1,
    "total_gb": 11999.8,
    "pct": 77,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 921.7,
-   "total_gb": 999.8,
-   "pct": 92,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [
