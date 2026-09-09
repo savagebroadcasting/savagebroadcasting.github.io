@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-09 07:47",
- "generated_ts": 1788958037,
+ "generated": "2026-09-09 08:07",
+ "generated_ts": 1788959241,
  "stats": {
   "episodes_matches": 12919,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 33,
-  "discs_month": 33,
-  "discs_alltime": 822,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 34,
+  "discs_month": 34,
+  "discs_alltime": 823,
+  "discs_today_list": [
+   "Bewitched S4D3"
+  ],
   "discs_week_list": [
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -31,6 +33,7 @@
    "Bewitched S3D4",
    "Bewitched S4D1",
    "Bewitched S4D2",
+   "Bewitched S4D3",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -66,6 +69,7 @@
    "Bewitched S3D4",
    "Bewitched S4D1",
    "Bewitched S4D2",
+   "Bewitched S4D3",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -172,6 +176,7 @@
    "Bewitched S3D4",
    "Bewitched S4D1",
    "Bewitched S4D2",
+   "Bewitched S4D3",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -909,13 +914,13 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 571,
+  "certified": 576,
   "certified_shows": 233,
   "certified_estimate": 566,
   "cert_split": {
    "tv": {
-    "certified": 571,
-    "evidence": 3,
+    "certified": 576,
+    "evidence": 0,
     "total_seasons": 416
    },
    "wrestling": {
@@ -1733,7 +1738,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9503.2,
+   "used_gb": 9504.3,
    "total_gb": 11999.8,
    "pct": 79,
    "online": true
