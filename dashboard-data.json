@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-09 23:54",
- "generated_ts": 1789016055,
+ "generated": "2026-09-10 00:14",
+ "generated_ts": 1789017268,
  "stats": {
-  "episodes_matches": 14031,
+  "episodes_matches": 14182,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,26 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 14,
+  "discs_today": 0,
   "discs_week": 47,
   "discs_month": 47,
   "discs_alltime": 836,
-  "discs_today_list": [
-   "Bewitched S4D3",
-   "Bewitched S4D4",
-   "Bewitched S5D1",
-   "Bewitched S5D2",
-   "Bewitched S5D3",
-   "Bewitched S5D4",
-   "Bewitched S6D1",
-   "Bewitched S6D2",
-   "Bewitched S6D3",
-   "Bewitched S6D4",
-   "Bewitched S7D1",
-   "Bewitched S7D2",
-   "Bewitched S7D3",
-   "Bewitched S7D4"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -968,12 +953,12 @@
   ],
   "certified": 627,
   "certified_shows": 242,
-  "certified_estimate": 613,
+  "certified_estimate": 619,
   "cert_split": {
    "tv": {
     "certified": 627,
     "evidence": 0,
-    "total_seasons": 462
+    "total_seasons": 468
    },
    "wrestling": {
     "certified": 0,
@@ -1280,7 +1265,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9735.4,
+   "used_gb": 9762.0,
    "total_gb": 11999.8,
    "pct": 81,
    "online": true
