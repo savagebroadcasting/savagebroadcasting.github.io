@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-10 17:50",
- "generated_ts": 1789080649,
+ "generated": "2026-09-10 18:10",
+ "generated_ts": 1789081853,
  "stats": {
   "episodes_matches": 14845,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
-  "discs_week": 51,
-  "discs_month": 51,
-  "discs_alltime": 840,
+  "discs_today": 5,
+  "discs_week": 52,
+  "discs_month": 52,
+  "discs_alltime": 841,
   "discs_today_list": [
    "Bewitched S8D1",
    "Bewitched S8D2",
    "Bewitched S8D3",
-   "Bewitched S8D4"
+   "Bewitched S8D4",
+   "The Simpsons S21D1"
   ],
   "discs_week_list": [
    "Bewitched S1D1",
@@ -68,6 +69,7 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
+   "The Simpsons S21D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
@@ -121,6 +123,7 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
+   "The Simpsons S21D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
@@ -812,6 +815,7 @@
    "The Simpsons S10D1",
    "The Simpsons S11D1",
    "The Simpsons S15D1",
+   "The Simpsons S21D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
@@ -1267,7 +1271,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9410.5,
+   "used_gb": 9414.4,
    "total_gb": 11999.8,
    "pct": 78,
    "online": true
