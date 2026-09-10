@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-10 08:45",
- "generated_ts": 1789047900,
+ "generated": "2026-09-10 09:05",
+ "generated_ts": 1789049116,
  "stats": {
   "episodes_matches": 14828,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 48,
-  "discs_month": 48,
-  "discs_alltime": 837,
+  "discs_today": 2,
+  "discs_week": 49,
+  "discs_month": 49,
+  "discs_alltime": 838,
   "discs_today_list": [
-   "Bewitched S8D1"
+   "Bewitched S8D1",
+   "Bewitched S8D2"
   ],
   "discs_week_list": [
    "Bewitched S1D1",
@@ -48,6 +49,7 @@
    "Bewitched S7D3",
    "Bewitched S7D4",
    "Bewitched S8D1",
+   "Bewitched S8D2",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -98,6 +100,7 @@
    "Bewitched S7D3",
    "Bewitched S7D4",
    "Bewitched S8D1",
+   "Bewitched S8D2",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -219,6 +222,7 @@
    "Bewitched S7D3",
    "Bewitched S7D4",
    "Bewitched S8D1",
+   "Bewitched S8D2",
    "Blood Sport: ECW's Most Violent Matches D1",
    "Blood Sport: ECW's Most Violent Matches D2",
    "Born to Controversy: The Roddy Piper Story D1",
@@ -979,289 +983,274 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 56,
+   "alarm": 53,
    "warn": 0,
-   "ok": 48,
-   "generated": "2026-09-09 09:00",
+   "ok": 65,
+   "generated": "2026-09-10 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 38,
+     "name": "HARD_KNOCKS_THE_CHRIS_BENOIT_STORY_2004_D2"
+    },
+    {
+     "tag": "ALARM",
+     "days": 38,
+     "name": "HARD_KNOCKS_THE_CHRIS_BENOIT_STORY_2004_D1"
+    },
+    {
+     "tag": "ALARM",
+     "days": 37,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D1"
+    },
+    {
+     "tag": "ALARM",
+     "days": 36,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D4"
+    },
+    {
+     "tag": "ALARM",
+     "days": 36,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D3"
+    },
+    {
+     "tag": "ALARM",
+     "days": 36,
+     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D2"
+    },
+    {
+     "tag": "ALARM",
+     "days": 21,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_ASYLUM_YEARS_VOL_1_2010_D2"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D5"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D4"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D3"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D2"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "THUNDERCATS_S1D5"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "_rescue-summerslam-97-d1"
     },
     {
      "tag": "ALARM",
-     "days": 16,
-     "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "VIVA_LA_RAZA_THE_LEGACY_OF_EDDIE_GUERRERO_2008_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "ULTIMATE_WARRIOR_ALWAYS_BELIEVE_2015_D3"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "TNA_WRESTLING_THE_BEST_OF_THE_ASYLUM_YEARS_VOL_1_2010_D1"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "SUMMERSLAM_1988_D1_ISO"
     },
     {
      "tag": "ALARM",
-     "days": 16,
-     "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "OMG_THE_TOP_50_INCIDENTS_IN_WWE_HISTORY_2013_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
-     "name": "HELL_IN_A_CELL_THE_GREATEST_HELL_IN_A_CELL_MATCHES_OF_ALL_TIME_2010_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "GILMORE_GIRLS_S7D5"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "GILMORE_GIRLS_S7D4"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "GILMORE_GIRLS_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "_rescue-threes-s3d1"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "_rescue-threes-s2d1"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "_bonus-not-needed"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "POPEYE_S4D1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "POPEYE_S3D1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "POPEYE_S2D1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "POPEYE_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "THE_WALKING_DEAD_S7D4"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "THE_OSBOURNES_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "THE_OSBOURNES_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "HEY_DUDE_S3D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "GILMORE_GIRLS_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_cosby-s8d2-rescue"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_WALKING_DEAD_S9D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "THE_WALKING_DEAD_S10D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "MARYTYLERMOORE_S2D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_V3D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S5D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S5D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S4D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S4D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S4D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S4D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S3D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S3D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S2D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S2D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S2D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S2D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S1D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "LOONEY_TUNES_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "_pending-split"
     }
    ]
@@ -1270,17 +1259,14 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9325.9,
+   "used_gb": 9327.6,
    "total_gb": 11999.8,
    "pct": 78,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 501.6,
-   "total_gb": 999.8,
-   "pct": 50,
-   "online": true
+   "online": false
   }
  ],
  "discs_needed": [
