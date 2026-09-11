@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-11 09:52",
- "generated_ts": 1789138367,
+ "generated": "2026-09-11 10:13",
+ "generated_ts": 1789139597,
  "stats": {
   "episodes_matches": 14898,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 51,
-  "discs_month": 52,
-  "discs_alltime": 841,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 52,
+  "discs_month": 53,
+  "discs_alltime": 842,
+  "discs_today_list": [
+   "The Simpsons S36D1"
+  ],
   "discs_week_list": [
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -63,6 +65,7 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "The Simpsons S21D1",
+   "The Simpsons S36D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
@@ -117,6 +120,7 @@
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
    "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "The Simpsons S21D1",
+   "The Simpsons S36D1",
    "Ultimate Warrior: Always Believe D1",
    "Ultimate Warrior: Always Believe D2",
    "WWE Holiday Tribute to the Troops D1",
@@ -809,6 +813,7 @@
    "The Simpsons S11D1",
    "The Simpsons S15D1",
    "The Simpsons S21D1",
+   "The Simpsons S36D1",
    "The True Story of the Royal Rumble D2",
    "The True Story of the Royal Rumble D3",
    "The Wonder Years S2D1",
@@ -965,12 +970,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 705,
+  "certified": 706,
   "certified_shows": 253,
   "certified_estimate": 649,
   "cert_split": {
    "tv": {
-    "certified": 705,
+    "certified": 706,
     "evidence": 0,
     "total_seasons": 497
    },
@@ -1344,7 +1349,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9577.1,
+   "used_gb": 9583.7,
    "total_gb": 11999.8,
    "pct": 80,
    "online": true
