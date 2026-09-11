@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-11 08:10",
- "generated_ts": 1789132250,
+ "generated": "2026-09-11 08:31",
+ "generated_ts": 1789133475,
  "stats": {
   "episodes_matches": 14896,
   "titles_total": 0,
@@ -965,12 +965,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 701,
-  "certified_shows": 252,
+  "certified": 702,
+  "certified_shows": 253,
   "certified_estimate": 649,
   "cert_split": {
    "tv": {
-    "certified": 701,
+    "certified": 702,
     "evidence": 0,
     "total_seasons": 497
    },
@@ -1264,7 +1264,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9548.6,
+   "used_gb": 9553.4,
    "total_gb": 11999.8,
    "pct": 80,
    "online": true
@@ -1286,7 +1286,16 @@
   "#142 Andre the Giant (2005) \u2014 1 disc (match list built: 10)",
   "#144 The American Dream: Dusty Rhodes Story (2006) \u2014 3 discs (match list built: 25)",
   "#145 Andre the Giant (2018) \u2014 1 disc",
-  "#146 Rey Mysterio: Biggest Little Man (2007) \u2014 3 discs (match list built: 28)"
+  "#146 Rey Mysterio: Biggest Little Man (2007) \u2014 3 discs (match list built: 28)",
+  "#152 Behind the Mask: Del \"The Patriot\" Wilkes \u2014 1-disc DOC. No raw anywhere. RE-RIP whole disc.",
+  "#153 WWE Monday Night War Vol. 1: Shots Fired \u2014 1-disc DOC. No raw anywhere. RE-RIP whole disc.",
+  "#14  For All Mankind (Mick Foley) \u2014 need DISC 3 (matches). D1+D2 doc raws present in _partial; D3 never ripped.",
+  "#31  Stone Cold: The Bottom Line \u2014 need DISC 4. D1/D2/D3 present (D3 = t02-t05); D4 never ripped.",
+  "#147 WWE Top 50 Superstars of All Time \u2014 need DISCS 2 & 3. Disc 1 filed (1 feature); it's a 3-disc countdown.",
+  "#67  Ultimate Warrior: Always Believe \u2014 D2 RAW IS PRESENT (_partial/..._D2/t00.mkv = 167min comp,",
+  "#73  Monday Night War Vol. 2 \u2014 CERTIFIED 2026-09-11 (doc, 9/9 eps). D4 not needed. Off the list.",
+  "#148 McMahon \u2014 single-disc set, already certified. Never flag a \"disc 2\".",
+  "#97 SummerSlam '88 / #122-125 WCW-vs-Japan \u2014 damaged/recovered, already logged; not clean re-rips."
  ],
  "stage_order": [
   "Purchased",
