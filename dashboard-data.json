@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-11 23:49",
- "generated_ts": 1789188594,
+ "generated": "2026-09-12 00:10",
+ "generated_ts": 1789189822,
  "stats": {
   "episodes_matches": 15041,
   "titles_total": 0,
@@ -10,13 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 52,
+  "discs_today": 0,
+  "discs_week": 50,
   "discs_month": 53,
   "discs_alltime": 842,
-  "discs_today_list": [
-   "The Simpsons S36D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -51,8 +49,6 @@
    "Bewitched S8D2",
    "Bewitched S8D3",
    "Bewitched S8D4",
-   "My Name Is Earl S1D1",
-   "My Name Is Earl S1D2",
    "My Name Is Earl S1D3",
    "My Name Is Earl S1D4",
    "The Cosby Show S1D2",
@@ -976,7 +972,7 @@
   "cert_split": {
    "tv": {
     "certified": 709,
-    "evidence": 1,
+    "evidence": 0,
     "total_seasons": 514
    },
    "wrestling": {
@@ -1349,16 +1345,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9731.5,
+   "used_gb": 9772.9,
    "total_gb": 11999.8,
    "pct": 81,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 505.6,
+   "used_gb": 468.2,
    "total_gb": 999.8,
-   "pct": 51,
+   "pct": 47,
    "online": true
   }
  ],
