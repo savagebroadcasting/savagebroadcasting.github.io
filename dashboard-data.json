@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-12 02:53",
- "generated_ts": 1789199627,
+ "generated": "2026-09-12 03:14",
+ "generated_ts": 1789200856,
  "stats": {
   "episodes_matches": 15041,
   "titles_total": 0,
@@ -1345,7 +1345,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 10064.1,
+   "used_gb": 10069.3,
    "total_gb": 11999.8,
    "pct": 84,
    "online": true
@@ -1361,7 +1361,6 @@
  "discs_needed": [
   "#67  Ultimate Warrior: Always Believe \u2014 DISC 2 (5 matches #17-21, 1992-96;",
   "#148 McMahon \u2014 DISC 2 (7 PPV matches; disc-1 doc filed, disc-2 never ripped).",
-  "#26  OMG WCW \u2014 22 matches filed; only the disc-1 intro/clip season absent.",
   "Docs/bundles (no match list \u2014 different cert track, not match-cert candidates):",
   "#56  Jeff Jarrett: King of the Mountain \u2014 all 4 discs NOW on disk (D1 ripped",
   "Gift sets #139-144, #146 \u2014 raws present; cut + cert to HOLD (never live Plex).",
