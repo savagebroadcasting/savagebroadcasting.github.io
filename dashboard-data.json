@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-12 23:40",
- "generated_ts": 1789274449,
+ "generated": "2026-09-13 00:01",
+ "generated_ts": 1789275677,
  "stats": {
-  "episodes_matches": 15176,
+  "episodes_matches": 15177,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -11,7 +11,7 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 50,
+  "discs_week": 35,
   "discs_month": 53,
   "discs_alltime": 842,
   "discs_today_list": [],
@@ -49,23 +49,8 @@
    "Bewitched S8D2",
    "Bewitched S8D3",
    "Bewitched S8D4",
-   "My Name Is Earl S1D3",
-   "My Name Is Earl S1D4",
-   "The Cosby Show S1D2",
-   "The Cosby Show S3D2",
-   "The Cosby Show S3D6",
-   "The Cosby Show S5D2",
-   "The Cosby Show S6D2",
-   "The Cosby Show S8D2",
-   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D1",
-   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D2",
-   "The Rock: The Epic Journey of Dwayne \"The Rock\" Johnson D3",
    "The Simpsons S21D1",
-   "The Simpsons S36D1",
-   "Ultimate Warrior: Always Believe D1",
-   "Ultimate Warrior: Always Believe D2",
-   "WWE Holiday Tribute to the Troops D1",
-   "WWE Holiday Tribute to the Troops D2"
+   "The Simpsons S36D1"
   ],
   "discs_month_list": [
    "Bewitched S1D1",
@@ -1360,16 +1345,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 10402.1,
+   "used_gb": 10429.6,
    "total_gb": 11999.8,
    "pct": 87,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 40.9,
+   "used_gb": 20.0,
    "total_gb": 999.8,
-   "pct": 4,
+   "pct": 2,
    "online": true
   }
  ],
