@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-13 20:25",
- "generated_ts": 1789349118,
+ "generated": "2026-09-13 20:45",
+ "generated_ts": 1789350342,
  "stats": {
   "episodes_matches": 15190,
   "titles_total": 0,
@@ -1467,7 +1467,10 @@
   },
   {
    "label": "1TB (rip scratch)",
-   "online": false
+   "used_gb": 84.4,
+   "total_gb": 999.8,
+   "pct": 8,
+   "online": true
   }
  ],
  "discs_needed": [
