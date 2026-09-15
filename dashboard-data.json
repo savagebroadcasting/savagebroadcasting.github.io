@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-15 00:00",
- "generated_ts": 1789448422,
+ "generated": "2026-09-15 00:20",
+ "generated_ts": 1789449648,
  "stats": {
   "episodes_matches": 15221,
   "titles_total": 0,
@@ -11,23 +11,11 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 35,
+  "discs_week": 23,
   "discs_month": 53,
   "discs_alltime": 842,
   "discs_today_list": [],
   "discs_week_list": [
-   "Bewitched S1D1",
-   "Bewitched S1D2",
-   "Bewitched S1D3",
-   "Bewitched S1D4",
-   "Bewitched S2D1",
-   "Bewitched S2D2",
-   "Bewitched S2D3",
-   "Bewitched S2D4",
-   "Bewitched S2D5",
-   "Bewitched S3D1",
-   "Bewitched S3D2",
-   "Bewitched S3D3",
    "Bewitched S3D4",
    "Bewitched S4D1",
    "Bewitched S4D2",
@@ -1480,7 +1468,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 10374.0,
+   "used_gb": 10373.6,
    "total_gb": 11999.8,
    "pct": 86,
    "online": true
