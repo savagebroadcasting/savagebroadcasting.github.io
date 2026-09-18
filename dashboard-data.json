@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17 23:58",
- "generated_ts": 1789707519,
+ "generated": "2026-09-18 00:19",
+ "generated_ts": 1789708752,
  "stats": {
   "episodes_matches": 16072,
   "titles_total": 0,
@@ -11,16 +11,11 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 6,
+  "discs_week": 1,
   "discs_month": 53,
   "discs_alltime": 842,
   "discs_today_list": [],
   "discs_week_list": [
-   "Bewitched S8D1",
-   "Bewitched S8D2",
-   "Bewitched S8D3",
-   "Bewitched S8D4",
-   "The Simpsons S21D1",
    "The Simpsons S36D1"
   ],
   "discs_month_list": [
@@ -1546,7 +1541,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 10307.5,
+   "used_gb": 10305.7,
    "total_gb": 11999.8,
    "pct": 86,
    "online": true
