@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22 14:36",
- "generated_ts": 1790105790,
+ "generated": "2026-09-22 14:57",
+ "generated_ts": 1790107021,
  "stats": {
   "episodes_matches": 16520,
   "titles_total": 0,
@@ -10,15 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 1,
-  "discs_month": 54,
-  "discs_alltime": 843,
+  "discs_today": 2,
+  "discs_week": 2,
+  "discs_month": 55,
+  "discs_alltime": 844,
   "discs_today_list": [
-   "Family Ties S1D1"
+   "Family Ties S1D1",
+   "Family Ties S1D2"
   ],
   "discs_week_list": [
-   "Family Ties S1D1"
+   "Family Ties S1D1",
+   "Family Ties S1D2"
   ],
   "discs_month_list": [
    "Bewitched S1D1",
@@ -55,6 +57,7 @@
    "Bewitched S8D3",
    "Bewitched S8D4",
    "Family Ties S1D1",
+   "Family Ties S1D2",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -229,6 +232,7 @@
    "ECW: Extreme Rules D2",
    "ESPN Films 30 for 30: Nature Boy D1",
    "Family Ties S1D1",
+   "Family Ties S1D2",
    "Freaks and Geeks S1D1",
    "Freaks and Geeks S1D2",
    "Freaks and Geeks S1D3",
@@ -1335,7 +1339,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9962.5,
+   "used_gb": 9968.7,
    "total_gb": 11999.8,
    "pct": 83,
    "online": true
