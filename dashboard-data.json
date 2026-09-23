@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-22 18:42",
- "generated_ts": 1790120547,
+ "generated": "2026-09-22 19:02",
+ "generated_ts": 1790121777,
  "stats": {
   "episodes_matches": 16520,
   "titles_total": 0,
@@ -10,17 +10,18 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 6,
-  "discs_month": 59,
-  "discs_alltime": 848,
+  "discs_today": 7,
+  "discs_week": 7,
+  "discs_month": 60,
+  "discs_alltime": 849,
   "discs_today_list": [
    "Family Ties S1D1",
    "Family Ties S1D2",
    "Family Ties S1D3",
    "Family Ties S1D4",
    "Family Ties S2D1",
-   "Family Ties S2D2"
+   "Family Ties S2D2",
+   "Family Ties S2D3"
   ],
   "discs_week_list": [
    "Family Ties S1D1",
@@ -28,7 +29,8 @@
    "Family Ties S1D3",
    "Family Ties S1D4",
    "Family Ties S2D1",
-   "Family Ties S2D2"
+   "Family Ties S2D2",
+   "Family Ties S2D3"
   ],
   "discs_month_list": [
    "Bewitched S1D1",
@@ -70,6 +72,7 @@
    "Family Ties S1D4",
    "Family Ties S2D1",
    "Family Ties S2D2",
+   "Family Ties S2D3",
    "Home Improvement S8D1",
    "My Name Is Earl S1D1",
    "My Name Is Earl S1D2",
@@ -249,6 +252,7 @@
    "Family Ties S1D4",
    "Family Ties S2D1",
    "Family Ties S2D2",
+   "Family Ties S2D3",
    "Freaks and Geeks S1D1",
    "Freaks and Geeks S1D2",
    "Freaks and Geeks S1D3",
@@ -1355,9 +1359,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 10015.7,
+   "used_gb": 10020.5,
    "total_gb": 11999.8,
-   "pct": 83,
+   "pct": 84,
    "online": true
   },
   {
