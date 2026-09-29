@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28 23:51",
- "generated_ts": 1790657499,
+ "generated": "2026-09-29 00:12",
+ "generated_ts": 1790658731,
  "stats": {
-  "episodes_matches": 3495,
+  "episodes_matches": 16415,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,13 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
+  "discs_today": 0,
   "discs_week": 23,
   "discs_month": 76,
   "discs_alltime": 865,
-  "discs_today_list": [
-   "Family Ties S7D4"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Family Ties S1D1",
    "Family Ties S1D2",
@@ -1131,7 +1129,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7854.6,
+   "used_gb": 7855.1,
    "total_gb": 11999.8,
    "pct": 65,
    "online": true
