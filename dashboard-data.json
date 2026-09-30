@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-30 08:53",
- "generated_ts": 1790776426,
+ "generated": "2026-09-30 09:13",
+ "generated_ts": 1790777629,
  "stats": {
   "episodes_matches": 16421,
   "titles_total": 0,
@@ -1000,120 +1000,125 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 18,
-   "warn": 4,
-   "ok": 11,
-   "generated": "2026-09-29 09:00",
+   "alarm": 22,
+   "warn": 1,
+   "ok": 10,
+   "generated": "2026-09-30 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 56,
+     "days": 57,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D1"
     },
     {
      "tag": "ALARM",
-     "days": 55,
+     "days": 56,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D4"
     },
     {
      "tag": "ALARM",
-     "days": 55,
+     "days": 56,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D3"
     },
     {
      "tag": "ALARM",
-     "days": 55,
+     "days": 56,
      "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D2"
     },
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D5"
     },
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D4"
     },
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D3"
     },
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D2"
     },
     {
      "tag": "ALARM",
-     "days": 36,
+     "days": 37,
      "name": "_rescue-summerslam-97-d1"
     },
     {
      "tag": "ALARM",
-     "days": 36,
+     "days": 37,
      "name": "SUMMERSLAM_1988_D1_ISO"
     },
     {
      "tag": "ALARM",
-     "days": 29,
+     "days": 30,
      "name": "THE_WALKING_DEAD_S9D1"
     },
     {
      "tag": "ALARM",
-     "days": 29,
+     "days": 30,
      "name": "THE_WALKING_DEAD_S10D1"
     },
     {
      "tag": "ALARM",
-     "days": 27,
+     "days": 28,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "_gilmore7-staging"
     },
     {
      "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "ALL_IN_2018_D1"
     },
     {
      "tag": "ALARM",
-     "days": 19,
+     "days": 20,
      "name": "_1t-encoded-tofile-20260910"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "_from-1t-20260911"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S2D4"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S2D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S2D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "FAMILY_TIES_S3D4"
     }
    ]
   }
