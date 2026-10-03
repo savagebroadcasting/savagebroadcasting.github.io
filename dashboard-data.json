@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-03 10:08",
- "generated_ts": 1791040095,
+ "generated": "2026-10-03 10:44",
+ "generated_ts": 1791042275,
  "stats": {
   "episodes_matches": 16436,
   "titles_total": 0,
@@ -950,7 +950,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7388.1,
+   "used_gb": 7400.1,
    "total_gb": 11999.8,
    "pct": 62,
    "online": true
