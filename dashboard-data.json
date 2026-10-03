@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03 08:47",
- "generated_ts": 1791035275,
+ "generated": "2026-10-03 09:08",
+ "generated_ts": 1791036480,
  "stats": {
-  "episodes_matches": 16431,
+  "episodes_matches": 16432,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -919,90 +919,30 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 16,
-   "warn": 0,
+   "alarm": 3,
+   "warn": 1,
    "ok": 3,
-   "generated": "2026-10-02 09:00",
+   "generated": "2026-10-03 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 59,
-     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 58,
-     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 58,
-     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 58,
-     "name": "WWE_WRESTLEMANIA__THE_COMPLETE_ANTHOLOGY_VOLUME_5_20052006_WM_2122_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 40,
-     "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 40,
-     "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 40,
-     "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 40,
-     "name": "WWE_SUMMERSLAM_THE_COMPLETE_ANTHOLOGY_VOLUME_1_19881992_19881992_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 39,
-     "name": "_rescue-summerslam-97-d1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 39,
-     "name": "SUMMERSLAM_1988_D1_ISO"
-    },
-    {
-     "tag": "ALARM",
-     "days": 30,
+     "days": 31,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 26,
+     "days": 27,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 24,
-     "name": "_gilmore7-staging"
-    },
-    {
-     "tag": "ALARM",
-     "days": 24,
-     "name": "ALL_IN_2018_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
-     "tag": "ALARM",
-     "days": 9,
-     "name": "_from-1t-20260911"
+     "tag": "WARN",
+     "days": 5,
+     "name": "_rescue"
     }
    ]
   }
@@ -1010,7 +950,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7517.9,
+   "used_gb": 7519.7,
    "total_gb": 11999.8,
    "pct": 63,
    "online": true
