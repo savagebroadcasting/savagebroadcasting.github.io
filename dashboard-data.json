@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-05 14:36",
- "generated_ts": 1791229015,
+ "generated": "2026-10-05 14:56",
+ "generated_ts": 1791230219,
  "stats": {
-  "episodes_matches": 17309,
+  "episodes_matches": 17310,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,15 +10,20 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 1,
-  "discs_month": 0,
-  "discs_alltime": 865,
-  "discs_today_list": [],
-  "discs_week_list": [
-   "Family Ties S7D4"
+  "discs_today": 1,
+  "discs_week": 2,
+  "discs_month": 1,
+  "discs_alltime": 866,
+  "discs_today_list": [
+   "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
-  "discs_month_list": [],
+  "discs_week_list": [
+   "Family Ties S7D4",
+   "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
+  ],
+  "discs_month_list": [
+   "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
+  ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
    "100 Cartoon Classics S1D2",
@@ -801,6 +806,7 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2",
+   "WWE Living on the Razor's Edge- The Scott Hall Story S1D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -935,9 +941,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8149.8,
+   "used_gb": 8084.5,
    "total_gb": 11999.8,
-   "pct": 68,
+   "pct": 67,
    "online": true
   },
   {
