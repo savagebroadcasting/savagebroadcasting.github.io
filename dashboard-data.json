@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04 23:53",
- "generated_ts": 1791176022,
+ "generated": "2026-10-05 00:13",
+ "generated_ts": 1791177226,
  "stats": {
   "episodes_matches": 16488,
   "titles_total": 0,
@@ -11,21 +11,11 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 11,
+  "discs_week": 1,
   "discs_month": 0,
   "discs_alltime": 865,
   "discs_today_list": [],
   "discs_week_list": [
-   "Family Ties S5D2",
-   "Family Ties S5D3",
-   "Family Ties S5D4",
-   "Family Ties S6D1",
-   "Family Ties S6D2",
-   "Family Ties S6D3",
-   "Family Ties S6D4",
-   "Family Ties S7D1",
-   "Family Ties S7D2",
-   "Family Ties S7D3",
    "Family Ties S7D4"
   ],
   "discs_month_list": [],
@@ -945,7 +935,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7925.6,
+   "used_gb": 7941.2,
    "total_gb": 11999.8,
    "pct": 66,
    "online": true
