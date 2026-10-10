@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-10 08:49",
- "generated_ts": 1791640140,
+ "generated": "2026-10-10 09:09",
+ "generated_ts": 1791641344,
  "stats": {
   "episodes_matches": 17286,
   "titles_total": 0,
@@ -912,29 +912,29 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 3,
-   "warn": 1,
-   "ok": 2,
-   "generated": "2026-10-09 09:00",
+   "alarm": 4,
+   "warn": 0,
+   "ok": 3,
+   "generated": "2026-10-10 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 33,
+     "days": 34,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "_from-1t-20260911"
     }
    ]
