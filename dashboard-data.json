@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11 08:42",
- "generated_ts": 1791726157,
+ "generated": "2026-10-11 09:02",
+ "generated_ts": 1791727362,
  "stats": {
-  "episodes_matches": 17275,
+  "episodes_matches": 17276,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,18 +10,21 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 2,
-  "discs_month": 2,
-  "discs_alltime": 867,
+  "discs_today": 2,
+  "discs_week": 3,
+  "discs_month": 3,
+  "discs_alltime": 868,
   "discs_today_list": [
+   "Sex and the City S2D1",
    "The Fresh Prince of Bel-Air S6D3"
   ],
   "discs_week_list": [
+   "Sex and the City S2D1",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
   "discs_month_list": [
+   "Sex and the City S2D1",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -560,6 +563,7 @@
    "Sanford and Son S6D1",
    "Sanford and Son S6D2",
    "Sanford and Son S6D3",
+   "Sex and the City S2D1",
    "Sex and the City S2D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
@@ -919,27 +923,27 @@
   "disc_age": {
    "alarm": 4,
    "warn": 0,
-   "ok": 3,
-   "generated": "2026-10-10 09:00",
+   "ok": 9,
+   "generated": "2026-10-11 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 38,
+     "days": 39,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 34,
+     "days": 35,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 22,
+     "days": 23,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "_from-1t-20260911"
     }
    ]
@@ -948,7 +952,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8279.1,
+   "used_gb": 8284.7,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
