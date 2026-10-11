@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11 07:42",
- "generated_ts": 1791722543,
+ "generated": "2026-10-11 08:02",
+ "generated_ts": 1791723748,
  "stats": {
   "episodes_matches": 17282,
   "titles_total": 0,
@@ -10,15 +10,19 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 1,
-  "discs_month": 1,
-  "discs_alltime": 866,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 2,
+  "discs_month": 2,
+  "discs_alltime": 867,
+  "discs_today_list": [
+   "The Fresh Prince of Bel-Air S6D3"
+  ],
   "discs_week_list": [
+   "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
   "discs_month_list": [
+   "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
   "discs_alltime_list": [
@@ -689,6 +693,7 @@
    "The Dick Van Dyke Show S5D4",
    "The Dick Van Dyke Show S5D5",
    "The Fresh Prince of Bel-Air S4D4",
+   "The Fresh Prince of Bel-Air S6D3",
    "The History of WWE D2",
    "The History of WWE D3",
    "The Little Rascals S1D1",
@@ -943,7 +948,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8268.7,
+   "used_gb": 8272.0,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
