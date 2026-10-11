@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11 16:44",
- "generated_ts": 1791755073,
+ "generated": "2026-10-11 17:04",
+ "generated_ts": 1791756277,
  "stats": {
   "episodes_matches": 17294,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 9,
-  "discs_week": 10,
-  "discs_month": 10,
-  "discs_alltime": 875,
+  "discs_today": 10,
+  "discs_week": 11,
+  "discs_month": 11,
+  "discs_alltime": 876,
   "discs_today_list": [
    "Sex and the City S2D1",
    "Sex and the City S2D2",
@@ -23,6 +23,7 @@
    "Sex and the City S4D1",
    "Sex and the City S4D2",
    "Sex and the City S4D3",
+   "Sex and the City S5D1",
    "The Fresh Prince of Bel-Air S6D3"
   ],
   "discs_week_list": [
@@ -34,6 +35,7 @@
    "Sex and the City S4D1",
    "Sex and the City S4D2",
    "Sex and the City S4D3",
+   "Sex and the City S5D1",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -46,6 +48,7 @@
    "Sex and the City S4D1",
    "Sex and the City S4D2",
    "Sex and the City S4D3",
+   "Sex and the City S5D1",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -593,6 +596,7 @@
    "Sex and the City S4D1",
    "Sex and the City S4D2",
    "Sex and the City S4D3",
+   "Sex and the City S5D1",
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
@@ -980,7 +984,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8340.4,
+   "used_gb": 8346.0,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
