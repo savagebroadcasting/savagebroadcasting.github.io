@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11 16:24",
- "generated_ts": 1791753868,
+ "generated": "2026-10-11 16:44",
+ "generated_ts": 1791755073,
  "stats": {
-  "episodes_matches": 17284,
+  "episodes_matches": 17294,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 9,
-  "discs_month": 9,
-  "discs_alltime": 874,
+  "discs_today": 9,
+  "discs_week": 10,
+  "discs_month": 10,
+  "discs_alltime": 875,
   "discs_today_list": [
    "Sex and the City S2D1",
    "Sex and the City S2D2",
@@ -22,6 +22,7 @@
    "Sex and the City S3D3",
    "Sex and the City S4D1",
    "Sex and the City S4D2",
+   "Sex and the City S4D3",
    "The Fresh Prince of Bel-Air S6D3"
   ],
   "discs_week_list": [
@@ -32,6 +33,7 @@
    "Sex and the City S3D3",
    "Sex and the City S4D1",
    "Sex and the City S4D2",
+   "Sex and the City S4D3",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -43,6 +45,7 @@
    "Sex and the City S3D3",
    "Sex and the City S4D1",
    "Sex and the City S4D2",
+   "Sex and the City S4D3",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -589,6 +592,7 @@
    "Sex and the City S3D3",
    "Sex and the City S4D1",
    "Sex and the City S4D2",
+   "Sex and the City S4D3",
    "Sex and the City S6D4",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
@@ -924,7 +928,7 @@
   ],
   "certified": 803,
   "certified_shows": 281,
-  "certified_estimate": 783,
+  "certified_estimate": 784,
   "cert_split": {
    "tv": {
     "certified": 796,
@@ -934,7 +938,7 @@
    "wrestling": {
     "certified": 7,
     "evidence": 0,
-    "total_seasons": 173
+    "total_seasons": 174
    }
   },
   "workload": {
@@ -976,9 +980,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8334.9,
+   "used_gb": 8340.4,
    "total_gb": 11999.8,
-   "pct": 69,
+   "pct": 70,
    "online": true
   },
   {
