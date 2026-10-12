@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12 07:28",
- "generated_ts": 1791808089,
+ "generated": "2026-10-12 07:48",
+ "generated_ts": 1791809294,
  "stats": {
-  "episodes_matches": 17247,
+  "episodes_matches": 17251,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,14 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 16,
-  "discs_month": 16,
+  "discs_today": 1,
+  "discs_week": 17,
+  "discs_month": 17,
   "discs_alltime": 880,
-  "discs_today_list": [],
+  "discs_today_list": [
+   "Sex and the City S2D3"
+  ],
   "discs_week_list": [
    "Sex and the City S2D1",
    "Sex and the City S2D2",
+   "Sex and the City S2D3",
    "Sex and the City S3D1",
    "Sex and the City S3D2",
    "Sex and the City S3D3",
@@ -36,6 +39,7 @@
   "discs_month_list": [
    "Sex and the City S2D1",
    "Sex and the City S2D2",
+   "Sex and the City S2D3",
    "Sex and the City S3D1",
    "Sex and the City S3D2",
    "Sex and the City S3D3",
@@ -987,7 +991,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8354.5,
+   "used_gb": 8358.3,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
