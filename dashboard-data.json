@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-11 23:46",
- "generated_ts": 1791780376,
+ "generated": "2026-10-12 00:06",
+ "generated_ts": 1791781581,
  "stats": {
   "episodes_matches": 17294,
   "titles_total": 0,
@@ -10,27 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 15,
+  "discs_today": 0,
   "discs_week": 16,
   "discs_month": 16,
   "discs_alltime": 880,
-  "discs_today_list": [
-   "Sex and the City S2D1",
-   "Sex and the City S2D2",
-   "Sex and the City S3D1",
-   "Sex and the City S3D2",
-   "Sex and the City S3D3",
-   "Sex and the City S4D1",
-   "Sex and the City S4D2",
-   "Sex and the City S4D3",
-   "Sex and the City S5D1",
-   "Sex and the City S5D2",
-   "Sex and the City S6D1",
-   "Sex and the City S6D2",
-   "Sex and the City S6D3",
-   "Sex and the City S6D4",
-   "The Fresh Prince of Bel-Air S6D3"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Sex and the City S2D1",
    "Sex and the City S2D2",
