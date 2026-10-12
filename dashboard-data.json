@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12 07:48",
- "generated_ts": 1791809294,
+ "generated": "2026-10-12 08:08",
+ "generated_ts": 1791810499,
  "stats": {
-  "episodes_matches": 17251,
+  "episodes_matches": 17252,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 17,
-  "discs_month": 17,
-  "discs_alltime": 880,
+  "discs_today": 2,
+  "discs_week": 18,
+  "discs_month": 18,
+  "discs_alltime": 881,
   "discs_today_list": [
-   "Sex and the City S2D3"
+   "Sex and the City S2D3",
+   "Sex and the City S6D5"
   ],
   "discs_week_list": [
    "Sex and the City S2D1",
@@ -33,6 +34,7 @@
    "Sex and the City S6D2",
    "Sex and the City S6D3",
    "Sex and the City S6D4",
+   "Sex and the City S6D5",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -52,6 +54,7 @@
    "Sex and the City S6D2",
    "Sex and the City S6D3",
    "Sex and the City S6D4",
+   "Sex and the City S6D5",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -605,6 +608,7 @@
    "Sex and the City S6D2",
    "Sex and the City S6D3",
    "Sex and the City S6D4",
+   "Sex and the City S6D5",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
@@ -939,12 +943,12 @@
   ],
   "certified": 803,
   "certified_shows": 281,
-  "certified_estimate": 782,
+  "certified_estimate": 783,
   "cert_split": {
    "tv": {
     "certified": 796,
     "evidence": 0,
-    "total_seasons": 608
+    "total_seasons": 609
    },
    "wrestling": {
     "certified": 7,
@@ -991,7 +995,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8358.3,
+   "used_gb": 8359.2,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
