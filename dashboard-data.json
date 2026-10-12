@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12 08:28",
- "generated_ts": 1791811705,
+ "generated": "2026-10-12 08:48",
+ "generated_ts": 1791812929,
  "stats": {
-  "episodes_matches": 17252,
+  "episodes_matches": 17256,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,15 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 18,
-  "discs_month": 18,
+  "discs_today": 3,
+  "discs_week": 19,
+  "discs_month": 19,
   "discs_alltime": 881,
   "discs_today_list": [
+   "Beverly Hills, 90210 S6D1",
    "Sex and the City S2D3",
    "Sex and the City S6D5"
   ],
   "discs_week_list": [
+   "Beverly Hills, 90210 S6D1",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -39,6 +41,7 @@
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
   "discs_month_list": [
+   "Beverly Hills, 90210 S6D1",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -995,7 +998,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8367.7,
+   "used_gb": 8369.9,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
