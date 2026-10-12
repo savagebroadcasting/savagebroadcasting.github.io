@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-12 09:08",
- "generated_ts": 1791814134,
+ "generated": "2026-10-12 09:28",
+ "generated_ts": 1791815339,
  "stats": {
-  "episodes_matches": 17257,
+  "episodes_matches": 17258,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,17 +10,19 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 19,
-  "discs_month": 19,
-  "discs_alltime": 881,
+  "discs_today": 4,
+  "discs_week": 20,
+  "discs_month": 20,
+  "discs_alltime": 882,
   "discs_today_list": [
    "Beverly Hills, 90210 S6D1",
+   "Beverly Hills, 90210 S6D2",
    "Sex and the City S2D3",
    "Sex and the City S6D5"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
+   "Beverly Hills, 90210 S6D2",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -42,6 +44,7 @@
   ],
   "discs_month_list": [
    "Beverly Hills, 90210 S6D1",
+   "Beverly Hills, 90210 S6D2",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -129,6 +132,7 @@
    "Beverly Hills, 90210 S1D1",
    "Beverly Hills, 90210 S5D8",
    "Beverly Hills, 90210 S6D1",
+   "Beverly Hills, 90210 S6D2",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
@@ -998,7 +1002,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8368.7,
+   "used_gb": 8374.9,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
