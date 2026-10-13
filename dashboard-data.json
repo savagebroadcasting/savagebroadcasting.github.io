@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-13 08:55",
- "generated_ts": 1791899736,
+ "generated": "2026-10-13 09:15",
+ "generated_ts": 1791900941,
  "stats": {
   "episodes_matches": 17406,
   "titles_total": 0,
@@ -978,27 +978,27 @@
   "disc_age": {
    "alarm": 4,
    "warn": 0,
-   "ok": 21,
-   "generated": "2026-10-12 09:00",
+   "ok": 19,
+   "generated": "2026-10-13 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 40,
+     "days": 41,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 36,
+     "days": 37,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 24,
+     "days": 25,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "_from-1t-20260911"
     }
    ]
@@ -1007,7 +1007,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8304.4,
+   "used_gb": 8305.4,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
