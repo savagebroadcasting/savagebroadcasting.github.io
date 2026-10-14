@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14 10:09",
- "generated_ts": 1791990582,
+ "generated": "2026-10-14 10:29",
+ "generated_ts": 1791991787,
  "stats": {
   "episodes_matches": 17721,
   "titles_total": 0,
@@ -10,12 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 24,
-  "discs_month": 25,
-  "discs_alltime": 886,
+  "discs_today": 2,
+  "discs_week": 25,
+  "discs_month": 26,
+  "discs_alltime": 887,
   "discs_today_list": [
-   "Beverly Hills, 90210 S8D1"
+   "Beverly Hills, 90210 S8D1",
+   "Beverly Hills, 90210 S8D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
@@ -25,6 +26,7 @@
    "Beverly Hills, 90210 S6D5",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S8D1",
+   "Beverly Hills, 90210 S8D2",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -51,6 +53,7 @@
    "Beverly Hills, 90210 S6D5",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S8D1",
+   "Beverly Hills, 90210 S8D2",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -146,6 +149,7 @@
    "Beverly Hills, 90210 S6D7",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D1",
+   "Beverly Hills, 90210 S8D2",
    "Beverly Hills, 90210 S8D7",
    "Bewitched S1D1",
    "Bewitched S1D2",
@@ -1012,7 +1016,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8645.7,
+   "used_gb": 8647.7,
    "total_gb": 11999.8,
    "pct": 72,
    "online": true
