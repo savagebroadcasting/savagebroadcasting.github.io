@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-16 08:41",
- "generated_ts": 1792158094,
+ "generated": "2026-10-16 09:01",
+ "generated_ts": 1792159299,
  "stats": {
   "episodes_matches": 17729,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 29,
-  "discs_month": 30,
-  "discs_alltime": 891,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 30,
+  "discs_month": 31,
+  "discs_alltime": 892,
+  "discs_today_list": [
+   "Beverly Hills, 90210 S7D1"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S6D1",
    "Beverly Hills, 90210 S6D2",
@@ -22,6 +24,7 @@
    "Beverly Hills, 90210 S6D4",
    "Beverly Hills, 90210 S6D5",
    "Beverly Hills, 90210 S6D6",
+   "Beverly Hills, 90210 S7D1",
    "Beverly Hills, 90210 S8D1",
    "Beverly Hills, 90210 S8D2",
    "Beverly Hills, 90210 S8D3",
@@ -53,6 +56,7 @@
    "Beverly Hills, 90210 S6D4",
    "Beverly Hills, 90210 S6D5",
    "Beverly Hills, 90210 S6D6",
+   "Beverly Hills, 90210 S7D1",
    "Beverly Hills, 90210 S8D1",
    "Beverly Hills, 90210 S8D2",
    "Beverly Hills, 90210 S8D3",
@@ -152,6 +156,7 @@
    "Beverly Hills, 90210 S6D5",
    "Beverly Hills, 90210 S6D6",
    "Beverly Hills, 90210 S6D7",
+   "Beverly Hills, 90210 S7D1",
    "Beverly Hills, 90210 S7D7",
    "Beverly Hills, 90210 S8D1",
    "Beverly Hills, 90210 S8D2",
@@ -995,44 +1000,54 @@
   },
   "disc_age": {
    "alarm": 4,
-   "warn": 3,
-   "ok": 48,
-   "generated": "2026-10-15 09:00",
+   "warn": 5,
+   "ok": 47,
+   "generated": "2026-10-16 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 43,
+     "days": 44,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 39,
+     "days": 40,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 27,
+     "days": 28,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "sanford-s6d1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "_scotthall-staging"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SCOTT_HALL_S1D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "sanford-s6d1-rerip"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "ECW_BARELY_LEGAL_RERIP"
     }
    ]
   }
@@ -1040,9 +1055,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8698.3,
+   "used_gb": 8700.4,
    "total_gb": 11999.8,
-   "pct": 72,
+   "pct": 73,
    "online": true
   },
   {
