@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-16 23:45",
- "generated_ts": 1792212349,
+ "generated": "2026-10-17 00:05",
+ "generated_ts": 1792213559,
  "stats": {
   "episodes_matches": 17732,
   "titles_total": 0,
@@ -10,27 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 15,
+  "discs_today": 0,
   "discs_week": 44,
   "discs_month": 45,
   "discs_alltime": 904,
-  "discs_today_list": [
-   "Beverly Hills, 90210 S5D1",
-   "Beverly Hills, 90210 S5D2",
-   "Beverly Hills, 90210 S5D3",
-   "Beverly Hills, 90210 S5D4",
-   "Beverly Hills, 90210 S5D5",
-   "Beverly Hills, 90210 S5D6",
-   "Beverly Hills, 90210 S5D7",
-   "Beverly Hills, 90210 S5D8",
-   "Beverly Hills, 90210 S7D1",
-   "Beverly Hills, 90210 S7D2",
-   "Beverly Hills, 90210 S7D3",
-   "Beverly Hills, 90210 S7D4",
-   "Beverly Hills, 90210 S7D5",
-   "Beverly Hills, 90210 S7D6",
-   "Beverly Hills, 90210 S7D7"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
@@ -1030,12 +1014,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 806,
+  "certified": 807,
   "certified_shows": 281,
   "certified_estimate": 803,
   "cert_split": {
    "tv": {
-    "certified": 799,
+    "certified": 800,
     "evidence": 0,
     "total_seasons": 628
    },
@@ -1109,7 +1093,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8847.8,
+   "used_gb": 8851.5,
    "total_gb": 11999.8,
    "pct": 74,
    "online": true
