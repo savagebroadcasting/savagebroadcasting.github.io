@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17 15:30",
- "generated_ts": 1792269015,
+ "generated": "2026-10-17 15:50",
+ "generated_ts": 1792270220,
  "stats": {
   "episodes_matches": 17743,
   "titles_total": 0,
@@ -10,10 +10,10 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 52,
-  "discs_month": 53,
-  "discs_alltime": 912,
+  "discs_today": 9,
+  "discs_week": 53,
+  "discs_month": 54,
+  "discs_alltime": 913,
   "discs_today_list": [
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
@@ -22,7 +22,8 @@
    "Beverly Hills, 90210 S3D5",
    "Beverly Hills, 90210 S3D6",
    "Beverly Hills, 90210 S3D7",
-   "Beverly Hills, 90210 S3D8"
+   "Beverly Hills, 90210 S3D8",
+   "Beverly Hills, 90210 S4D1"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S3D1",
@@ -33,6 +34,7 @@
    "Beverly Hills, 90210 S3D6",
    "Beverly Hills, 90210 S3D7",
    "Beverly Hills, 90210 S3D8",
+   "Beverly Hills, 90210 S4D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -87,6 +89,7 @@
    "Beverly Hills, 90210 S3D6",
    "Beverly Hills, 90210 S3D7",
    "Beverly Hills, 90210 S3D8",
+   "Beverly Hills, 90210 S4D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -207,6 +210,7 @@
    "Beverly Hills, 90210 S3D6",
    "Beverly Hills, 90210 S3D7",
    "Beverly Hills, 90210 S3D8",
+   "Beverly Hills, 90210 S4D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -1151,7 +1155,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8947.5,
+   "used_gb": 8950.0,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
