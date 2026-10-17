@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17 07:08",
- "generated_ts": 1792238884,
+ "generated": "2026-10-17 07:28",
+ "generated_ts": 1792240089,
  "stats": {
   "episodes_matches": 17734,
   "titles_total": 0,
@@ -10,12 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 44,
-  "discs_month": 45,
-  "discs_alltime": 904,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 45,
+  "discs_month": 46,
+  "discs_alltime": 905,
+  "discs_today_list": [
+   "Beverly Hills, 90210 S3D1"
+  ],
   "discs_week_list": [
+   "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -62,6 +65,7 @@
    "The Fresh Prince of Bel-Air S6D3"
   ],
   "discs_month_list": [
+   "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -174,6 +178,7 @@
    "Beverly Hills, 90210 S10D3",
    "Beverly Hills, 90210 S10D6",
    "Beverly Hills, 90210 S1D1",
+   "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -1093,7 +1098,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8860.0,
+   "used_gb": 8867.3,
    "total_gb": 11999.8,
    "pct": 74,
    "online": true
