@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17 08:48",
- "generated_ts": 1792244910,
+ "generated": "2026-10-17 09:08",
+ "generated_ts": 1792246115,
  "stats": {
   "episodes_matches": 17734,
   "titles_total": 0,
@@ -10,19 +10,21 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 47,
-  "discs_month": 48,
-  "discs_alltime": 907,
+  "discs_today": 4,
+  "discs_week": 48,
+  "discs_month": 49,
+  "discs_alltime": 908,
   "discs_today_list": [
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
-   "Beverly Hills, 90210 S3D3"
+   "Beverly Hills, 90210 S3D3",
+   "Beverly Hills, 90210 S3D4"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
    "Beverly Hills, 90210 S3D3",
+   "Beverly Hills, 90210 S3D4",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -72,6 +74,7 @@
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
    "Beverly Hills, 90210 S3D3",
+   "Beverly Hills, 90210 S3D4",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -187,6 +190,7 @@
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
    "Beverly Hills, 90210 S3D3",
+   "Beverly Hills, 90210 S3D4",
    "Beverly Hills, 90210 S5D1",
    "Beverly Hills, 90210 S5D2",
    "Beverly Hills, 90210 S5D3",
@@ -1050,55 +1054,80 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 4,
-   "warn": 5,
-   "ok": 47,
-   "generated": "2026-10-16 09:00",
+   "alarm": 7,
+   "warn": 7,
+   "ok": 60,
+   "generated": "2026-10-17 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 44,
+     "days": 45,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 40,
+     "days": 41,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 28,
+     "days": 29,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "_from-1t-20260911"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "sanford-s6d1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "_scotthall-staging"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "sanford-s6d1-rerip"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ECW_BARELY_LEGAL_RERIP"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "_wishlist-acquire"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "_satc-burned-backup"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "_fp-s6-replaced-burned"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "_fp-s6-burned-backup"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "SEX_AND_THE_CITY_S6D5"
     }
    ]
   }
@@ -1106,7 +1135,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8901.3,
+   "used_gb": 8919.3,
    "total_gb": 11999.8,
    "pct": 74,
    "online": true
