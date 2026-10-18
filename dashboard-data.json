@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18 08:54",
- "generated_ts": 1792331669,
+ "generated": "2026-10-18 09:14",
+ "generated_ts": 1792332874,
  "stats": {
   "episodes_matches": 17743,
   "titles_total": 0,
@@ -1070,80 +1070,90 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 7,
+   "alarm": 9,
    "warn": 7,
-   "ok": 60,
-   "generated": "2026-10-17 09:00",
+   "ok": 65,
+   "generated": "2026-10-18 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 45,
+     "days": 46,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 41,
+     "days": 42,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 29,
+     "days": 30,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 14,
+     "days": 15,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "sanford-s6d1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "SCOTT_HALL_S1D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "sanford-s6d1-rerip"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "ECW_BARELY_LEGAL_RERIP"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S6D5"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "SEX_AND_THE_CITY_S2D3"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "RAISING_HOPE_S1D1"
     }
    ]
   }
