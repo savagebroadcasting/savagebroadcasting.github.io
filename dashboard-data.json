@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17 23:52",
- "generated_ts": 1792299138,
+ "generated": "2026-10-18 00:12",
+ "generated_ts": 1792300343,
  "stats": {
   "episodes_matches": 17743,
   "titles_total": 0,
@@ -10,23 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 11,
+  "discs_today": 0,
   "discs_week": 55,
   "discs_month": 56,
   "discs_alltime": 915,
-  "discs_today_list": [
-   "Beverly Hills, 90210 S3D1",
-   "Beverly Hills, 90210 S3D2",
-   "Beverly Hills, 90210 S3D3",
-   "Beverly Hills, 90210 S3D4",
-   "Beverly Hills, 90210 S3D5",
-   "Beverly Hills, 90210 S3D6",
-   "Beverly Hills, 90210 S3D7",
-   "Beverly Hills, 90210 S3D8",
-   "Beverly Hills, 90210 S4D1",
-   "Beverly Hills, 90210 S4D2",
-   "Beverly Hills, 90210 S4D3"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S3D1",
    "Beverly Hills, 90210 S3D2",
