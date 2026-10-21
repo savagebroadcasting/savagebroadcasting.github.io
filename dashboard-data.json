@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21 08:53",
- "generated_ts": 1792590819,
+ "generated": "2026-10-21 09:13",
+ "generated_ts": 1792592025,
  "stats": {
   "episodes_matches": 18274,
   "titles_total": 0,
@@ -1062,284 +1062,244 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 16,
-   "warn": 39,
-   "ok": 35,
-   "generated": "2026-10-20 09:00",
+   "alarm": 35,
+   "warn": 12,
+   "ok": 31,
+   "generated": "2026-10-21 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 48,
+     "days": 49,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 44,
+     "days": 45,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 32,
+     "days": 33,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 10,
-     "name": "sanford-s6d1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
      "days": 9,
-     "name": "sanford-s6d1-rerip"
-    },
-    {
-     "tag": "ALARM",
-     "days": 9,
-     "name": "ECW_BARELY_LEGAL_RERIP"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "SEX_AND_THE_CITY_S2D3"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "RAISING_HOPE_S1D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
-     "name": "THE_RISE_AND_FALL_OF_ECW_2004_D2"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "RAISING_HOPE_S1D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "RAISING_HOPE_S1D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S7D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S7D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S7D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S6D4"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S6D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S6D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "FAMILY_TIES_S6D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
-     "name": "FAMILY_TIES_S5D4"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "FAMILY_TIES_S5D3"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "FAMILY_TIES_S5D2"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "FAMILY_TIES_S5D1"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D6"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D5"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D4"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S9D1"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D7"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D6"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D5"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D4"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D3"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D2"
     },
     {
-     "tag": "WARN",
-     "days": 6,
+     "tag": "ALARM",
+     "days": 7,
      "name": "BEVERLY_HILLS_90210_S6D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D6"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S8D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D6"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S10D1"
     }
    ]
