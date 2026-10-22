@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21 23:58",
- "generated_ts": 1792645095,
+ "generated": "2026-10-22 00:18",
+ "generated_ts": 1792646305,
  "stats": {
   "episodes_matches": 18275,
   "titles_total": 0,
@@ -11,7 +11,7 @@
    "Blu-ray": 0
   },
   "discs_today": 0,
-  "discs_week": 37,
+  "discs_week": 31,
   "discs_month": 61,
   "discs_alltime": 920,
   "discs_today_list": [],
@@ -46,13 +46,7 @@
    "Beverly Hills, 90210 S7D4",
    "Beverly Hills, 90210 S7D5",
    "Beverly Hills, 90210 S7D6",
-   "Beverly Hills, 90210 S7D7",
-   "Beverly Hills, 90210 S8D1",
-   "Beverly Hills, 90210 S8D2",
-   "Beverly Hills, 90210 S8D3",
-   "Beverly Hills, 90210 S8D4",
-   "Beverly Hills, 90210 S8D5",
-   "Beverly Hills, 90210 S8D6"
+   "Beverly Hills, 90210 S7D7"
   ],
   "discs_month_list": [
    "Beverly Hills, 90210 S3D1",
@@ -1308,7 +1302,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8773.3,
+   "used_gb": 8776.2,
    "total_gb": 11999.8,
    "pct": 73,
    "online": true
