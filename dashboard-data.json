@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-23 08:47",
- "generated_ts": 1792763232,
+ "generated": "2026-10-23 09:07",
+ "generated_ts": 1792764437,
  "stats": {
   "episodes_matches": 18298,
   "titles_total": 0,
@@ -1057,319 +1057,369 @@
   },
   "disc_age": {
    "alarm": 47,
-   "warn": 15,
-   "ok": 16,
-   "generated": "2026-10-22 09:00",
+   "warn": 25,
+   "ok": 6,
+   "generated": "2026-10-23 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 50,
+     "days": 51,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 46,
+     "days": 47,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 34,
+     "days": 35,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 19,
+     "days": 20,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "SEX_AND_THE_CITY_S2D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "RAISING_HOPE_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "RAISING_HOPE_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "RAISING_HOPE_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S7D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S6D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S6D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "FAMILY_TIES_S6D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D6"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D5"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S9D1"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D7"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D6"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D4"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D3"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 8,
+     "days": 9,
      "name": "BEVERLY_HILLS_90210_S6D1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D6"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D5"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D4"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D3"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D2"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S8D1"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D6"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D5"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D4"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D3"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D2"
     },
     {
      "tag": "ALARM",
-     "days": 7,
+     "days": 8,
      "name": "BEVERLY_HILLS_90210_S10D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D7"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D6"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S7D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D8"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D7"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D6"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D4"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "BEVERLY_HILLS_90210_S5D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S4D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S4D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D8"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D7"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D6"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D5"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D4"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D3"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S3D1"
     }
    ]
   }
@@ -1377,9 +1427,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8790.6,
+   "used_gb": 8823.3,
    "total_gb": 11999.8,
-   "pct": 73,
+   "pct": 74,
    "online": true
   },
   {
