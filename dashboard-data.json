@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-24 23:42",
- "generated_ts": 1792903320,
+ "generated": "2026-10-25 00:02",
+ "generated_ts": 1792904526,
  "stats": {
   "episodes_matches": 18412,
   "titles_total": 0,
@@ -10,32 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 24,
+  "discs_today": 0,
+  "discs_week": 13,
   "discs_month": 65,
   "discs_alltime": 920,
-  "discs_today_list": [
-   "Beverly Hills, 90210 S8D7",
-   "Punky Brewster S1D1",
-   "Punky Brewster S1D2",
-   "Punky Brewster S1D3",
-   "Sex and the City S3D2",
-   "Sex and the City S4D1",
-   "Sex and the City S4D3",
-   "Sex and the City S6D2"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
-   "Beverly Hills, 90210 S3D1",
-   "Beverly Hills, 90210 S3D2",
-   "Beverly Hills, 90210 S3D3",
-   "Beverly Hills, 90210 S3D4",
-   "Beverly Hills, 90210 S3D5",
-   "Beverly Hills, 90210 S3D6",
-   "Beverly Hills, 90210 S3D7",
-   "Beverly Hills, 90210 S3D8",
-   "Beverly Hills, 90210 S4D1",
-   "Beverly Hills, 90210 S4D2",
-   "Beverly Hills, 90210 S4D3",
    "Beverly Hills, 90210 S4D4",
    "Beverly Hills, 90210 S4D5",
    "Beverly Hills, 90210 S4D6",
@@ -1458,7 +1438,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9017.1,
+   "used_gb": 9029.5,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
