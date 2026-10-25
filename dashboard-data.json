@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24 20:00",
- "generated_ts": 1792890057,
+ "generated": "2026-10-24 20:21",
+ "generated_ts": 1792891263,
  "stats": {
-  "episodes_matches": 18342,
+  "episodes_matches": 18343,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,8 +10,8 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 22,
+  "discs_today": 7,
+  "discs_week": 23,
   "discs_month": 65,
   "discs_alltime": 920,
   "discs_today_list": [
@@ -20,6 +20,7 @@
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
    "Sex and the City S3D2",
+   "Sex and the City S4D1",
    "Sex and the City S6D2"
   ],
   "discs_week_list": [
@@ -44,6 +45,7 @@
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
    "Sex and the City S3D2",
+   "Sex and the City S4D1",
    "Sex and the City S6D2"
   ],
   "discs_month_list": [
@@ -1037,7 +1039,7 @@
   ],
   "certified": 810,
   "certified_shows": 281,
-  "certified_estimate": 822,
+  "certified_estimate": 823,
   "cert_split": {
    "tv": {
     "certified": 803,
@@ -1047,7 +1049,7 @@
    "wrestling": {
     "certified": 7,
     "evidence": 0,
-    "total_seasons": 177
+    "total_seasons": 178
    }
   },
   "workload": {
@@ -1454,7 +1456,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9000.8,
+   "used_gb": 8997.0,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
