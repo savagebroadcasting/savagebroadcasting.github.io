@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24 21:21",
- "generated_ts": 1792894879,
+ "generated": "2026-10-24 21:41",
+ "generated_ts": 1792896085,
  "stats": {
-  "episodes_matches": 18344,
+  "episodes_matches": 18408,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,8 +10,8 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 23,
+  "discs_today": 8,
+  "discs_week": 24,
   "discs_month": 65,
   "discs_alltime": 920,
   "discs_today_list": [
@@ -21,6 +21,7 @@
    "Punky Brewster S1D3",
    "Sex and the City S3D2",
    "Sex and the City S4D1",
+   "Sex and the City S4D3",
    "Sex and the City S6D2"
   ],
   "discs_week_list": [
@@ -46,6 +47,7 @@
    "Punky Brewster S1D3",
    "Sex and the City S3D2",
    "Sex and the City S4D1",
+   "Sex and the City S4D3",
    "Sex and the City S6D2"
   ],
   "discs_month_list": [
@@ -1037,14 +1039,14 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 811,
-  "certified_shows": 281,
-  "certified_estimate": 823,
+  "certified": 812,
+  "certified_shows": 282,
+  "certified_estimate": 824,
   "cert_split": {
    "tv": {
-    "certified": 804,
+    "certified": 805,
     "evidence": 0,
-    "total_seasons": 645
+    "total_seasons": 646
    },
    "wrestling": {
     "certified": 7,
@@ -1456,7 +1458,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9024.6,
+   "used_gb": 9028.6,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
