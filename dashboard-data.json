@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24 18:40",
- "generated_ts": 1792885233,
+ "generated": "2026-10-24 19:00",
+ "generated_ts": 1792886439,
  "stats": {
-  "episodes_matches": 18332,
+  "episodes_matches": 18342,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,14 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 19,
-  "discs_month": 64,
+  "discs_today": 5,
+  "discs_week": 21,
+  "discs_month": 65,
   "discs_alltime": 920,
   "discs_today_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
-   "Punky Brewster S1D2"
+   "Punky Brewster S1D2",
+   "Punky Brewster S1D3",
+   "Sex and the City S3D2"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S3D1",
@@ -38,7 +40,9 @@
    "Beverly Hills, 90210 S4D8",
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
-   "Punky Brewster S1D2"
+   "Punky Brewster S1D2",
+   "Punky Brewster S1D3",
+   "Sex and the City S3D2"
   ],
   "discs_month_list": [
    "Beverly Hills, 90210 S3D1",
@@ -87,6 +91,7 @@
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
+   "Punky Brewster S1D3",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -1447,7 +1452,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9035.3,
+   "used_gb": 9038.7,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
