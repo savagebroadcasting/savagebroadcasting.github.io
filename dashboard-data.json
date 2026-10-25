@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25 07:24",
- "generated_ts": 1792931046,
+ "generated": "2026-10-25 07:44",
+ "generated_ts": 1792932254,
  "stats": {
   "episodes_matches": 18420,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
-  "discs_week": 14,
-  "discs_month": 65,
+  "discs_today": 2,
+  "discs_week": 15,
+  "discs_month": 66,
   "discs_alltime": 920,
   "discs_today_list": [
+   "Robot Chicken S3D2",
    "Sex and the City S2D3"
   ],
   "discs_week_list": [
@@ -27,6 +28,7 @@
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
+   "Robot Chicken S3D2",
    "Sex and the City S2D3",
    "Sex and the City S3D2",
    "Sex and the City S4D1",
@@ -81,6 +83,7 @@
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
+   "Robot Chicken S3D2",
    "Sex and the City S2D1",
    "Sex and the City S2D2",
    "Sex and the City S2D3",
@@ -1441,7 +1444,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 9053.9,
+   "used_gb": 9019.6,
    "total_gb": 11999.8,
    "pct": 75,
    "online": true
