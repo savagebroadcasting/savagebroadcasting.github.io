@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26 08:51",
- "generated_ts": 1793022661,
+ "generated": "2026-10-26 09:11",
+ "generated_ts": 1793023866,
  "stats": {
   "episodes_matches": 18425,
   "titles_total": 0,
@@ -1043,390 +1043,130 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 71,
-   "warn": 5,
-   "ok": 9,
-   "generated": "2026-10-25 09:00",
+   "alarm": 24,
+   "warn": 0,
+   "ok": 10,
+   "generated": "2026-10-26 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 53,
+     "days": 54,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 49,
+     "days": 50,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 37,
+     "days": 38,
      "name": "DON_KNOTTS_SIDE1"
     },
     {
      "tag": "ALARM",
-     "days": 22,
+     "days": 23,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 13,
+     "days": 14,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
      "days": 12,
-     "name": "RAISING_HOPE_S1D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
      "name": "RAISING_HOPE_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
-     "name": "RAISING_HOPE_S1D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S7D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S6D4"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S6D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "FAMILY_TIES_S6D1"
     },
     {
      "tag": "ALARM",
      "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S9D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D7"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "BEVERLY_HILLS_90210_S6D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S8D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
      "name": "BEVERLY_HILLS_90210_S8D5"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEVERLY_HILLS_90210_S8D4"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEVERLY_HILLS_90210_S8D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEVERLY_HILLS_90210_S8D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEVERLY_HILLS_90210_S8D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "BEVERLY_HILLS_90210_S10D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D7"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S7D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D8"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D7"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "BEVERLY_HILLS_90210_S5D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S4D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S4D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D8"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D7"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D6"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "BEVERLY_HILLS_90210_S3D1"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "BEVERLY_HILLS_90210_S4D8"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "BEVERLY_HILLS_90210_S4D7"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "BEVERLY_HILLS_90210_S4D6"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "BEVERLY_HILLS_90210_S4D5"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "BEVERLY_HILLS_90210_S4D4"
     }
    ]
   }
