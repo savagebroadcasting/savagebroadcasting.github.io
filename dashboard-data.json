@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26 14:12",
- "generated_ts": 1793041949,
+ "generated": "2026-10-26 14:32",
+ "generated_ts": 1793043156,
  "stats": {
   "episodes_matches": 18425,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 11,
-  "discs_month": 67,
-  "discs_alltime": 921,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 12,
+  "discs_month": 68,
+  "discs_alltime": 922,
+  "discs_today_list": [
+   "The Dukes of Hazzard S1D1"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
@@ -26,7 +28,8 @@
    "Sex and the City S3D2",
    "Sex and the City S4D1",
    "Sex and the City S4D3",
-   "Sex and the City S6D2"
+   "Sex and the City S6D2",
+   "The Dukes of Hazzard S1D1"
   ],
   "discs_month_list": [
    "Beverly Hills, 90210 S3D1",
@@ -94,6 +97,7 @@
    "Sex and the City S6D3",
    "Sex and the City S6D4",
    "Sex and the City S6D5",
+   "The Dukes of Hazzard S1D1",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -818,6 +822,7 @@
    "The Dick Van Dyke Show S5D3",
    "The Dick Van Dyke Show S5D4",
    "The Dick Van Dyke Show S5D5",
+   "The Dukes of Hazzard S1D1",
    "The Fresh Prince of Bel-Air S4D4",
    "The Fresh Prince of Bel-Air S6D3",
    "The History of WWE D2",
@@ -1174,7 +1179,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8626.8,
+   "used_gb": 8628.4,
    "total_gb": 11999.8,
    "pct": 72,
    "online": true
