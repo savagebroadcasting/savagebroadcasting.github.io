@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26 20:14",
- "generated_ts": 1793063649,
+ "generated": "2026-10-26 20:34",
+ "generated_ts": 1793064854,
  "stats": {
   "episodes_matches": 18438,
   "titles_total": 0,
@@ -10,16 +10,17 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 16,
-  "discs_month": 72,
-  "discs_alltime": 926,
+  "discs_today": 6,
+  "discs_week": 17,
+  "discs_month": 73,
+  "discs_alltime": 927,
   "discs_today_list": [
    "The Dukes of Hazzard S1D1",
    "The Dukes of Hazzard S1D2",
    "The Dukes of Hazzard S1D3",
    "The Dukes of Hazzard S1D4",
-   "The Dukes of Hazzard S1D5"
+   "The Dukes of Hazzard S1D5",
+   "The Dukes of Hazzard S2D3"
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
@@ -37,7 +38,8 @@
    "The Dukes of Hazzard S1D2",
    "The Dukes of Hazzard S1D3",
    "The Dukes of Hazzard S1D4",
-   "The Dukes of Hazzard S1D5"
+   "The Dukes of Hazzard S1D5",
+   "The Dukes of Hazzard S2D3"
   ],
   "discs_month_list": [
    "Beverly Hills, 90210 S3D1",
@@ -110,6 +112,7 @@
    "The Dukes of Hazzard S1D3",
    "The Dukes of Hazzard S1D4",
    "The Dukes of Hazzard S1D5",
+   "The Dukes of Hazzard S2D3",
    "The Fresh Prince of Bel-Air S6D3",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1"
   ],
@@ -839,6 +842,7 @@
    "The Dukes of Hazzard S1D3",
    "The Dukes of Hazzard S1D4",
    "The Dukes of Hazzard S1D5",
+   "The Dukes of Hazzard S2D3",
    "The Fresh Prince of Bel-Air S4D4",
    "The Fresh Prince of Bel-Air S6D3",
    "The History of WWE D2",
@@ -1195,7 +1199,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8634.3,
+   "used_gb": 8637.2,
    "total_gb": 11999.8,
    "pct": 72,
    "online": true
