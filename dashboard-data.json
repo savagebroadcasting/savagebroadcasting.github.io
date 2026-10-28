@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27 23:41",
- "generated_ts": 1793162492,
+ "generated": "2026-10-28 00:01",
+ "generated_ts": 1793163698,
  "stats": {
-  "episodes_matches": 18493,
+  "episodes_matches": 18496,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,31 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 19,
+  "discs_today": 0,
   "discs_week": 37,
   "discs_month": 93,
   "discs_alltime": 947,
-  "discs_today_list": [
-   "The Dukes of Hazzard S2D1",
-   "The Dukes of Hazzard S2D2",
-   "The Dukes of Hazzard S2D8",
-   "The Dukes of Hazzard S2D9",
-   "The Dukes of Hazzard S3D1",
-   "The Dukes of Hazzard S3D2",
-   "The Dukes of Hazzard S3D4",
-   "The Dukes of Hazzard S3D5",
-   "The Dukes of Hazzard S3D6",
-   "The Dukes of Hazzard S3D7",
-   "The Dukes of Hazzard S4D1",
-   "The Dukes of Hazzard S4D2",
-   "The Dukes of Hazzard S4D3",
-   "The Dukes of Hazzard S4D4",
-   "The Dukes of Hazzard S4D5",
-   "The Dukes of Hazzard S4D6",
-   "The Dukes of Hazzard S4D7",
-   "The Dukes of Hazzard S4D8",
-   "The Dukes of Hazzard S4D9"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
@@ -1272,7 +1252,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8688.3,
+   "used_gb": 8684.0,
    "total_gb": 11999.8,
    "pct": 72,
    "online": true
