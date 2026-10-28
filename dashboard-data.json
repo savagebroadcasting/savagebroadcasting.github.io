@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28 06:23",
- "generated_ts": 1793186598,
+ "generated": "2026-10-28 06:43",
+ "generated_ts": 1793187804,
  "stats": {
   "episodes_matches": 18499,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
+  "discs_today": 1,
   "discs_week": 37,
   "discs_month": 93,
   "discs_alltime": 947,
-  "discs_today_list": [],
+  "discs_today_list": [
+   "The Dukes of Hazzard S4D9"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
