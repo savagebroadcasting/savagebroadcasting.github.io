@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29 17:33",
- "generated_ts": 1793313199,
+ "generated": "2026-10-29 17:53",
+ "generated_ts": 1793314404,
  "stats": {
   "episodes_matches": 18522,
   "titles_total": 0,
@@ -10,7 +10,7 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 4,
+  "discs_today": 5,
   "discs_week": 45,
   "discs_month": 101,
   "discs_alltime": 955,
@@ -18,6 +18,7 @@
    "The Dukes of Hazzard S2D8",
    "The Dukes of Hazzard S3D3",
    "The Dukes of Hazzard S4D9",
+   "The Dukes of Hazzard S6D3",
    "The Dukes of Hazzard S6D9"
   ],
   "discs_week_list": [
@@ -1281,7 +1282,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7986.9,
+   "used_gb": 7999.6,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
