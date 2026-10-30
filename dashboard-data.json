@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30 11:57",
- "generated_ts": 1793379478,
+ "generated": "2026-10-30 12:18",
+ "generated_ts": 1793380683,
  "stats": {
-  "episodes_matches": 18523,
+  "episodes_matches": 18521,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 46,
-  "discs_month": 102,
-  "discs_alltime": 956,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 47,
+  "discs_month": 103,
+  "discs_alltime": 957,
+  "discs_today_list": [
+   "The Dukes of Hazzard S6D6"
+  ],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
@@ -59,6 +61,7 @@
    "The Dukes of Hazzard S6D3",
    "The Dukes of Hazzard S6D4",
    "The Dukes of Hazzard S6D5",
+   "The Dukes of Hazzard S6D6",
    "The Dukes of Hazzard S6D7",
    "The Dukes of Hazzard S6D8",
    "The Dukes of Hazzard S6D9"
@@ -161,6 +164,7 @@
    "The Dukes of Hazzard S6D3",
    "The Dukes of Hazzard S6D4",
    "The Dukes of Hazzard S6D5",
+   "The Dukes of Hazzard S6D6",
    "The Dukes of Hazzard S6D7",
    "The Dukes of Hazzard S6D8",
    "The Dukes of Hazzard S6D9",
@@ -920,6 +924,7 @@
    "The Dukes of Hazzard S6D3",
    "The Dukes of Hazzard S6D4",
    "The Dukes of Hazzard S6D5",
+   "The Dukes of Hazzard S6D6",
    "The Dukes of Hazzard S6D7",
    "The Dukes of Hazzard S6D8",
    "The Dukes of Hazzard S6D9",
@@ -1294,16 +1299,16 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8071.3,
+   "used_gb": 8025.2,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
   },
   {
    "label": "1TB (rip scratch)",
-   "used_gb": 4.7,
+   "used_gb": 0.0,
    "total_gb": 495.9,
-   "pct": 1,
+   "pct": 0,
    "online": true
   }
  ],
