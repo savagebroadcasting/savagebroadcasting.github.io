@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31 16:05",
- "generated_ts": 1793480729,
+ "generated": "2026-10-31 16:25",
+ "generated_ts": 1793481934,
  "stats": {
   "episodes_matches": 18547,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
-  "discs_week": 56,
-  "discs_month": 112,
-  "discs_alltime": 966,
+  "discs_today": 7,
+  "discs_week": 57,
+  "discs_month": 113,
+  "discs_alltime": 967,
   "discs_today_list": [
    "Robot Chicken S5D2",
    "The Dukes of Hazzard S7D11",
+   "The Dukes of Hazzard S7D12",
    "The Dukes of Hazzard S7D2",
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
@@ -75,6 +76,7 @@
    "The Dukes of Hazzard S6D9",
    "The Dukes of Hazzard S7D1",
    "The Dukes of Hazzard S7D11",
+   "The Dukes of Hazzard S7D12",
    "The Dukes of Hazzard S7D2",
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
@@ -187,6 +189,7 @@
    "The Dukes of Hazzard S6D9",
    "The Dukes of Hazzard S7D1",
    "The Dukes of Hazzard S7D11",
+   "The Dukes of Hazzard S7D12",
    "The Dukes of Hazzard S7D2",
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
@@ -956,6 +959,7 @@
    "The Dukes of Hazzard S6D9",
    "The Dukes of Hazzard S7D1",
    "The Dukes of Hazzard S7D11",
+   "The Dukes of Hazzard S7D12",
    "The Dukes of Hazzard S7D2",
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
@@ -1351,7 +1355,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8056.9,
+   "used_gb": 8058.1,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
