@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31 08:43",
- "generated_ts": 1793454211,
+ "generated": "2026-10-31 09:03",
+ "generated_ts": 1793455416,
  "stats": {
   "episodes_matches": 18542,
   "titles_total": 0,
@@ -1170,144 +1170,164 @@
   },
   "disc_age": {
    "alarm": 22,
-   "warn": 5,
-   "ok": 7,
-   "generated": "2026-10-30 09:00",
+   "warn": 9,
+   "ok": 5,
+   "generated": "2026-10-31 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 58,
+     "days": 59,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 54,
+     "days": 55,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 27,
+     "days": 28,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S7D1"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S6D4"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S6D3"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 16,
+     "days": 17,
      "name": "FAMILY_TIES_S6D1"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "BEVERLY_HILLS_90210_S8D5"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "BEVERLY_HILLS_90210_S8D4"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "BEVERLY_HILLS_90210_S8D3"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "BEVERLY_HILLS_90210_S8D2"
     },
     {
      "tag": "ALARM",
-     "days": 15,
+     "days": 16,
      "name": "BEVERLY_HILLS_90210_S8D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S6D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S4D3"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S4D1"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "SEX_AND_THE_CITY_S3D2"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "ROBOT_CHICKEN_S3D2"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "SEX_AND_THE_CITY_S2D3"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "ROBOT_CHICKEN_S5D1"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S8D7"
+    },
+    {
+     "tag": "WARN",
+     "days": 5,
+     "name": "BEVERLY_HILLS_90210_S8D6"
     }
    ]
   }
@@ -1315,7 +1335,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8052.8,
+   "used_gb": 8055.0,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
