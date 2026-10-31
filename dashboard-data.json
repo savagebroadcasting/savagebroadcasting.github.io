@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-30 23:41",
- "generated_ts": 1793421666,
+ "generated": "2026-10-31 00:01",
+ "generated_ts": 1793422871,
  "stats": {
   "episodes_matches": 18542,
   "titles_total": 0,
@@ -10,17 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
+  "discs_today": 0,
   "discs_week": 51,
   "discs_month": 107,
   "discs_alltime": 961,
-  "discs_today_list": [
-   "The Dukes of Hazzard S2D11",
-   "The Dukes of Hazzard S6D10",
-   "The Dukes of Hazzard S6D6",
-   "The Dukes of Hazzard S7D1",
-   "The Dukes of Hazzard S7D2"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
    "Punky Brewster S1D1",
@@ -1146,12 +1140,12 @@
    "Who Killed WCW? D2",
    "nWo: Back in Black D1"
   ],
-  "certified": 820,
-  "certified_shows": 284,
+  "certified": 827,
+  "certified_shows": 286,
   "certified_estimate": 830,
   "cert_split": {
    "tv": {
-    "certified": 813,
+    "certified": 820,
     "evidence": 0,
     "total_seasons": 652
    },
@@ -1315,7 +1309,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8038.3,
+   "used_gb": 8038.4,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
