@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01 08:31",
- "generated_ts": 1793543461,
+ "generated": "2026-11-01 08:51",
+ "generated_ts": 1793544667,
  "stats": {
-  "episodes_matches": 18570,
+  "episodes_matches": 18571,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 52,
-  "discs_month": 0,
-  "discs_alltime": 969,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 53,
+  "discs_month": 1,
+  "discs_alltime": 970,
+  "discs_today_list": [
+   "WWE: The Best of Raw - After the Show D1"
+  ],
   "discs_week_list": [
    "Night Gallery S3D2",
    "Robot Chicken S3D2",
@@ -67,9 +69,12 @@
    "The Dukes of Hazzard S7D21",
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
-   "The Dukes of Hazzard S7D6"
+   "The Dukes of Hazzard S7D6",
+   "WWE: The Best of Raw - After the Show D1"
   ],
-  "discs_month_list": [],
+  "discs_month_list": [
+   "WWE: The Best of Raw - After the Show D1"
+  ],
   "discs_alltime_list": [
    "100 Cartoon Classics S1D1",
    "100 Cartoon Classics S1D2",
@@ -994,6 +999,7 @@
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D3",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D4",
    "WWE: Survivor Series Anthology, Vol. 2 (1992-1996) (1992-1996) D5",
+   "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Saturday Night's Main Event D1",
    "WWE: The Best of Saturday Night's Main Event D2",
    "WWE: The Best of Saturday Night's Main Event D3",
@@ -1230,7 +1236,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8161.4,
+   "used_gb": 8158.2,
    "total_gb": 11999.8,
    "pct": 68,
    "online": true
