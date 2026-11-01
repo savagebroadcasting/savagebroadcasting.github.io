@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-31 20:26",
- "generated_ts": 1793496398,
+ "generated": "2026-10-31 20:46",
+ "generated_ts": 1793497603,
  "stats": {
   "episodes_matches": 18547,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 9,
-  "discs_week": 59,
-  "discs_month": 115,
+  "discs_today": 10,
+  "discs_week": 60,
+  "discs_month": 116,
   "discs_alltime": 969,
   "discs_today_list": [
+   "Night Gallery S3D2",
    "Robot Chicken S5D2",
    "The Dukes of Hazzard S7D11",
    "The Dukes of Hazzard S7D12",
@@ -27,6 +28,7 @@
   ],
   "discs_week_list": [
    "Beverly Hills, 90210 S8D7",
+   "Night Gallery S3D2",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -131,6 +133,7 @@
    "Beverly Hills, 90210 S8D5",
    "Beverly Hills, 90210 S8D6",
    "Beverly Hills, 90210 S8D7",
+   "Night Gallery S3D2",
    "Punky Brewster S1D1",
    "Punky Brewster S1D2",
    "Punky Brewster S1D3",
@@ -1363,7 +1366,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8072.5,
+   "used_gb": 8076.3,
    "total_gb": 11999.8,
    "pct": 67,
    "online": true
