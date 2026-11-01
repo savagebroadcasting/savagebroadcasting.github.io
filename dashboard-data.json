@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01 16:53",
- "generated_ts": 1793573604,
+ "generated": "2026-11-01 17:13",
+ "generated_ts": 1793574810,
  "stats": {
   "episodes_matches": 18573,
   "titles_total": 0,
@@ -10,13 +10,15 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 57,
-  "discs_month": 5,
-  "discs_alltime": 974,
+  "discs_today": 7,
+  "discs_week": 59,
+  "discs_month": 7,
+  "discs_alltime": 976,
   "discs_today_list": [
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE: Owen - Hart of Gold D1",
+   "WWE: Owen - Hart of Gold D2",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -76,6 +78,8 @@
    "The Dukes of Hazzard S7D6",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE: Owen - Hart of Gold D1",
+   "WWE: Owen - Hart of Gold D2",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -83,6 +87,8 @@
   "discs_month_list": [
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE: Owen - Hart of Gold D1",
+   "WWE: Owen - Hart of Gold D2",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -995,6 +1001,8 @@
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D1",
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D2",
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D3",
+   "WWE: Owen - Hart of Gold D1",
+   "WWE: Owen - Hart of Gold D2",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
@@ -1252,7 +1260,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8267.8,
+   "used_gb": 8272.7,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
