@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01 12:32",
- "generated_ts": 1793557932,
+ "generated": "2026-11-01 12:52",
+ "generated_ts": 1793559137,
  "stats": {
   "episodes_matches": 18573,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 55,
-  "discs_month": 3,
-  "discs_alltime": 972,
+  "discs_today": 4,
+  "discs_week": 56,
+  "discs_month": 4,
+  "discs_alltime": 973,
   "discs_today_list": [
+   "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -72,11 +73,13 @@
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
    "The Dukes of Hazzard S7D6",
+   "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
   ],
   "discs_month_list": [
+   "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -964,6 +967,7 @@
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D1",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D2",
    "WCW's Greatest Pay-Per-View Matches - Volume 1 D3",
+   "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1",
@@ -1244,7 +1248,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8175.3,
+   "used_gb": 8179.1,
    "total_gb": 11999.8,
    "pct": 68,
    "online": true
