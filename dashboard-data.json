@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02 15:24",
- "generated_ts": 1793654648,
+ "generated": "2026-11-02 15:44",
+ "generated_ts": 1793655854,
  "stats": {
   "episodes_matches": 18620,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 66,
-  "discs_month": 18,
-  "discs_alltime": 986,
+  "discs_today": 8,
+  "discs_week": 67,
+  "discs_month": 19,
+  "discs_alltime": 987,
   "discs_today_list": [
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
    "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE SmackDown 10th Anniversary- The Best of S1D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D3",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3"
@@ -79,6 +80,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE SmackDown 10th Anniversary- The Best of S1D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D3",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3",
@@ -99,6 +101,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE SmackDown 10th Anniversary- The Best of S1D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D3",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3",
@@ -1003,6 +1006,7 @@
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1",
    "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE SmackDown 10th Anniversary- The Best of S1D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D3",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -1288,7 +1292,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8393.9,
+   "used_gb": 8397.0,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
