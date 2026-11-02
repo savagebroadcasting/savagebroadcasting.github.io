@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01 17:55",
- "generated_ts": 1793577332,
+ "generated": "2026-11-01 18:15",
+ "generated_ts": 1793578537,
  "stats": {
   "episodes_matches": 18574,
   "titles_total": 0,
@@ -10,15 +10,16 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 7,
-  "discs_week": 59,
-  "discs_month": 7,
-  "discs_alltime": 976,
+  "discs_today": 8,
+  "discs_week": 60,
+  "discs_month": 8,
+  "discs_alltime": 977,
   "discs_today_list": [
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
+   "WWE: Owen - Hart of Gold D3",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -80,6 +81,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
+   "WWE: Owen - Hart of Gold D3",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -89,6 +91,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
+   "WWE: Owen - Hart of Gold D3",
    "WWE: The Best of Raw - After the Show D1",
    "WWE: The Best of Raw - After the Show D2",
    "WWE: The Best of Raw - After the Show D3"
@@ -1003,6 +1006,7 @@
    "WWE: Ladies and Gentlemen, My Name Is Paul Heyman D3",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
+   "WWE: Owen - Hart of Gold D3",
    "WWE: Ric Flair & The Four Horsemen D1",
    "WWE: Ric Flair & The Four Horsemen D2",
    "WWE: Road Warriors - The Life and Death of the Most Dominant Tag Team in Wrestling History D1",
@@ -1260,7 +1264,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8277.0,
+   "used_gb": 8284.2,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
