@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02 08:21",
- "generated_ts": 1793629287,
+ "generated": "2026-11-02 08:41",
+ "generated_ts": 1793630495,
  "stats": {
   "episodes_matches": 18614,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 59,
-  "discs_month": 11,
-  "discs_alltime": 979,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 60,
+  "discs_month": 12,
+  "discs_alltime": 980,
+  "discs_today_list": [
+   "WWE- The Attitude Era, Vol. 2 S1D2"
+  ],
   "discs_week_list": [
    "Night Gallery S3D2",
    "Robot Chicken S5D2",
@@ -67,6 +69,7 @@
    "The Dukes of Hazzard S7D6",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
    "WWE: Owen - Hart of Gold D3",
@@ -80,6 +83,7 @@
    "The Dukes of Hazzard S2D4",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
    "WWE: Owen - Hart of Gold D3",
@@ -980,6 +984,7 @@
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
+   "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -1259,7 +1264,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8368.6,
+   "used_gb": 8369.4,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
