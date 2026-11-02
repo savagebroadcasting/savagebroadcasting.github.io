@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02 09:21",
- "generated_ts": 1793632909,
+ "generated": "2026-11-02 09:41",
+ "generated_ts": 1793634115,
  "stats": {
   "episodes_matches": 18614,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 61,
-  "discs_month": 13,
-  "discs_alltime": 981,
+  "discs_today": 3,
+  "discs_week": 62,
+  "discs_month": 14,
+  "discs_alltime": 982,
   "discs_today_list": [
    "WWE- The Attitude Era, Vol. 2 S1D1",
-   "WWE- The Attitude Era, Vol. 2 S1D2"
+   "WWE- The Attitude Era, Vol. 2 S1D2",
+   "WWE- The Attitude Era, Vol. 2 S1D3"
   ],
   "discs_week_list": [
    "Night Gallery S3D2",
@@ -72,6 +73,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
+   "WWE- The Attitude Era, Vol. 2 S1D3",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
    "WWE: Owen - Hart of Gold D3",
@@ -87,6 +89,7 @@
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
+   "WWE- The Attitude Era, Vol. 2 S1D3",
    "WWE: Owen - Hart of Gold D1",
    "WWE: Owen - Hart of Gold D2",
    "WWE: Owen - Hart of Gold D3",
@@ -989,6 +992,7 @@
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
+   "WWE- The Attitude Era, Vol. 2 S1D3",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D1",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D2",
    "WWE: Bret \"Hitman\" Hart - The Best There Is, The Best There Was, The Best There Ever Will Be D3",
@@ -1268,7 +1272,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8381.3,
+   "used_gb": 8384.1,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
