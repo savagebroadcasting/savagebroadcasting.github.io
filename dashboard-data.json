@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01 18:15",
- "generated_ts": 1793578537,
+ "generated": "2026-11-01 18:35",
+ "generated_ts": 1793579743,
  "stats": {
   "episodes_matches": 18574,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
+  "discs_today": 9,
   "discs_week": 60,
-  "discs_month": 8,
+  "discs_month": 9,
   "discs_alltime": 977,
   "discs_today_list": [
+   "The Dukes of Hazzard S2D4",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE: Owen - Hart of Gold D1",
@@ -87,6 +88,7 @@
    "WWE: The Best of Raw - After the Show D3"
   ],
   "discs_month_list": [
+   "The Dukes of Hazzard S2D4",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE: Owen - Hart of Gold D1",
@@ -1264,7 +1266,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8284.2,
+   "used_gb": 8290.2,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
