@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-02 11:02",
- "generated_ts": 1793638944,
+ "generated": "2026-11-02 11:22",
+ "generated_ts": 1793640150,
  "stats": {
-  "episodes_matches": 18615,
+  "episodes_matches": 18616,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
-  "discs_week": 62,
-  "discs_month": 14,
-  "discs_alltime": 982,
+  "discs_today": 4,
+  "discs_week": 63,
+  "discs_month": 15,
+  "discs_alltime": 983,
   "discs_today_list": [
+   "TNA Phenomenal- The Best of AJ Styles S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3"
@@ -22,6 +23,7 @@
   "discs_week_list": [
    "Night Gallery S3D2",
    "Robot Chicken S5D2",
+   "TNA Phenomenal- The Best of AJ Styles S1D1",
    "The Dukes of Hazzard S1D1",
    "The Dukes of Hazzard S1D2",
    "The Dukes of Hazzard S1D3",
@@ -84,6 +86,7 @@
    "WWE: The Best of Raw - After the Show D3"
   ],
   "discs_month_list": [
+   "TNA Phenomenal- The Best of AJ Styles S1D1",
    "The Dukes of Hazzard S2D4",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
@@ -691,6 +694,7 @@
    "Sex and the City S6D3",
    "Sex and the City S6D4",
    "Sex and the City S6D5",
+   "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Wrestling: Best of the X Division, Vol. 2 D1",
    "TNA Wrestling: Jeff Jarrett - King of the Mountain D1",
    "TNA Wrestling: Sting - Return of an Icon D1",
@@ -1272,7 +1276,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8384.8,
+   "used_gb": 8381.4,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
