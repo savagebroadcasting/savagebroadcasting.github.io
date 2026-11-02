@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02 14:23",
- "generated_ts": 1793651026,
+ "generated": "2026-11-02 14:43",
+ "generated_ts": 1793652234,
  "stats": {
   "episodes_matches": 18619,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 5,
-  "discs_week": 64,
-  "discs_month": 16,
-  "discs_alltime": 984,
+  "discs_today": 6,
+  "discs_week": 65,
+  "discs_month": 17,
+  "discs_alltime": 985,
   "discs_today_list": [
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3"
@@ -75,6 +76,7 @@
    "The Dukes of Hazzard S7D6",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3",
@@ -93,6 +95,7 @@
    "The Dukes of Hazzard S2D4",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
+   "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D1",
    "WWE- The Attitude Era, Vol. 2 S1D2",
    "WWE- The Attitude Era, Vol. 2 S1D3",
@@ -995,6 +998,7 @@
    "WWE Holiday Tribute to the Troops D1",
    "WWE Holiday Tribute to the Troops D2",
    "WWE Living on the Razor's Edge- The Scott Hall Story S1D1",
+   "WWE SmackDown 10th Anniversary- The Best of S1D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D1",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D2",
    "WWE's Greatest Rivalries: Shawn Michaels vs. Bret Hart D3",
@@ -1280,7 +1284,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8383.4,
+   "used_gb": 8384.2,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
