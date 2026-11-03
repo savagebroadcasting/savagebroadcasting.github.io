@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02 23:47",
- "generated_ts": 1793684827,
+ "generated": "2026-11-03 00:07",
+ "generated_ts": 1793686034,
  "stats": {
   "episodes_matches": 18625,
   "titles_total": 0,
@@ -10,34 +10,19 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 8,
-  "discs_week": 67,
+  "discs_today": 0,
+  "discs_week": 61,
   "discs_month": 19,
   "discs_alltime": 987,
-  "discs_today_list": [
-   "TNA Phenomenal- The Best of AJ Styles S1D1",
-   "TNA Phenomenal- The Best of AJ Styles S1D2",
-   "WWE SmackDown 10th Anniversary- The Best of S1D1",
-   "WWE SmackDown 10th Anniversary- The Best of S1D2",
-   "WWE SmackDown 10th Anniversary- The Best of S1D3",
-   "WWE- The Attitude Era, Vol. 2 S1D1",
-   "WWE- The Attitude Era, Vol. 2 S1D2",
-   "WWE- The Attitude Era, Vol. 2 S1D3"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Night Gallery S3D2",
    "Robot Chicken S5D2",
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
-   "The Dukes of Hazzard S1D1",
-   "The Dukes of Hazzard S1D2",
-   "The Dukes of Hazzard S1D3",
-   "The Dukes of Hazzard S1D4",
-   "The Dukes of Hazzard S1D5",
    "The Dukes of Hazzard S2D1",
    "The Dukes of Hazzard S2D11",
    "The Dukes of Hazzard S2D2",
-   "The Dukes of Hazzard S2D3",
    "The Dukes of Hazzard S2D4",
    "The Dukes of Hazzard S2D8",
    "The Dukes of Hazzard S2D9",
@@ -1292,7 +1277,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8388.5,
+   "used_gb": 8392.9,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
