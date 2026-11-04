@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04 11:43",
- "generated_ts": 1793814205,
+ "generated": "2026-11-04 12:03",
+ "generated_ts": 1793815413,
  "stats": {
   "episodes_matches": 18745,
   "titles_total": 0,
@@ -1072,7 +1072,7 @@
    "nWo: Back in Black D1"
   ],
   "certified": 831,
-  "certified_shows": 286,
+  "certified_shows": 287,
   "certified_estimate": 836,
   "cert_split": {
    "tv": {
@@ -1270,7 +1270,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8358.8,
+   "used_gb": 8358.2,
    "total_gb": 11999.8,
    "pct": 70,
    "online": true
