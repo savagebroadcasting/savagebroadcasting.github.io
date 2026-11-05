@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04 23:47",
- "generated_ts": 1793857632,
+ "generated": "2026-11-05 00:07",
+ "generated_ts": 1793858838,
  "stats": {
   "episodes_matches": 18746,
   "titles_total": 0,
@@ -10,14 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 46,
+  "discs_today": 0,
+  "discs_week": 42,
   "discs_month": 21,
   "discs_alltime": 987,
-  "discs_today_list": [
-   "Family Ties S7D3",
-   "Family Ties S7D4"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Family Ties S7D3",
    "Family Ties S7D4",
@@ -30,15 +27,11 @@
    "The Dukes of Hazzard S2D8",
    "The Dukes of Hazzard S3D3",
    "The Dukes of Hazzard S4D9",
-   "The Dukes of Hazzard S6D1",
    "The Dukes of Hazzard S6D10",
    "The Dukes of Hazzard S6D2",
    "The Dukes of Hazzard S6D3",
-   "The Dukes of Hazzard S6D4",
    "The Dukes of Hazzard S6D5",
    "The Dukes of Hazzard S6D6",
-   "The Dukes of Hazzard S6D7",
-   "The Dukes of Hazzard S6D8",
    "The Dukes of Hazzard S6D9",
    "The Dukes of Hazzard S7D1",
    "The Dukes of Hazzard S7D11",
@@ -1277,7 +1270,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8293.9,
+   "used_gb": 8294.1,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
