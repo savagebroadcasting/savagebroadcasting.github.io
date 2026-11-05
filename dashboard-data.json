@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-05 08:50",
- "generated_ts": 1793890201,
+ "generated": "2026-11-05 09:10",
+ "generated_ts": 1793891410,
  "stats": {
   "episodes_matches": 18746,
   "titles_total": 0,
@@ -1094,174 +1094,149 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 31,
+   "alarm": 26,
    "warn": 2,
-   "ok": 28,
-   "generated": "2026-11-04 09:00",
+   "ok": 29,
+   "generated": "2026-11-05 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 63,
+     "days": 64,
      "name": "_pending-split"
     },
     {
      "tag": "ALARM",
-     "days": 59,
+     "days": 60,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 32,
+     "days": 33,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 25,
+     "days": 26,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 25,
+     "days": 26,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "_satc-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "_fp-s6-replaced-burned"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 23,
+     "days": 24,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 21,
-     "name": "FAMILY_TIES_S7D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "FAMILY_TIES_S7D2"
     },
     {
      "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "FAMILY_TIES_S7D1"
     },
     {
      "tag": "ALARM",
      "days": 21,
-     "name": "FAMILY_TIES_S6D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "FAMILY_TIES_S6D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "FAMILY_TIES_S6D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "FAMILY_TIES_S6D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
      "name": "BEVERLY_HILLS_90210_S8D5"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "BEVERLY_HILLS_90210_S8D4"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "BEVERLY_HILLS_90210_S8D3"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "BEVERLY_HILLS_90210_S8D2"
     },
     {
      "tag": "ALARM",
-     "days": 20,
+     "days": 21,
      "name": "BEVERLY_HILLS_90210_S8D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SEX_AND_THE_CITY_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SEX_AND_THE_CITY_S4D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SEX_AND_THE_CITY_S4D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "SEX_AND_THE_CITY_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ROBOT_CHICKEN_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "SEX_AND_THE_CITY_S2D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "ROBOT_CHICKEN_S5D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BEVERLY_HILLS_90210_S8D7"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BEVERLY_HILLS_90210_S8D6"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "DUKES_OF_HAZZARD_S6D5"
     },
     {
      "tag": "WARN",
-     "days": 5,
+     "days": 6,
      "name": "DUKES_OF_HAZZARD_S4D1"
     }
    ]
@@ -1270,7 +1245,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8297.9,
+   "used_gb": 8298.0,
    "total_gb": 11999.8,
    "pct": 69,
    "online": true
