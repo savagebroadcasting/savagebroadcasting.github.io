@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12 23:47",
- "generated_ts": 1794548845,
+ "generated": "2026-11-13 00:07",
+ "generated_ts": 1794550050,
  "stats": {
   "episodes_matches": 19239,
   "titles_total": 0,
@@ -10,15 +10,11 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 3,
+  "discs_today": 0,
   "discs_week": 4,
   "discs_month": 25,
   "discs_alltime": 990,
-  "discs_today_list": [
-   "Rugrats S3D1",
-   "Rugrats S3D2",
-   "Rugrats S4D1"
-  ],
+  "discs_today_list": [],
   "discs_week_list": [
    "Punky Brewster S1D2",
    "Rugrats S3D1",
