@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-13 08:50",
- "generated_ts": 1794581456,
+ "generated": "2026-11-13 09:11",
+ "generated_ts": 1794582662,
  "stats": {
-  "episodes_matches": 19338,
+  "episodes_matches": 19364,
   "titles_total": 0,
   "titles_by_type": {
    "TV": 0,
@@ -1076,254 +1076,174 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 49,
+   "alarm": 33,
    "warn": 0,
-   "ok": 1,
-   "generated": "2026-11-12 09:00",
+   "ok": 5,
+   "generated": "2026-11-13 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 71,
-     "name": "_pending-split"
-    },
-    {
-     "tag": "ALARM",
-     "days": 67,
+     "days": 68,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 40,
+     "days": 41,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 33,
+     "days": 34,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 33,
+     "days": 34,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 31,
+     "days": 32,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 31,
-     "name": "_satc-burned-backup"
-    },
-    {
-     "tag": "ALARM",
-     "days": 31,
-     "name": "_fp-s6-replaced-burned"
-    },
-    {
-     "tag": "ALARM",
-     "days": 31,
+     "days": 32,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 31,
+     "days": 32,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 29,
-     "name": "FAMILY_TIES_S7D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 29,
-     "name": "FAMILY_TIES_S7D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "SEX_AND_THE_CITY_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 18,
-     "name": "SEX_AND_THE_CITY_S4D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 18,
-     "name": "SEX_AND_THE_CITY_S4D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 18,
-     "name": "SEX_AND_THE_CITY_S3D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "ROBOT_CHICKEN_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 17,
-     "name": "SEX_AND_THE_CITY_S2D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 17,
+     "days": 18,
      "name": "ROBOT_CHICKEN_S5D1"
     },
     {
      "tag": "ALARM",
-     "days": 13,
-     "name": "DUKES_OF_HAZZARD_S6D5"
-    },
-    {
-     "tag": "ALARM",
-     "days": 13,
-     "name": "DUKES_OF_HAZZARD_S4D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "_rescue"
     },
     {
      "tag": "ALARM",
-     "days": 11,
-     "name": "ROBOT_CHICKEN_S5D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
-     "name": "NIGHT_GALLERY_S3D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "DUKES_OF_HAZZARD_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "DUKES_OF_HAZZARD_S7D21"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "DUKES_OF_HAZZARD_S7D20"
     },
     {
      "tag": "ALARM",
      "days": 11,
-     "name": "DUKES_OF_HAZZARD_S7D11"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "MNW_V2_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
-     "name": "DUKES_OF_HAZZARD_SEASON2_D4B"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
-     "name": "DUKES_OF_HAZZARD_S2D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEST_OF_NITRO_D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ATTITUDE_ERA_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BEST_OF_SMACKDOWN_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BEST_OF_SMACKDOWN_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BEST_OF_SMACKDOWN_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "BESTOFAJ_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "ATTITUDE_ERA_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 9,
+     "days": 10,
      "name": "ATTITUDE_ERA_S1D1"
     }
    ]
@@ -1332,9 +1252,9 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8099.5,
+   "used_gb": 8102.1,
    "total_gb": 11999.8,
-   "pct": 67,
+   "pct": 68,
    "online": true
   },
   {
