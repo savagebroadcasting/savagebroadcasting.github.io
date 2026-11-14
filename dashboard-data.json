@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14 06:41",
- "generated_ts": 1794660114,
+ "generated": "2026-11-14 07:01",
+ "generated_ts": 1794661317,
  "stats": {
   "episodes_matches": 19628,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 14,
-  "discs_month": 35,
-  "discs_alltime": 1000,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 15,
+  "discs_month": 36,
+  "discs_alltime": 1001,
+  "discs_today_list": [
+   "Rugrats S8D1"
+  ],
   "discs_week_list": [
    "Punky Brewster S1D2",
    "Rugrats S3D1",
@@ -29,7 +31,8 @@
    "Rugrats S6D2",
    "Rugrats S6D3",
    "Rugrats S7D1",
-   "Rugrats S7D2"
+   "Rugrats S7D2",
+   "Rugrats S8D1"
   ],
   "discs_month_list": [
    "Family Ties S7D3",
@@ -48,6 +51,7 @@
    "Rugrats S6D3",
    "Rugrats S7D1",
    "Rugrats S7D2",
+   "Rugrats S8D1",
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
    "The Dukes of Hazzard S2D4",
@@ -640,6 +644,7 @@
    "Rugrats S6D3",
    "Rugrats S7D1",
    "Rugrats S7D2",
+   "Rugrats S8D1",
    "Sanford and Son S1D1",
    "Sanford and Son S1D2",
    "Sanford and Son S2D1",
@@ -1269,7 +1274,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8175.1,
+   "used_gb": 8175.9,
    "total_gb": 11999.8,
    "pct": 68,
    "online": true
