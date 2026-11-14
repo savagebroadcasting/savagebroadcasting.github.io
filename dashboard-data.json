@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14 08:45",
- "generated_ts": 1794667546,
+ "generated": "2026-11-14 09:05",
+ "generated_ts": 1794668752,
  "stats": {
   "episodes_matches": 19631,
   "titles_total": 0,
@@ -10,13 +10,14 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 2,
-  "discs_week": 16,
-  "discs_month": 37,
-  "discs_alltime": 1002,
+  "discs_today": 3,
+  "discs_week": 17,
+  "discs_month": 38,
+  "discs_alltime": 1003,
   "discs_today_list": [
    "Rugrats S8D1",
-   "Rugrats S8D2"
+   "Rugrats S8D2",
+   "Rugrats S9D1"
   ],
   "discs_week_list": [
    "Punky Brewster S1D2",
@@ -34,7 +35,8 @@
    "Rugrats S7D1",
    "Rugrats S7D2",
    "Rugrats S8D1",
-   "Rugrats S8D2"
+   "Rugrats S8D2",
+   "Rugrats S9D1"
   ],
   "discs_month_list": [
    "Family Ties S7D3",
@@ -55,6 +57,7 @@
    "Rugrats S7D2",
    "Rugrats S8D1",
    "Rugrats S8D2",
+   "Rugrats S9D1",
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
    "The Dukes of Hazzard S2D4",
@@ -649,6 +652,7 @@
    "Rugrats S7D2",
    "Rugrats S8D1",
    "Rugrats S8D2",
+   "Rugrats S9D1",
    "Sanford and Son S1D1",
    "Sanford and Son S1D2",
    "Sanford and Son S2D1",
@@ -1105,171 +1109,171 @@
    "alarm": 33,
    "warn": 0,
    "ok": 5,
-   "generated": "2026-11-13 09:00",
+   "generated": "2026-11-14 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 68,
+     "days": 69,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 41,
+     "days": 42,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 34,
+     "days": 35,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 34,
+     "days": 35,
      "name": "SCOTT_HALL_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 32,
+     "days": 33,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 32,
+     "days": 33,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 32,
+     "days": 33,
      "name": "SEX_AND_THE_CITY_S6D5"
     },
     {
      "tag": "ALARM",
-     "days": 19,
+     "days": 20,
      "name": "SEX_AND_THE_CITY_S6D2"
     },
     {
      "tag": "ALARM",
-     "days": 19,
+     "days": 20,
      "name": "ROBOT_CHICKEN_S3D2"
     },
     {
      "tag": "ALARM",
-     "days": 18,
+     "days": 19,
      "name": "ROBOT_CHICKEN_S5D1"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "_rescue"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "DUKES_OF_HAZZARD_S7D3"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "DUKES_OF_HAZZARD_S7D21"
     },
     {
      "tag": "ALARM",
-     "days": 12,
+     "days": 13,
      "name": "DUKES_OF_HAZZARD_S7D20"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_OWEN__HART_OF_GOLD_2015_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D2"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D1"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "MNW_V2_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "BEST_OF_NITRO_D3"
     },
     {
      "tag": "ALARM",
-     "days": 11,
+     "days": 12,
      "name": "ATTITUDE_ERA_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEST_OF_SMACKDOWN_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEST_OF_SMACKDOWN_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BEST_OF_SMACKDOWN_S1D1"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "BESTOFAJ_S1D2"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ATTITUDE_ERA_S1D3"
     },
     {
      "tag": "ALARM",
-     "days": 10,
+     "days": 11,
      "name": "ATTITUDE_ERA_S1D1"
     }
    ]
@@ -1278,7 +1282,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8182.4,
+   "used_gb": 8188.0,
    "total_gb": 11999.8,
    "pct": 68,
    "online": true
