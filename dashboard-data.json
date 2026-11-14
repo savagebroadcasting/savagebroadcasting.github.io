@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-14 17:08",
- "generated_ts": 1794697699,
+ "generated": "2026-11-14 17:28",
+ "generated_ts": 1794698905,
  "stats": {
   "episodes_matches": 19656,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 6,
+  "discs_today": 7,
   "discs_week": 20,
   "discs_month": 41,
   "discs_alltime": 1006,
   "discs_today_list": [
+   "Rugrats S6D1",
    "Rugrats S8D1",
    "Rugrats S8D2",
    "Rugrats S9D1",
@@ -1294,7 +1295,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 8195.4,
+   "used_gb": 8199.7,
    "total_gb": 11999.8,
    "pct": 68,
    "online": true
