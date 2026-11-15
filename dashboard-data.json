@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15 11:33",
- "generated_ts": 1794764030,
+ "generated": "2026-11-15 11:53",
+ "generated_ts": 1794765236,
  "stats": {
   "episodes_matches": 19658,
   "titles_total": 0,
@@ -10,11 +10,12 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 1,
+  "discs_today": 2,
   "discs_week": 21,
   "discs_month": 42,
   "discs_alltime": 1007,
   "discs_today_list": [
+   "Rugrats S6D3",
    "The Fresh Prince of Bel-Air S3D2"
   ],
   "discs_week_list": [
@@ -1292,7 +1293,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7923.5,
+   "used_gb": 7926.5,
    "total_gb": 11999.8,
    "pct": 66,
    "online": true
