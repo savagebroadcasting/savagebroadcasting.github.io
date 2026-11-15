@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-15 07:32",
- "generated_ts": 1794749564,
+ "generated": "2026-11-15 07:52",
+ "generated_ts": 1794750769,
  "stats": {
   "episodes_matches": 19658,
   "titles_total": 0,
@@ -10,11 +10,13 @@
    "Wrestling": 0,
    "Blu-ray": 0
   },
-  "discs_today": 0,
-  "discs_week": 20,
-  "discs_month": 41,
-  "discs_alltime": 1006,
-  "discs_today_list": [],
+  "discs_today": 1,
+  "discs_week": 21,
+  "discs_month": 42,
+  "discs_alltime": 1007,
+  "discs_today_list": [
+   "The Fresh Prince of Bel-Air S3D2"
+  ],
   "discs_week_list": [
    "Punky Brewster S1D2",
    "Rugrats S3D1",
@@ -35,7 +37,8 @@
    "Rugrats S9D1",
    "Rugrats S9D2",
    "Rugrats S9D3",
-   "Rugrats S9D4"
+   "Rugrats S9D4",
+   "The Fresh Prince of Bel-Air S3D2"
   ],
   "discs_month_list": [
    "Family Ties S7D3",
@@ -63,6 +66,7 @@
    "TNA Phenomenal- The Best of AJ Styles S1D1",
    "TNA Phenomenal- The Best of AJ Styles S1D2",
    "The Dukes of Hazzard S2D4",
+   "The Fresh Prince of Bel-Air S3D2",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D1",
    "WWE Bloodbath: Wrestlings Most Incredible Steel Cage Matches D2",
    "WWE SmackDown 10th Anniversary- The Best of S1D1",
@@ -870,6 +874,7 @@
    "The Dukes of Hazzard S7D3",
    "The Dukes of Hazzard S7D5",
    "The Dukes of Hazzard S7D6",
+   "The Fresh Prince of Bel-Air S3D2",
    "The Fresh Prince of Bel-Air S4D4",
    "The Fresh Prince of Bel-Air S6D3",
    "The History of WWE D2",
@@ -1287,7 +1292,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7917.6,
+   "used_gb": 7923.5,
    "total_gb": 11999.8,
    "pct": 66,
    "online": true
