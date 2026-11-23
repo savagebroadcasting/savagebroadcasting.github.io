@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23 08:52",
- "generated_ts": 1795445547,
+ "generated": "2026-11-23 09:12",
+ "generated_ts": 1795446753,
  "stats": {
   "episodes_matches": 19705,
   "titles_total": 0,
@@ -1092,215 +1092,40 @@
    "note": "22 items Claude can work now \u00b7 12 waiting on you (discs to rip + gaps)"
   },
   "disc_age": {
-   "alarm": 39,
-   "warn": 2,
-   "ok": 6,
-   "generated": "2026-11-22 09:00",
+   "alarm": 6,
+   "warn": 0,
+   "ok": 0,
+   "generated": "2026-11-23 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 77,
+     "days": 78,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 50,
+     "days": 51,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 43,
+     "days": 44,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 43,
-     "name": "SCOTT_HALL_S1D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 41,
+     "days": 42,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 41,
+     "days": 42,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 28,
-     "name": "SEX_AND_THE_CITY_S6D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 28,
-     "name": "ROBOT_CHICKEN_S3D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 27,
-     "name": "ROBOT_CHICKEN_S5D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
+     "days": 22,
      "name": "_rescue"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "DUKES_OF_HAZZARD_S7D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "DUKES_OF_HAZZARD_S7D21"
-    },
-    {
-     "tag": "ALARM",
-     "days": 21,
-     "name": "DUKES_OF_HAZZARD_S7D20"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_THE_BEST_OF_RAW__AFTER_THE_SHOW_2014_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_SMACKDOWN_20TH_ANNIVERSARY_2019_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_OWEN__HART_OF_GOLD_2015_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_OWEN__HART_OF_GOLD_2015_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_OWEN__HART_OF_GOLD_2015_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "WWE_BLOODBATH_WRESTLINGS_MOST_INCREDIBLE_STEEL_CAGE_MATCHES_2003_D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "MNW_V2_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "BEST_OF_NITRO_D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 20,
-     "name": "ATTITUDE_ERA_S1D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "BEST_OF_SMACKDOWN_S1D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "BEST_OF_SMACKDOWN_S1D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "BEST_OF_SMACKDOWN_S1D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "BESTOFAJ_S1D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "ATTITUDE_ERA_S1D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 19,
-     "name": "ATTITUDE_ERA_S1D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "RUGRATS_S6D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 8,
-     "name": "RUGRATS_S4D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "RUGRATS_S9D4"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "RUGRATS_S9D3"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "RUGRATS_S9D2"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "RUGRATS_S6D1"
-    },
-    {
-     "tag": "ALARM",
-     "days": 7,
-     "name": "FRESH_PRINCE_OF_BEL_AIR_S3D2"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "RUGRATS_S9D1"
-    },
-    {
-     "tag": "WARN",
-     "days": 6,
-     "name": "RUGRATS_S6D3"
     }
    ]
   }
