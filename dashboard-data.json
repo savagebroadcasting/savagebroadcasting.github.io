@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24 08:59",
- "generated_ts": 1795532347,
+ "generated": "2026-11-24 09:19",
+ "generated_ts": 1795533552,
  "stats": {
   "episodes_matches": 19705,
   "titles_total": 0,
@@ -1095,36 +1095,36 @@
    "alarm": 6,
    "warn": 0,
    "ok": 0,
-   "generated": "2026-11-23 09:00",
+   "generated": "2026-11-24 09:00",
    "oldest": [
     {
      "tag": "ALARM",
-     "days": 78,
+     "days": 79,
      "name": "_wrestling-review-staging"
     },
     {
      "tag": "ALARM",
-     "days": 51,
+     "days": 52,
      "name": "_from-1t-20260911"
     },
     {
      "tag": "ALARM",
-     "days": 44,
+     "days": 45,
      "name": "_scotthall-staging"
     },
     {
      "tag": "ALARM",
-     "days": 42,
+     "days": 43,
      "name": "_wishlist-acquire"
     },
     {
      "tag": "ALARM",
-     "days": 42,
+     "days": 43,
      "name": "_fp-s6-burned-backup"
     },
     {
      "tag": "ALARM",
-     "days": 22,
+     "days": 23,
      "name": "_rescue"
     }
    ]
@@ -1133,7 +1133,7 @@
  "drives": [
   {
    "label": "12TB (library)",
-   "used_gb": 7712.5,
+   "used_gb": 7698.4,
    "total_gb": 11999.8,
    "pct": 64,
    "online": true
